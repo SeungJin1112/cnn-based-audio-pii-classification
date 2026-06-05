@@ -17,7 +17,15 @@
 ```text
 cnn-based-audio-pii-classification/
 ├─ README.md
-├─ data/
+├─ data/o/
+│  └─ 00000/
+│     ├─ metadata.csv
+│     └─ output/
+│        ├─ phone_00000_male.wav
+│        ├─ phone_00001_male.wav
+│        ├─ ...
+│        └─ phone_00099_male.wav
+├─ data/x/
 │  └─ 00000/
 │     ├─ metadata.csv
 │     └─ output/
