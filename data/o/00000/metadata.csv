@@ -1,0 +1,101 @@
+﻿filename,filepath,text,phone,gender,voice
+phone_00000_male.wav,output\phone_00000_male.wav,번호 알려드릴게요. 010-3982-3343입니다.,010-3982-3343,male,ko-KR-InJoonNeural
+phone_00001_male.wav,output\phone_00001_male.wav,전화번호는 010-2509-7007이에요.,010-2509-7007,male,ko-KR-InJoonNeural
+phone_00002_male.wav,output\phone_00002_male.wav,문자 주실 번호는 010-1057-3246입니다.,010-1057-3246,male,ko-KR-InJoonNeural
+phone_00003_female.wav,output\phone_00003_female.wav,제 번호는 010-1671-9629입니다.,010-1671-9629,female,ko-KR-SunHiNeural
+phone_00004_female.wav,output\phone_00004_female.wav,휴대폰 번호는 010-3357-3724입니다.,010-3357-3724,female,ko-KR-SunHiNeural
+phone_00005_male.wav,output\phone_00005_male.wav,제 전화번호는 010-1764-3229입니다.,010-1764-3229,male,ko-KR-InJoonNeural
+phone_00006_male.wav,output\phone_00006_male.wav,제 전화번호는 010-5700-5008입니다.,010-5700-5008,male,ko-KR-InJoonNeural
+phone_00007_male.wav,output\phone_00007_male.wav,문의는 010-8628-1665으로 주세요.,010-8628-1665,male,ko-KR-InJoonNeural
+phone_00008_male.wav,output\phone_00008_male.wav,번호 알려드릴게요. 010-7444-3954입니다.,010-7444-3954,male,ko-KR-InJoonNeural
+phone_00009_male.wav,output\phone_00009_male.wav,전화번호는 010-4210-8129이에요.,010-4210-8129,male,ko-KR-InJoonNeural
+phone_00010_female.wav,output\phone_00010_female.wav,문의는 010-7746-5048으로 주세요.,010-7746-5048,female,ko-KR-SunHiNeural
+phone_00011_male.wav,output\phone_00011_male.wav,휴대폰 번호는 010-7413-2484입니다.,010-7413-2484,male,ko-KR-InJoonNeural
+phone_00012_female.wav,output\phone_00012_female.wav,전화번호는 010-7488-7856이에요.,010-7488-7856,female,ko-KR-SunHiNeural
+phone_00013_male.wav,output\phone_00013_male.wav,문의는 010-6661-9324으로 주세요.,010-6661-9324,male,ko-KR-InJoonNeural
+phone_00014_male.wav,output\phone_00014_male.wav,휴대폰 번호는 010-8572-0503입니다.,010-8572-0503,male,ko-KR-InJoonNeural
+phone_00015_male.wav,output\phone_00015_male.wav,휴대폰 번호는 010-3576-4551입니다.,010-3576-4551,male,ko-KR-InJoonNeural
+phone_00016_male.wav,output\phone_00016_male.wav,휴대폰 번호는 010-6624-2822입니다.,010-6624-2822,male,ko-KR-InJoonNeural
+phone_00017_male.wav,output\phone_00017_male.wav,제 전화번호는 010-2171-2878입니다.,010-2171-2878,male,ko-KR-InJoonNeural
+phone_00018_female.wav,output\phone_00018_female.wav,번호 알려드릴게요. 010-2220-2445입니다.,010-2220-2445,female,ko-KR-SunHiNeural
+phone_00019_female.wav,output\phone_00019_female.wav,전화번호는 010-5807-1121이에요.,010-5807-1121,female,ko-KR-SunHiNeural
+phone_00020_female.wav,output\phone_00020_female.wav,문자 주실 번호는 010-9034-8287입니다.,010-9034-8287,female,ko-KR-SunHiNeural
+phone_00021_male.wav,output\phone_00021_male.wav,전화번호는 010-0487-7987이에요.,010-0487-7987,male,ko-KR-InJoonNeural
+phone_00022_male.wav,output\phone_00022_male.wav,연락처는 010-4169-7908입니다.,010-4169-7908,male,ko-KR-InJoonNeural
+phone_00023_female.wav,output\phone_00023_female.wav,제 번호는 010-1405-0114입니다.,010-1405-0114,female,ko-KR-SunHiNeural
+phone_00024_male.wav,output\phone_00024_male.wav,전화번호는 010-5175-7325이에요.,010-5175-7325,male,ko-KR-InJoonNeural
+phone_00025_male.wav,output\phone_00025_male.wav,전화번호는 010-5656-9140이에요.,010-5656-9140,male,ko-KR-InJoonNeural
+phone_00026_male.wav,output\phone_00026_male.wav,제 전화번호는 010-6827-9760입니다.,010-6827-9760,male,ko-KR-InJoonNeural
+phone_00027_female.wav,output\phone_00027_female.wav,휴대폰 번호는 010-8854-5105입니다.,010-8854-5105,female,ko-KR-SunHiNeural
+phone_00028_male.wav,output\phone_00028_male.wav,연락 가능 번호는 010-7763-6117입니다.,010-7763-6117,male,ko-KR-InJoonNeural
+phone_00029_female.wav,output\phone_00029_female.wav,연락처는 010-4368-5460입니다.,010-4368-5460,female,ko-KR-SunHiNeural
+phone_00030_male.wav,output\phone_00030_male.wav,전화번호는 010-8908-2842이에요.,010-8908-2842,male,ko-KR-InJoonNeural
+phone_00031_female.wav,output\phone_00031_female.wav,문자 주실 번호는 010-5964-5171입니다.,010-5964-5171,female,ko-KR-SunHiNeural
+phone_00032_male.wav,output\phone_00032_male.wav,전화번호는 010-3334-6646이에요.,010-3334-6646,male,ko-KR-InJoonNeural
+phone_00033_male.wav,output\phone_00033_male.wav,전화번호는 010-8515-8311이에요.,010-8515-8311,male,ko-KR-InJoonNeural
+phone_00034_male.wav,output\phone_00034_male.wav,연락 가능 번호는 010-7272-5271입니다.,010-7272-5271,male,ko-KR-InJoonNeural
+phone_00035_male.wav,output\phone_00035_male.wav,전화는 010-0417-9765으로 주시면 됩니다.,010-0417-9765,male,ko-KR-InJoonNeural
+phone_00036_female.wav,output\phone_00036_female.wav,전화는 010-6151-6654으로 주시면 됩니다.,010-6151-6654,female,ko-KR-SunHiNeural
+phone_00037_female.wav,output\phone_00037_female.wav,문의는 010-5264-8062으로 주세요.,010-5264-8062,female,ko-KR-SunHiNeural
+phone_00038_female.wav,output\phone_00038_female.wav,연락처는 010-5862-8503입니다.,010-5862-8503,female,ko-KR-SunHiNeural
+phone_00039_female.wav,output\phone_00039_female.wav,문의는 010-2441-9352으로 주세요.,010-2441-9352,female,ko-KR-SunHiNeural
+phone_00040_female.wav,output\phone_00040_female.wav,연락 가능 번호는 010-8540-0966입니다.,010-8540-0966,female,ko-KR-SunHiNeural
+phone_00041_female.wav,output\phone_00041_female.wav,연락 가능 번호는 010-7002-5296입니다.,010-7002-5296,female,ko-KR-SunHiNeural
+phone_00042_female.wav,output\phone_00042_female.wav,제 전화번호는 010-0652-6806입니다.,010-0652-6806,female,ko-KR-SunHiNeural
+phone_00043_male.wav,output\phone_00043_male.wav,연락처는 010-4322-0195입니다.,010-4322-0195,male,ko-KR-InJoonNeural
+phone_00044_male.wav,output\phone_00044_male.wav,문자 주실 번호는 010-4087-9645입니다.,010-4087-9645,male,ko-KR-InJoonNeural
+phone_00045_female.wav,output\phone_00045_female.wav,제 전화번호는 010-1821-5454입니다.,010-1821-5454,female,ko-KR-SunHiNeural
+phone_00046_male.wav,output\phone_00046_male.wav,연락 가능 번호는 010-3418-7862입니다.,010-3418-7862,male,ko-KR-InJoonNeural
+phone_00047_male.wav,output\phone_00047_male.wav,전화는 010-4535-0371으로 주시면 됩니다.,010-4535-0371,male,ko-KR-InJoonNeural
+phone_00048_male.wav,output\phone_00048_male.wav,전화는 010-9278-9734으로 주시면 됩니다.,010-9278-9734,male,ko-KR-InJoonNeural
+phone_00049_male.wav,output\phone_00049_male.wav,휴대폰 번호는 010-2061-6799입니다.,010-2061-6799,male,ko-KR-InJoonNeural
+phone_00050_female.wav,output\phone_00050_female.wav,문자 주실 번호는 010-4921-3148입니다.,010-4921-3148,female,ko-KR-SunHiNeural
+phone_00051_male.wav,output\phone_00051_male.wav,연락처는 010-1383-3763입니다.,010-1383-3763,male,ko-KR-InJoonNeural
+phone_00052_female.wav,output\phone_00052_female.wav,전화는 010-7898-7973으로 주시면 됩니다.,010-7898-7973,female,ko-KR-SunHiNeural
+phone_00053_male.wav,output\phone_00053_male.wav,문의는 010-3160-8158으로 주세요.,010-3160-8158,male,ko-KR-InJoonNeural
+phone_00054_male.wav,output\phone_00054_male.wav,제 번호는 010-6482-6845입니다.,010-6482-6845,male,ko-KR-InJoonNeural
+phone_00055_female.wav,output\phone_00055_female.wav,문의는 010-3130-1315으로 주세요.,010-3130-1315,female,ko-KR-SunHiNeural
+phone_00056_male.wav,output\phone_00056_male.wav,문의는 010-7787-9455으로 주세요.,010-7787-9455,male,ko-KR-InJoonNeural
+phone_00057_female.wav,output\phone_00057_female.wav,문의는 010-8391-5007으로 주세요.,010-8391-5007,female,ko-KR-SunHiNeural
+phone_00058_male.wav,output\phone_00058_male.wav,전화번호는 010-2454-4150이에요.,010-2454-4150,male,ko-KR-InJoonNeural
+phone_00059_female.wav,output\phone_00059_female.wav,전화번호는 010-7842-4591이에요.,010-7842-4591,female,ko-KR-SunHiNeural
+phone_00060_male.wav,output\phone_00060_male.wav,문의는 010-1791-4937으로 주세요.,010-1791-4937,male,ko-KR-InJoonNeural
+phone_00061_male.wav,output\phone_00061_male.wav,연락처는 010-6021-4563입니다.,010-6021-4563,male,ko-KR-InJoonNeural
+phone_00062_male.wav,output\phone_00062_male.wav,연락처는 010-0725-3241입니다.,010-0725-3241,male,ko-KR-InJoonNeural
+phone_00063_male.wav,output\phone_00063_male.wav,전화는 010-7828-8828으로 주시면 됩니다.,010-7828-8828,male,ko-KR-InJoonNeural
+phone_00064_male.wav,output\phone_00064_male.wav,문자 주실 번호는 010-6627-1651입니다.,010-6627-1651,male,ko-KR-InJoonNeural
+phone_00065_male.wav,output\phone_00065_male.wav,전화는 010-3037-7163으로 주시면 됩니다.,010-3037-7163,male,ko-KR-InJoonNeural
+phone_00066_male.wav,output\phone_00066_male.wav,연락 가능 번호는 010-7554-7323입니다.,010-7554-7323,male,ko-KR-InJoonNeural
+phone_00067_male.wav,output\phone_00067_male.wav,문자 주실 번호는 010-8060-9038입니다.,010-8060-9038,male,ko-KR-InJoonNeural
+phone_00068_female.wav,output\phone_00068_female.wav,휴대폰 번호는 010-8911-8879입니다.,010-8911-8879,female,ko-KR-SunHiNeural
+phone_00069_female.wav,output\phone_00069_female.wav,연락처는 010-4331-0166입니다.,010-4331-0166,female,ko-KR-SunHiNeural
+phone_00070_female.wav,output\phone_00070_female.wav,문자 주실 번호는 010-2386-9390입니다.,010-2386-9390,female,ko-KR-SunHiNeural
+phone_00071_male.wav,output\phone_00071_male.wav,연락처는 010-6394-2776입니다.,010-6394-2776,male,ko-KR-InJoonNeural
+phone_00072_male.wav,output\phone_00072_male.wav,휴대폰 번호는 010-3264-5927입니다.,010-3264-5927,male,ko-KR-InJoonNeural
+phone_00073_male.wav,output\phone_00073_male.wav,문의는 010-0050-3506으로 주세요.,010-0050-3506,male,ko-KR-InJoonNeural
+phone_00074_male.wav,output\phone_00074_male.wav,전화번호는 010-6720-9570이에요.,010-6720-9570,male,ko-KR-InJoonNeural
+phone_00075_female.wav,output\phone_00075_female.wav,연락 가능 번호는 010-9575-0312입니다.,010-9575-0312,female,ko-KR-SunHiNeural
+phone_00076_female.wav,output\phone_00076_female.wav,문자 주실 번호는 010-0584-9971입니다.,010-0584-9971,female,ko-KR-SunHiNeural
+phone_00077_male.wav,output\phone_00077_male.wav,연락처는 010-8273-5746입니다.,010-8273-5746,male,ko-KR-InJoonNeural
+phone_00078_male.wav,output\phone_00078_male.wav,문자 주실 번호는 010-5866-5383입니다.,010-5866-5383,male,ko-KR-InJoonNeural
+phone_00079_female.wav,output\phone_00079_female.wav,전화는 010-9389-2088으로 주시면 됩니다.,010-9389-2088,female,ko-KR-SunHiNeural
+phone_00080_male.wav,output\phone_00080_male.wav,연락 가능 번호는 010-3305-5073입니다.,010-3305-5073,male,ko-KR-InJoonNeural
+phone_00081_male.wav,output\phone_00081_male.wav,연락처는 010-6903-0636입니다.,010-6903-0636,male,ko-KR-InJoonNeural
+phone_00082_male.wav,output\phone_00082_male.wav,전화는 010-2514-2861으로 주시면 됩니다.,010-2514-2861,male,ko-KR-InJoonNeural
+phone_00083_female.wav,output\phone_00083_female.wav,문자 주실 번호는 010-4579-2389입니다.,010-4579-2389,female,ko-KR-SunHiNeural
+phone_00084_male.wav,output\phone_00084_male.wav,번호 알려드릴게요. 010-0490-7465입니다.,010-0490-7465,male,ko-KR-InJoonNeural
+phone_00085_female.wav,output\phone_00085_female.wav,연락처는 010-4039-4368입니다.,010-4039-4368,female,ko-KR-SunHiNeural
+phone_00086_female.wav,output\phone_00086_female.wav,제 번호는 010-9621-9568입니다.,010-9621-9568,female,ko-KR-SunHiNeural
+phone_00087_female.wav,output\phone_00087_female.wav,전화는 010-2528-8834으로 주시면 됩니다.,010-2528-8834,female,ko-KR-SunHiNeural
+phone_00088_male.wav,output\phone_00088_male.wav,문자 주실 번호는 010-7233-9710입니다.,010-7233-9710,male,ko-KR-InJoonNeural
+phone_00089_male.wav,output\phone_00089_male.wav,문자 주실 번호는 010-4537-2703입니다.,010-4537-2703,male,ko-KR-InJoonNeural
+phone_00090_male.wav,output\phone_00090_male.wav,문의는 010-8324-0756으로 주세요.,010-8324-0756,male,ko-KR-InJoonNeural
+phone_00091_male.wav,output\phone_00091_male.wav,문의는 010-8739-9352으로 주세요.,010-8739-9352,male,ko-KR-InJoonNeural
+phone_00092_male.wav,output\phone_00092_male.wav,휴대폰 번호는 010-2760-2428입니다.,010-2760-2428,male,ko-KR-InJoonNeural
+phone_00093_female.wav,output\phone_00093_female.wav,번호 알려드릴게요. 010-9502-4449입니다.,010-9502-4449,female,ko-KR-SunHiNeural
+phone_00094_male.wav,output\phone_00094_male.wav,제 번호는 010-8580-1027입니다.,010-8580-1027,male,ko-KR-InJoonNeural
+phone_00095_female.wav,output\phone_00095_female.wav,연락 가능 번호는 010-6950-9843입니다.,010-6950-9843,female,ko-KR-SunHiNeural
+phone_00096_male.wav,output\phone_00096_male.wav,연락처는 010-2563-7600입니다.,010-2563-7600,male,ko-KR-InJoonNeural
+phone_00097_male.wav,output\phone_00097_male.wav,제 전화번호는 010-2983-1517입니다.,010-2983-1517,male,ko-KR-InJoonNeural
+phone_00098_male.wav,output\phone_00098_male.wav,문자 주실 번호는 010-6626-6706입니다.,010-6626-6706,male,ko-KR-InJoonNeural
+phone_00099_male.wav,output\phone_00099_male.wav,전화번호는 010-8823-5829이에요.,010-8823-5829,male,ko-KR-InJoonNeural

@@ -97,6 +97,7 @@ async def main():
         base_name = f"phone_{i:05d}_{speaker['gender']}"
         mp3_path  = os.path.join(OUTPUT_DIR, base_name + ".mp3")
         wav_path  = os.path.join(OUTPUT_DIR, base_name + ".wav")
+        file_path = "output/" + base_name + ".wav"
 
         print(f"[TTS][INFO]<{i + 1}/{TOTAL_COUNT}> {speaker['gender']} | {text}")
 
@@ -113,14 +114,16 @@ async def main():
 
         rows.append({
             "filename" : base_name + ".wav",
-            "filepath" : wav_path,
+            "filepath" : file_path,
             "text"     : text,
             "phone"    : phone,
             "gender"   : speaker["gender"],
             "voice"    : speaker["voice"],
         })
 
-    with open("metadata.csv", "w", newline="", encoding="utf-8-sig") as f:
+    metadata_path = os.path.join(NUMBER_DIR, METADATA_FILENAME)
+
+    with open(metadata_path, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(
             f,
             fieldnames=[
