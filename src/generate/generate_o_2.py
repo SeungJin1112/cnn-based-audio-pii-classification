@@ -127,6 +127,7 @@ async def main():
             "phone"    : phone,
             "gender"   : speaker["gender"],
             "voice"    : speaker["voice"],
+            "detect"   : 1,
         })
 
     metadata_path = os.path.join(NUMBER_DIR, METADATA_FILENAME)
@@ -140,7 +141,8 @@ async def main():
                 "text",
                 "phone",
                 "gender",
-                "voice"
+                "voice",
+                "detect"
             ],
         )
         writer.writeheader()
