@@ -1,0 +1,1001 @@
+﻿filename,filepath,text,phone,gender,voice,detect
+x_00001_male.wav,output/x_00001_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00002_male.wav,output/x_00002_male.wav,"오늘은 육삼팔번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00003_male.wav,output/x_00003_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00004_male.wav,output/x_00004_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00005_male.wav,output/x_00005_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00006_male.wav,output/x_00006_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00007_female.wav,output/x_00007_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00008_male.wav,output/x_00008_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00009_male.wav,output/x_00009_male.wav,오늘은 일이월 이오일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00010_male.wav,output/x_00010_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00011_male.wav,output/x_00011_male.wav,약속 시간은 일오시 이사분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00012_male.wav,output/x_00012_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00013_male.wav,output/x_00013_male.wav,"오늘은 삼이육번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00014_male.wav,output/x_00014_male.wav,약속 시간은 칠시 오구분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00015_male.wav,output/x_00015_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00016_male.wav,output/x_00016_male.wav,체크리스트에 항목 이오장를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00017_female.wav,output/x_00017_female.wav,오늘은 일공월 일삼일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00018_male.wav,output/x_00018_male.wav,이번 주에는 오월 이오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00019_male.wav,output/x_00019_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00020_male.wav,output/x_00020_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00021_male.wav,output/x_00021_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00022_male.wav,output/x_00022_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00023_female.wav,output/x_00023_female.wav,오늘은 삼월 이공일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00024_male.wav,output/x_00024_male.wav,회의 전까지 자료를 일오개 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00025_female.wav,output/x_00025_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00026_male.wav,output/x_00026_male.wav,약속 시간은 이공시 이분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00027_female.wav,output/x_00027_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00028_male.wav,output/x_00028_male.wav,현재 시각은 이공시 일칠분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00029_male.wav,output/x_00029_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00030_male.wav,output/x_00030_male.wav,필요한 재료는 총 이삼분 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00031_male.wav,output/x_00031_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00032_male.wav,output/x_00032_male.wav,약속 시간은 이일시 오오분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00033_male.wav,output/x_00033_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00034_female.wav,output/x_00034_female.wav,이번 주에는 일공월 이육일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00035_female.wav,output/x_00035_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00036_female.wav,output/x_00036_female.wav,필요한 재료는 총 삼공장 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00037_male.wav,output/x_00037_male.wav,약속 시간은 이일시 삼일분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00038_female.wav,output/x_00038_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00039_female.wav,output/x_00039_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00040_male.wav,output/x_00040_male.wav,"오늘은 사육팔번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00041_male.wav,output/x_00041_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00042_male.wav,output/x_00042_male.wav,이번 주에는 일공월 칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00043_male.wav,output/x_00043_male.wav,"오늘은 삼팔이번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00044_male.wav,output/x_00044_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00045_male.wav,output/x_00045_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00046_male.wav,output/x_00046_male.wav,"오늘은 육사구번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00047_male.wav,output/x_00047_male.wav,일일월 이팔일 구시 삼팔분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00048_male.wav,output/x_00048_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00049_male.wav,output/x_00049_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00050_male.wav,output/x_00050_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00051_female.wav,output/x_00051_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00052_female.wav,output/x_00052_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00053_female.wav,output/x_00053_female.wav,회의 전까지 자료를 일육장 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00054_female.wav,output/x_00054_female.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00055_female.wav,output/x_00055_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00056_female.wav,output/x_00056_female.wav,체크리스트에 항목 이사박스를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00057_male.wav,output/x_00057_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00058_female.wav,output/x_00058_female.wav,필요한 재료는 총 이육잔 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00059_male.wav,output/x_00059_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00060_male.wav,output/x_00060_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00061_male.wav,output/x_00061_male.wav,이칠이번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00062_male.wav,output/x_00062_male.wav,약속 시간은 구시 오오분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00063_male.wav,output/x_00063_male.wav,이번 주에는 칠월 오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00064_male.wav,output/x_00064_male.wav,필요한 재료는 총 이구개 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00065_male.wav,output/x_00065_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00066_female.wav,output/x_00066_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00067_male.wav,output/x_00067_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-InJoonNeural,0
+x_00068_male.wav,output/x_00068_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00069_female.wav,output/x_00069_female.wav,회의 전까지 자료를 일공봉지 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00070_male.wav,output/x_00070_male.wav,약속 시간은 일일시 일공분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00071_male.wav,output/x_00071_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00072_male.wav,output/x_00072_male.wav,현재 시각은 일사시 사이분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00073_male.wav,output/x_00073_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00074_male.wav,output/x_00074_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00075_male.wav,output/x_00075_male.wav,약속 시간은 일칠시 오오분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00076_male.wav,output/x_00076_male.wav,오늘은 일이월 이공일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00077_male.wav,output/x_00077_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00078_female.wav,output/x_00078_female.wav,이번 주에는 사월 일일일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00079_male.wav,output/x_00079_male.wav,이번 주에는 사월 이사일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00080_female.wav,output/x_00080_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00081_male.wav,output/x_00081_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00082_male.wav,output/x_00082_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00083_male.wav,output/x_00083_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00084_male.wav,output/x_00084_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00085_female.wav,output/x_00085_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00086_male.wav,output/x_00086_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-InJoonNeural,0
+x_00087_female.wav,output/x_00087_female.wav,"오늘은 사공사번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00088_female.wav,output/x_00088_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00089_male.wav,output/x_00089_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00090_male.wav,output/x_00090_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00091_male.wav,output/x_00091_male.wav,약속 시간은 일구시 일팔분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00092_male.wav,output/x_00092_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00093_male.wav,output/x_00093_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00094_male.wav,output/x_00094_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00095_male.wav,output/x_00095_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00096_male.wav,output/x_00096_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00097_male.wav,output/x_00097_male.wav,체크리스트에 항목 이오분를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00098_female.wav,output/x_00098_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00099_male.wav,output/x_00099_male.wav,오늘은 일월 일공일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00100_female.wav,output/x_00100_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00101_male.wav,output/x_00101_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00102_male.wav,output/x_00102_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00103_male.wav,output/x_00103_male.wav,오늘은 칠월 사일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00104_female.wav,output/x_00104_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00105_male.wav,output/x_00105_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00106_male.wav,output/x_00106_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00107_male.wav,output/x_00107_male.wav,필요한 재료는 총 일이회 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00108_male.wav,output/x_00108_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00109_male.wav,output/x_00109_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00110_male.wav,output/x_00110_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00111_male.wav,output/x_00111_male.wav,약속 시간은 구시 사사분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00112_male.wav,output/x_00112_male.wav,필요한 재료는 총 칠박스 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00113_female.wav,output/x_00113_female.wav,필요한 재료는 총 삼공회 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00114_female.wav,output/x_00114_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00115_male.wav,output/x_00115_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00116_male.wav,output/x_00116_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00117_male.wav,output/x_00117_male.wav,회의 전까지 자료를 일오봉지 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00118_male.wav,output/x_00118_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00119_female.wav,output/x_00119_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00120_male.wav,output/x_00120_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00121_male.wav,output/x_00121_male.wav,필요한 재료는 총 일오봉지 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00122_female.wav,output/x_00122_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00123_female.wav,output/x_00123_female.wav,이번 주에는 삼월 이이일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00124_male.wav,output/x_00124_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00125_female.wav,output/x_00125_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00126_female.wav,output/x_00126_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00127_female.wav,output/x_00127_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00128_male.wav,output/x_00128_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00129_female.wav,output/x_00129_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00130_female.wav,output/x_00130_female.wav,일공월 구일 팔시 오분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00131_female.wav,output/x_00131_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00132_male.wav,output/x_00132_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00133_male.wav,output/x_00133_male.wav,회의 전까지 자료를 육회 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00134_female.wav,output/x_00134_female.wav,팔월 이일일 일오시 일공분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00135_male.wav,output/x_00135_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00136_female.wav,output/x_00136_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00137_male.wav,output/x_00137_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00138_female.wav,output/x_00138_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00139_male.wav,output/x_00139_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00140_female.wav,output/x_00140_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00141_male.wav,output/x_00141_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00142_male.wav,output/x_00142_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00143_male.wav,output/x_00143_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00144_male.wav,output/x_00144_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00145_male.wav,output/x_00145_male.wav,회의 전까지 자료를 이구개 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00146_male.wav,output/x_00146_male.wav,필요한 재료는 총 이팔박스 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00147_female.wav,output/x_00147_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00148_female.wav,output/x_00148_female.wav,약속 시간은 이이시 삼일분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00149_female.wav,output/x_00149_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00150_male.wav,output/x_00150_male.wav,오늘은 육월 육일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00151_male.wav,output/x_00151_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00152_male.wav,output/x_00152_male.wav,체크리스트에 항목 이팔권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00153_male.wav,output/x_00153_male.wav,약속 시간은 이이시 오구분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00154_male.wav,output/x_00154_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00155_female.wav,output/x_00155_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00156_female.wav,output/x_00156_female.wav,체크리스트에 항목 이이개를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00157_male.wav,output/x_00157_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00158_male.wav,output/x_00158_male.wav,필요한 재료는 총 구분 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00159_female.wav,output/x_00159_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00160_male.wav,output/x_00160_male.wav,약속 시간은 일칠시 오일분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00161_female.wav,output/x_00161_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00162_male.wav,output/x_00162_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00163_male.wav,output/x_00163_male.wav,체크리스트에 항목 이팔봉지를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00164_male.wav,output/x_00164_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00165_male.wav,output/x_00165_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00166_male.wav,output/x_00166_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00167_male.wav,output/x_00167_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00168_male.wav,output/x_00168_male.wav,이번 주에는 일월 일칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00169_male.wav,output/x_00169_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00170_male.wav,output/x_00170_male.wav,오늘은 오월 일이일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00171_female.wav,output/x_00171_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00172_male.wav,output/x_00172_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00173_female.wav,output/x_00173_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00174_male.wav,output/x_00174_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00175_male.wav,output/x_00175_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00176_male.wav,output/x_00176_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00177_male.wav,output/x_00177_male.wav,약속 시간은 일칠시 오분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00178_female.wav,output/x_00178_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00179_male.wav,output/x_00179_male.wav,삼월 오일 이일시 삼삼분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00180_male.wav,output/x_00180_male.wav,팔월 이오일 일칠시 오사분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00181_male.wav,output/x_00181_male.wav,현재 시각은 육시 이일분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00182_male.wav,output/x_00182_male.wav,이번 주에는 일공월 일칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00183_male.wav,output/x_00183_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00184_male.wav,output/x_00184_male.wav,이번 주에는 오월 이칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00185_male.wav,output/x_00185_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00186_male.wav,output/x_00186_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00187_female.wav,output/x_00187_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00188_male.wav,output/x_00188_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00189_male.wav,output/x_00189_male.wav,필요한 재료는 총 팔권 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00190_female.wav,output/x_00190_female.wav,체크리스트에 항목 이칠개를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00191_male.wav,output/x_00191_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00192_male.wav,output/x_00192_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00193_female.wav,output/x_00193_female.wav,오늘은 삼월 오일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00194_male.wav,output/x_00194_male.wav,이번 주에는 오월 일이일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00195_female.wav,output/x_00195_female.wav,현재 시각은 이공시 팔분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00196_female.wav,output/x_00196_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00197_male.wav,output/x_00197_male.wav,이번 주에는 일공월 일오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00198_male.wav,output/x_00198_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00199_male.wav,output/x_00199_male.wav,일이월 일육일 일칠시 삼육분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00200_male.wav,output/x_00200_male.wav,칠월 이팔일 육시 사칠분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00201_male.wav,output/x_00201_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00202_male.wav,output/x_00202_male.wav,약속 시간은 구시 이팔분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00203_female.wav,output/x_00203_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00204_male.wav,output/x_00204_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00205_male.wav,output/x_00205_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00206_male.wav,output/x_00206_male.wav,회의 전까지 자료를 일공개 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00207_female.wav,output/x_00207_female.wav,이월 일공일 일사시 삼육분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00208_male.wav,output/x_00208_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00209_female.wav,output/x_00209_female.wav,회의 전까지 자료를 일분 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00210_male.wav,output/x_00210_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00211_male.wav,output/x_00211_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00212_male.wav,output/x_00212_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00213_male.wav,output/x_00213_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00214_female.wav,output/x_00214_female.wav,오늘은 일이월 일칠일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00215_male.wav,output/x_00215_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00216_female.wav,output/x_00216_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00217_male.wav,output/x_00217_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00218_female.wav,output/x_00218_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00219_male.wav,output/x_00219_male.wav,팔공구번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00220_female.wav,output/x_00220_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00221_male.wav,output/x_00221_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00222_female.wav,output/x_00222_female.wav,"오늘은 오삼팔번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00223_male.wav,output/x_00223_male.wav,이번 주에는 칠월 일삼일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00224_female.wav,output/x_00224_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00225_male.wav,output/x_00225_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00226_male.wav,output/x_00226_male.wav,필요한 재료는 총 일구박스 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00227_male.wav,output/x_00227_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00228_male.wav,output/x_00228_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00229_male.wav,output/x_00229_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00230_male.wav,output/x_00230_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00231_female.wav,output/x_00231_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00232_male.wav,output/x_00232_male.wav,필요한 재료는 총 사권 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00233_male.wav,output/x_00233_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-InJoonNeural,0
+x_00234_male.wav,output/x_00234_male.wav,회의 전까지 자료를 이육봉지 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00235_male.wav,output/x_00235_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00236_male.wav,output/x_00236_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00237_female.wav,output/x_00237_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00238_female.wav,output/x_00238_female.wav,필요한 재료는 총 이사박스 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00239_female.wav,output/x_00239_female.wav,사월 삼일 육시 일오분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00240_female.wav,output/x_00240_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00241_female.wav,output/x_00241_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00242_male.wav,output/x_00242_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00243_male.wav,output/x_00243_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00244_male.wav,output/x_00244_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00245_male.wav,output/x_00245_male.wav,이번 주에는 사월 일사일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00246_male.wav,output/x_00246_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00247_male.wav,output/x_00247_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00248_male.wav,output/x_00248_male.wav,팔육팔번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00249_female.wav,output/x_00249_female.wav,오늘은 사월 육일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00250_male.wav,output/x_00250_male.wav,약속 시간은 일공시 일칠분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00251_female.wav,output/x_00251_female.wav,약속 시간은 일구시 팔분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00252_male.wav,output/x_00252_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00253_male.wav,output/x_00253_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00254_male.wav,output/x_00254_male.wav,이번 주에는 칠월 이팔일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00255_male.wav,output/x_00255_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00256_male.wav,output/x_00256_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00257_male.wav,output/x_00257_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00258_male.wav,output/x_00258_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00259_female.wav,output/x_00259_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00260_female.wav,output/x_00260_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00261_male.wav,output/x_00261_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00262_male.wav,output/x_00262_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00263_male.wav,output/x_00263_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00264_male.wav,output/x_00264_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00265_female.wav,output/x_00265_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00266_male.wav,output/x_00266_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00267_male.wav,output/x_00267_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00268_male.wav,output/x_00268_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00269_male.wav,output/x_00269_male.wav,약속 시간은 일팔시 공분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00270_female.wav,output/x_00270_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00271_male.wav,output/x_00271_male.wav,오늘은 구월 사일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00272_female.wav,output/x_00272_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00273_male.wav,output/x_00273_male.wav,약속 시간은 일오시 삼일분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00274_male.wav,output/x_00274_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00275_male.wav,output/x_00275_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00276_male.wav,output/x_00276_male.wav,"오늘은 육번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00277_female.wav,output/x_00277_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00278_female.wav,output/x_00278_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00279_female.wav,output/x_00279_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00280_male.wav,output/x_00280_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00281_male.wav,output/x_00281_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00282_male.wav,output/x_00282_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00283_male.wav,output/x_00283_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00284_male.wav,output/x_00284_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00285_female.wav,output/x_00285_female.wav,"오늘은 일일이번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00286_female.wav,output/x_00286_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00287_male.wav,output/x_00287_male.wav,"오늘은 팔일삼번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00288_male.wav,output/x_00288_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00289_male.wav,output/x_00289_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00290_male.wav,output/x_00290_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00291_female.wav,output/x_00291_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00292_male.wav,output/x_00292_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00293_female.wav,output/x_00293_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00294_female.wav,output/x_00294_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00295_female.wav,output/x_00295_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00296_male.wav,output/x_00296_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00297_male.wav,output/x_00297_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00298_male.wav,output/x_00298_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00299_female.wav,output/x_00299_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00300_male.wav,output/x_00300_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00301_female.wav,output/x_00301_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00302_male.wav,output/x_00302_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00303_male.wav,output/x_00303_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00304_male.wav,output/x_00304_male.wav,약속 시간은 팔시 사사분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00305_male.wav,output/x_00305_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00306_male.wav,output/x_00306_male.wav,회의 전까지 자료를 이칠장 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00307_male.wav,output/x_00307_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00308_male.wav,output/x_00308_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00309_male.wav,output/x_00309_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00310_female.wav,output/x_00310_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00311_female.wav,output/x_00311_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00312_male.wav,output/x_00312_male.wav,필요한 재료는 총 사분 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00313_male.wav,output/x_00313_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00314_male.wav,output/x_00314_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00315_male.wav,output/x_00315_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00316_male.wav,output/x_00316_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00317_female.wav,output/x_00317_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00318_male.wav,output/x_00318_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00319_male.wav,output/x_00319_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00320_female.wav,output/x_00320_female.wav,오월 일구일 일구시 일칠분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00321_male.wav,output/x_00321_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00322_male.wav,output/x_00322_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00323_male.wav,output/x_00323_male.wav,"오늘은 오사구번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00324_male.wav,output/x_00324_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00325_female.wav,output/x_00325_female.wav,"오늘은 육삼삼번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00326_male.wav,output/x_00326_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00327_male.wav,output/x_00327_male.wav,오늘은 사월 칠일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00328_female.wav,output/x_00328_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00329_male.wav,output/x_00329_male.wav,체크리스트에 항목 사개를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00330_male.wav,output/x_00330_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00331_male.wav,output/x_00331_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00332_male.wav,output/x_00332_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00333_male.wav,output/x_00333_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00334_male.wav,output/x_00334_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00335_female.wav,output/x_00335_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00336_male.wav,output/x_00336_male.wav,필요한 재료는 총 이공권 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00337_female.wav,output/x_00337_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00338_male.wav,output/x_00338_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-InJoonNeural,0
+x_00339_male.wav,output/x_00339_male.wav,체크리스트에 항목 일사권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00340_male.wav,output/x_00340_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00341_male.wav,output/x_00341_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00342_male.wav,output/x_00342_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00343_male.wav,output/x_00343_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00344_male.wav,output/x_00344_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00345_female.wav,output/x_00345_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00346_female.wav,output/x_00346_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00347_male.wav,output/x_00347_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00348_male.wav,output/x_00348_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00349_male.wav,output/x_00349_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00350_male.wav,output/x_00350_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00351_female.wav,output/x_00351_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00352_male.wav,output/x_00352_male.wav,이번 주에는 일월 이공일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00353_male.wav,output/x_00353_male.wav,삼구칠번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00354_female.wav,output/x_00354_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00355_male.wav,output/x_00355_male.wav,육월 이오일 일공시 일구분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00356_female.wav,output/x_00356_female.wav,회의 전까지 자료를 일장 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00357_male.wav,output/x_00357_male.wav,육삼일번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00358_male.wav,output/x_00358_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00359_female.wav,output/x_00359_female.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00360_male.wav,output/x_00360_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00361_male.wav,output/x_00361_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00362_male.wav,output/x_00362_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00363_male.wav,output/x_00363_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00364_male.wav,output/x_00364_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00365_male.wav,output/x_00365_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00366_female.wav,output/x_00366_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00367_male.wav,output/x_00367_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00368_male.wav,output/x_00368_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00369_male.wav,output/x_00369_male.wav,오늘은 구월 일팔일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00370_male.wav,output/x_00370_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00371_male.wav,output/x_00371_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00372_male.wav,output/x_00372_male.wav,회의 전까지 자료를 삼공분 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00373_male.wav,output/x_00373_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00374_female.wav,output/x_00374_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00375_male.wav,output/x_00375_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00376_male.wav,output/x_00376_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00377_male.wav,output/x_00377_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00378_male.wav,output/x_00378_male.wav,사월 일공일 일오시 사칠분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00379_male.wav,output/x_00379_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00380_male.wav,output/x_00380_male.wav,일이월 삼일 이공시 삼구분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00381_female.wav,output/x_00381_female.wav,이번 주에는 일일월 이공일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00382_male.wav,output/x_00382_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00383_male.wav,output/x_00383_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00384_male.wav,output/x_00384_male.wav,체크리스트에 항목 오권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00385_male.wav,output/x_00385_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00386_male.wav,output/x_00386_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00387_male.wav,output/x_00387_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00388_male.wav,output/x_00388_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00389_male.wav,output/x_00389_male.wav,회의 전까지 자료를 이잔 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00390_male.wav,output/x_00390_male.wav,현재 시각은 일육시 삼삼분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00391_female.wav,output/x_00391_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00392_female.wav,output/x_00392_female.wav,체크리스트에 항목 이구봉지를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00393_male.wav,output/x_00393_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00394_male.wav,output/x_00394_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00395_female.wav,output/x_00395_female.wav,이월 이오일 일칠시 사칠분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00396_female.wav,output/x_00396_female.wav,"오늘은 삼삼육번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00397_female.wav,output/x_00397_female.wav,필요한 재료는 총 육회 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00398_female.wav,output/x_00398_female.wav,삼월 이팔일 이공시 팔분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00399_female.wav,output/x_00399_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00400_female.wav,output/x_00400_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00401_female.wav,output/x_00401_female.wav,현재 시각은 이이시 오오분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00402_male.wav,output/x_00402_male.wav,이번 주에는 육월 일칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00403_male.wav,output/x_00403_male.wav,사일공번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00404_male.wav,output/x_00404_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00405_male.wav,output/x_00405_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00406_male.wav,output/x_00406_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00407_female.wav,output/x_00407_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00408_female.wav,output/x_00408_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00409_male.wav,output/x_00409_male.wav,필요한 재료는 총 이사박스 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00410_male.wav,output/x_00410_male.wav,이번 주에는 일일월 일사일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00411_male.wav,output/x_00411_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00412_female.wav,output/x_00412_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00413_female.wav,output/x_00413_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00414_female.wav,output/x_00414_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00415_male.wav,output/x_00415_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00416_male.wav,output/x_00416_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00417_male.wav,output/x_00417_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00418_male.wav,output/x_00418_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00419_male.wav,output/x_00419_male.wav,이번 주에는 칠월 일오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00420_male.wav,output/x_00420_male.wav,"오늘은 육오이번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00421_male.wav,output/x_00421_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00422_male.wav,output/x_00422_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00423_male.wav,output/x_00423_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00424_female.wav,output/x_00424_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00425_male.wav,output/x_00425_male.wav,체크리스트에 항목 삼공회를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00426_male.wav,output/x_00426_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00427_male.wav,output/x_00427_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00428_female.wav,output/x_00428_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00429_male.wav,output/x_00429_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00430_male.wav,output/x_00430_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00431_female.wav,output/x_00431_female.wav,약속 시간은 이일시 오일분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00432_male.wav,output/x_00432_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00433_male.wav,output/x_00433_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00434_female.wav,output/x_00434_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00435_female.wav,output/x_00435_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00436_male.wav,output/x_00436_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00437_male.wav,output/x_00437_male.wav,필요한 재료는 총 이삼봉지 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00438_female.wav,output/x_00438_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00439_male.wav,output/x_00439_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00440_female.wav,output/x_00440_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00441_male.wav,output/x_00441_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00442_male.wav,output/x_00442_male.wav,회의 전까지 자료를 이삼장 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00443_female.wav,output/x_00443_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00444_male.wav,output/x_00444_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00445_male.wav,output/x_00445_male.wav,"오늘은 팔이공번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00446_female.wav,output/x_00446_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00447_male.wav,output/x_00447_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00448_male.wav,output/x_00448_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00449_male.wav,output/x_00449_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00450_male.wav,output/x_00450_male.wav,사월 일팔일 육시 일육분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00451_male.wav,output/x_00451_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00452_female.wav,output/x_00452_female.wav,필요한 재료는 총 일팔장 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00453_male.wav,output/x_00453_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00454_female.wav,output/x_00454_female.wav,구이일번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00455_male.wav,output/x_00455_male.wav,"오늘은 삼오일번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00456_male.wav,output/x_00456_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00457_female.wav,output/x_00457_female.wav,회의 전까지 자료를 구잔 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00458_male.wav,output/x_00458_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00459_male.wav,output/x_00459_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00460_male.wav,output/x_00460_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00461_female.wav,output/x_00461_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00462_female.wav,output/x_00462_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00463_male.wav,output/x_00463_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00464_female.wav,output/x_00464_female.wav,오늘은 육월 이칠일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00465_male.wav,output/x_00465_male.wav,"오늘은 오일번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00466_male.wav,output/x_00466_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00467_male.wav,output/x_00467_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00468_female.wav,output/x_00468_female.wav,현재 시각은 일육시 삼육분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00469_male.wav,output/x_00469_male.wav,약속 시간은 이일시 일분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00470_female.wav,output/x_00470_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00471_male.wav,output/x_00471_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00472_male.wav,output/x_00472_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00473_male.wav,output/x_00473_male.wav,필요한 재료는 총 이봉지 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00474_male.wav,output/x_00474_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00475_female.wav,output/x_00475_female.wav,회의 전까지 자료를 이칠잔 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00476_male.wav,output/x_00476_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00477_female.wav,output/x_00477_female.wav,오늘은 일월 이팔일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00478_female.wav,output/x_00478_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00479_male.wav,output/x_00479_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00480_male.wav,output/x_00480_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00481_female.wav,output/x_00481_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00482_female.wav,output/x_00482_female.wav,"오늘은 삼오번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00483_male.wav,output/x_00483_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00484_male.wav,output/x_00484_male.wav,"오늘은 육공구번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00485_male.wav,output/x_00485_male.wav,이번 주에는 오월 이이일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00486_male.wav,output/x_00486_male.wav,약속 시간은 이일시 삼오분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00487_female.wav,output/x_00487_female.wav,필요한 재료는 총 이구권 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00488_female.wav,output/x_00488_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00489_male.wav,output/x_00489_male.wav,오늘은 일일월 오일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00490_male.wav,output/x_00490_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00491_female.wav,output/x_00491_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00492_female.wav,output/x_00492_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00493_female.wav,output/x_00493_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00494_male.wav,output/x_00494_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00495_female.wav,output/x_00495_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00496_male.wav,output/x_00496_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00497_male.wav,output/x_00497_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00498_male.wav,output/x_00498_male.wav,오늘은 팔월 사일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00499_male.wav,output/x_00499_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00500_female.wav,output/x_00500_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00501_female.wav,output/x_00501_female.wav,필요한 재료는 총 일육장 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00502_male.wav,output/x_00502_male.wav,현재 시각은 이일시 사일분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00503_female.wav,output/x_00503_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00504_male.wav,output/x_00504_male.wav,필요한 재료는 총 일권 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00505_female.wav,output/x_00505_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00506_female.wav,output/x_00506_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00507_male.wav,output/x_00507_male.wav,"오늘은 칠사오번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00508_female.wav,output/x_00508_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00509_male.wav,output/x_00509_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00510_male.wav,output/x_00510_male.wav,회의 전까지 자료를 일잔 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00511_male.wav,output/x_00511_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00512_female.wav,output/x_00512_female.wav,약속 시간은 구시 오오분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00513_male.wav,output/x_00513_male.wav,오늘은 이월 일오일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00514_male.wav,output/x_00514_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00515_male.wav,output/x_00515_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00516_male.wav,output/x_00516_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00517_male.wav,output/x_00517_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00518_male.wav,output/x_00518_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00519_female.wav,output/x_00519_female.wav,팔사육번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00520_male.wav,output/x_00520_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00521_male.wav,output/x_00521_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00522_female.wav,output/x_00522_female.wav,오늘은 일이월 이사일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00523_male.wav,output/x_00523_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00524_female.wav,output/x_00524_female.wav,필요한 재료는 총 이공박스 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00525_male.wav,output/x_00525_male.wav,"오늘은 삼오사번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00526_female.wav,output/x_00526_female.wav,필요한 재료는 총 이오잔 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00527_male.wav,output/x_00527_male.wav,팔월 일일 육시 오공분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00528_female.wav,output/x_00528_female.wav,"오늘은 육팔사번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00529_female.wav,output/x_00529_female.wav,현재 시각은 일육시 이일분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00530_male.wav,output/x_00530_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00531_male.wav,output/x_00531_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00532_female.wav,output/x_00532_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00533_female.wav,output/x_00533_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00534_female.wav,output/x_00534_female.wav,삼월 육일 일일시 이이분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00535_male.wav,output/x_00535_male.wav,이번 주에는 이월 일칠일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00536_female.wav,output/x_00536_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00537_female.wav,output/x_00537_female.wav,이번 주에는 사월 일팔일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00538_female.wav,output/x_00538_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00539_male.wav,output/x_00539_male.wav,현재 시각은 일오시 삼칠분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00540_male.wav,output/x_00540_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00541_male.wav,output/x_00541_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00542_male.wav,output/x_00542_male.wav,회의 전까지 자료를 이오권 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00543_male.wav,output/x_00543_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00544_male.wav,output/x_00544_male.wav,체크리스트에 항목 육회를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00545_male.wav,output/x_00545_male.wav,필요한 재료는 총 이사회 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00546_male.wav,output/x_00546_male.wav,필요한 재료는 총 삼분 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00547_female.wav,output/x_00547_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00548_male.wav,output/x_00548_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00549_male.wav,output/x_00549_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00550_female.wav,output/x_00550_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00551_male.wav,output/x_00551_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00552_female.wav,output/x_00552_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00553_male.wav,output/x_00553_male.wav,회의 전까지 자료를 일삼권 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00554_male.wav,output/x_00554_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00555_male.wav,output/x_00555_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00556_female.wav,output/x_00556_female.wav,회의 전까지 자료를 일오박스 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00557_female.wav,output/x_00557_female.wav,현재 시각은 일팔시 사이분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00558_male.wav,output/x_00558_male.wav,"오늘은 구오번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00559_male.wav,output/x_00559_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00560_female.wav,output/x_00560_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00561_female.wav,output/x_00561_female.wav,오늘은 일이월 일일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00562_male.wav,output/x_00562_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00563_female.wav,output/x_00563_female.wav,"오늘은 팔구칠번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00564_male.wav,output/x_00564_male.wav,현재 시각은 일육시 이육분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00565_female.wav,output/x_00565_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00566_male.wav,output/x_00566_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00567_female.wav,output/x_00567_female.wav,체크리스트에 항목 이공잔를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00568_female.wav,output/x_00568_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00569_female.wav,output/x_00569_female.wav,사월 이칠일 일일시 오사분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00570_male.wav,output/x_00570_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00571_female.wav,output/x_00571_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00572_female.wav,output/x_00572_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00573_female.wav,output/x_00573_female.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00574_male.wav,output/x_00574_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00575_female.wav,output/x_00575_female.wav,삼월 일일 일삼시 이사분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00576_male.wav,output/x_00576_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00577_male.wav,output/x_00577_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00578_female.wav,output/x_00578_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00579_male.wav,output/x_00579_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00580_male.wav,output/x_00580_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00581_female.wav,output/x_00581_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00582_male.wav,output/x_00582_male.wav,체크리스트에 항목 일팔봉지를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00583_male.wav,output/x_00583_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00584_male.wav,output/x_00584_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00585_female.wav,output/x_00585_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00586_male.wav,output/x_00586_male.wav,현재 시각은 이공시 삼분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00587_female.wav,output/x_00587_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00588_male.wav,output/x_00588_male.wav,"오늘은 일공공번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00589_male.wav,output/x_00589_male.wav,체크리스트에 항목 이박스를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00590_male.wav,output/x_00590_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00591_female.wav,output/x_00591_female.wav,체크리스트에 항목 구잔를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00592_male.wav,output/x_00592_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00593_male.wav,output/x_00593_male.wav,체크리스트에 항목 이일잔를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00594_female.wav,output/x_00594_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00595_male.wav,output/x_00595_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00596_male.wav,output/x_00596_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00597_male.wav,output/x_00597_male.wav,육일육번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00598_male.wav,output/x_00598_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00599_male.wav,output/x_00599_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00600_male.wav,output/x_00600_male.wav,체크리스트에 항목 이팔박스를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00601_male.wav,output/x_00601_male.wav,회의 전까지 자료를 일이권 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00602_male.wav,output/x_00602_male.wav,약속 시간은 일육시 삼칠분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00603_male.wav,output/x_00603_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00604_female.wav,output/x_00604_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00605_male.wav,output/x_00605_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00606_male.wav,output/x_00606_male.wav,"오늘은 삼공삼번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00607_female.wav,output/x_00607_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00608_female.wav,output/x_00608_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00609_female.wav,output/x_00609_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00610_male.wav,output/x_00610_male.wav,현재 시각은 일구시 사칠분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00611_male.wav,output/x_00611_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00612_male.wav,output/x_00612_male.wav,"오늘은 삼칠구번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00613_female.wav,output/x_00613_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00614_male.wav,output/x_00614_male.wav,체크리스트에 항목 일공권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00615_male.wav,output/x_00615_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00616_male.wav,output/x_00616_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00617_male.wav,output/x_00617_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-InJoonNeural,0
+x_00618_male.wav,output/x_00618_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00619_male.wav,output/x_00619_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00620_male.wav,output/x_00620_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00621_male.wav,output/x_00621_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00622_male.wav,output/x_00622_male.wav,회의 전까지 자료를 이사박스 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00623_female.wav,output/x_00623_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00624_male.wav,output/x_00624_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00625_male.wav,output/x_00625_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00626_male.wav,output/x_00626_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00627_female.wav,output/x_00627_female.wav,체크리스트에 항목 구봉지를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00628_male.wav,output/x_00628_male.wav,이번 주에는 칠월 오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00629_male.wav,output/x_00629_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00630_female.wav,output/x_00630_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00631_female.wav,output/x_00631_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00632_female.wav,output/x_00632_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00633_male.wav,output/x_00633_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00634_male.wav,output/x_00634_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00635_female.wav,output/x_00635_female.wav,육월 사일 이일시 사육분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00636_male.wav,output/x_00636_male.wav,현재 시각은 일구시 삼사분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00637_female.wav,output/x_00637_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00638_female.wav,output/x_00638_female.wav,체크리스트에 항목 일칠권를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00639_male.wav,output/x_00639_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00640_male.wav,output/x_00640_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00641_male.wav,output/x_00641_male.wav,오늘은 오월 이삼일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00642_male.wav,output/x_00642_male.wav,오늘은 이월 이일일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00643_female.wav,output/x_00643_female.wav,이번 주에는 오월 팔일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00644_male.wav,output/x_00644_male.wav,현재 시각은 일사시 오이분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00645_female.wav,output/x_00645_female.wav,오늘은 일일월 이사일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00646_male.wav,output/x_00646_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00647_female.wav,output/x_00647_female.wav,이번 주에는 구월 이오일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00648_male.wav,output/x_00648_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-InJoonNeural,0
+x_00649_male.wav,output/x_00649_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00650_female.wav,output/x_00650_female.wav,회의 전까지 자료를 일일봉지 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00651_male.wav,output/x_00651_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00652_male.wav,output/x_00652_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00653_male.wav,output/x_00653_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00654_female.wav,output/x_00654_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00655_male.wav,output/x_00655_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00656_male.wav,output/x_00656_male.wav,체크리스트에 항목 삼권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00657_male.wav,output/x_00657_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00658_female.wav,output/x_00658_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00659_male.wav,output/x_00659_male.wav,이번 주에는 일공월 이공일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00660_female.wav,output/x_00660_female.wav,일육이번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00661_male.wav,output/x_00661_male.wav,팔사이번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00662_male.wav,output/x_00662_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00663_female.wav,output/x_00663_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00664_female.wav,output/x_00664_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00665_male.wav,output/x_00665_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00666_male.wav,output/x_00666_male.wav,약속 시간은 이이시 오칠분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00667_male.wav,output/x_00667_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00668_male.wav,output/x_00668_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00669_male.wav,output/x_00669_male.wav,약속 시간은 이일시 오구분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00670_male.wav,output/x_00670_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00671_male.wav,output/x_00671_male.wav,체크리스트에 항목 이일장를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00672_male.wav,output/x_00672_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00673_male.wav,output/x_00673_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00674_male.wav,output/x_00674_male.wav,회의 전까지 자료를 일칠봉지 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00675_female.wav,output/x_00675_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00676_male.wav,output/x_00676_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00677_female.wav,output/x_00677_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00678_male.wav,output/x_00678_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00679_male.wav,output/x_00679_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00680_female.wav,output/x_00680_female.wav,체크리스트에 항목 이구권를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00681_male.wav,output/x_00681_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00682_male.wav,output/x_00682_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00683_male.wav,output/x_00683_male.wav,체크리스트에 항목 일팔권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00684_male.wav,output/x_00684_male.wav,체크리스트에 항목 이오박스를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00685_male.wav,output/x_00685_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00686_male.wav,output/x_00686_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00687_female.wav,output/x_00687_female.wav,회의 전까지 자료를 이칠박스 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00688_male.wav,output/x_00688_male.wav,"오늘은 일팔사번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00689_male.wav,output/x_00689_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00690_male.wav,output/x_00690_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00691_male.wav,output/x_00691_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00692_female.wav,output/x_00692_female.wav,이번 주에는 육월 이일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00693_male.wav,output/x_00693_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00694_male.wav,output/x_00694_male.wav,회의 전까지 자료를 일이봉지 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00695_male.wav,output/x_00695_male.wav,약속 시간은 이일시 일일분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00696_female.wav,output/x_00696_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00697_female.wav,output/x_00697_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00698_female.wav,output/x_00698_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00699_male.wav,output/x_00699_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00700_male.wav,output/x_00700_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00701_male.wav,output/x_00701_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00702_female.wav,output/x_00702_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00703_female.wav,output/x_00703_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00704_female.wav,output/x_00704_female.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00705_male.wav,output/x_00705_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00706_male.wav,output/x_00706_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00707_male.wav,output/x_00707_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00708_male.wav,output/x_00708_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00709_female.wav,output/x_00709_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00710_female.wav,output/x_00710_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00711_male.wav,output/x_00711_male.wav,저녁에는 가볍게 산책할 계획입니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00712_male.wav,output/x_00712_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00713_male.wav,output/x_00713_male.wav,오늘은 사월 이일일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00714_male.wav,output/x_00714_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00715_male.wav,output/x_00715_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00716_male.wav,output/x_00716_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00717_male.wav,output/x_00717_male.wav,오사팔번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00718_female.wav,output/x_00718_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00719_female.wav,output/x_00719_female.wav,칠칠칠번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00720_male.wav,output/x_00720_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00721_female.wav,output/x_00721_female.wav,이번 주에는 삼월 육일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00722_male.wav,output/x_00722_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00723_female.wav,output/x_00723_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00724_female.wav,output/x_00724_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00725_female.wav,output/x_00725_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00726_male.wav,output/x_00726_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00727_female.wav,output/x_00727_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00728_female.wav,output/x_00728_female.wav,"오늘은 일팔사번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00729_female.wav,output/x_00729_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00730_male.wav,output/x_00730_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00731_male.wav,output/x_00731_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00732_male.wav,output/x_00732_male.wav,구월 이칠일 육시 육분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00733_male.wav,output/x_00733_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00734_male.wav,output/x_00734_male.wav,현재 시각은 육시 이사분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00735_female.wav,output/x_00735_female.wav,현재 시각은 일공시 이공분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00736_male.wav,output/x_00736_male.wav,삼팔일번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00737_female.wav,output/x_00737_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00738_male.wav,output/x_00738_male.wav,이번 주에는 팔월 이육일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00739_male.wav,output/x_00739_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00740_male.wav,output/x_00740_male.wav,일월 일이일 일사시 오팔분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00741_female.wav,output/x_00741_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00742_male.wav,output/x_00742_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00743_male.wav,output/x_00743_male.wav,회의 전까지 자료를 이칠회 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00744_female.wav,output/x_00744_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00745_male.wav,output/x_00745_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00746_female.wav,output/x_00746_female.wav,약속 시간은 육시 오육분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00747_female.wav,output/x_00747_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00748_male.wav,output/x_00748_male.wav,"오늘은 칠공번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00749_male.wav,output/x_00749_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00750_male.wav,output/x_00750_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00751_female.wav,output/x_00751_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00752_male.wav,output/x_00752_male.wav,회의 전까지 자료를 이장 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00753_female.wav,output/x_00753_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00754_female.wav,output/x_00754_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00755_male.wav,output/x_00755_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00756_male.wav,output/x_00756_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00757_male.wav,output/x_00757_male.wav,오늘은 육월 이사일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00758_female.wav,output/x_00758_female.wav,이팔팔번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00759_female.wav,output/x_00759_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00760_male.wav,output/x_00760_male.wav,이번 주에는 일공월 일일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00761_male.wav,output/x_00761_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00762_male.wav,output/x_00762_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00763_male.wav,output/x_00763_male.wav,구월 이이일 칠시 삼이분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00764_male.wav,output/x_00764_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00765_male.wav,output/x_00765_male.wav,회의 전까지 자료를 일삼잔 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00766_male.wav,output/x_00766_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00767_male.wav,output/x_00767_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00768_female.wav,output/x_00768_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00769_male.wav,output/x_00769_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00770_male.wav,output/x_00770_male.wav,현재 시각은 일팔시 오일분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00771_male.wav,output/x_00771_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00772_male.wav,output/x_00772_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00773_male.wav,output/x_00773_male.wav,현재 시각은 이일시 칠분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00774_male.wav,output/x_00774_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00775_female.wav,output/x_00775_female.wav,약속 시간은 일삼시 사사분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00776_female.wav,output/x_00776_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00777_male.wav,output/x_00777_male.wav,육칠이번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00778_male.wav,output/x_00778_male.wav,필요한 재료는 총 이봉지 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00779_male.wav,output/x_00779_male.wav,체크리스트에 항목 일칠권를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00780_male.wav,output/x_00780_male.wav,회의 전까지 자료를 칠권 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00781_male.wav,output/x_00781_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00782_female.wav,output/x_00782_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00783_male.wav,output/x_00783_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00784_male.wav,output/x_00784_male.wav,현재 시각은 일구시 오육분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00785_female.wav,output/x_00785_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00786_male.wav,output/x_00786_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00787_female.wav,output/x_00787_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00788_male.wav,output/x_00788_male.wav,회의 전까지 자료를 구잔 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00789_female.wav,output/x_00789_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00790_female.wav,output/x_00790_female.wav,오늘은 육월 일삼일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00791_male.wav,output/x_00791_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00792_male.wav,output/x_00792_male.wav,일공일번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00793_male.wav,output/x_00793_male.wav,일공월 이삼일 구시 사분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00794_female.wav,output/x_00794_female.wav,약속 시간은 칠시 이육분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00795_male.wav,output/x_00795_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00796_male.wav,output/x_00796_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00797_male.wav,output/x_00797_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00798_female.wav,output/x_00798_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00799_male.wav,output/x_00799_male.wav,체크리스트에 항목 일회를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00800_male.wav,output/x_00800_male.wav,"오늘은 일오구번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-HyunsuMultilingualNeural,0
+x_00801_female.wav,output/x_00801_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00802_male.wav,output/x_00802_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00803_male.wav,output/x_00803_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00804_female.wav,output/x_00804_female.wav,회의 전까지 자료를 일봉지 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00805_male.wav,output/x_00805_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00806_female.wav,output/x_00806_female.wav,약속 시간은 일일시 오공분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00807_male.wav,output/x_00807_male.wav,필요한 재료는 총 이팔개 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00808_female.wav,output/x_00808_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00809_female.wav,output/x_00809_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00810_male.wav,output/x_00810_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00811_female.wav,output/x_00811_female.wav,체크리스트에 항목 일칠권를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00812_female.wav,output/x_00812_female.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00813_female.wav,output/x_00813_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00814_male.wav,output/x_00814_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00815_male.wav,output/x_00815_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00816_female.wav,output/x_00816_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00817_male.wav,output/x_00817_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00818_male.wav,output/x_00818_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00819_male.wav,output/x_00819_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00820_male.wav,output/x_00820_male.wav,필요한 재료는 총 일이박스 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00821_male.wav,output/x_00821_male.wav,"오늘은 삼이일번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00822_male.wav,output/x_00822_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00823_female.wav,output/x_00823_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00824_female.wav,output/x_00824_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00825_male.wav,output/x_00825_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00826_male.wav,output/x_00826_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00827_male.wav,output/x_00827_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00828_male.wav,output/x_00828_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00829_male.wav,output/x_00829_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00830_male.wav,output/x_00830_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00831_female.wav,output/x_00831_female.wav,일월 이공일 일육시 사칠분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00832_male.wav,output/x_00832_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00833_male.wav,output/x_00833_male.wav,체크리스트에 항목 이삼장를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00834_male.wav,output/x_00834_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00835_male.wav,output/x_00835_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00836_female.wav,output/x_00836_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00837_male.wav,output/x_00837_male.wav,이번 주에는 일이월 이공일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00838_male.wav,output/x_00838_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00839_female.wav,output/x_00839_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00840_male.wav,output/x_00840_male.wav,약속 시간은 일육시 일팔분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00841_male.wav,output/x_00841_male.wav,필요한 재료는 총 일구개 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00842_female.wav,output/x_00842_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00843_male.wav,output/x_00843_male.wav,현재 시각은 팔시 오사분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00844_male.wav,output/x_00844_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00845_female.wav,output/x_00845_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00846_male.wav,output/x_00846_male.wav,체크리스트에 항목 이사잔를 추가해 진행 상황을 관리합니다.,,male,ko-KR-InJoonNeural,0
+x_00847_male.wav,output/x_00847_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00848_female.wav,output/x_00848_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00849_female.wav,output/x_00849_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00850_male.wav,output/x_00850_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00851_male.wav,output/x_00851_male.wav,오늘은 팔월 이공일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00852_female.wav,output/x_00852_female.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00853_male.wav,output/x_00853_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00854_male.wav,output/x_00854_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00855_female.wav,output/x_00855_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00856_female.wav,output/x_00856_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00857_male.wav,output/x_00857_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00858_male.wav,output/x_00858_male.wav,육월 이공일 구시 삼이분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00859_male.wav,output/x_00859_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-InJoonNeural,0
+x_00860_male.wav,output/x_00860_male.wav,현재 시각은 일사시 삼칠분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00861_male.wav,output/x_00861_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00862_male.wav,output/x_00862_male.wav,이번 주에는 오월 이오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00863_male.wav,output/x_00863_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00864_female.wav,output/x_00864_female.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,female,ko-KR-SunHiNeural,0
+x_00865_male.wav,output/x_00865_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00866_male.wav,output/x_00866_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00867_male.wav,output/x_00867_male.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00868_male.wav,output/x_00868_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00869_female.wav,output/x_00869_female.wav,정리한 파일 이름을 보기 쉽게 바꾸었습니다.,,female,ko-KR-SunHiNeural,0
+x_00870_male.wav,output/x_00870_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00871_male.wav,output/x_00871_male.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00872_male.wav,output/x_00872_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00873_male.wav,output/x_00873_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00874_male.wav,output/x_00874_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00875_female.wav,output/x_00875_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00876_male.wav,output/x_00876_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00877_male.wav,output/x_00877_male.wav,오늘은 칠월 이팔일이라 일정표를 다시 확인했습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00878_male.wav,output/x_00878_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00879_male.wav,output/x_00879_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00880_male.wav,output/x_00880_male.wav,현재 시각은 이일시 오분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00881_male.wav,output/x_00881_male.wav,필요한 재료는 총 일칠권 정도 준비하면 충분합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00882_male.wav,output/x_00882_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00883_male.wav,output/x_00883_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00884_female.wav,output/x_00884_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00885_female.wav,output/x_00885_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00886_female.wav,output/x_00886_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00887_male.wav,output/x_00887_male.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00888_male.wav,output/x_00888_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00889_male.wav,output/x_00889_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00890_female.wav,output/x_00890_female.wav,"오늘은 칠구칠번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00891_male.wav,output/x_00891_male.wav,오육삼번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00892_female.wav,output/x_00892_female.wav,약속 시간은 일공시 오이분으로 잡아 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00893_female.wav,output/x_00893_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00894_male.wav,output/x_00894_male.wav,이번 주에는 구월 이오일 일정이 가장 바쁠 것 같습니다.,,male,ko-KR-InJoonNeural,0
+x_00895_female.wav,output/x_00895_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00896_male.wav,output/x_00896_male.wav,일이월 일사일 이공시 사분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00897_male.wav,output/x_00897_male.wav,오늘은 일월 일사일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00898_female.wav,output/x_00898_female.wav,회의 전까지 자료를 일칠봉지 정리해 두려고 합니다.,,female,ko-KR-SunHiNeural,0
+x_00899_male.wav,output/x_00899_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00900_female.wav,output/x_00900_female.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,female,ko-KR-SunHiNeural,0
+x_00901_male.wav,output/x_00901_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00902_female.wav,output/x_00902_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00903_male.wav,output/x_00903_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00904_female.wav,output/x_00904_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00905_male.wav,output/x_00905_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00906_male.wav,output/x_00906_male.wav,약속 시간은 일오시 일삼분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00907_female.wav,output/x_00907_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00908_male.wav,output/x_00908_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00909_female.wav,output/x_00909_female.wav,안녕하세요. 오늘은 기분 좋게 하루를 시작합니다.,,female,ko-KR-SunHiNeural,0
+x_00910_male.wav,output/x_00910_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00911_male.wav,output/x_00911_male.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,male,ko-KR-InJoonNeural,0
+x_00912_male.wav,output/x_00912_male.wav,현재 시각은 일사시 오일분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00913_male.wav,output/x_00913_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00914_male.wav,output/x_00914_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00915_male.wav,output/x_00915_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-InJoonNeural,0
+x_00916_male.wav,output/x_00916_male.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00917_male.wav,output/x_00917_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00918_male.wav,output/x_00918_male.wav,현재 시각은 일공시 사사분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00919_female.wav,output/x_00919_female.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,female,ko-KR-SunHiNeural,0
+x_00920_female.wav,output/x_00920_female.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,female,ko-KR-SunHiNeural,0
+x_00921_male.wav,output/x_00921_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00922_female.wav,output/x_00922_female.wav,오일구번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00923_male.wav,output/x_00923_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-InJoonNeural,0
+x_00924_male.wav,output/x_00924_male.wav,오늘은 사월 육일이라 일정표를 다시 확인했습니다.,,male,ko-KR-InJoonNeural,0
+x_00925_male.wav,output/x_00925_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00926_male.wav,output/x_00926_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00927_male.wav,output/x_00927_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00928_male.wav,output/x_00928_male.wav,필요한 재료는 총 이육장 정도 준비하면 충분합니다.,,male,ko-KR-InJoonNeural,0
+x_00929_female.wav,output/x_00929_female.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00930_male.wav,output/x_00930_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00931_female.wav,output/x_00931_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00932_male.wav,output/x_00932_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00933_male.wav,output/x_00933_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00934_male.wav,output/x_00934_male.wav,현재 시각은 일육시 삼일분이고 작업을 이어가고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00935_female.wav,output/x_00935_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00936_female.wav,output/x_00936_female.wav,이번 주에는 구월 구일 일정이 가장 바쁠 것 같습니다.,,female,ko-KR-SunHiNeural,0
+x_00937_female.wav,output/x_00937_female.wav,한 페이지라도 꾸준히 읽는 습관을 만들고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00938_male.wav,output/x_00938_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00939_male.wav,output/x_00939_male.wav,아침 햇살이 밝아서 기분이 상쾌합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00940_male.wav,output/x_00940_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00941_female.wav,output/x_00941_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00942_female.wav,output/x_00942_female.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00943_male.wav,output/x_00943_male.wav,"오늘은 칠공칠번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,male,ko-KR-InJoonNeural,0
+x_00944_male.wav,output/x_00944_male.wav,현재 시각은 일오시 사팔분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00945_male.wav,output/x_00945_male.wav,약속 시간은 일공시 팔분으로 잡아 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00946_male.wav,output/x_00946_male.wav,삼공번 버스를 타면 목적지까지 편하게 이동할 수 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00947_male.wav,output/x_00947_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00948_male.wav,output/x_00948_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00949_male.wav,output/x_00949_male.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,male,ko-KR-InJoonNeural,0
+x_00950_male.wav,output/x_00950_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00951_male.wav,output/x_00951_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00952_male.wav,output/x_00952_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00953_female.wav,output/x_00953_female.wav,구월 이공일 이공시 삼공분에 알림을 맞춰 두었습니다.,,female,ko-KR-SunHiNeural,0
+x_00954_male.wav,output/x_00954_male.wav,칠월 삼일 일팔시 이육분에 알림을 맞춰 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00955_female.wav,output/x_00955_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00956_female.wav,output/x_00956_female.wav,점심으로 간단한 샌드위치를 먹었습니다.,,female,ko-KR-SunHiNeural,0
+x_00957_male.wav,output/x_00957_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00958_female.wav,output/x_00958_female.wav,오늘은 새로운 레시피를 하나 시도해 보려 합니다.,,female,ko-KR-SunHiNeural,0
+x_00959_female.wav,output/x_00959_female.wav,책상 위를 정리하니 마음이 한결 편해졌습니다.,,female,ko-KR-SunHiNeural,0
+x_00960_male.wav,output/x_00960_male.wav,회의 전까지 자료를 일오박스 정리해 두려고 합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00961_female.wav,output/x_00961_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00962_male.wav,output/x_00962_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00963_male.wav,output/x_00963_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00964_male.wav,output/x_00964_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00965_male.wav,output/x_00965_male.wav,삼월 육일 이공시 일분에 알림을 맞춰 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00966_female.wav,output/x_00966_female.wav,현재 시각은 일칠시 일팔분이고 작업을 이어가고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00967_male.wav,output/x_00967_male.wav,체크리스트에 항목 일사개를 추가해 진행 상황을 관리합니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00968_male.wav,output/x_00968_male.wav,창문을 열어두니 바람이 시원하게 들어옵니다.,,male,ko-KR-InJoonNeural,0
+x_00969_female.wav,output/x_00969_female.wav,체크리스트에 항목 일공권를 추가해 진행 상황을 관리합니다.,,female,ko-KR-SunHiNeural,0
+x_00970_female.wav,output/x_00970_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00971_male.wav,output/x_00971_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00972_male.wav,output/x_00972_male.wav,실내 공기를 환기하니 머리가 맑아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00973_male.wav,output/x_00973_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00974_male.wav,output/x_00974_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00975_female.wav,output/x_00975_female.wav,잠시 스트레칭을 하니 몸이 풀리는 느낌입니다.,,female,ko-KR-SunHiNeural,0
+x_00976_female.wav,output/x_00976_female.wav,저녁에는 가볍게 산책할 계획입니다.,,female,ko-KR-SunHiNeural,0
+x_00977_female.wav,output/x_00977_female.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00978_female.wav,output/x_00978_female.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,female,ko-KR-SunHiNeural,0
+x_00979_male.wav,output/x_00979_male.wav,가벼운 운동을 하고 나니 컨디션이 좋아졌습니다.,,male,ko-KR-InJoonNeural,0
+x_00980_male.wav,output/x_00980_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00981_female.wav,output/x_00981_female.wav,필요한 재료는 총 칠개 정도 준비하면 충분합니다.,,female,ko-KR-SunHiNeural,0
+x_00982_male.wav,output/x_00982_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00983_male.wav,output/x_00983_male.wav,회의 전까지 자료를 이일분 정리해 두려고 합니다.,,male,ko-KR-InJoonNeural,0
+x_00984_male.wav,output/x_00984_male.wav,오늘 목표를 작게 나누니 부담이 줄었습니다.,,male,ko-KR-InJoonNeural,0
+x_00985_male.wav,output/x_00985_male.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00986_male.wav,output/x_00986_male.wav,하늘이 맑아서 사진을 한 장 찍고 싶어졌습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00987_male.wav,output/x_00987_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00988_female.wav,output/x_00988_female.wav,오늘은 오월 오일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00989_female.wav,output/x_00989_female.wav,오늘은 이월 이이일이라 일정표를 다시 확인했습니다.,,female,ko-KR-SunHiNeural,0
+x_00990_female.wav,output/x_00990_female.wav,"오늘은 사구오번 버스를 이용하고, 도착 후 잠깐 쉬겠습니다.",,female,ko-KR-SunHiNeural,0
+x_00991_female.wav,output/x_00991_female.wav,조용한 음악을 틀어두고 집중하고 있습니다.,,female,ko-KR-SunHiNeural,0
+x_00992_male.wav,output/x_00992_male.wav,따뜻한 차 한 잔을 마시며 잠깐 쉬고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00993_male.wav,output/x_00993_male.wav,물을 자주 마시려고 컵을 가까이 두었습니다.,,male,ko-KR-InJoonNeural,0
+x_00994_male.wav,output/x_00994_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00995_male.wav,output/x_00995_male.wav,오늘 읽은 문장에서 좋은 표현을 하나 발견했습니다.,,male,ko-KR-InJoonNeural,0
+x_00996_male.wav,output/x_00996_male.wav,점심으로 간단한 샌드위치를 먹었습니다.,,male,ko-KR-InJoonNeural,0
+x_00997_male.wav,output/x_00997_male.wav,약속 시간은 일일시 일일분으로 잡아 두었습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_00998_male.wav,output/x_00998_male.wav,현재 시각은 일팔시 육분이고 작업을 이어가고 있습니다.,,male,ko-KR-InJoonNeural,0
+x_00999_male.wav,output/x_00999_male.wav,창가에 둔 식물이 조금씩 자라고 있습니다.,,male,ko-KR-HyunsuMultilingualNeural,0
+x_01000_male.wav,output/x_01000_male.wav,메모를 남겨두니 해야 할 일을 잊지 않게 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,0
