@@ -1,0 +1,43 @@
+{
+  "n_test": 331,
+  "stt_nlp_format_only": {
+    "f1": 0.883248730964467,
+    "recall": 0.9206349206349206,
+    "precision": 0.848780487804878,
+    "hard_neg_fpr": 0.21830985915492956
+  },
+  "stt_nlp_format_context": {
+    "f1": 0.9354838709677419,
+    "recall": 0.9206349206349206,
+    "precision": 0.9508196721311475,
+    "hard_neg_fpr": 0.06338028169014084
+  },
+  "per_pii_format_only": {
+    "rrn": 1.0,
+    "account": 0.946,
+    "card": 0.852
+  },
+  "per_pii_format_context": {
+    "rrn": 1.0,
+    "account": 0.946,
+    "card": 0.852
+  },
+  "stt_quality": {
+    "n_easy": 450,
+    "wer_median_easy": 0.0,
+    "wer_mean_easy": 0.7219,
+    "exact_match_rate": 0.8022,
+    "hallucination_count(wer>2)": 1,
+    "note": "일반발화 기준. 중앙값 WER≈0·완벽일치 다수 → 합성음 STT 거의 완벽(best-case). 평균은 Whisper 환각 소수가 왜곡. 실통화에선 WER↑. 긴 숫자열(카드 16자리)은 자릿수 누락/분절로 별도 취약(per-pii recall)."
+  },
+  "latency": {
+    "stt_sec_per_clip_mean": 0.3603,
+    "cnn_ms_per_window": 0.344
+  },
+  "cnn_indist": {
+    "f1": 0.826,
+    "recall": 0.989,
+    "precision": 0.708,
+    "hard_neg_fpr": 0.542
+  }
+}
