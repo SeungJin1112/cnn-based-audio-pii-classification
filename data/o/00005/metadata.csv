@@ -1,0 +1,1001 @@
+﻿filename,filepath,text,phone,gender,voice,detect
+phone_00000_male.wav,output/phone_00000_male.wav,번호 알려드릴게요. 공일공 사일구구 일육삼일입니다.,010-4199-1631,male,ko-KR-InJoonNeural,1
+phone_00001_female.wav,output/phone_00001_female.wav,문자 주실 번호는 공일공 공팔이칠 사육칠오입니다.,010-0827-4675,female,ko-KR-SunHiNeural,1
+phone_00002_male.wav,output/phone_00002_male.wav,연락 가능 번호는 공일공 칠공육일 일구사칠입니다.,010-7061-1947,male,ko-KR-InJoonNeural,1
+phone_00003_female.wav,output/phone_00003_female.wav,연락처는 공일공 이공육구 공육팔육입니다.,010-2069-0686,female,ko-KR-SunHiNeural,1
+phone_00004_male.wav,output/phone_00004_male.wav,전화는 공일공 삼공공칠 팔구칠육으로 주시면 됩니다.,010-3007-8976,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00005_male.wav,output/phone_00005_male.wav,연락 가능 번호는 공일공 사이공사 오사이이입니다.,010-4204-5422,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00006_male.wav,output/phone_00006_male.wav,제 전화번호는 공일공 육칠일공 사공공공입니다.,010-6710-4000,male,ko-KR-InJoonNeural,1
+phone_00007_female.wav,output/phone_00007_female.wav,문의는 공일공 팔칠오일 육육구육으로 주세요.,010-8751-6696,female,ko-KR-SunHiNeural,1
+phone_00008_male.wav,output/phone_00008_male.wav,번호 알려드릴게요. 공일공 팔삼오공 육팔칠사입니다.,010-8350-6874,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00009_male.wav,output/phone_00009_male.wav,문의는 공일공 일사일이 오오구육으로 주세요.,010-1412-5596,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00010_male.wav,output/phone_00010_male.wav,연락처는 공일공 이구이삼 팔육육칠입니다.,010-2923-8667,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00011_male.wav,output/phone_00011_male.wav,문의는 공일공 이육공이 삼구육공으로 주세요.,010-2602-3960,male,ko-KR-InJoonNeural,1
+phone_00012_female.wav,output/phone_00012_female.wav,문의는 공일공 공일칠오 삼팔일팔으로 주세요.,010-0175-3818,female,ko-KR-SunHiNeural,1
+phone_00013_male.wav,output/phone_00013_male.wav,제 전화번호는 공일공 구칠구팔 삼삼공사입니다.,010-9798-3304,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00014_female.wav,output/phone_00014_female.wav,연락 가능 번호는 공일공 오공구오 육사사이입니다.,010-5095-6442,female,ko-KR-SunHiNeural,1
+phone_00015_female.wav,output/phone_00015_female.wav,제 전화번호는 공일공 사일육오 사사팔오입니다.,010-4165-4485,female,ko-KR-SunHiNeural,1
+phone_00016_male.wav,output/phone_00016_male.wav,제 전화번호는 공일공 사이육팔 오삼삼공입니다.,010-4268-5330,male,ko-KR-InJoonNeural,1
+phone_00017_female.wav,output/phone_00017_female.wav,번호 알려드릴게요. 공일공 공팔일이 이육팔칠입니다.,010-0812-2687,female,ko-KR-SunHiNeural,1
+phone_00018_male.wav,output/phone_00018_male.wav,제 번호는 공일공 사오공오 오공팔구입니다.,010-4505-5089,male,ko-KR-InJoonNeural,1
+phone_00019_female.wav,output/phone_00019_female.wav,연락처는 공일공 이이칠삼 공일삼일입니다.,010-2273-0131,female,ko-KR-SunHiNeural,1
+phone_00020_male.wav,output/phone_00020_male.wav,문의는 공일공 칠팔사육 육일오이으로 주세요.,010-7846-6152,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00021_male.wav,output/phone_00021_male.wav,번호 알려드릴게요. 공일공 오칠일팔 이오사일입니다.,010-5718-2541,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00022_female.wav,output/phone_00022_female.wav,휴대폰 번호는 공일공 오구팔공 이구구오입니다.,010-5980-2995,female,ko-KR-SunHiNeural,1
+phone_00023_male.wav,output/phone_00023_male.wav,번호 알려드릴게요. 공일공 일육팔오 삼칠공사입니다.,010-1685-3704,male,ko-KR-InJoonNeural,1
+phone_00024_male.wav,output/phone_00024_male.wav,제 번호는 공일공 삼구사칠 칠칠팔구입니다.,010-3947-7789,male,ko-KR-InJoonNeural,1
+phone_00025_male.wav,output/phone_00025_male.wav,문의는 공일공 팔팔육오 구일삼육으로 주세요.,010-8865-9136,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00026_male.wav,output/phone_00026_male.wav,문자 주실 번호는 공일공 칠구일팔 사일이삼입니다.,010-7918-4123,male,ko-KR-InJoonNeural,1
+phone_00027_female.wav,output/phone_00027_female.wav,연락 가능 번호는 공일공 삼팔칠공 육육이칠입니다.,010-3870-6627,female,ko-KR-SunHiNeural,1
+phone_00028_male.wav,output/phone_00028_male.wav,번호 알려드릴게요. 공일공 일육오삼 오칠공오입니다.,010-1653-5705,male,ko-KR-InJoonNeural,1
+phone_00029_male.wav,output/phone_00029_male.wav,문의는 공일공 팔구칠이 사구사육으로 주세요.,010-8972-4946,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00030_male.wav,output/phone_00030_male.wav,문의는 공일공 일삼사오 육이구오으로 주세요.,010-1345-6295,male,ko-KR-InJoonNeural,1
+phone_00031_male.wav,output/phone_00031_male.wav,문자 주실 번호는 공일공 오육일오 일팔구팔입니다.,010-5615-1898,male,ko-KR-InJoonNeural,1
+phone_00032_female.wav,output/phone_00032_female.wav,문의는 공일공 삼팔이사 팔일사공으로 주세요.,010-3824-8140,female,ko-KR-SunHiNeural,1
+phone_00033_male.wav,output/phone_00033_male.wav,연락처는 공일공 구팔이칠 육공육공입니다.,010-9827-6060,male,ko-KR-InJoonNeural,1
+phone_00034_female.wav,output/phone_00034_female.wav,연락처는 공일공 사이육사 이일이팔입니다.,010-4264-2128,female,ko-KR-SunHiNeural,1
+phone_00035_female.wav,output/phone_00035_female.wav,번호 알려드릴게요. 공일공 팔칠육삼 삼육삼칠입니다.,010-8763-3637,female,ko-KR-SunHiNeural,1
+phone_00036_male.wav,output/phone_00036_male.wav,제 번호는 공일공 육일이팔 육육육팔입니다.,010-6128-6668,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00037_male.wav,output/phone_00037_male.wav,전화번호는 공일공 육공삼이 삼공칠오이에요.,010-6032-3075,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00038_male.wav,output/phone_00038_male.wav,연락처는 공일공 삼이공팔 육육일칠입니다.,010-3208-6617,male,ko-KR-InJoonNeural,1
+phone_00039_female.wav,output/phone_00039_female.wav,전화는 공일공 구사칠사 사사육일으로 주시면 됩니다.,010-9474-4461,female,ko-KR-SunHiNeural,1
+phone_00040_male.wav,output/phone_00040_male.wav,문자 주실 번호는 공일공 구팔육육 오사칠팔입니다.,010-9866-5478,male,ko-KR-InJoonNeural,1
+phone_00041_male.wav,output/phone_00041_male.wav,연락 가능 번호는 공일공 이구이팔 팔육일일입니다.,010-2928-8611,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00042_male.wav,output/phone_00042_male.wav,제 전화번호는 공일공 이사구사 육칠사오입니다.,010-2494-6745,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00043_male.wav,output/phone_00043_male.wav,연락처는 공일공 일오오삼 팔구육구입니다.,010-1553-8969,male,ko-KR-InJoonNeural,1
+phone_00044_female.wav,output/phone_00044_female.wav,제 전화번호는 공일공 팔사이일 삼칠사일입니다.,010-8421-3741,female,ko-KR-SunHiNeural,1
+phone_00045_male.wav,output/phone_00045_male.wav,연락처는 공일공 육팔구칠 육육공구입니다.,010-6897-6609,male,ko-KR-InJoonNeural,1
+phone_00046_male.wav,output/phone_00046_male.wav,번호 알려드릴게요. 공일공 공삼팔칠 오육팔공입니다.,010-0387-5680,male,ko-KR-InJoonNeural,1
+phone_00047_male.wav,output/phone_00047_male.wav,연락처는 공일공 육팔삼오 이사삼칠입니다.,010-6835-2437,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00048_female.wav,output/phone_00048_female.wav,연락 가능 번호는 공일공 육팔칠육 칠공구칠입니다.,010-6876-7097,female,ko-KR-SunHiNeural,1
+phone_00049_female.wav,output/phone_00049_female.wav,연락 가능 번호는 공일공 칠공사삼 구팔일구입니다.,010-7043-9819,female,ko-KR-SunHiNeural,1
+phone_00050_male.wav,output/phone_00050_male.wav,번호 알려드릴게요. 공일공 공육팔칠 일육이오입니다.,010-0687-1625,male,ko-KR-InJoonNeural,1
+phone_00051_female.wav,output/phone_00051_female.wav,문자 주실 번호는 공일공 팔칠오사 공육칠오입니다.,010-8754-0675,female,ko-KR-SunHiNeural,1
+phone_00052_female.wav,output/phone_00052_female.wav,제 전화번호는 공일공 오삼삼육 이이삼육입니다.,010-5336-2236,female,ko-KR-SunHiNeural,1
+phone_00053_male.wav,output/phone_00053_male.wav,전화번호는 공일공 칠사오이 칠육오구이에요.,010-7452-7659,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00054_male.wav,output/phone_00054_male.wav,제 전화번호는 공일공 공구오삼 팔사칠오입니다.,010-0953-8475,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00055_male.wav,output/phone_00055_male.wav,전화는 공일공 삼구삼육 공이구오으로 주시면 됩니다.,010-3936-0295,male,ko-KR-InJoonNeural,1
+phone_00056_male.wav,output/phone_00056_male.wav,전화는 공일공 사육공이 팔육육팔으로 주시면 됩니다.,010-4602-8668,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00057_female.wav,output/phone_00057_female.wav,전화는 공일공 삼사칠이 일공육이으로 주시면 됩니다.,010-3472-1062,female,ko-KR-SunHiNeural,1
+phone_00058_male.wav,output/phone_00058_male.wav,제 전화번호는 공일공 사삼일일 삼구구삼입니다.,010-4311-3993,male,ko-KR-InJoonNeural,1
+phone_00059_female.wav,output/phone_00059_female.wav,문의는 공일공 공삼삼공 육팔삼삼으로 주세요.,010-0330-6833,female,ko-KR-SunHiNeural,1
+phone_00060_female.wav,output/phone_00060_female.wav,제 번호는 공일공 일이이팔 칠이팔칠입니다.,010-1228-7287,female,ko-KR-SunHiNeural,1
+phone_00061_female.wav,output/phone_00061_female.wav,제 전화번호는 공일공 이공오칠 공사구삼입니다.,010-2057-0493,female,ko-KR-SunHiNeural,1
+phone_00062_male.wav,output/phone_00062_male.wav,연락처는 공일공 팔삼사공 삼이오오입니다.,010-8340-3255,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00063_male.wav,output/phone_00063_male.wav,연락처는 공일공 사오삼공 팔공육오입니다.,010-4530-8065,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00064_female.wav,output/phone_00064_female.wav,문자 주실 번호는 공일공 일칠일일 삼구이일입니다.,010-1711-3921,female,ko-KR-SunHiNeural,1
+phone_00065_male.wav,output/phone_00065_male.wav,번호 알려드릴게요. 공일공 육육팔공 칠칠삼이입니다.,010-6680-7732,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00066_male.wav,output/phone_00066_male.wav,전화는 공일공 육오사구 팔팔오일으로 주시면 됩니다.,010-6549-8851,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00067_female.wav,output/phone_00067_female.wav,문자 주실 번호는 공일공 구일삼삼 공사삼공입니다.,010-9133-0430,female,ko-KR-SunHiNeural,1
+phone_00068_male.wav,output/phone_00068_male.wav,전화는 공일공 구일공공 공칠칠칠으로 주시면 됩니다.,010-9100-0777,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00069_male.wav,output/phone_00069_male.wav,문자 주실 번호는 공일공 일이오구 공육삼이입니다.,010-1259-0632,male,ko-KR-InJoonNeural,1
+phone_00070_female.wav,output/phone_00070_female.wav,휴대폰 번호는 공일공 칠육육구 공공일오입니다.,010-7669-0015,female,ko-KR-SunHiNeural,1
+phone_00071_male.wav,output/phone_00071_male.wav,문의는 공일공 사일일팔 구팔팔사으로 주세요.,010-4118-9884,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00072_male.wav,output/phone_00072_male.wav,전화는 공일공 공이공이 공사구팔으로 주시면 됩니다.,010-0202-0498,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00073_male.wav,output/phone_00073_male.wav,전화는 공일공 사구사구 이공오오으로 주시면 됩니다.,010-4949-2055,male,ko-KR-InJoonNeural,1
+phone_00074_female.wav,output/phone_00074_female.wav,제 번호는 공일공 이구삼팔 삼오공오입니다.,010-2938-3505,female,ko-KR-SunHiNeural,1
+phone_00075_male.wav,output/phone_00075_male.wav,제 번호는 공일공 팔칠칠오 팔이육삼입니다.,010-8775-8263,male,ko-KR-InJoonNeural,1
+phone_00076_male.wav,output/phone_00076_male.wav,번호 알려드릴게요. 공일공 오공육이 팔삼육오입니다.,010-5062-8365,male,ko-KR-InJoonNeural,1
+phone_00077_female.wav,output/phone_00077_female.wav,제 전화번호는 공일공 오공육팔 공육삼이입니다.,010-5068-0632,female,ko-KR-SunHiNeural,1
+phone_00078_male.wav,output/phone_00078_male.wav,제 전화번호는 공일공 팔오이사 공공구공입니다.,010-8524-0090,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00079_male.wav,output/phone_00079_male.wav,문자 주실 번호는 공일공 일육구일 칠사팔칠입니다.,010-1691-7487,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00080_male.wav,output/phone_00080_male.wav,문자 주실 번호는 공일공 칠육일이 일육사이입니다.,010-7612-1642,male,ko-KR-InJoonNeural,1
+phone_00081_male.wav,output/phone_00081_male.wav,문자 주실 번호는 공일공 육오칠사 팔일공육입니다.,010-6574-8106,male,ko-KR-InJoonNeural,1
+phone_00082_male.wav,output/phone_00082_male.wav,문자 주실 번호는 공일공 삼칠칠공 구칠공삼입니다.,010-3770-9703,male,ko-KR-InJoonNeural,1
+phone_00083_male.wav,output/phone_00083_male.wav,연락 가능 번호는 공일공 사칠일오 삼구공사입니다.,010-4715-3904,male,ko-KR-InJoonNeural,1
+phone_00084_male.wav,output/phone_00084_male.wav,휴대폰 번호는 공일공 공팔육구 일사육공입니다.,010-0869-1460,male,ko-KR-InJoonNeural,1
+phone_00085_female.wav,output/phone_00085_female.wav,휴대폰 번호는 공일공 구칠사팔 이공공일입니다.,010-9748-2001,female,ko-KR-SunHiNeural,1
+phone_00086_male.wav,output/phone_00086_male.wav,전화번호는 공일공 오공육구 육구육공이에요.,010-5069-6960,male,ko-KR-InJoonNeural,1
+phone_00087_male.wav,output/phone_00087_male.wav,휴대폰 번호는 공일공 칠삼일팔 삼이구삼입니다.,010-7318-3293,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00088_male.wav,output/phone_00088_male.wav,문의는 공일공 사구팔일 이팔팔오으로 주세요.,010-4981-2885,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00089_male.wav,output/phone_00089_male.wav,휴대폰 번호는 공일공 구이삼공 공공일오입니다.,010-9230-0015,male,ko-KR-InJoonNeural,1
+phone_00090_female.wav,output/phone_00090_female.wav,연락처는 공일공 이오칠오 육칠오삼입니다.,010-2575-6753,female,ko-KR-SunHiNeural,1
+phone_00091_male.wav,output/phone_00091_male.wav,연락처는 공일공 공팔삼삼 공공팔오입니다.,010-0833-0085,male,ko-KR-InJoonNeural,1
+phone_00092_male.wav,output/phone_00092_male.wav,휴대폰 번호는 공일공 칠일오구 구공육구입니다.,010-7159-9069,male,ko-KR-InJoonNeural,1
+phone_00093_male.wav,output/phone_00093_male.wav,제 번호는 공일공 사오구공 이구일삼입니다.,010-4590-2913,male,ko-KR-InJoonNeural,1
+phone_00094_male.wav,output/phone_00094_male.wav,휴대폰 번호는 공일공 오육팔육 구삼팔공입니다.,010-5686-9380,male,ko-KR-InJoonNeural,1
+phone_00095_female.wav,output/phone_00095_female.wav,제 번호는 공일공 일공공삼 팔이육이입니다.,010-1003-8262,female,ko-KR-SunHiNeural,1
+phone_00096_female.wav,output/phone_00096_female.wav,번호 알려드릴게요. 공일공 이삼구칠 사오칠오입니다.,010-2397-4575,female,ko-KR-SunHiNeural,1
+phone_00097_female.wav,output/phone_00097_female.wav,연락처는 공일공 육구공팔 사오이팔입니다.,010-6908-4528,female,ko-KR-SunHiNeural,1
+phone_00098_male.wav,output/phone_00098_male.wav,제 전화번호는 공일공 공오오칠 이구팔삼입니다.,010-0557-2983,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00099_male.wav,output/phone_00099_male.wav,전화번호는 공일공 칠칠팔이 칠오오팔이에요.,010-7782-7558,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00100_female.wav,output/phone_00100_female.wav,전화는 공일공 오구사칠 육공삼사으로 주시면 됩니다.,010-5947-6034,female,ko-KR-SunHiNeural,1
+phone_00101_male.wav,output/phone_00101_male.wav,휴대폰 번호는 공일공 공일일사 육이육팔입니다.,010-0114-6268,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00102_male.wav,output/phone_00102_male.wav,번호 알려드릴게요. 공일공 일팔육팔 오칠이사입니다.,010-1868-5724,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00103_male.wav,output/phone_00103_male.wav,휴대폰 번호는 공일공 육팔칠이 구이구칠입니다.,010-6872-9297,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00104_female.wav,output/phone_00104_female.wav,연락 가능 번호는 공일공 칠사오육 이이구구입니다.,010-7456-2299,female,ko-KR-SunHiNeural,1
+phone_00105_male.wav,output/phone_00105_male.wav,연락처는 공일공 일사사이 사이일구입니다.,010-1442-4219,male,ko-KR-InJoonNeural,1
+phone_00106_male.wav,output/phone_00106_male.wav,연락 가능 번호는 공일공 일사구일 오사이삼입니다.,010-1491-5423,male,ko-KR-InJoonNeural,1
+phone_00107_female.wav,output/phone_00107_female.wav,제 번호는 공일공 이칠일칠 삼사오이입니다.,010-2717-3452,female,ko-KR-SunHiNeural,1
+phone_00108_male.wav,output/phone_00108_male.wav,연락 가능 번호는 공일공 육칠일팔 공육이칠입니다.,010-6718-0627,male,ko-KR-InJoonNeural,1
+phone_00109_female.wav,output/phone_00109_female.wav,번호 알려드릴게요. 공일공 사일칠육 삼사구이입니다.,010-4176-3492,female,ko-KR-SunHiNeural,1
+phone_00110_male.wav,output/phone_00110_male.wav,문의는 공일공 팔육칠팔 팔공구삼으로 주세요.,010-8678-8093,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00111_male.wav,output/phone_00111_male.wav,연락 가능 번호는 공일공 구오일공 칠구사구입니다.,010-9510-7949,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00112_female.wav,output/phone_00112_female.wav,휴대폰 번호는 공일공 오사칠팔 이공이팔입니다.,010-5478-2028,female,ko-KR-SunHiNeural,1
+phone_00113_male.wav,output/phone_00113_male.wav,제 전화번호는 공일공 삼팔육이 육육이구입니다.,010-3862-6629,male,ko-KR-InJoonNeural,1
+phone_00114_male.wav,output/phone_00114_male.wav,번호 알려드릴게요. 공일공 사이사오 오일육사입니다.,010-4245-5164,male,ko-KR-InJoonNeural,1
+phone_00115_female.wav,output/phone_00115_female.wav,전화는 공일공 칠삼구오 구구육칠으로 주시면 됩니다.,010-7395-9967,female,ko-KR-SunHiNeural,1
+phone_00116_female.wav,output/phone_00116_female.wav,전화번호는 공일공 삼구일일 구칠오오이에요.,010-3911-9755,female,ko-KR-SunHiNeural,1
+phone_00117_female.wav,output/phone_00117_female.wav,연락처는 공일공 이구삼육 팔일이칠입니다.,010-2936-8127,female,ko-KR-SunHiNeural,1
+phone_00118_female.wav,output/phone_00118_female.wav,번호 알려드릴게요. 공일공 칠오팔칠 사칠팔사입니다.,010-7587-4784,female,ko-KR-SunHiNeural,1
+phone_00119_male.wav,output/phone_00119_male.wav,연락 가능 번호는 공일공 구칠팔팔 삼오오사입니다.,010-9788-3554,male,ko-KR-InJoonNeural,1
+phone_00120_male.wav,output/phone_00120_male.wav,번호 알려드릴게요. 공일공 공육팔칠 육팔공이입니다.,010-0687-6802,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00121_female.wav,output/phone_00121_female.wav,휴대폰 번호는 공일공 육육사공 구일이칠입니다.,010-6640-9127,female,ko-KR-SunHiNeural,1
+phone_00122_male.wav,output/phone_00122_male.wav,문자 주실 번호는 공일공 공삼칠구 일팔육오입니다.,010-0379-1865,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00123_male.wav,output/phone_00123_male.wav,전화번호는 공일공 이팔일이 이공팔칠이에요.,010-2812-2087,male,ko-KR-InJoonNeural,1
+phone_00124_male.wav,output/phone_00124_male.wav,문의는 공일공 삼이육칠 팔구구육으로 주세요.,010-3267-8996,male,ko-KR-InJoonNeural,1
+phone_00125_female.wav,output/phone_00125_female.wav,휴대폰 번호는 공일공 구팔이이 칠이삼일입니다.,010-9822-7231,female,ko-KR-SunHiNeural,1
+phone_00126_male.wav,output/phone_00126_male.wav,번호 알려드릴게요. 공일공 팔삼공구 이구사칠입니다.,010-8309-2947,male,ko-KR-InJoonNeural,1
+phone_00127_male.wav,output/phone_00127_male.wav,휴대폰 번호는 공일공 팔삼육공 칠칠칠구입니다.,010-8360-7779,male,ko-KR-InJoonNeural,1
+phone_00128_female.wav,output/phone_00128_female.wav,문의는 공일공 공공이공 일오구삼으로 주세요.,010-0020-1593,female,ko-KR-SunHiNeural,1
+phone_00129_male.wav,output/phone_00129_male.wav,문의는 공일공 칠공사칠 팔칠공일으로 주세요.,010-7047-8701,male,ko-KR-InJoonNeural,1
+phone_00130_male.wav,output/phone_00130_male.wav,연락 가능 번호는 공일공 팔삼사삼 팔공이사입니다.,010-8343-8024,male,ko-KR-InJoonNeural,1
+phone_00131_female.wav,output/phone_00131_female.wav,문의는 공일공 육오사삼 칠구일칠으로 주세요.,010-6543-7917,female,ko-KR-SunHiNeural,1
+phone_00132_male.wav,output/phone_00132_male.wav,연락 가능 번호는 공일공 삼구이이 이칠오구입니다.,010-3922-2759,male,ko-KR-InJoonNeural,1
+phone_00133_male.wav,output/phone_00133_male.wav,연락 가능 번호는 공일공 이사육칠 오구팔팔입니다.,010-2467-5988,male,ko-KR-InJoonNeural,1
+phone_00134_female.wav,output/phone_00134_female.wav,연락처는 공일공 이육공사 팔삼삼구입니다.,010-2604-8339,female,ko-KR-SunHiNeural,1
+phone_00135_male.wav,output/phone_00135_male.wav,연락처는 공일공 사이칠사 일일구육입니다.,010-4274-1196,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00136_female.wav,output/phone_00136_female.wav,휴대폰 번호는 공일공 공칠사팔 구오칠공입니다.,010-0748-9570,female,ko-KR-SunHiNeural,1
+phone_00137_male.wav,output/phone_00137_male.wav,전화는 공일공 팔구공구 사칠사이으로 주시면 됩니다.,010-8909-4742,male,ko-KR-InJoonNeural,1
+phone_00138_male.wav,output/phone_00138_male.wav,휴대폰 번호는 공일공 칠칠오오 팔이사구입니다.,010-7755-8249,male,ko-KR-InJoonNeural,1
+phone_00139_male.wav,output/phone_00139_male.wav,제 번호는 공일공 칠오일구 일이오사입니다.,010-7519-1254,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00140_male.wav,output/phone_00140_male.wav,제 번호는 공일공 삼삼오팔 삼삼사일입니다.,010-3358-3341,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00141_male.wav,output/phone_00141_male.wav,전화는 공일공 일공이칠 사구구삼으로 주시면 됩니다.,010-1027-4993,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00142_female.wav,output/phone_00142_female.wav,연락처는 공일공 일구구사 칠오육이입니다.,010-1994-7562,female,ko-KR-SunHiNeural,1
+phone_00143_female.wav,output/phone_00143_female.wav,문의는 공일공 이팔공칠 이삼육칠으로 주세요.,010-2807-2367,female,ko-KR-SunHiNeural,1
+phone_00144_male.wav,output/phone_00144_male.wav,전화번호는 공일공 공구구팔 사칠구육이에요.,010-0998-4796,male,ko-KR-InJoonNeural,1
+phone_00145_female.wav,output/phone_00145_female.wav,휴대폰 번호는 공일공 삼칠칠공 구칠오삼입니다.,010-3770-9753,female,ko-KR-SunHiNeural,1
+phone_00146_male.wav,output/phone_00146_male.wav,휴대폰 번호는 공일공 칠육공사 팔구이구입니다.,010-7604-8929,male,ko-KR-InJoonNeural,1
+phone_00147_male.wav,output/phone_00147_male.wav,연락 가능 번호는 공일공 칠일칠일 삼구팔이입니다.,010-7171-3982,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00148_male.wav,output/phone_00148_male.wav,전화번호는 공일공 오일일구 칠이일칠이에요.,010-5119-7217,male,ko-KR-InJoonNeural,1
+phone_00149_female.wav,output/phone_00149_female.wav,번호 알려드릴게요. 공일공 오구사오 공공칠팔입니다.,010-5945-0078,female,ko-KR-SunHiNeural,1
+phone_00150_male.wav,output/phone_00150_male.wav,문자 주실 번호는 공일공 공칠사이 구삼일일입니다.,010-0742-9311,male,ko-KR-InJoonNeural,1
+phone_00151_male.wav,output/phone_00151_male.wav,문자 주실 번호는 공일공 육이공구 공이팔공입니다.,010-6209-0280,male,ko-KR-InJoonNeural,1
+phone_00152_male.wav,output/phone_00152_male.wav,전화는 공일공 팔사일팔 공삼육삼으로 주시면 됩니다.,010-8418-0363,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00153_male.wav,output/phone_00153_male.wav,전화는 공일공 칠오오팔 사구팔육으로 주시면 됩니다.,010-7558-4986,male,ko-KR-InJoonNeural,1
+phone_00154_female.wav,output/phone_00154_female.wav,제 번호는 공일공 일육일사 팔팔팔구입니다.,010-1614-8889,female,ko-KR-SunHiNeural,1
+phone_00155_female.wav,output/phone_00155_female.wav,문의는 공일공 삼팔팔일 육이오이으로 주세요.,010-3881-6252,female,ko-KR-SunHiNeural,1
+phone_00156_male.wav,output/phone_00156_male.wav,전화는 공일공 삼삼공일 이육팔사으로 주시면 됩니다.,010-3301-2684,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00157_female.wav,output/phone_00157_female.wav,전화번호는 공일공 구팔육일 이삼오칠이에요.,010-9861-2357,female,ko-KR-SunHiNeural,1
+phone_00158_male.wav,output/phone_00158_male.wav,번호 알려드릴게요. 공일공 이일일팔 오삼칠칠입니다.,010-2118-5377,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00159_female.wav,output/phone_00159_female.wav,전화번호는 공일공 칠구사이 삼오구삼이에요.,010-7942-3593,female,ko-KR-SunHiNeural,1
+phone_00160_male.wav,output/phone_00160_male.wav,연락 가능 번호는 공일공 구육구구 칠팔삼팔입니다.,010-9699-7838,male,ko-KR-InJoonNeural,1
+phone_00161_male.wav,output/phone_00161_male.wav,휴대폰 번호는 공일공 이공사팔 구칠사구입니다.,010-2048-9749,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00162_male.wav,output/phone_00162_male.wav,문자 주실 번호는 공일공 공오이칠 일칠공삼입니다.,010-0527-1703,male,ko-KR-InJoonNeural,1
+phone_00163_male.wav,output/phone_00163_male.wav,휴대폰 번호는 공일공 팔사일팔 오오이일입니다.,010-8418-5521,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00164_male.wav,output/phone_00164_male.wav,제 번호는 공일공 구사구팔 삼공오이입니다.,010-9498-3052,male,ko-KR-InJoonNeural,1
+phone_00165_female.wav,output/phone_00165_female.wav,전화번호는 공일공 사삼칠팔 구칠팔이이에요.,010-4378-9782,female,ko-KR-SunHiNeural,1
+phone_00166_male.wav,output/phone_00166_male.wav,번호 알려드릴게요. 공일공 오육일오 일삼사삼입니다.,010-5615-1343,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00167_male.wav,output/phone_00167_male.wav,제 전화번호는 공일공 육이칠사 구구칠칠입니다.,010-6274-9977,male,ko-KR-InJoonNeural,1
+phone_00168_male.wav,output/phone_00168_male.wav,전화번호는 공일공 육일칠삼 오삼일팔이에요.,010-6173-5318,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00169_male.wav,output/phone_00169_male.wav,전화번호는 공일공 이칠이공 팔사팔사이에요.,010-2720-8484,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00170_male.wav,output/phone_00170_male.wav,번호 알려드릴게요. 공일공 칠공육이 이삼일육입니다.,010-7062-2316,male,ko-KR-InJoonNeural,1
+phone_00171_female.wav,output/phone_00171_female.wav,문의는 공일공 삼일이이 오오구오으로 주세요.,010-3122-5595,female,ko-KR-SunHiNeural,1
+phone_00172_male.wav,output/phone_00172_male.wav,번호 알려드릴게요. 공일공 이삼공일 칠사육일입니다.,010-2301-7461,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00173_male.wav,output/phone_00173_male.wav,전화번호는 공일공 칠육육일 칠칠삼오이에요.,010-7661-7735,male,ko-KR-InJoonNeural,1
+phone_00174_female.wav,output/phone_00174_female.wav,전화번호는 공일공 구이이오 일사팔팔이에요.,010-9225-1488,female,ko-KR-SunHiNeural,1
+phone_00175_male.wav,output/phone_00175_male.wav,연락 가능 번호는 공일공 이육일구 이칠삼육입니다.,010-2619-2736,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00176_female.wav,output/phone_00176_female.wav,휴대폰 번호는 공일공 오칠일육 삼삼오오입니다.,010-5716-3355,female,ko-KR-SunHiNeural,1
+phone_00177_female.wav,output/phone_00177_female.wav,전화는 공일공 삼공사사 일육구칠으로 주시면 됩니다.,010-3044-1697,female,ko-KR-SunHiNeural,1
+phone_00178_male.wav,output/phone_00178_male.wav,연락 가능 번호는 공일공 사오사삼 오구일육입니다.,010-4543-5916,male,ko-KR-InJoonNeural,1
+phone_00179_female.wav,output/phone_00179_female.wav,제 전화번호는 공일공 오칠삼삼 이일일사입니다.,010-5733-2114,female,ko-KR-SunHiNeural,1
+phone_00180_male.wav,output/phone_00180_male.wav,제 번호는 공일공 팔일이이 칠오칠이입니다.,010-8122-7572,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00181_male.wav,output/phone_00181_male.wav,번호 알려드릴게요. 공일공 삼구공육 팔팔공칠입니다.,010-3906-8807,male,ko-KR-InJoonNeural,1
+phone_00182_male.wav,output/phone_00182_male.wav,연락 가능 번호는 공일공 팔공이구 팔삼육육입니다.,010-8029-8366,male,ko-KR-InJoonNeural,1
+phone_00183_female.wav,output/phone_00183_female.wav,문자 주실 번호는 공일공 육팔삼오 칠사구공입니다.,010-6835-7490,female,ko-KR-SunHiNeural,1
+phone_00184_male.wav,output/phone_00184_male.wav,연락 가능 번호는 공일공 이이사일 삼이공사입니다.,010-2241-3204,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00185_male.wav,output/phone_00185_male.wav,휴대폰 번호는 공일공 공삼칠칠 칠공육일입니다.,010-0377-7061,male,ko-KR-InJoonNeural,1
+phone_00186_female.wav,output/phone_00186_female.wav,전화는 공일공 이칠오삼 육팔팔칠으로 주시면 됩니다.,010-2753-6887,female,ko-KR-SunHiNeural,1
+phone_00187_male.wav,output/phone_00187_male.wav,연락 가능 번호는 공일공 육오일삼 팔공팔공입니다.,010-6513-8080,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00188_male.wav,output/phone_00188_male.wav,번호 알려드릴게요. 공일공 칠구일팔 삼사이공입니다.,010-7918-3420,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00189_male.wav,output/phone_00189_male.wav,제 번호는 공일공 구오일육 삼삼오사입니다.,010-9516-3354,male,ko-KR-InJoonNeural,1
+phone_00190_male.wav,output/phone_00190_male.wav,연락 가능 번호는 공일공 이삼팔삼 이팔구사입니다.,010-2383-2894,male,ko-KR-InJoonNeural,1
+phone_00191_male.wav,output/phone_00191_male.wav,문의는 공일공 칠육오일 오칠삼칠으로 주세요.,010-7651-5737,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00192_male.wav,output/phone_00192_male.wav,휴대폰 번호는 공일공 사육칠칠 구구공사입니다.,010-4677-9904,male,ko-KR-InJoonNeural,1
+phone_00193_male.wav,output/phone_00193_male.wav,제 전화번호는 공일공 오사사칠 육사이구입니다.,010-5447-6429,male,ko-KR-InJoonNeural,1
+phone_00194_male.wav,output/phone_00194_male.wav,번호 알려드릴게요. 공일공 구사삼삼 팔이육공입니다.,010-9433-8260,male,ko-KR-InJoonNeural,1
+phone_00195_male.wav,output/phone_00195_male.wav,제 전화번호는 공일공 공일오구 구이육팔입니다.,010-0159-9268,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00196_male.wav,output/phone_00196_male.wav,번호 알려드릴게요. 공일공 사삼칠오 일팔팔칠입니다.,010-4375-1887,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00197_male.wav,output/phone_00197_male.wav,휴대폰 번호는 공일공 구사사사 팔사공삼입니다.,010-9444-8403,male,ko-KR-InJoonNeural,1
+phone_00198_female.wav,output/phone_00198_female.wav,문의는 공일공 이칠삼구 삼사오이으로 주세요.,010-2739-3452,female,ko-KR-SunHiNeural,1
+phone_00199_male.wav,output/phone_00199_male.wav,연락 가능 번호는 공일공 구공이이 육사사칠입니다.,010-9022-6447,male,ko-KR-InJoonNeural,1
+phone_00200_male.wav,output/phone_00200_male.wav,연락처는 공일공 사구팔일 칠공칠일입니다.,010-4981-7071,male,ko-KR-InJoonNeural,1
+phone_00201_male.wav,output/phone_00201_male.wav,연락처는 공일공 칠육일구 구이삼팔입니다.,010-7619-9238,male,ko-KR-InJoonNeural,1
+phone_00202_male.wav,output/phone_00202_male.wav,제 번호는 공일공 공공사칠 사구이삼입니다.,010-0047-4923,male,ko-KR-InJoonNeural,1
+phone_00203_male.wav,output/phone_00203_male.wav,휴대폰 번호는 공일공 공오사육 일사팔팔입니다.,010-0546-1488,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00204_male.wav,output/phone_00204_male.wav,연락 가능 번호는 공일공 사이일공 공칠공일입니다.,010-4210-0701,male,ko-KR-InJoonNeural,1
+phone_00205_male.wav,output/phone_00205_male.wav,문의는 공일공 사이팔구 육공칠팔으로 주세요.,010-4289-6078,male,ko-KR-InJoonNeural,1
+phone_00206_male.wav,output/phone_00206_male.wav,휴대폰 번호는 공일공 이삼오육 오팔팔삼입니다.,010-2356-5883,male,ko-KR-InJoonNeural,1
+phone_00207_male.wav,output/phone_00207_male.wav,제 번호는 공일공 칠이사육 공칠오공입니다.,010-7246-0750,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00208_male.wav,output/phone_00208_male.wav,연락 가능 번호는 공일공 일칠일칠 일팔이일입니다.,010-1717-1821,male,ko-KR-InJoonNeural,1
+phone_00209_male.wav,output/phone_00209_male.wav,연락 가능 번호는 공일공 오공사칠 공구일일입니다.,010-5047-0911,male,ko-KR-InJoonNeural,1
+phone_00210_female.wav,output/phone_00210_female.wav,전화번호는 공일공 칠공삼오 구오공칠이에요.,010-7035-9507,female,ko-KR-SunHiNeural,1
+phone_00211_male.wav,output/phone_00211_male.wav,문의는 공일공 구칠팔칠 공육구공으로 주세요.,010-9787-0690,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00212_male.wav,output/phone_00212_male.wav,연락 가능 번호는 공일공 일팔사육 육공팔오입니다.,010-1846-6085,male,ko-KR-InJoonNeural,1
+phone_00213_male.wav,output/phone_00213_male.wav,문자 주실 번호는 공일공 삼일육일 칠이공삼입니다.,010-3161-7203,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00214_male.wav,output/phone_00214_male.wav,제 번호는 공일공 팔팔칠사 일사팔삼입니다.,010-8874-1483,male,ko-KR-InJoonNeural,1
+phone_00215_male.wav,output/phone_00215_male.wav,제 번호는 공일공 오공이사 삼구육공입니다.,010-5024-3960,male,ko-KR-InJoonNeural,1
+phone_00216_female.wav,output/phone_00216_female.wav,번호 알려드릴게요. 공일공 오팔구오 육공팔오입니다.,010-5895-6085,female,ko-KR-SunHiNeural,1
+phone_00217_female.wav,output/phone_00217_female.wav,문자 주실 번호는 공일공 삼칠팔공 팔팔이칠입니다.,010-3780-8827,female,ko-KR-SunHiNeural,1
+phone_00218_male.wav,output/phone_00218_male.wav,제 전화번호는 공일공 이칠오오 육팔삼육입니다.,010-2755-6836,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00219_male.wav,output/phone_00219_male.wav,제 전화번호는 공일공 이오육칠 오오사팔입니다.,010-2567-5548,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00220_female.wav,output/phone_00220_female.wav,문의는 공일공 팔오일삼 팔육사칠으로 주세요.,010-8513-8647,female,ko-KR-SunHiNeural,1
+phone_00221_male.wav,output/phone_00221_male.wav,전화번호는 공일공 구오육삼 육오육오이에요.,010-9563-6565,male,ko-KR-InJoonNeural,1
+phone_00222_female.wav,output/phone_00222_female.wav,문의는 공일공 이공팔팔 삼육사이으로 주세요.,010-2088-3642,female,ko-KR-SunHiNeural,1
+phone_00223_female.wav,output/phone_00223_female.wav,제 번호는 공일공 공구삼공 삼공육육입니다.,010-0930-3066,female,ko-KR-SunHiNeural,1
+phone_00224_male.wav,output/phone_00224_male.wav,전화는 공일공 공이구구 삼칠육팔으로 주시면 됩니다.,010-0299-3768,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00225_male.wav,output/phone_00225_male.wav,연락 가능 번호는 공일공 일칠팔공 구일팔팔입니다.,010-1780-9188,male,ko-KR-InJoonNeural,1
+phone_00226_male.wav,output/phone_00226_male.wav,전화는 공일공 구삼칠공 육공육사으로 주시면 됩니다.,010-9370-6064,male,ko-KR-InJoonNeural,1
+phone_00227_female.wav,output/phone_00227_female.wav,전화번호는 공일공 이일오일 육일이육이에요.,010-2151-6126,female,ko-KR-SunHiNeural,1
+phone_00228_male.wav,output/phone_00228_male.wav,연락 가능 번호는 공일공 오육일일 이일삼이입니다.,010-5611-2132,male,ko-KR-InJoonNeural,1
+phone_00229_male.wav,output/phone_00229_male.wav,연락처는 공일공 사육일사 구구사이입니다.,010-4614-9942,male,ko-KR-InJoonNeural,1
+phone_00230_male.wav,output/phone_00230_male.wav,문의는 공일공 이사삼칠 육구오사으로 주세요.,010-2437-6954,male,ko-KR-InJoonNeural,1
+phone_00231_female.wav,output/phone_00231_female.wav,휴대폰 번호는 공일공 팔삼일구 공공구이입니다.,010-8319-0092,female,ko-KR-SunHiNeural,1
+phone_00232_female.wav,output/phone_00232_female.wav,문자 주실 번호는 공일공 육사삼육 구육이일입니다.,010-6436-9621,female,ko-KR-SunHiNeural,1
+phone_00233_female.wav,output/phone_00233_female.wav,연락처는 공일공 육일공오 칠삼육일입니다.,010-6105-7361,female,ko-KR-SunHiNeural,1
+phone_00234_male.wav,output/phone_00234_male.wav,연락 가능 번호는 공일공 삼공팔공 이칠팔공입니다.,010-3080-2780,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00235_female.wav,output/phone_00235_female.wav,휴대폰 번호는 공일공 삼구공일 팔육오일입니다.,010-3901-8651,female,ko-KR-SunHiNeural,1
+phone_00236_male.wav,output/phone_00236_male.wav,문자 주실 번호는 공일공 팔공사공 칠일오삼입니다.,010-8040-7153,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00237_male.wav,output/phone_00237_male.wav,휴대폰 번호는 공일공 오일팔공 칠이팔이입니다.,010-5180-7282,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00238_male.wav,output/phone_00238_male.wav,휴대폰 번호는 공일공 사팔공팔 칠공삼이입니다.,010-4808-7032,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00239_female.wav,output/phone_00239_female.wav,제 번호는 공일공 일삼사육 구칠오육입니다.,010-1346-9756,female,ko-KR-SunHiNeural,1
+phone_00240_male.wav,output/phone_00240_male.wav,전화는 공일공 구일구구 육육이팔으로 주시면 됩니다.,010-9199-6628,male,ko-KR-InJoonNeural,1
+phone_00241_female.wav,output/phone_00241_female.wav,전화번호는 공일공 공구팔삼 삼일삼삼이에요.,010-0983-3133,female,ko-KR-SunHiNeural,1
+phone_00242_female.wav,output/phone_00242_female.wav,연락 가능 번호는 공일공 육구칠육 이칠팔사입니다.,010-6976-2784,female,ko-KR-SunHiNeural,1
+phone_00243_female.wav,output/phone_00243_female.wav,전화는 공일공 이육삼오 오칠구사으로 주시면 됩니다.,010-2635-5794,female,ko-KR-SunHiNeural,1
+phone_00244_male.wav,output/phone_00244_male.wav,연락 가능 번호는 공일공 구칠팔사 이공사오입니다.,010-9784-2045,male,ko-KR-InJoonNeural,1
+phone_00245_male.wav,output/phone_00245_male.wav,문자 주실 번호는 공일공 육사사이 삼사공이입니다.,010-6442-3402,male,ko-KR-InJoonNeural,1
+phone_00246_female.wav,output/phone_00246_female.wav,번호 알려드릴게요. 공일공 일삼팔이 일칠사이입니다.,010-1382-1742,female,ko-KR-SunHiNeural,1
+phone_00247_male.wav,output/phone_00247_male.wav,문자 주실 번호는 공일공 육공이사 일팔팔육입니다.,010-6024-1886,male,ko-KR-InJoonNeural,1
+phone_00248_male.wav,output/phone_00248_male.wav,번호 알려드릴게요. 공일공 이사오구 삼공육칠입니다.,010-2459-3067,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00249_female.wav,output/phone_00249_female.wav,문자 주실 번호는 공일공 육팔칠공 오구오육입니다.,010-6870-5956,female,ko-KR-SunHiNeural,1
+phone_00250_female.wav,output/phone_00250_female.wav,휴대폰 번호는 공일공 이삼육삼 육육공구입니다.,010-2363-6609,female,ko-KR-SunHiNeural,1
+phone_00251_male.wav,output/phone_00251_male.wav,제 번호는 공일공 칠칠구공 구오삼이입니다.,010-7790-9532,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00252_male.wav,output/phone_00252_male.wav,제 전화번호는 공일공 일구사이 육공삼구입니다.,010-1942-6039,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00253_male.wav,output/phone_00253_male.wav,연락 가능 번호는 공일공 일육공구 오이공오입니다.,010-1609-5205,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00254_male.wav,output/phone_00254_male.wav,문의는 공일공 사구육사 오오구구으로 주세요.,010-4964-5599,male,ko-KR-InJoonNeural,1
+phone_00255_male.wav,output/phone_00255_male.wav,제 번호는 공일공 구구팔오 삼이삼구입니다.,010-9985-3239,male,ko-KR-InJoonNeural,1
+phone_00256_male.wav,output/phone_00256_male.wav,문자 주실 번호는 공일공 오이구공 일사공팔입니다.,010-5290-1408,male,ko-KR-InJoonNeural,1
+phone_00257_male.wav,output/phone_00257_male.wav,연락처는 공일공 팔일사삼 일공삼삼입니다.,010-8143-1033,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00258_female.wav,output/phone_00258_female.wav,제 번호는 공일공 일공사공 팔공오칠입니다.,010-1040-8057,female,ko-KR-SunHiNeural,1
+phone_00259_male.wav,output/phone_00259_male.wav,휴대폰 번호는 공일공 일삼사팔 팔사육팔입니다.,010-1348-8468,male,ko-KR-InJoonNeural,1
+phone_00260_male.wav,output/phone_00260_male.wav,문자 주실 번호는 공일공 일칠육육 구구사삼입니다.,010-1766-9943,male,ko-KR-InJoonNeural,1
+phone_00261_male.wav,output/phone_00261_male.wav,제 전화번호는 공일공 공육삼육 공삼삼공입니다.,010-0636-0330,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00262_female.wav,output/phone_00262_female.wav,휴대폰 번호는 공일공 사삼육삼 이팔삼칠입니다.,010-4363-2837,female,ko-KR-SunHiNeural,1
+phone_00263_female.wav,output/phone_00263_female.wav,전화는 공일공 육구칠이 팔공팔일으로 주시면 됩니다.,010-6972-8081,female,ko-KR-SunHiNeural,1
+phone_00264_male.wav,output/phone_00264_male.wav,연락 가능 번호는 공일공 사일일삼 일팔구오입니다.,010-4113-1895,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00265_female.wav,output/phone_00265_female.wav,전화번호는 공일공 구구칠팔 칠팔공구이에요.,010-9978-7809,female,ko-KR-SunHiNeural,1
+phone_00266_male.wav,output/phone_00266_male.wav,문자 주실 번호는 공일공 칠사삼육 일이칠오입니다.,010-7436-1275,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00267_female.wav,output/phone_00267_female.wav,전화번호는 공일공 팔구삼이 칠오구사이에요.,010-8932-7594,female,ko-KR-SunHiNeural,1
+phone_00268_female.wav,output/phone_00268_female.wav,문자 주실 번호는 공일공 구팔공구 이이공공입니다.,010-9809-2200,female,ko-KR-SunHiNeural,1
+phone_00269_male.wav,output/phone_00269_male.wav,문자 주실 번호는 공일공 공육육오 일구오육입니다.,010-0665-1956,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00270_male.wav,output/phone_00270_male.wav,번호 알려드릴게요. 공일공 칠구오사 삼칠구육입니다.,010-7954-3796,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00271_male.wav,output/phone_00271_male.wav,연락 가능 번호는 공일공 오공일오 삼팔공사입니다.,010-5015-3804,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00272_male.wav,output/phone_00272_male.wav,번호 알려드릴게요. 공일공 삼구공칠 육삼삼삼입니다.,010-3907-6333,male,ko-KR-InJoonNeural,1
+phone_00273_female.wav,output/phone_00273_female.wav,번호 알려드릴게요. 공일공 구이공이 이공오팔입니다.,010-9202-2058,female,ko-KR-SunHiNeural,1
+phone_00274_male.wav,output/phone_00274_male.wav,번호 알려드릴게요. 공일공 사팔오구 칠이일사입니다.,010-4859-7214,male,ko-KR-InJoonNeural,1
+phone_00275_male.wav,output/phone_00275_male.wav,제 번호는 공일공 오사이칠 구육칠공입니다.,010-5427-9670,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00276_female.wav,output/phone_00276_female.wav,연락처는 공일공 공일삼육 일육삼삼입니다.,010-0136-1633,female,ko-KR-SunHiNeural,1
+phone_00277_female.wav,output/phone_00277_female.wav,제 번호는 공일공 오오오오 칠육오구입니다.,010-5555-7659,female,ko-KR-SunHiNeural,1
+phone_00278_male.wav,output/phone_00278_male.wav,문자 주실 번호는 공일공 삼일이오 구삼칠팔입니다.,010-3125-9378,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00279_male.wav,output/phone_00279_male.wav,휴대폰 번호는 공일공 육삼삼이 삼육공칠입니다.,010-6332-3607,male,ko-KR-InJoonNeural,1
+phone_00280_male.wav,output/phone_00280_male.wav,번호 알려드릴게요. 공일공 삼칠구칠 칠칠공구입니다.,010-3797-7709,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00281_female.wav,output/phone_00281_female.wav,번호 알려드릴게요. 공일공 구구칠공 사구이오입니다.,010-9970-4925,female,ko-KR-SunHiNeural,1
+phone_00282_male.wav,output/phone_00282_male.wav,전화번호는 공일공 삼육일오 육오구팔이에요.,010-3615-6598,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00283_female.wav,output/phone_00283_female.wav,연락 가능 번호는 공일공 구팔육공 육이칠일입니다.,010-9860-6271,female,ko-KR-SunHiNeural,1
+phone_00284_female.wav,output/phone_00284_female.wav,휴대폰 번호는 공일공 팔일일이 구육일구입니다.,010-8112-9619,female,ko-KR-SunHiNeural,1
+phone_00285_male.wav,output/phone_00285_male.wav,제 전화번호는 공일공 이삼사공 사칠오구입니다.,010-2340-4759,male,ko-KR-InJoonNeural,1
+phone_00286_male.wav,output/phone_00286_male.wav,연락 가능 번호는 공일공 일이이육 공이사삼입니다.,010-1226-0243,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00287_female.wav,output/phone_00287_female.wav,연락처는 공일공 사육오오 공사팔삼입니다.,010-4655-0483,female,ko-KR-SunHiNeural,1
+phone_00288_male.wav,output/phone_00288_male.wav,연락 가능 번호는 공일공 사오사육 공일사오입니다.,010-4546-0145,male,ko-KR-InJoonNeural,1
+phone_00289_male.wav,output/phone_00289_male.wav,문자 주실 번호는 공일공 사삼칠오 칠사팔구입니다.,010-4375-7489,male,ko-KR-InJoonNeural,1
+phone_00290_male.wav,output/phone_00290_male.wav,문자 주실 번호는 공일공 칠공사팔 사오팔오입니다.,010-7048-4585,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00291_female.wav,output/phone_00291_female.wav,제 전화번호는 공일공 일구일팔 일삼삼삼입니다.,010-1918-1333,female,ko-KR-SunHiNeural,1
+phone_00292_male.wav,output/phone_00292_male.wav,휴대폰 번호는 공일공 오사삼공 공육삼사입니다.,010-5430-0634,male,ko-KR-InJoonNeural,1
+phone_00293_male.wav,output/phone_00293_male.wav,제 전화번호는 공일공 구팔팔오 오칠일일입니다.,010-9885-5711,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00294_male.wav,output/phone_00294_male.wav,제 전화번호는 공일공 오오공구 육팔구칠입니다.,010-5509-6897,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00295_male.wav,output/phone_00295_male.wav,제 전화번호는 공일공 팔이삼육 구사칠팔입니다.,010-8236-9478,male,ko-KR-InJoonNeural,1
+phone_00296_male.wav,output/phone_00296_male.wav,휴대폰 번호는 공일공 사공공육 오일오칠입니다.,010-4006-5157,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00297_male.wav,output/phone_00297_male.wav,문의는 공일공 오구일칠 이삼구오으로 주세요.,010-5917-2395,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00298_male.wav,output/phone_00298_male.wav,제 전화번호는 공일공 공오공오 칠구삼사입니다.,010-0505-7934,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00299_male.wav,output/phone_00299_male.wav,제 전화번호는 공일공 사이삼이 공이오육입니다.,010-4232-0256,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00300_female.wav,output/phone_00300_female.wav,제 전화번호는 공일공 사일오사 구육육일입니다.,010-4154-9661,female,ko-KR-SunHiNeural,1
+phone_00301_male.wav,output/phone_00301_male.wav,전화는 공일공 구공구공 이칠팔사으로 주시면 됩니다.,010-9090-2784,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00302_male.wav,output/phone_00302_male.wav,문자 주실 번호는 공일공 일삼삼오 이팔오육입니다.,010-1335-2856,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00303_male.wav,output/phone_00303_male.wav,제 전화번호는 공일공 오칠팔이 일일공삼입니다.,010-5782-1103,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00304_male.wav,output/phone_00304_male.wav,전화는 공일공 육구구오 육구육사으로 주시면 됩니다.,010-6995-6964,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00305_female.wav,output/phone_00305_female.wav,문자 주실 번호는 공일공 일구구팔 삼삼사오입니다.,010-1998-3345,female,ko-KR-SunHiNeural,1
+phone_00306_female.wav,output/phone_00306_female.wav,제 번호는 공일공 삼공이삼 팔구팔사입니다.,010-3023-8984,female,ko-KR-SunHiNeural,1
+phone_00307_male.wav,output/phone_00307_male.wav,전화는 공일공 구육칠구 구일이일으로 주시면 됩니다.,010-9679-9121,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00308_male.wav,output/phone_00308_male.wav,문의는 공일공 구이사일 삼육삼팔으로 주세요.,010-9241-3638,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00309_female.wav,output/phone_00309_female.wav,문의는 공일공 일오공오 칠공일팔으로 주세요.,010-1505-7018,female,ko-KR-SunHiNeural,1
+phone_00310_male.wav,output/phone_00310_male.wav,제 번호는 공일공 일팔오일 오사구일입니다.,010-1851-5491,male,ko-KR-InJoonNeural,1
+phone_00311_male.wav,output/phone_00311_male.wav,휴대폰 번호는 공일공 이구팔팔 팔팔이사입니다.,010-2988-8824,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00312_male.wav,output/phone_00312_male.wav,제 번호는 공일공 육이일칠 구이사공입니다.,010-6217-9240,male,ko-KR-InJoonNeural,1
+phone_00313_male.wav,output/phone_00313_male.wav,전화는 공일공 육구팔구 오구공삼으로 주시면 됩니다.,010-6989-5903,male,ko-KR-InJoonNeural,1
+phone_00314_female.wav,output/phone_00314_female.wav,제 번호는 공일공 오삼팔이 칠오사칠입니다.,010-5382-7547,female,ko-KR-SunHiNeural,1
+phone_00315_male.wav,output/phone_00315_male.wav,전화번호는 공일공 팔구칠삼 공사오칠이에요.,010-8973-0457,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00316_male.wav,output/phone_00316_male.wav,연락 가능 번호는 공일공 오삼일삼 구삼팔육입니다.,010-5313-9386,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00317_female.wav,output/phone_00317_female.wav,연락처는 공일공 육사사팔 팔팔공이입니다.,010-6448-8802,female,ko-KR-SunHiNeural,1
+phone_00318_female.wav,output/phone_00318_female.wav,연락처는 공일공 일칠육오 구칠공사입니다.,010-1765-9704,female,ko-KR-SunHiNeural,1
+phone_00319_female.wav,output/phone_00319_female.wav,전화번호는 공일공 사이칠육 육사삼이이에요.,010-4276-6432,female,ko-KR-SunHiNeural,1
+phone_00320_male.wav,output/phone_00320_male.wav,연락 가능 번호는 공일공 사이이칠 구육구오입니다.,010-4227-9695,male,ko-KR-InJoonNeural,1
+phone_00321_female.wav,output/phone_00321_female.wav,휴대폰 번호는 공일공 공일육삼 구사일오입니다.,010-0163-9415,female,ko-KR-SunHiNeural,1
+phone_00322_female.wav,output/phone_00322_female.wav,연락처는 공일공 사사공일 육공구삼입니다.,010-4401-6093,female,ko-KR-SunHiNeural,1
+phone_00323_female.wav,output/phone_00323_female.wav,연락처는 공일공 칠이오구 일오오일입니다.,010-7259-1551,female,ko-KR-SunHiNeural,1
+phone_00324_male.wav,output/phone_00324_male.wav,문자 주실 번호는 공일공 공구삼칠 오이공육입니다.,010-0937-5206,male,ko-KR-InJoonNeural,1
+phone_00325_male.wav,output/phone_00325_male.wav,휴대폰 번호는 공일공 육이팔팔 이삼이일입니다.,010-6288-2321,male,ko-KR-InJoonNeural,1
+phone_00326_male.wav,output/phone_00326_male.wav,제 전화번호는 공일공 팔오이오 삼오공이입니다.,010-8525-3502,male,ko-KR-InJoonNeural,1
+phone_00327_male.wav,output/phone_00327_male.wav,전화는 공일공 이사공칠 육구육구으로 주시면 됩니다.,010-2407-6969,male,ko-KR-InJoonNeural,1
+phone_00328_male.wav,output/phone_00328_male.wav,문자 주실 번호는 공일공 사구공공 삼이삼공입니다.,010-4900-3230,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00329_male.wav,output/phone_00329_male.wav,문자 주실 번호는 공일공 육칠오이 오오칠이입니다.,010-6752-5572,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00330_female.wav,output/phone_00330_female.wav,제 전화번호는 공일공 사일오팔 육구사구입니다.,010-4158-6949,female,ko-KR-SunHiNeural,1
+phone_00331_male.wav,output/phone_00331_male.wav,제 번호는 공일공 일이공구 이일일팔입니다.,010-1209-2118,male,ko-KR-InJoonNeural,1
+phone_00332_male.wav,output/phone_00332_male.wav,연락처는 공일공 구오오구 오이오일입니다.,010-9559-5251,male,ko-KR-InJoonNeural,1
+phone_00333_female.wav,output/phone_00333_female.wav,전화는 공일공 일칠오칠 공구공육으로 주시면 됩니다.,010-1757-0906,female,ko-KR-SunHiNeural,1
+phone_00334_male.wav,output/phone_00334_male.wav,휴대폰 번호는 공일공 사공오오 오이이삼입니다.,010-4055-5223,male,ko-KR-InJoonNeural,1
+phone_00335_male.wav,output/phone_00335_male.wav,연락 가능 번호는 공일공 공이팔일 육칠사공입니다.,010-0281-6740,male,ko-KR-InJoonNeural,1
+phone_00336_male.wav,output/phone_00336_male.wav,문의는 공일공 구구오칠 공육오팔으로 주세요.,010-9957-0658,male,ko-KR-InJoonNeural,1
+phone_00337_male.wav,output/phone_00337_male.wav,번호 알려드릴게요. 공일공 일일육칠 일사육오입니다.,010-1167-1465,male,ko-KR-InJoonNeural,1
+phone_00338_female.wav,output/phone_00338_female.wav,전화는 공일공 팔육이오 일육이공으로 주시면 됩니다.,010-8625-1620,female,ko-KR-SunHiNeural,1
+phone_00339_female.wav,output/phone_00339_female.wav,전화번호는 공일공 오이오칠 이일팔육이에요.,010-5257-2186,female,ko-KR-SunHiNeural,1
+phone_00340_male.wav,output/phone_00340_male.wav,제 번호는 공일공 칠삼사육 공구삼삼입니다.,010-7346-0933,male,ko-KR-InJoonNeural,1
+phone_00341_male.wav,output/phone_00341_male.wav,제 전화번호는 공일공 칠일일일 팔팔일일입니다.,010-7111-8811,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00342_male.wav,output/phone_00342_male.wav,번호 알려드릴게요. 공일공 삼오구일 구일이삼입니다.,010-3591-9123,male,ko-KR-InJoonNeural,1
+phone_00343_male.wav,output/phone_00343_male.wav,휴대폰 번호는 공일공 칠공일팔 일삼칠구입니다.,010-7018-1379,male,ko-KR-InJoonNeural,1
+phone_00344_male.wav,output/phone_00344_male.wav,문자 주실 번호는 공일공 공일팔삼 이구일일입니다.,010-0183-2911,male,ko-KR-InJoonNeural,1
+phone_00345_male.wav,output/phone_00345_male.wav,문자 주실 번호는 공일공 팔칠일오 이팔팔공입니다.,010-8715-2880,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00346_male.wav,output/phone_00346_male.wav,문자 주실 번호는 공일공 삼이일공 구구삼이입니다.,010-3210-9932,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00347_female.wav,output/phone_00347_female.wav,번호 알려드릴게요. 공일공 사일이공 사칠팔삼입니다.,010-4120-4783,female,ko-KR-SunHiNeural,1
+phone_00348_male.wav,output/phone_00348_male.wav,연락처는 공일공 일일일사 구삼육삼입니다.,010-1114-9363,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00349_female.wav,output/phone_00349_female.wav,전화는 공일공 오오이육 구칠팔칠으로 주시면 됩니다.,010-5526-9787,female,ko-KR-SunHiNeural,1
+phone_00350_male.wav,output/phone_00350_male.wav,전화는 공일공 삼이칠일 육칠오구으로 주시면 됩니다.,010-3271-6759,male,ko-KR-InJoonNeural,1
+phone_00351_male.wav,output/phone_00351_male.wav,문자 주실 번호는 공일공 팔공삼공 육삼일육입니다.,010-8030-6316,male,ko-KR-InJoonNeural,1
+phone_00352_female.wav,output/phone_00352_female.wav,제 번호는 공일공 칠오칠사 공구삼팔입니다.,010-7574-0938,female,ko-KR-SunHiNeural,1
+phone_00353_male.wav,output/phone_00353_male.wav,휴대폰 번호는 공일공 오이일오 팔삼사칠입니다.,010-5215-8347,male,ko-KR-InJoonNeural,1
+phone_00354_female.wav,output/phone_00354_female.wav,문의는 공일공 육팔육삼 구삼일팔으로 주세요.,010-6863-9318,female,ko-KR-SunHiNeural,1
+phone_00355_male.wav,output/phone_00355_male.wav,전화번호는 공일공 삼팔삼사 팔일일팔이에요.,010-3834-8118,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00356_male.wav,output/phone_00356_male.wav,문의는 공일공 오육구팔 삼칠칠일으로 주세요.,010-5698-3771,male,ko-KR-InJoonNeural,1
+phone_00357_male.wav,output/phone_00357_male.wav,연락 가능 번호는 공일공 일삼육삼 공공일이입니다.,010-1363-0012,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00358_male.wav,output/phone_00358_male.wav,문자 주실 번호는 공일공 공구팔일 삼팔육공입니다.,010-0981-3860,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00359_male.wav,output/phone_00359_male.wav,연락 가능 번호는 공일공 공오오칠 삼삼이팔입니다.,010-0557-3328,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00360_male.wav,output/phone_00360_male.wav,제 번호는 공일공 칠구구이 이칠오공입니다.,010-7992-2750,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00361_male.wav,output/phone_00361_male.wav,문자 주실 번호는 공일공 오육구공 칠오오육입니다.,010-5690-7556,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00362_female.wav,output/phone_00362_female.wav,제 전화번호는 공일공 구사이공 육공사오입니다.,010-9420-6045,female,ko-KR-SunHiNeural,1
+phone_00363_male.wav,output/phone_00363_male.wav,연락처는 공일공 팔삼팔공 팔사구사입니다.,010-8380-8494,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00364_male.wav,output/phone_00364_male.wav,연락 가능 번호는 공일공 이육칠구 사일공사입니다.,010-2679-4104,male,ko-KR-InJoonNeural,1
+phone_00365_female.wav,output/phone_00365_female.wav,휴대폰 번호는 공일공 칠공팔삼 오칠칠칠입니다.,010-7083-5777,female,ko-KR-SunHiNeural,1
+phone_00366_male.wav,output/phone_00366_male.wav,번호 알려드릴게요. 공일공 오공오팔 일칠구팔입니다.,010-5058-1798,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00367_male.wav,output/phone_00367_male.wav,휴대폰 번호는 공일공 육삼육이 삼오팔칠입니다.,010-6362-3587,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00368_male.wav,output/phone_00368_male.wav,전화번호는 공일공 육팔구육 삼팔일삼이에요.,010-6896-3813,male,ko-KR-InJoonNeural,1
+phone_00369_male.wav,output/phone_00369_male.wav,연락 가능 번호는 공일공 오칠구구 공칠팔육입니다.,010-5799-0786,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00370_male.wav,output/phone_00370_male.wav,휴대폰 번호는 공일공 일구팔오 삼사오구입니다.,010-1985-3459,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00371_female.wav,output/phone_00371_female.wav,제 전화번호는 공일공 칠공일칠 오사육공입니다.,010-7017-5460,female,ko-KR-SunHiNeural,1
+phone_00372_female.wav,output/phone_00372_female.wav,전화는 공일공 구이사이 칠일구팔으로 주시면 됩니다.,010-9242-7198,female,ko-KR-SunHiNeural,1
+phone_00373_female.wav,output/phone_00373_female.wav,제 번호는 공일공 팔사삼삼 육육사공입니다.,010-8433-6640,female,ko-KR-SunHiNeural,1
+phone_00374_male.wav,output/phone_00374_male.wav,번호 알려드릴게요. 공일공 공팔육이 일일칠삼입니다.,010-0862-1173,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00375_female.wav,output/phone_00375_female.wav,제 번호는 공일공 육이공이 이구팔일입니다.,010-6202-2981,female,ko-KR-SunHiNeural,1
+phone_00376_female.wav,output/phone_00376_female.wav,연락처는 공일공 이구팔사 팔육육공입니다.,010-2984-8660,female,ko-KR-SunHiNeural,1
+phone_00377_male.wav,output/phone_00377_male.wav,연락처는 공일공 일이일구 팔칠칠일입니다.,010-1219-8771,male,ko-KR-InJoonNeural,1
+phone_00378_female.wav,output/phone_00378_female.wav,제 전화번호는 공일공 구이칠삼 사이칠육입니다.,010-9273-4276,female,ko-KR-SunHiNeural,1
+phone_00379_male.wav,output/phone_00379_male.wav,번호 알려드릴게요. 공일공 일일삼공 이공사삼입니다.,010-1130-2043,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00380_male.wav,output/phone_00380_male.wav,휴대폰 번호는 공일공 사칠이구 일칠일삼입니다.,010-4729-1713,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00381_female.wav,output/phone_00381_female.wav,제 번호는 공일공 육팔이칠 이구사칠입니다.,010-6827-2947,female,ko-KR-SunHiNeural,1
+phone_00382_male.wav,output/phone_00382_male.wav,전화번호는 공일공 육공공오 이팔사구이에요.,010-6005-2849,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00383_male.wav,output/phone_00383_male.wav,제 번호는 공일공 오삼이오 오이일공입니다.,010-5325-5210,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00384_male.wav,output/phone_00384_male.wav,문자 주실 번호는 공일공 이팔이칠 칠육삼이입니다.,010-2827-7632,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00385_male.wav,output/phone_00385_male.wav,연락 가능 번호는 공일공 오팔일팔 일팔삼사입니다.,010-5818-1834,male,ko-KR-InJoonNeural,1
+phone_00386_male.wav,output/phone_00386_male.wav,연락 가능 번호는 공일공 일구구사 이일오칠입니다.,010-1994-2157,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00387_male.wav,output/phone_00387_male.wav,번호 알려드릴게요. 공일공 구구팔구 오사공이입니다.,010-9989-5402,male,ko-KR-InJoonNeural,1
+phone_00388_male.wav,output/phone_00388_male.wav,제 전화번호는 공일공 일이팔구 공삼일오입니다.,010-1289-0315,male,ko-KR-InJoonNeural,1
+phone_00389_male.wav,output/phone_00389_male.wav,문의는 공일공 칠오팔칠 칠이육사으로 주세요.,010-7587-7264,male,ko-KR-InJoonNeural,1
+phone_00390_male.wav,output/phone_00390_male.wav,문자 주실 번호는 공일공 육육일일 공이사사입니다.,010-6611-0244,male,ko-KR-InJoonNeural,1
+phone_00391_male.wav,output/phone_00391_male.wav,연락처는 공일공 오오구팔 공구팔구입니다.,010-5598-0989,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00392_female.wav,output/phone_00392_female.wav,휴대폰 번호는 공일공 구이칠공 오오사팔입니다.,010-9270-5548,female,ko-KR-SunHiNeural,1
+phone_00393_female.wav,output/phone_00393_female.wav,연락처는 공일공 육칠칠팔 육팔오일입니다.,010-6778-6851,female,ko-KR-SunHiNeural,1
+phone_00394_male.wav,output/phone_00394_male.wav,제 전화번호는 공일공 일일일공 칠공칠구입니다.,010-1110-7079,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00395_male.wav,output/phone_00395_male.wav,제 번호는 공일공 구구구칠 칠일팔일입니다.,010-9997-7181,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00396_female.wav,output/phone_00396_female.wav,문자 주실 번호는 공일공 공구구삼 일사공이입니다.,010-0993-1402,female,ko-KR-SunHiNeural,1
+phone_00397_female.wav,output/phone_00397_female.wav,문의는 공일공 구구팔사 육팔구칠으로 주세요.,010-9984-6897,female,ko-KR-SunHiNeural,1
+phone_00398_male.wav,output/phone_00398_male.wav,번호 알려드릴게요. 공일공 공삼공삼 팔사육오입니다.,010-0303-8465,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00399_female.wav,output/phone_00399_female.wav,문자 주실 번호는 공일공 구팔이공 일팔팔삼입니다.,010-9820-1883,female,ko-KR-SunHiNeural,1
+phone_00400_male.wav,output/phone_00400_male.wav,번호 알려드릴게요. 공일공 사삼오구 공구삼구입니다.,010-4359-0939,male,ko-KR-InJoonNeural,1
+phone_00401_male.wav,output/phone_00401_male.wav,휴대폰 번호는 공일공 칠삼칠육 사이공공입니다.,010-7376-4200,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00402_female.wav,output/phone_00402_female.wav,문의는 공일공 사오사오 이오이이으로 주세요.,010-4545-2522,female,ko-KR-SunHiNeural,1
+phone_00403_female.wav,output/phone_00403_female.wav,제 전화번호는 공일공 일팔사삼 칠삼구일입니다.,010-1843-7391,female,ko-KR-SunHiNeural,1
+phone_00404_female.wav,output/phone_00404_female.wav,연락처는 공일공 삼삼이일 칠오일사입니다.,010-3321-7514,female,ko-KR-SunHiNeural,1
+phone_00405_female.wav,output/phone_00405_female.wav,문자 주실 번호는 공일공 구구칠일 육이사사입니다.,010-9971-6244,female,ko-KR-SunHiNeural,1
+phone_00406_female.wav,output/phone_00406_female.wav,전화번호는 공일공 일육삼육 삼일팔오이에요.,010-1636-3185,female,ko-KR-SunHiNeural,1
+phone_00407_female.wav,output/phone_00407_female.wav,번호 알려드릴게요. 공일공 일팔사육 육팔팔구입니다.,010-1846-6889,female,ko-KR-SunHiNeural,1
+phone_00408_male.wav,output/phone_00408_male.wav,휴대폰 번호는 공일공 구팔사칠 팔육칠사입니다.,010-9847-8674,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00409_male.wav,output/phone_00409_male.wav,연락처는 공일공 구사팔구 사구칠공입니다.,010-9489-4970,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00410_male.wav,output/phone_00410_male.wav,제 번호는 공일공 칠구오구 사공칠이입니다.,010-7959-4072,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00411_male.wav,output/phone_00411_male.wav,연락 가능 번호는 공일공 오오이공 육이이팔입니다.,010-5520-6228,male,ko-KR-InJoonNeural,1
+phone_00412_male.wav,output/phone_00412_male.wav,전화는 공일공 육삼이이 사사삼사으로 주시면 됩니다.,010-6322-4434,male,ko-KR-InJoonNeural,1
+phone_00413_male.wav,output/phone_00413_male.wav,전화번호는 공일공 구이칠공 팔삼이삼이에요.,010-9270-8323,male,ko-KR-InJoonNeural,1
+phone_00414_male.wav,output/phone_00414_male.wav,번호 알려드릴게요. 공일공 이공공팔 칠구육공입니다.,010-2008-7960,male,ko-KR-InJoonNeural,1
+phone_00415_female.wav,output/phone_00415_female.wav,연락처는 공일공 사칠일팔 팔공이팔입니다.,010-4718-8028,female,ko-KR-SunHiNeural,1
+phone_00416_male.wav,output/phone_00416_male.wav,번호 알려드릴게요. 공일공 이공오삼 오이칠공입니다.,010-2053-5270,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00417_male.wav,output/phone_00417_male.wav,문의는 공일공 일이사이 사사삼구으로 주세요.,010-1242-4439,male,ko-KR-InJoonNeural,1
+phone_00418_female.wav,output/phone_00418_female.wav,번호 알려드릴게요. 공일공 구오이사 삼육오육입니다.,010-9524-3656,female,ko-KR-SunHiNeural,1
+phone_00419_female.wav,output/phone_00419_female.wav,제 번호는 공일공 이사이이 오이사구입니다.,010-2422-5249,female,ko-KR-SunHiNeural,1
+phone_00420_male.wav,output/phone_00420_male.wav,번호 알려드릴게요. 공일공 공삼칠구 삼오육사입니다.,010-0379-3564,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00421_male.wav,output/phone_00421_male.wav,연락처는 공일공 삼육삼사 구사공공입니다.,010-3634-9400,male,ko-KR-InJoonNeural,1
+phone_00422_female.wav,output/phone_00422_female.wav,전화는 공일공 팔삼팔공 공사공이으로 주시면 됩니다.,010-8380-0402,female,ko-KR-SunHiNeural,1
+phone_00423_female.wav,output/phone_00423_female.wav,전화번호는 공일공 구삼육공 이삼삼일이에요.,010-9360-2331,female,ko-KR-SunHiNeural,1
+phone_00424_male.wav,output/phone_00424_male.wav,번호 알려드릴게요. 공일공 칠삼팔팔 공일삼육입니다.,010-7388-0136,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00425_female.wav,output/phone_00425_female.wav,문자 주실 번호는 공일공 일오이육 육사이일입니다.,010-1526-6421,female,ko-KR-SunHiNeural,1
+phone_00426_female.wav,output/phone_00426_female.wav,문자 주실 번호는 공일공 구육이오 일공삼삼입니다.,010-9625-1033,female,ko-KR-SunHiNeural,1
+phone_00427_male.wav,output/phone_00427_male.wav,제 번호는 공일공 공구공오 팔이이팔입니다.,010-0905-8228,male,ko-KR-InJoonNeural,1
+phone_00428_female.wav,output/phone_00428_female.wav,연락처는 공일공 사일이구 오사팔오입니다.,010-4129-5485,female,ko-KR-SunHiNeural,1
+phone_00429_female.wav,output/phone_00429_female.wav,전화는 공일공 칠이사칠 팔구팔육으로 주시면 됩니다.,010-7247-8986,female,ko-KR-SunHiNeural,1
+phone_00430_female.wav,output/phone_00430_female.wav,문자 주실 번호는 공일공 구육삼일 삼사육일입니다.,010-9631-3461,female,ko-KR-SunHiNeural,1
+phone_00431_female.wav,output/phone_00431_female.wav,문자 주실 번호는 공일공 칠구이공 이오사사입니다.,010-7920-2544,female,ko-KR-SunHiNeural,1
+phone_00432_female.wav,output/phone_00432_female.wav,제 번호는 공일공 사칠칠오 삼오팔이입니다.,010-4775-3582,female,ko-KR-SunHiNeural,1
+phone_00433_male.wav,output/phone_00433_male.wav,전화번호는 공일공 육삼공이 팔육공삼이에요.,010-6302-8603,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00434_male.wav,output/phone_00434_male.wav,제 번호는 공일공 육일팔팔 오구삼공입니다.,010-6188-5930,male,ko-KR-InJoonNeural,1
+phone_00435_male.wav,output/phone_00435_male.wav,제 전화번호는 공일공 팔이구삼 이이육구입니다.,010-8293-2269,male,ko-KR-InJoonNeural,1
+phone_00436_male.wav,output/phone_00436_male.wav,전화는 공일공 칠삼팔사 육팔칠삼으로 주시면 됩니다.,010-7384-6873,male,ko-KR-InJoonNeural,1
+phone_00437_male.wav,output/phone_00437_male.wav,휴대폰 번호는 공일공 삼공사오 사팔공삼입니다.,010-3045-4803,male,ko-KR-InJoonNeural,1
+phone_00438_female.wav,output/phone_00438_female.wav,제 전화번호는 공일공 오팔구구 칠공삼삼입니다.,010-5899-7033,female,ko-KR-SunHiNeural,1
+phone_00439_male.wav,output/phone_00439_male.wav,전화번호는 공일공 구삼오구 육구팔육이에요.,010-9359-6986,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00440_male.wav,output/phone_00440_male.wav,전화는 공일공 육칠구이 사팔구팔으로 주시면 됩니다.,010-6792-4898,male,ko-KR-InJoonNeural,1
+phone_00441_male.wav,output/phone_00441_male.wav,문의는 공일공 칠오칠팔 구팔이팔으로 주세요.,010-7578-9828,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00442_male.wav,output/phone_00442_male.wav,제 번호는 공일공 사이공육 칠이사일입니다.,010-4206-7241,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00443_female.wav,output/phone_00443_female.wav,휴대폰 번호는 공일공 사사육구 팔육육오입니다.,010-4469-8665,female,ko-KR-SunHiNeural,1
+phone_00444_female.wav,output/phone_00444_female.wav,전화번호는 공일공 구오삼칠 삼오일팔이에요.,010-9537-3518,female,ko-KR-SunHiNeural,1
+phone_00445_male.wav,output/phone_00445_male.wav,연락 가능 번호는 공일공 구공육팔 이구팔일입니다.,010-9068-2981,male,ko-KR-InJoonNeural,1
+phone_00446_male.wav,output/phone_00446_male.wav,전화번호는 공일공 구사공팔 구이육삼이에요.,010-9408-9263,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00447_female.wav,output/phone_00447_female.wav,문자 주실 번호는 공일공 육사구이 이오오공입니다.,010-6492-2550,female,ko-KR-SunHiNeural,1
+phone_00448_male.wav,output/phone_00448_male.wav,문의는 공일공 공일일삼 오구칠팔으로 주세요.,010-0113-5978,male,ko-KR-InJoonNeural,1
+phone_00449_female.wav,output/phone_00449_female.wav,제 번호는 공일공 삼공일삼 오일이일입니다.,010-3013-5121,female,ko-KR-SunHiNeural,1
+phone_00450_male.wav,output/phone_00450_male.wav,휴대폰 번호는 공일공 구공공칠 공삼일팔입니다.,010-9007-0318,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00451_male.wav,output/phone_00451_male.wav,번호 알려드릴게요. 공일공 육오육공 육삼이이입니다.,010-6560-6322,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00452_male.wav,output/phone_00452_male.wav,연락 가능 번호는 공일공 구칠공칠 삼일공이입니다.,010-9707-3102,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00453_male.wav,output/phone_00453_male.wav,휴대폰 번호는 공일공 칠육구공 구공사공입니다.,010-7690-9040,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00454_male.wav,output/phone_00454_male.wav,문자 주실 번호는 공일공 사일일팔 육구삼일입니다.,010-4118-6931,male,ko-KR-InJoonNeural,1
+phone_00455_female.wav,output/phone_00455_female.wav,전화는 공일공 이구일육 일이오사으로 주시면 됩니다.,010-2916-1254,female,ko-KR-SunHiNeural,1
+phone_00456_female.wav,output/phone_00456_female.wav,연락처는 공일공 공삼팔팔 사구육사입니다.,010-0388-4964,female,ko-KR-SunHiNeural,1
+phone_00457_male.wav,output/phone_00457_male.wav,문자 주실 번호는 공일공 사팔삼이 육구삼팔입니다.,010-4832-6938,male,ko-KR-InJoonNeural,1
+phone_00458_male.wav,output/phone_00458_male.wav,제 번호는 공일공 이일칠오 팔공삼공입니다.,010-2175-8030,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00459_male.wav,output/phone_00459_male.wav,제 번호는 공일공 일팔삼공 공이삼사입니다.,010-1830-0234,male,ko-KR-InJoonNeural,1
+phone_00460_male.wav,output/phone_00460_male.wav,휴대폰 번호는 공일공 사이구일 삼이구칠입니다.,010-4291-3297,male,ko-KR-InJoonNeural,1
+phone_00461_male.wav,output/phone_00461_male.wav,제 전화번호는 공일공 이이사삼 칠공오칠입니다.,010-2243-7057,male,ko-KR-InJoonNeural,1
+phone_00462_male.wav,output/phone_00462_male.wav,제 번호는 공일공 이일팔오 구공팔칠입니다.,010-2185-9087,male,ko-KR-InJoonNeural,1
+phone_00463_male.wav,output/phone_00463_male.wav,문자 주실 번호는 공일공 오이구칠 삼이일이입니다.,010-5297-3212,male,ko-KR-InJoonNeural,1
+phone_00464_female.wav,output/phone_00464_female.wav,연락처는 공일공 일칠공사 구구이팔입니다.,010-1704-9928,female,ko-KR-SunHiNeural,1
+phone_00465_male.wav,output/phone_00465_male.wav,전화는 공일공 삼육육이 오사삼구으로 주시면 됩니다.,010-3662-5439,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00466_male.wav,output/phone_00466_male.wav,휴대폰 번호는 공일공 삼공구이 일일삼칠입니다.,010-3092-1137,male,ko-KR-InJoonNeural,1
+phone_00467_female.wav,output/phone_00467_female.wav,전화번호는 공일공 삼팔구공 이구이이이에요.,010-3890-2922,female,ko-KR-SunHiNeural,1
+phone_00468_male.wav,output/phone_00468_male.wav,연락처는 공일공 일이오칠 이사칠이입니다.,010-1257-2472,male,ko-KR-InJoonNeural,1
+phone_00469_male.wav,output/phone_00469_male.wav,연락처는 공일공 공사삼육 칠삼칠칠입니다.,010-0436-7377,male,ko-KR-InJoonNeural,1
+phone_00470_male.wav,output/phone_00470_male.wav,번호 알려드릴게요. 공일공 일사이구 육칠삼공입니다.,010-1429-6730,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00471_female.wav,output/phone_00471_female.wav,연락처는 공일공 삼이육사 일팔오공입니다.,010-3264-1850,female,ko-KR-SunHiNeural,1
+phone_00472_male.wav,output/phone_00472_male.wav,문의는 공일공 구삼구공 일팔칠오으로 주세요.,010-9390-1875,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00473_male.wav,output/phone_00473_male.wav,연락 가능 번호는 공일공 칠구일공 삼이공공입니다.,010-7910-3200,male,ko-KR-InJoonNeural,1
+phone_00474_male.wav,output/phone_00474_male.wav,전화번호는 공일공 칠공오사 오이오사이에요.,010-7054-5254,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00475_male.wav,output/phone_00475_male.wav,휴대폰 번호는 공일공 공칠이칠 일오사팔입니다.,010-0727-1548,male,ko-KR-InJoonNeural,1
+phone_00476_male.wav,output/phone_00476_male.wav,연락처는 공일공 육일오일 삼사삼삼입니다.,010-6151-3433,male,ko-KR-InJoonNeural,1
+phone_00477_male.wav,output/phone_00477_male.wav,연락처는 공일공 일칠이이 사팔사칠입니다.,010-1722-4847,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00478_male.wav,output/phone_00478_male.wav,연락 가능 번호는 공일공 삼팔일오 삼오육구입니다.,010-3815-3569,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00479_male.wav,output/phone_00479_male.wav,제 번호는 공일공 구칠구일 육육사공입니다.,010-9791-6640,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00480_female.wav,output/phone_00480_female.wav,전화번호는 공일공 오공팔일 구일구일이에요.,010-5081-9191,female,ko-KR-SunHiNeural,1
+phone_00481_male.wav,output/phone_00481_male.wav,번호 알려드릴게요. 공일공 이공오공 이오칠오입니다.,010-2050-2575,male,ko-KR-InJoonNeural,1
+phone_00482_male.wav,output/phone_00482_male.wav,연락처는 공일공 이이칠사 육팔일오입니다.,010-2274-6815,male,ko-KR-InJoonNeural,1
+phone_00483_male.wav,output/phone_00483_male.wav,연락 가능 번호는 공일공 오일일구 공오공오입니다.,010-5119-0505,male,ko-KR-InJoonNeural,1
+phone_00484_female.wav,output/phone_00484_female.wav,연락 가능 번호는 공일공 오일구팔 오육공공입니다.,010-5198-5600,female,ko-KR-SunHiNeural,1
+phone_00485_male.wav,output/phone_00485_male.wav,번호 알려드릴게요. 공일공 육사사오 구칠구팔입니다.,010-6445-9798,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00486_male.wav,output/phone_00486_male.wav,제 전화번호는 공일공 오오공칠 육팔칠일입니다.,010-5507-6871,male,ko-KR-InJoonNeural,1
+phone_00487_male.wav,output/phone_00487_male.wav,연락처는 공일공 육공구구 구오공구입니다.,010-6099-9509,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00488_male.wav,output/phone_00488_male.wav,전화번호는 공일공 팔일삼삼 오칠구이이에요.,010-8133-5792,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00489_male.wav,output/phone_00489_male.wav,제 번호는 공일공 구육이팔 육구사이입니다.,010-9628-6942,male,ko-KR-InJoonNeural,1
+phone_00490_female.wav,output/phone_00490_female.wav,전화는 공일공 팔오칠육 육육공오으로 주시면 됩니다.,010-8576-6605,female,ko-KR-SunHiNeural,1
+phone_00491_male.wav,output/phone_00491_male.wav,문의는 공일공 구이팔구 오이오오으로 주세요.,010-9289-5255,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00492_female.wav,output/phone_00492_female.wav,휴대폰 번호는 공일공 육사사오 공일칠구입니다.,010-6445-0179,female,ko-KR-SunHiNeural,1
+phone_00493_male.wav,output/phone_00493_male.wav,제 번호는 공일공 사칠삼구 일사칠오입니다.,010-4739-1475,male,ko-KR-InJoonNeural,1
+phone_00494_male.wav,output/phone_00494_male.wav,제 번호는 공일공 육구육칠 일사구삼입니다.,010-6967-1493,male,ko-KR-InJoonNeural,1
+phone_00495_male.wav,output/phone_00495_male.wav,제 전화번호는 공일공 팔사이삼 팔오사오입니다.,010-8423-8545,male,ko-KR-InJoonNeural,1
+phone_00496_female.wav,output/phone_00496_female.wav,제 번호는 공일공 육육육칠 육일삼육입니다.,010-6667-6136,female,ko-KR-SunHiNeural,1
+phone_00497_female.wav,output/phone_00497_female.wav,문자 주실 번호는 공일공 오구오육 오팔사사입니다.,010-5956-5844,female,ko-KR-SunHiNeural,1
+phone_00498_male.wav,output/phone_00498_male.wav,전화는 공일공 일팔일칠 삼일삼사으로 주시면 됩니다.,010-1817-3134,male,ko-KR-InJoonNeural,1
+phone_00499_female.wav,output/phone_00499_female.wav,전화는 공일공 일일공공 삼삼이육으로 주시면 됩니다.,010-1100-3326,female,ko-KR-SunHiNeural,1
+phone_00500_female.wav,output/phone_00500_female.wav,번호 알려드릴게요. 공일공 육육공이 칠사사일입니다.,010-6602-7441,female,ko-KR-SunHiNeural,1
+phone_00501_male.wav,output/phone_00501_male.wav,번호 알려드릴게요. 공일공 칠공일오 칠칠칠육입니다.,010-7015-7776,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00502_female.wav,output/phone_00502_female.wav,문의는 공일공 구구공칠 일공공삼으로 주세요.,010-9907-1003,female,ko-KR-SunHiNeural,1
+phone_00503_male.wav,output/phone_00503_male.wav,연락처는 공일공 이이공삼 사육이이입니다.,010-2203-4622,male,ko-KR-InJoonNeural,1
+phone_00504_male.wav,output/phone_00504_male.wav,휴대폰 번호는 공일공 육칠사사 사육오칠입니다.,010-6744-4657,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00505_female.wav,output/phone_00505_female.wav,연락 가능 번호는 공일공 공일오이 칠이구일입니다.,010-0152-7291,female,ko-KR-SunHiNeural,1
+phone_00506_male.wav,output/phone_00506_male.wav,연락처는 공일공 구공오구 일구팔구입니다.,010-9059-1989,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00507_female.wav,output/phone_00507_female.wav,연락처는 공일공 칠육칠이 칠오이삼입니다.,010-7672-7523,female,ko-KR-SunHiNeural,1
+phone_00508_male.wav,output/phone_00508_male.wav,문자 주실 번호는 공일공 육오일공 공삼칠오입니다.,010-6510-0375,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00509_male.wav,output/phone_00509_male.wav,문의는 공일공 사구사오 구삼칠오으로 주세요.,010-4945-9375,male,ko-KR-InJoonNeural,1
+phone_00510_female.wav,output/phone_00510_female.wav,전화는 공일공 이육일사 육칠공일으로 주시면 됩니다.,010-2614-6701,female,ko-KR-SunHiNeural,1
+phone_00511_male.wav,output/phone_00511_male.wav,문자 주실 번호는 공일공 육오삼일 오팔오육입니다.,010-6531-5856,male,ko-KR-InJoonNeural,1
+phone_00512_male.wav,output/phone_00512_male.wav,전화번호는 공일공 삼공육일 이구팔구이에요.,010-3061-2989,male,ko-KR-InJoonNeural,1
+phone_00513_male.wav,output/phone_00513_male.wav,번호 알려드릴게요. 공일공 일사사구 삼삼칠오입니다.,010-1449-3375,male,ko-KR-InJoonNeural,1
+phone_00514_male.wav,output/phone_00514_male.wav,번호 알려드릴게요. 공일공 삼일구일 칠구칠사입니다.,010-3191-7974,male,ko-KR-InJoonNeural,1
+phone_00515_male.wav,output/phone_00515_male.wav,문의는 공일공 구오구칠 삼사일일으로 주세요.,010-9597-3411,male,ko-KR-InJoonNeural,1
+phone_00516_female.wav,output/phone_00516_female.wav,연락 가능 번호는 공일공 삼공칠공 구이이구입니다.,010-3070-9229,female,ko-KR-SunHiNeural,1
+phone_00517_male.wav,output/phone_00517_male.wav,전화는 공일공 삼육사삼 일육오칠으로 주시면 됩니다.,010-3643-1657,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00518_male.wav,output/phone_00518_male.wav,제 번호는 공일공 일팔오오 팔오구육입니다.,010-1855-8596,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00519_male.wav,output/phone_00519_male.wav,연락처는 공일공 사칠팔칠 오오삼칠입니다.,010-4787-5537,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00520_female.wav,output/phone_00520_female.wav,전화는 공일공 오오육육 팔사육공으로 주시면 됩니다.,010-5566-8460,female,ko-KR-SunHiNeural,1
+phone_00521_female.wav,output/phone_00521_female.wav,문자 주실 번호는 공일공 일삼육팔 칠삼공공입니다.,010-1368-7300,female,ko-KR-SunHiNeural,1
+phone_00522_female.wav,output/phone_00522_female.wav,연락처는 공일공 일칠구삼 육공팔사입니다.,010-1793-6084,female,ko-KR-SunHiNeural,1
+phone_00523_male.wav,output/phone_00523_male.wav,휴대폰 번호는 공일공 팔칠공육 삼육구이입니다.,010-8706-3692,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00524_male.wav,output/phone_00524_male.wav,연락 가능 번호는 공일공 삼칠육팔 삼칠칠공입니다.,010-3768-3770,male,ko-KR-InJoonNeural,1
+phone_00525_male.wav,output/phone_00525_male.wav,제 전화번호는 공일공 오구삼삼 일육이이입니다.,010-5933-1622,male,ko-KR-InJoonNeural,1
+phone_00526_male.wav,output/phone_00526_male.wav,전화는 공일공 오구사사 일공칠오으로 주시면 됩니다.,010-5944-1075,male,ko-KR-InJoonNeural,1
+phone_00527_male.wav,output/phone_00527_male.wav,전화는 공일공 칠이삼칠 공이공삼으로 주시면 됩니다.,010-7237-0203,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00528_male.wav,output/phone_00528_male.wav,전화는 공일공 칠공팔칠 팔구일삼으로 주시면 됩니다.,010-7087-8913,male,ko-KR-InJoonNeural,1
+phone_00529_female.wav,output/phone_00529_female.wav,문자 주실 번호는 공일공 삼이팔구 구오일삼입니다.,010-3289-9513,female,ko-KR-SunHiNeural,1
+phone_00530_male.wav,output/phone_00530_male.wav,문의는 공일공 팔일팔육 사일칠육으로 주세요.,010-8186-4176,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00531_male.wav,output/phone_00531_male.wav,연락처는 공일공 사오이팔 육구공육입니다.,010-4528-6906,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00532_male.wav,output/phone_00532_male.wav,전화번호는 공일공 칠공사칠 구구삼팔이에요.,010-7047-9938,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00533_female.wav,output/phone_00533_female.wav,문자 주실 번호는 공일공 일사공팔 칠오팔사입니다.,010-1408-7584,female,ko-KR-SunHiNeural,1
+phone_00534_male.wav,output/phone_00534_male.wav,연락처는 공일공 칠사사팔 이사육사입니다.,010-7448-2464,male,ko-KR-InJoonNeural,1
+phone_00535_male.wav,output/phone_00535_male.wav,전화는 공일공 칠일구구 육구칠삼으로 주시면 됩니다.,010-7199-6973,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00536_female.wav,output/phone_00536_female.wav,번호 알려드릴게요. 공일공 사이공일 공칠공이입니다.,010-4201-0702,female,ko-KR-SunHiNeural,1
+phone_00537_female.wav,output/phone_00537_female.wav,연락처는 공일공 팔삼팔사 삼오오오입니다.,010-8384-3555,female,ko-KR-SunHiNeural,1
+phone_00538_female.wav,output/phone_00538_female.wav,전화번호는 공일공 구육삼일 삼칠구공이에요.,010-9631-3790,female,ko-KR-SunHiNeural,1
+phone_00539_male.wav,output/phone_00539_male.wav,전화번호는 공일공 공팔사칠 삼이칠일이에요.,010-0847-3271,male,ko-KR-InJoonNeural,1
+phone_00540_female.wav,output/phone_00540_female.wav,전화는 공일공 구공이이 오육사일으로 주시면 됩니다.,010-9022-5641,female,ko-KR-SunHiNeural,1
+phone_00541_female.wav,output/phone_00541_female.wav,연락 가능 번호는 공일공 구오구육 칠육구구입니다.,010-9596-7699,female,ko-KR-SunHiNeural,1
+phone_00542_female.wav,output/phone_00542_female.wav,번호 알려드릴게요. 공일공 이칠육육 공구팔사입니다.,010-2766-0984,female,ko-KR-SunHiNeural,1
+phone_00543_male.wav,output/phone_00543_male.wav,연락처는 공일공 이일오팔 이사오일입니다.,010-2158-2451,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00544_male.wav,output/phone_00544_male.wav,제 번호는 공일공 이구칠구 삼팔구사입니다.,010-2979-3894,male,ko-KR-InJoonNeural,1
+phone_00545_male.wav,output/phone_00545_male.wav,연락처는 공일공 일육팔구 사사삼이입니다.,010-1689-4432,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00546_male.wav,output/phone_00546_male.wav,제 전화번호는 공일공 칠삼오사 육사일공입니다.,010-7354-6410,male,ko-KR-InJoonNeural,1
+phone_00547_male.wav,output/phone_00547_male.wav,연락 가능 번호는 공일공 이오팔육 오구일사입니다.,010-2586-5914,male,ko-KR-InJoonNeural,1
+phone_00548_male.wav,output/phone_00548_male.wav,연락 가능 번호는 공일공 오일팔이 이공팔팔입니다.,010-5182-2088,male,ko-KR-InJoonNeural,1
+phone_00549_male.wav,output/phone_00549_male.wav,연락처는 공일공 오칠팔일 일사공팔입니다.,010-5781-1408,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00550_female.wav,output/phone_00550_female.wav,전화번호는 공일공 삼일팔오 사공오삼이에요.,010-3185-4053,female,ko-KR-SunHiNeural,1
+phone_00551_female.wav,output/phone_00551_female.wav,전화는 공일공 일일육공 삼오팔이으로 주시면 됩니다.,010-1160-3582,female,ko-KR-SunHiNeural,1
+phone_00552_male.wav,output/phone_00552_male.wav,전화는 공일공 공칠오일 삼칠일오으로 주시면 됩니다.,010-0751-3715,male,ko-KR-InJoonNeural,1
+phone_00553_male.wav,output/phone_00553_male.wav,연락 가능 번호는 공일공 사팔사삼 일구공사입니다.,010-4843-1904,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00554_female.wav,output/phone_00554_female.wav,문자 주실 번호는 공일공 구오공공 이일팔육입니다.,010-9500-2186,female,ko-KR-SunHiNeural,1
+phone_00555_male.wav,output/phone_00555_male.wav,휴대폰 번호는 공일공 오사팔팔 공일사공입니다.,010-5488-0140,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00556_male.wav,output/phone_00556_male.wav,문자 주실 번호는 공일공 오육삼공 육일육육입니다.,010-5630-6166,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00557_male.wav,output/phone_00557_male.wav,문의는 공일공 일구삼팔 일칠육사으로 주세요.,010-1938-1764,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00558_female.wav,output/phone_00558_female.wav,번호 알려드릴게요. 공일공 칠육삼공 칠구삼칠입니다.,010-7630-7937,female,ko-KR-SunHiNeural,1
+phone_00559_male.wav,output/phone_00559_male.wav,전화는 공일공 육사구칠 팔삼이육으로 주시면 됩니다.,010-6497-8326,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00560_female.wav,output/phone_00560_female.wav,문의는 공일공 사팔사삼 공일팔오으로 주세요.,010-4843-0185,female,ko-KR-SunHiNeural,1
+phone_00561_female.wav,output/phone_00561_female.wav,휴대폰 번호는 공일공 공공삼사 육이구공입니다.,010-0034-6290,female,ko-KR-SunHiNeural,1
+phone_00562_male.wav,output/phone_00562_male.wav,번호 알려드릴게요. 공일공 칠팔공일 칠사칠공입니다.,010-7801-7470,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00563_female.wav,output/phone_00563_female.wav,문자 주실 번호는 공일공 사구육삼 공일구칠입니다.,010-4963-0197,female,ko-KR-SunHiNeural,1
+phone_00564_female.wav,output/phone_00564_female.wav,연락처는 공일공 이팔사이 육칠칠사입니다.,010-2842-6774,female,ko-KR-SunHiNeural,1
+phone_00565_male.wav,output/phone_00565_male.wav,전화는 공일공 칠사사오 육이팔삼으로 주시면 됩니다.,010-7445-6283,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00566_male.wav,output/phone_00566_male.wav,연락 가능 번호는 공일공 사팔삼팔 칠사사일입니다.,010-4838-7441,male,ko-KR-InJoonNeural,1
+phone_00567_male.wav,output/phone_00567_male.wav,전화는 공일공 칠사오사 칠사공구으로 주시면 됩니다.,010-7454-7409,male,ko-KR-InJoonNeural,1
+phone_00568_male.wav,output/phone_00568_male.wav,제 전화번호는 공일공 팔오이이 일사삼일입니다.,010-8522-1431,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00569_male.wav,output/phone_00569_male.wav,휴대폰 번호는 공일공 오사육육 공사일삼입니다.,010-5466-0413,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00570_male.wav,output/phone_00570_male.wav,휴대폰 번호는 공일공 삼육오육 공육육육입니다.,010-3656-0666,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00571_female.wav,output/phone_00571_female.wav,제 전화번호는 공일공 삼오구육 공칠사공입니다.,010-3596-0740,female,ko-KR-SunHiNeural,1
+phone_00572_female.wav,output/phone_00572_female.wav,전화번호는 공일공 일구이육 일육팔칠이에요.,010-1926-1687,female,ko-KR-SunHiNeural,1
+phone_00573_female.wav,output/phone_00573_female.wav,연락처는 공일공 공이오공 구구칠공입니다.,010-0250-9970,female,ko-KR-SunHiNeural,1
+phone_00574_female.wav,output/phone_00574_female.wav,문자 주실 번호는 공일공 삼오구이 팔육공육입니다.,010-3592-8606,female,ko-KR-SunHiNeural,1
+phone_00575_male.wav,output/phone_00575_male.wav,문의는 공일공 육공칠구 팔오이구으로 주세요.,010-6079-8529,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00576_male.wav,output/phone_00576_male.wav,문의는 공일공 사오사삼 육오일공으로 주세요.,010-4543-6510,male,ko-KR-InJoonNeural,1
+phone_00577_male.wav,output/phone_00577_male.wav,휴대폰 번호는 공일공 삼육삼삼 공공사사입니다.,010-3633-0044,male,ko-KR-InJoonNeural,1
+phone_00578_male.wav,output/phone_00578_male.wav,전화번호는 공일공 구구삼사 오공일사이에요.,010-9934-5014,male,ko-KR-InJoonNeural,1
+phone_00579_female.wav,output/phone_00579_female.wav,연락처는 공일공 팔사삼구 오칠구공입니다.,010-8439-5790,female,ko-KR-SunHiNeural,1
+phone_00580_female.wav,output/phone_00580_female.wav,번호 알려드릴게요. 공일공 사이구오 칠일칠삼입니다.,010-4295-7173,female,ko-KR-SunHiNeural,1
+phone_00581_female.wav,output/phone_00581_female.wav,문의는 공일공 구오칠구 일칠사사으로 주세요.,010-9579-1744,female,ko-KR-SunHiNeural,1
+phone_00582_male.wav,output/phone_00582_male.wav,문자 주실 번호는 공일공 일구오팔 사사사오입니다.,010-1958-4445,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00583_male.wav,output/phone_00583_male.wav,제 번호는 공일공 삼구삼육 사삼오오입니다.,010-3936-4355,male,ko-KR-InJoonNeural,1
+phone_00584_male.wav,output/phone_00584_male.wav,문자 주실 번호는 공일공 공칠공팔 육이이육입니다.,010-0708-6226,male,ko-KR-InJoonNeural,1
+phone_00585_male.wav,output/phone_00585_male.wav,전화는 공일공 일이팔칠 삼오구사으로 주시면 됩니다.,010-1287-3594,male,ko-KR-InJoonNeural,1
+phone_00586_male.wav,output/phone_00586_male.wav,제 번호는 공일공 육오이구 이이공삼입니다.,010-6529-2203,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00587_female.wav,output/phone_00587_female.wav,문자 주실 번호는 공일공 구오구사 구이구육입니다.,010-9594-9296,female,ko-KR-SunHiNeural,1
+phone_00588_male.wav,output/phone_00588_male.wav,문의는 공일공 팔공오사 삼구구일으로 주세요.,010-8054-3991,male,ko-KR-InJoonNeural,1
+phone_00589_male.wav,output/phone_00589_male.wav,제 번호는 공일공 팔육삼팔 공칠육일입니다.,010-8638-0761,male,ko-KR-InJoonNeural,1
+phone_00590_female.wav,output/phone_00590_female.wav,연락처는 공일공 구사이오 오육오구입니다.,010-9425-5659,female,ko-KR-SunHiNeural,1
+phone_00591_female.wav,output/phone_00591_female.wav,휴대폰 번호는 공일공 육팔일칠 팔일이공입니다.,010-6817-8120,female,ko-KR-SunHiNeural,1
+phone_00592_male.wav,output/phone_00592_male.wav,전화번호는 공일공 구이삼구 오공육구이에요.,010-9239-5069,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00593_male.wav,output/phone_00593_male.wav,연락 가능 번호는 공일공 칠칠일칠 육칠일사입니다.,010-7717-6714,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00594_male.wav,output/phone_00594_male.wav,연락 가능 번호는 공일공 사구육사 육사육구입니다.,010-4964-6469,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00595_female.wav,output/phone_00595_female.wav,문자 주실 번호는 공일공 일구삼사 이칠구사입니다.,010-1934-2794,female,ko-KR-SunHiNeural,1
+phone_00596_female.wav,output/phone_00596_female.wav,문의는 공일공 육삼오삼 구구칠팔으로 주세요.,010-6353-9978,female,ko-KR-SunHiNeural,1
+phone_00597_female.wav,output/phone_00597_female.wav,문자 주실 번호는 공일공 사이오일 팔일공구입니다.,010-4251-8109,female,ko-KR-SunHiNeural,1
+phone_00598_female.wav,output/phone_00598_female.wav,휴대폰 번호는 공일공 육공육팔 칠육이오입니다.,010-6068-7625,female,ko-KR-SunHiNeural,1
+phone_00599_female.wav,output/phone_00599_female.wav,연락처는 공일공 팔공이칠 일육팔오입니다.,010-8027-1685,female,ko-KR-SunHiNeural,1
+phone_00600_male.wav,output/phone_00600_male.wav,문자 주실 번호는 공일공 공오이오 삼칠육이입니다.,010-0525-3762,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00601_male.wav,output/phone_00601_male.wav,문의는 공일공 구일칠이 공칠삼이으로 주세요.,010-9172-0732,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00602_male.wav,output/phone_00602_male.wav,제 전화번호는 공일공 공사이팔 육칠일오입니다.,010-0428-6715,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00603_female.wav,output/phone_00603_female.wav,전화번호는 공일공 사일공삼 구칠이일이에요.,010-4103-9721,female,ko-KR-SunHiNeural,1
+phone_00604_female.wav,output/phone_00604_female.wav,연락처는 공일공 팔삼칠육 공공이육입니다.,010-8376-0026,female,ko-KR-SunHiNeural,1
+phone_00605_female.wav,output/phone_00605_female.wav,문자 주실 번호는 공일공 구사육사 구육팔구입니다.,010-9464-9689,female,ko-KR-SunHiNeural,1
+phone_00606_male.wav,output/phone_00606_male.wav,연락 가능 번호는 공일공 일팔공팔 일육칠칠입니다.,010-1808-1677,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00607_female.wav,output/phone_00607_female.wav,제 전화번호는 공일공 이육이이 이이칠공입니다.,010-2622-2270,female,ko-KR-SunHiNeural,1
+phone_00608_female.wav,output/phone_00608_female.wav,문의는 공일공 삼육사구 사삼공팔으로 주세요.,010-3649-4308,female,ko-KR-SunHiNeural,1
+phone_00609_female.wav,output/phone_00609_female.wav,문의는 공일공 공육팔일 칠오팔육으로 주세요.,010-0681-7586,female,ko-KR-SunHiNeural,1
+phone_00610_male.wav,output/phone_00610_male.wav,연락처는 공일공 삼육이사 오삼일칠입니다.,010-3624-5317,male,ko-KR-InJoonNeural,1
+phone_00611_male.wav,output/phone_00611_male.wav,문자 주실 번호는 공일공 이칠공육 삼이이오입니다.,010-2706-3225,male,ko-KR-InJoonNeural,1
+phone_00612_male.wav,output/phone_00612_male.wav,문의는 공일공 사구일공 일일육일으로 주세요.,010-4910-1161,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00613_male.wav,output/phone_00613_male.wav,문의는 공일공 삼일육사 삼사팔일으로 주세요.,010-3164-3481,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00614_female.wav,output/phone_00614_female.wav,제 번호는 공일공 오공사구 이칠이공입니다.,010-5049-2720,female,ko-KR-SunHiNeural,1
+phone_00615_male.wav,output/phone_00615_male.wav,제 전화번호는 공일공 이공이팔 이팔오사입니다.,010-2028-2854,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00616_male.wav,output/phone_00616_male.wav,문의는 공일공 이삼팔구 사칠칠사으로 주세요.,010-2389-4774,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00617_male.wav,output/phone_00617_male.wav,번호 알려드릴게요. 공일공 오사오일 사오일육입니다.,010-5451-4516,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00618_male.wav,output/phone_00618_male.wav,제 전화번호는 공일공 오구공구 사오오사입니다.,010-5909-4554,male,ko-KR-InJoonNeural,1
+phone_00619_male.wav,output/phone_00619_male.wav,전화는 공일공 칠이삼육 이팔육구으로 주시면 됩니다.,010-7236-2869,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00620_female.wav,output/phone_00620_female.wav,휴대폰 번호는 공일공 이팔공구 일육구공입니다.,010-2809-1690,female,ko-KR-SunHiNeural,1
+phone_00621_male.wav,output/phone_00621_male.wav,휴대폰 번호는 공일공 구오칠사 사공육육입니다.,010-9574-4066,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00622_male.wav,output/phone_00622_male.wav,문자 주실 번호는 공일공 육이육칠 삼삼칠팔입니다.,010-6267-3378,male,ko-KR-InJoonNeural,1
+phone_00623_female.wav,output/phone_00623_female.wav,연락처는 공일공 구오구오 육이칠칠입니다.,010-9595-6277,female,ko-KR-SunHiNeural,1
+phone_00624_male.wav,output/phone_00624_male.wav,전화번호는 공일공 일육오육 칠일공육이에요.,010-1656-7106,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00625_female.wav,output/phone_00625_female.wav,문자 주실 번호는 공일공 팔육칠팔 사오이일입니다.,010-8678-4521,female,ko-KR-SunHiNeural,1
+phone_00626_male.wav,output/phone_00626_male.wav,전화번호는 공일공 일팔사팔 삼삼칠칠이에요.,010-1848-3377,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00627_male.wav,output/phone_00627_male.wav,전화번호는 공일공 육칠팔칠 사공오팔이에요.,010-6787-4058,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00628_male.wav,output/phone_00628_male.wav,제 번호는 공일공 일구공오 공육삼팔입니다.,010-1905-0638,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00629_female.wav,output/phone_00629_female.wav,제 번호는 공일공 이칠구육 일칠공일입니다.,010-2796-1701,female,ko-KR-SunHiNeural,1
+phone_00630_male.wav,output/phone_00630_male.wav,문자 주실 번호는 공일공 팔삼육구 팔삼오오입니다.,010-8369-8355,male,ko-KR-InJoonNeural,1
+phone_00631_male.wav,output/phone_00631_male.wav,전화는 공일공 이삼일사 삼칠오삼으로 주시면 됩니다.,010-2314-3753,male,ko-KR-InJoonNeural,1
+phone_00632_male.wav,output/phone_00632_male.wav,휴대폰 번호는 공일공 공구팔이 오사팔팔입니다.,010-0982-5488,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00633_male.wav,output/phone_00633_male.wav,연락 가능 번호는 공일공 구팔사육 삼육오공입니다.,010-9846-3650,male,ko-KR-InJoonNeural,1
+phone_00634_male.wav,output/phone_00634_male.wav,휴대폰 번호는 공일공 오오육일 오육공오입니다.,010-5561-5605,male,ko-KR-InJoonNeural,1
+phone_00635_male.wav,output/phone_00635_male.wav,휴대폰 번호는 공일공 이팔공육 오사육팔입니다.,010-2806-5468,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00636_male.wav,output/phone_00636_male.wav,전화는 공일공 육이사공 구사공육으로 주시면 됩니다.,010-6240-9406,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00637_male.wav,output/phone_00637_male.wav,문자 주실 번호는 공일공 팔오육삼 구공삼사입니다.,010-8563-9034,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00638_female.wav,output/phone_00638_female.wav,전화는 공일공 오공공칠 일사오팔으로 주시면 됩니다.,010-5007-1458,female,ko-KR-SunHiNeural,1
+phone_00639_female.wav,output/phone_00639_female.wav,연락처는 공일공 육사이이 사육구이입니다.,010-6422-4692,female,ko-KR-SunHiNeural,1
+phone_00640_male.wav,output/phone_00640_male.wav,휴대폰 번호는 공일공 칠이육오 사칠팔팔입니다.,010-7265-4788,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00641_male.wav,output/phone_00641_male.wav,번호 알려드릴게요. 공일공 이구오칠 육구일사입니다.,010-2957-6914,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00642_male.wav,output/phone_00642_male.wav,전화는 공일공 사이공구 구팔삼이으로 주시면 됩니다.,010-4209-9832,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00643_female.wav,output/phone_00643_female.wav,제 번호는 공일공 오구사육 팔오일칠입니다.,010-5946-8517,female,ko-KR-SunHiNeural,1
+phone_00644_female.wav,output/phone_00644_female.wav,번호 알려드릴게요. 공일공 일공삼공 이구칠육입니다.,010-1030-2976,female,ko-KR-SunHiNeural,1
+phone_00645_female.wav,output/phone_00645_female.wav,문자 주실 번호는 공일공 사칠팔육 삼오일공입니다.,010-4786-3510,female,ko-KR-SunHiNeural,1
+phone_00646_female.wav,output/phone_00646_female.wav,번호 알려드릴게요. 공일공 삼오칠육 공구오팔입니다.,010-3576-0958,female,ko-KR-SunHiNeural,1
+phone_00647_male.wav,output/phone_00647_male.wav,휴대폰 번호는 공일공 이오이오 칠이일삼입니다.,010-2525-7213,male,ko-KR-InJoonNeural,1
+phone_00648_female.wav,output/phone_00648_female.wav,번호 알려드릴게요. 공일공 사칠칠일 오오사칠입니다.,010-4771-5547,female,ko-KR-SunHiNeural,1
+phone_00649_male.wav,output/phone_00649_male.wav,휴대폰 번호는 공일공 삼일구공 칠구삼사입니다.,010-3190-7934,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00650_male.wav,output/phone_00650_male.wav,제 번호는 공일공 사칠오일 육육팔팔입니다.,010-4751-6688,male,ko-KR-InJoonNeural,1
+phone_00651_female.wav,output/phone_00651_female.wav,번호 알려드릴게요. 공일공 구오팔구 오이칠사입니다.,010-9589-5274,female,ko-KR-SunHiNeural,1
+phone_00652_male.wav,output/phone_00652_male.wav,전화번호는 공일공 구구삼팔 사구삼팔이에요.,010-9938-4938,male,ko-KR-InJoonNeural,1
+phone_00653_male.wav,output/phone_00653_male.wav,제 번호는 공일공 이공일일 일육이이입니다.,010-2011-1622,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00654_male.wav,output/phone_00654_male.wav,전화번호는 공일공 구오구칠 육공일이이에요.,010-9597-6012,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00655_male.wav,output/phone_00655_male.wav,연락 가능 번호는 공일공 칠오공일 오공구이입니다.,010-7501-5092,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00656_male.wav,output/phone_00656_male.wav,연락 가능 번호는 공일공 삼팔이칠 삼사이구입니다.,010-3827-3429,male,ko-KR-InJoonNeural,1
+phone_00657_female.wav,output/phone_00657_female.wav,휴대폰 번호는 공일공 삼이삼오 삼사이공입니다.,010-3235-3420,female,ko-KR-SunHiNeural,1
+phone_00658_male.wav,output/phone_00658_male.wav,제 전화번호는 공일공 육이칠칠 공칠사이입니다.,010-6277-0742,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00659_male.wav,output/phone_00659_male.wav,문의는 공일공 오육팔칠 오일육공으로 주세요.,010-5687-5160,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00660_male.wav,output/phone_00660_male.wav,연락처는 공일공 공오육삼 이일사일입니다.,010-0563-2141,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00661_male.wav,output/phone_00661_male.wav,문자 주실 번호는 공일공 오오이칠 공칠삼삼입니다.,010-5527-0733,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00662_male.wav,output/phone_00662_male.wav,문의는 공일공 공팔칠구 육육오사으로 주세요.,010-0879-6654,male,ko-KR-InJoonNeural,1
+phone_00663_female.wav,output/phone_00663_female.wav,제 전화번호는 공일공 구삼공칠 육사사구입니다.,010-9307-6449,female,ko-KR-SunHiNeural,1
+phone_00664_female.wav,output/phone_00664_female.wav,문의는 공일공 이칠삼구 칠오팔공으로 주세요.,010-2739-7580,female,ko-KR-SunHiNeural,1
+phone_00665_male.wav,output/phone_00665_male.wav,제 전화번호는 공일공 팔일삼구 공칠오오입니다.,010-8139-0755,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00666_male.wav,output/phone_00666_male.wav,문자 주실 번호는 공일공 삼삼공공 팔칠삼오입니다.,010-3300-8735,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00667_male.wav,output/phone_00667_male.wav,제 번호는 공일공 삼일사사 육오팔일입니다.,010-3144-6581,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00668_male.wav,output/phone_00668_male.wav,문의는 공일공 삼사육칠 일이일팔으로 주세요.,010-3467-1218,male,ko-KR-InJoonNeural,1
+phone_00669_male.wav,output/phone_00669_male.wav,문자 주실 번호는 공일공 오이오삼 오육사육입니다.,010-5253-5646,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00670_male.wav,output/phone_00670_male.wav,전화는 공일공 일육이사 사공공이으로 주시면 됩니다.,010-1624-4002,male,ko-KR-InJoonNeural,1
+phone_00671_male.wav,output/phone_00671_male.wav,전화번호는 공일공 이오사일 구공이사이에요.,010-2541-9024,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00672_male.wav,output/phone_00672_male.wav,문의는 공일공 칠이팔공 일공이팔으로 주세요.,010-7280-1028,male,ko-KR-InJoonNeural,1
+phone_00673_male.wav,output/phone_00673_male.wav,전화번호는 공일공 팔구육삼 삼공이공이에요.,010-8963-3020,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00674_female.wav,output/phone_00674_female.wav,연락 가능 번호는 공일공 오이육육 이구삼일입니다.,010-5266-2931,female,ko-KR-SunHiNeural,1
+phone_00675_male.wav,output/phone_00675_male.wav,제 전화번호는 공일공 칠공이육 오오구삼입니다.,010-7026-5593,male,ko-KR-InJoonNeural,1
+phone_00676_female.wav,output/phone_00676_female.wav,번호 알려드릴게요. 공일공 사팔오육 사육사삼입니다.,010-4856-4643,female,ko-KR-SunHiNeural,1
+phone_00677_female.wav,output/phone_00677_female.wav,연락처는 공일공 칠공사일 일육이삼입니다.,010-7041-1623,female,ko-KR-SunHiNeural,1
+phone_00678_male.wav,output/phone_00678_male.wav,연락 가능 번호는 공일공 팔구삼육 이삼오일입니다.,010-8936-2351,male,ko-KR-InJoonNeural,1
+phone_00679_female.wav,output/phone_00679_female.wav,제 번호는 공일공 오육삼구 칠사팔사입니다.,010-5639-7484,female,ko-KR-SunHiNeural,1
+phone_00680_male.wav,output/phone_00680_male.wav,제 번호는 공일공 구공삼이 팔팔육공입니다.,010-9032-8860,male,ko-KR-InJoonNeural,1
+phone_00681_male.wav,output/phone_00681_male.wav,연락 가능 번호는 공일공 구칠육육 공사이육입니다.,010-9766-0426,male,ko-KR-InJoonNeural,1
+phone_00682_male.wav,output/phone_00682_male.wav,번호 알려드릴게요. 공일공 육삼사팔 팔구삼오입니다.,010-6348-8935,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00683_male.wav,output/phone_00683_male.wav,문의는 공일공 이오오공 구삼구일으로 주세요.,010-2550-9391,male,ko-KR-InJoonNeural,1
+phone_00684_female.wav,output/phone_00684_female.wav,제 전화번호는 공일공 삼공사팔 일육삼이입니다.,010-3048-1632,female,ko-KR-SunHiNeural,1
+phone_00685_female.wav,output/phone_00685_female.wav,제 전화번호는 공일공 공육칠일 이공구일입니다.,010-0671-2091,female,ko-KR-SunHiNeural,1
+phone_00686_male.wav,output/phone_00686_male.wav,문자 주실 번호는 공일공 공구칠구 오오이육입니다.,010-0979-5526,male,ko-KR-InJoonNeural,1
+phone_00687_male.wav,output/phone_00687_male.wav,연락 가능 번호는 공일공 사팔일오 육사이오입니다.,010-4815-6425,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00688_male.wav,output/phone_00688_male.wav,연락 가능 번호는 공일공 삼이사공 이일육사입니다.,010-3240-2164,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00689_male.wav,output/phone_00689_male.wav,제 전화번호는 공일공 육삼일칠 구오오이입니다.,010-6317-9552,male,ko-KR-InJoonNeural,1
+phone_00690_male.wav,output/phone_00690_male.wav,제 전화번호는 공일공 육구공삼 삼삼사오입니다.,010-6903-3345,male,ko-KR-InJoonNeural,1
+phone_00691_male.wav,output/phone_00691_male.wav,연락처는 공일공 공구일구 공삼일공입니다.,010-0919-0310,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00692_male.wav,output/phone_00692_male.wav,번호 알려드릴게요. 공일공 일구구공 일삼사육입니다.,010-1990-1346,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00693_female.wav,output/phone_00693_female.wav,문자 주실 번호는 공일공 사이팔팔 이공칠일입니다.,010-4288-2071,female,ko-KR-SunHiNeural,1
+phone_00694_male.wav,output/phone_00694_male.wav,문의는 공일공 삼공육칠 사오이구으로 주세요.,010-3067-4529,male,ko-KR-InJoonNeural,1
+phone_00695_male.wav,output/phone_00695_male.wav,전화번호는 공일공 오일삼오 공이이삼이에요.,010-5135-0223,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00696_female.wav,output/phone_00696_female.wav,제 번호는 공일공 삼팔이이 구공칠칠입니다.,010-3822-9077,female,ko-KR-SunHiNeural,1
+phone_00697_female.wav,output/phone_00697_female.wav,휴대폰 번호는 공일공 구팔육칠 팔팔이삼입니다.,010-9867-8823,female,ko-KR-SunHiNeural,1
+phone_00698_male.wav,output/phone_00698_male.wav,전화번호는 공일공 오사팔사 사칠오팔이에요.,010-5484-4758,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00699_male.wav,output/phone_00699_male.wav,문자 주실 번호는 공일공 일이팔육 사오육사입니다.,010-1286-4564,male,ko-KR-InJoonNeural,1
+phone_00700_male.wav,output/phone_00700_male.wav,제 전화번호는 공일공 사팔오팔 일칠칠사입니다.,010-4858-1774,male,ko-KR-InJoonNeural,1
+phone_00701_male.wav,output/phone_00701_male.wav,문자 주실 번호는 공일공 오일일공 구팔사칠입니다.,010-5110-9847,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00702_male.wav,output/phone_00702_male.wav,번호 알려드릴게요. 공일공 오삼팔일 구칠육칠입니다.,010-5381-9767,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00703_male.wav,output/phone_00703_male.wav,제 번호는 공일공 공이사일 공칠이육입니다.,010-0241-0726,male,ko-KR-InJoonNeural,1
+phone_00704_male.wav,output/phone_00704_male.wav,전화번호는 공일공 육사팔이 이삼오삼이에요.,010-6482-2353,male,ko-KR-InJoonNeural,1
+phone_00705_male.wav,output/phone_00705_male.wav,제 전화번호는 공일공 칠팔칠삼 사일구칠입니다.,010-7873-4197,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00706_male.wav,output/phone_00706_male.wav,연락 가능 번호는 공일공 사육오칠 사공이칠입니다.,010-4657-4027,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00707_male.wav,output/phone_00707_male.wav,휴대폰 번호는 공일공 공이사사 구삼일일입니다.,010-0244-9311,male,ko-KR-InJoonNeural,1
+phone_00708_male.wav,output/phone_00708_male.wav,전화번호는 공일공 사육육구 팔팔오일이에요.,010-4669-8851,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00709_female.wav,output/phone_00709_female.wav,전화는 공일공 팔칠공육 이일이오으로 주시면 됩니다.,010-8706-2125,female,ko-KR-SunHiNeural,1
+phone_00710_female.wav,output/phone_00710_female.wav,휴대폰 번호는 공일공 팔오이오 팔사구구입니다.,010-8525-8499,female,ko-KR-SunHiNeural,1
+phone_00711_male.wav,output/phone_00711_male.wav,번호 알려드릴게요. 공일공 칠삼삼육 육삼이사입니다.,010-7336-6324,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00712_female.wav,output/phone_00712_female.wav,제 전화번호는 공일공 팔일오공 오삼사구입니다.,010-8150-5349,female,ko-KR-SunHiNeural,1
+phone_00713_female.wav,output/phone_00713_female.wav,번호 알려드릴게요. 공일공 삼팔오팔 사팔일구입니다.,010-3858-4819,female,ko-KR-SunHiNeural,1
+phone_00714_female.wav,output/phone_00714_female.wav,문의는 공일공 구이삼팔 구칠구공으로 주세요.,010-9238-9790,female,ko-KR-SunHiNeural,1
+phone_00715_male.wav,output/phone_00715_male.wav,번호 알려드릴게요. 공일공 사공육공 일구구일입니다.,010-4060-1991,male,ko-KR-InJoonNeural,1
+phone_00716_female.wav,output/phone_00716_female.wav,휴대폰 번호는 공일공 팔칠일오 사일삼칠입니다.,010-8715-4137,female,ko-KR-SunHiNeural,1
+phone_00717_female.wav,output/phone_00717_female.wav,문의는 공일공 일삼칠구 칠팔일구으로 주세요.,010-1379-7819,female,ko-KR-SunHiNeural,1
+phone_00718_male.wav,output/phone_00718_male.wav,번호 알려드릴게요. 공일공 삼이칠팔 삼이팔공입니다.,010-3278-3280,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00719_male.wav,output/phone_00719_male.wav,연락처는 공일공 삼공일오 일사팔일입니다.,010-3015-1481,male,ko-KR-InJoonNeural,1
+phone_00720_male.wav,output/phone_00720_male.wav,휴대폰 번호는 공일공 오오삼오 일팔이일입니다.,010-5535-1821,male,ko-KR-InJoonNeural,1
+phone_00721_male.wav,output/phone_00721_male.wav,문의는 공일공 칠사삼일 사팔사사으로 주세요.,010-7431-4844,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00722_female.wav,output/phone_00722_female.wav,전화는 공일공 칠육삼육 이공팔육으로 주시면 됩니다.,010-7636-2086,female,ko-KR-SunHiNeural,1
+phone_00723_male.wav,output/phone_00723_male.wav,번호 알려드릴게요. 공일공 공육오공 구일사일입니다.,010-0650-9141,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00724_female.wav,output/phone_00724_female.wav,휴대폰 번호는 공일공 삼오일오 칠육일칠입니다.,010-3515-7617,female,ko-KR-SunHiNeural,1
+phone_00725_male.wav,output/phone_00725_male.wav,문자 주실 번호는 공일공 육이사오 이오공오입니다.,010-6245-2505,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00726_male.wav,output/phone_00726_male.wav,전화번호는 공일공 팔사구팔 공육팔구이에요.,010-8498-0689,male,ko-KR-InJoonNeural,1
+phone_00727_female.wav,output/phone_00727_female.wav,연락처는 공일공 칠칠육사 사오육이입니다.,010-7764-4562,female,ko-KR-SunHiNeural,1
+phone_00728_male.wav,output/phone_00728_male.wav,휴대폰 번호는 공일공 오구칠팔 공육삼구입니다.,010-5978-0639,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00729_female.wav,output/phone_00729_female.wav,전화번호는 공일공 삼팔이구 오팔이이이에요.,010-3829-5822,female,ko-KR-SunHiNeural,1
+phone_00730_male.wav,output/phone_00730_male.wav,제 번호는 공일공 구사구이 팔칠칠사입니다.,010-9492-8774,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00731_female.wav,output/phone_00731_female.wav,제 전화번호는 공일공 이삼이육 구육사칠입니다.,010-2326-9647,female,ko-KR-SunHiNeural,1
+phone_00732_female.wav,output/phone_00732_female.wav,휴대폰 번호는 공일공 이팔일칠 육사팔이입니다.,010-2817-6482,female,ko-KR-SunHiNeural,1
+phone_00733_male.wav,output/phone_00733_male.wav,전화는 공일공 삼일일공 육일사일으로 주시면 됩니다.,010-3110-6141,male,ko-KR-InJoonNeural,1
+phone_00734_female.wav,output/phone_00734_female.wav,문의는 공일공 칠칠육칠 팔이일삼으로 주세요.,010-7767-8213,female,ko-KR-SunHiNeural,1
+phone_00735_male.wav,output/phone_00735_male.wav,연락처는 공일공 팔공구팔 육육칠공입니다.,010-8098-6670,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00736_female.wav,output/phone_00736_female.wav,전화번호는 공일공 삼공팔육 팔일팔오이에요.,010-3086-8185,female,ko-KR-SunHiNeural,1
+phone_00737_male.wav,output/phone_00737_male.wav,연락 가능 번호는 공일공 구오오팔 공공팔오입니다.,010-9558-0085,male,ko-KR-InJoonNeural,1
+phone_00738_male.wav,output/phone_00738_male.wav,번호 알려드릴게요. 공일공 칠육구공 삼삼삼오입니다.,010-7690-3335,male,ko-KR-InJoonNeural,1
+phone_00739_male.wav,output/phone_00739_male.wav,연락처는 공일공 이이공팔 팔오육삼입니다.,010-2208-8563,male,ko-KR-InJoonNeural,1
+phone_00740_female.wav,output/phone_00740_female.wav,문의는 공일공 공삼사팔 삼이공구으로 주세요.,010-0348-3209,female,ko-KR-SunHiNeural,1
+phone_00741_male.wav,output/phone_00741_male.wav,전화는 공일공 구사공오 팔구팔일으로 주시면 됩니다.,010-9405-8981,male,ko-KR-InJoonNeural,1
+phone_00742_female.wav,output/phone_00742_female.wav,문자 주실 번호는 공일공 팔육칠삼 오사일삼입니다.,010-8673-5413,female,ko-KR-SunHiNeural,1
+phone_00743_female.wav,output/phone_00743_female.wav,문자 주실 번호는 공일공 이공공구 일오구오입니다.,010-2009-1595,female,ko-KR-SunHiNeural,1
+phone_00744_male.wav,output/phone_00744_male.wav,번호 알려드릴게요. 공일공 칠일오팔 육일이칠입니다.,010-7158-6127,male,ko-KR-InJoonNeural,1
+phone_00745_female.wav,output/phone_00745_female.wav,문의는 공일공 사사칠팔 사육팔사으로 주세요.,010-4478-4684,female,ko-KR-SunHiNeural,1
+phone_00746_male.wav,output/phone_00746_male.wav,제 번호는 공일공 오삼일팔 오팔공육입니다.,010-5318-5806,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00747_female.wav,output/phone_00747_female.wav,휴대폰 번호는 공일공 오칠사팔 칠사삼칠입니다.,010-5748-7437,female,ko-KR-SunHiNeural,1
+phone_00748_female.wav,output/phone_00748_female.wav,번호 알려드릴게요. 공일공 삼육칠팔 팔일삼칠입니다.,010-3678-8137,female,ko-KR-SunHiNeural,1
+phone_00749_male.wav,output/phone_00749_male.wav,휴대폰 번호는 공일공 일칠삼구 오팔이팔입니다.,010-1739-5828,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00750_female.wav,output/phone_00750_female.wav,전화번호는 공일공 육이구팔 칠일삼육이에요.,010-6298-7136,female,ko-KR-SunHiNeural,1
+phone_00751_male.wav,output/phone_00751_male.wav,전화는 공일공 구삼육칠 공이구팔으로 주시면 됩니다.,010-9367-0298,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00752_male.wav,output/phone_00752_male.wav,전화번호는 공일공 사삼칠팔 일칠오칠이에요.,010-4378-1757,male,ko-KR-InJoonNeural,1
+phone_00753_male.wav,output/phone_00753_male.wav,번호 알려드릴게요. 공일공 팔삼육구 일팔오구입니다.,010-8369-1859,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00754_male.wav,output/phone_00754_male.wav,휴대폰 번호는 공일공 오칠삼구 이공구구입니다.,010-5739-2099,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00755_female.wav,output/phone_00755_female.wav,문의는 공일공 팔육팔칠 삼이구오으로 주세요.,010-8687-3295,female,ko-KR-SunHiNeural,1
+phone_00756_female.wav,output/phone_00756_female.wav,전화번호는 공일공 구팔오삼 팔칠일공이에요.,010-9853-8710,female,ko-KR-SunHiNeural,1
+phone_00757_female.wav,output/phone_00757_female.wav,휴대폰 번호는 공일공 오육사사 사구삼칠입니다.,010-5644-4937,female,ko-KR-SunHiNeural,1
+phone_00758_male.wav,output/phone_00758_male.wav,문자 주실 번호는 공일공 구구팔육 삼일일공입니다.,010-9986-3110,male,ko-KR-InJoonNeural,1
+phone_00759_male.wav,output/phone_00759_male.wav,제 전화번호는 공일공 일육오공 공공오삼입니다.,010-1650-0053,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00760_male.wav,output/phone_00760_male.wav,전화번호는 공일공 육이칠사 삼팔삼오이에요.,010-6274-3835,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00761_male.wav,output/phone_00761_male.wav,번호 알려드릴게요. 공일공 육구삼공 일사공팔입니다.,010-6930-1408,male,ko-KR-InJoonNeural,1
+phone_00762_male.wav,output/phone_00762_male.wav,문의는 공일공 오공일칠 공칠삼칠으로 주세요.,010-5017-0737,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00763_female.wav,output/phone_00763_female.wav,전화는 공일공 이구육육 이삼오일으로 주시면 됩니다.,010-2966-2351,female,ko-KR-SunHiNeural,1
+phone_00764_male.wav,output/phone_00764_male.wav,전화는 공일공 삼일삼구 칠일육칠으로 주시면 됩니다.,010-3139-7167,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00765_male.wav,output/phone_00765_male.wav,휴대폰 번호는 공일공 칠오공사 삼이칠팔입니다.,010-7504-3278,male,ko-KR-InJoonNeural,1
+phone_00766_female.wav,output/phone_00766_female.wav,문의는 공일공 일팔공삼 구팔육공으로 주세요.,010-1803-9860,female,ko-KR-SunHiNeural,1
+phone_00767_male.wav,output/phone_00767_male.wav,연락처는 공일공 공공구사 이칠일오입니다.,010-0094-2715,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00768_female.wav,output/phone_00768_female.wav,번호 알려드릴게요. 공일공 육사사칠 삼삼공오입니다.,010-6447-3305,female,ko-KR-SunHiNeural,1
+phone_00769_male.wav,output/phone_00769_male.wav,문자 주실 번호는 공일공 칠사일구 일공이칠입니다.,010-7419-1027,male,ko-KR-InJoonNeural,1
+phone_00770_male.wav,output/phone_00770_male.wav,제 번호는 공일공 공일사삼 오일사구입니다.,010-0143-5149,male,ko-KR-InJoonNeural,1
+phone_00771_female.wav,output/phone_00771_female.wav,제 번호는 공일공 사구칠육 육공공칠입니다.,010-4976-6007,female,ko-KR-SunHiNeural,1
+phone_00772_female.wav,output/phone_00772_female.wav,전화는 공일공 삼구구칠 일삼이육으로 주시면 됩니다.,010-3997-1326,female,ko-KR-SunHiNeural,1
+phone_00773_male.wav,output/phone_00773_male.wav,문의는 공일공 칠사칠사 육이팔공으로 주세요.,010-7474-6280,male,ko-KR-InJoonNeural,1
+phone_00774_female.wav,output/phone_00774_female.wav,문의는 공일공 칠이삼칠 일공사구으로 주세요.,010-7237-1049,female,ko-KR-SunHiNeural,1
+phone_00775_male.wav,output/phone_00775_male.wav,번호 알려드릴게요. 공일공 일사일삼 육일일이입니다.,010-1413-6112,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00776_male.wav,output/phone_00776_male.wav,전화는 공일공 공삼칠삼 칠일공구으로 주시면 됩니다.,010-0373-7109,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00777_male.wav,output/phone_00777_male.wav,휴대폰 번호는 공일공 사이구삼 사이이칠입니다.,010-4293-4227,male,ko-KR-InJoonNeural,1
+phone_00778_male.wav,output/phone_00778_male.wav,제 번호는 공일공 사구공팔 구삼칠오입니다.,010-4908-9375,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00779_female.wav,output/phone_00779_female.wav,번호 알려드릴게요. 공일공 오칠칠팔 이구공육입니다.,010-5778-2906,female,ko-KR-SunHiNeural,1
+phone_00780_male.wav,output/phone_00780_male.wav,문자 주실 번호는 공일공 사칠구오 일일육칠입니다.,010-4795-1167,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00781_male.wav,output/phone_00781_male.wav,문의는 공일공 팔육일칠 육일구팔으로 주세요.,010-8617-6198,male,ko-KR-InJoonNeural,1
+phone_00782_female.wav,output/phone_00782_female.wav,연락처는 공일공 사구일이 구칠구공입니다.,010-4912-9790,female,ko-KR-SunHiNeural,1
+phone_00783_female.wav,output/phone_00783_female.wav,전화는 공일공 공공칠삼 오사일사으로 주시면 됩니다.,010-0073-5414,female,ko-KR-SunHiNeural,1
+phone_00784_female.wav,output/phone_00784_female.wav,제 전화번호는 공일공 이공일팔 육팔칠오입니다.,010-2018-6875,female,ko-KR-SunHiNeural,1
+phone_00785_female.wav,output/phone_00785_female.wav,제 전화번호는 공일공 구삼사공 사사공삼입니다.,010-9340-4403,female,ko-KR-SunHiNeural,1
+phone_00786_male.wav,output/phone_00786_male.wav,전화는 공일공 이육공삼 공일팔공으로 주시면 됩니다.,010-2603-0180,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00787_female.wav,output/phone_00787_female.wav,전화는 공일공 육사공팔 칠사삼육으로 주시면 됩니다.,010-6408-7436,female,ko-KR-SunHiNeural,1
+phone_00788_female.wav,output/phone_00788_female.wav,전화는 공일공 오이오칠 육육구이으로 주시면 됩니다.,010-5257-6692,female,ko-KR-SunHiNeural,1
+phone_00789_male.wav,output/phone_00789_male.wav,제 번호는 공일공 오칠육육 오칠사삼입니다.,010-5766-5743,male,ko-KR-InJoonNeural,1
+phone_00790_male.wav,output/phone_00790_male.wav,번호 알려드릴게요. 공일공 칠팔삼사 공육팔팔입니다.,010-7834-0688,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00791_male.wav,output/phone_00791_male.wav,제 전화번호는 공일공 일사일일 육이팔공입니다.,010-1411-6280,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00792_male.wav,output/phone_00792_male.wav,연락처는 공일공 칠삼오사 오오칠오입니다.,010-7354-5575,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00793_female.wav,output/phone_00793_female.wav,전화번호는 공일공 이팔일일 공구육일이에요.,010-2811-0961,female,ko-KR-SunHiNeural,1
+phone_00794_male.wav,output/phone_00794_male.wav,연락 가능 번호는 공일공 공공이오 오팔칠구입니다.,010-0025-5879,male,ko-KR-InJoonNeural,1
+phone_00795_female.wav,output/phone_00795_female.wav,문자 주실 번호는 공일공 삼칠구육 구사칠사입니다.,010-3796-9474,female,ko-KR-SunHiNeural,1
+phone_00796_male.wav,output/phone_00796_male.wav,번호 알려드릴게요. 공일공 일공구팔 삼일오육입니다.,010-1098-3156,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00797_male.wav,output/phone_00797_male.wav,전화번호는 공일공 구오공구 팔사칠사이에요.,010-9509-8474,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00798_female.wav,output/phone_00798_female.wav,제 번호는 공일공 이공이공 삼칠사일입니다.,010-2020-3741,female,ko-KR-SunHiNeural,1
+phone_00799_male.wav,output/phone_00799_male.wav,전화는 공일공 일육공칠 구육일칠으로 주시면 됩니다.,010-1607-9617,male,ko-KR-InJoonNeural,1
+phone_00800_male.wav,output/phone_00800_male.wav,번호 알려드릴게요. 공일공 이칠공일 칠구공일입니다.,010-2701-7901,male,ko-KR-InJoonNeural,1
+phone_00801_male.wav,output/phone_00801_male.wav,전화번호는 공일공 육육일오 공삼공사이에요.,010-6615-0304,male,ko-KR-InJoonNeural,1
+phone_00802_male.wav,output/phone_00802_male.wav,연락처는 공일공 구이사일 육육삼칠입니다.,010-9241-6637,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00803_female.wav,output/phone_00803_female.wav,문의는 공일공 공칠오이 이이팔오으로 주세요.,010-0752-2285,female,ko-KR-SunHiNeural,1
+phone_00804_male.wav,output/phone_00804_male.wav,번호 알려드릴게요. 공일공 팔이일이 사사사이입니다.,010-8212-4442,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00805_female.wav,output/phone_00805_female.wav,문자 주실 번호는 공일공 구구공공 공일칠구입니다.,010-9900-0179,female,ko-KR-SunHiNeural,1
+phone_00806_female.wav,output/phone_00806_female.wav,제 전화번호는 공일공 오사공이 팔오팔삼입니다.,010-5402-8583,female,ko-KR-SunHiNeural,1
+phone_00807_male.wav,output/phone_00807_male.wav,문자 주실 번호는 공일공 이육육공 삼사육삼입니다.,010-2660-3463,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00808_male.wav,output/phone_00808_male.wav,제 번호는 공일공 칠육오삼 팔이이칠입니다.,010-7653-8227,male,ko-KR-InJoonNeural,1
+phone_00809_female.wav,output/phone_00809_female.wav,제 전화번호는 공일공 팔오삼오 팔칠이삼입니다.,010-8535-8723,female,ko-KR-SunHiNeural,1
+phone_00810_female.wav,output/phone_00810_female.wav,휴대폰 번호는 공일공 오공이일 칠구육칠입니다.,010-5021-7967,female,ko-KR-SunHiNeural,1
+phone_00811_female.wav,output/phone_00811_female.wav,연락 가능 번호는 공일공 팔칠이구 삼팔삼육입니다.,010-8729-3836,female,ko-KR-SunHiNeural,1
+phone_00812_male.wav,output/phone_00812_male.wav,전화는 공일공 사사구이 사일사오으로 주시면 됩니다.,010-4492-4145,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00813_male.wav,output/phone_00813_male.wav,문자 주실 번호는 공일공 삼이이육 일일육삼입니다.,010-3226-1163,male,ko-KR-InJoonNeural,1
+phone_00814_male.wav,output/phone_00814_male.wav,제 번호는 공일공 사일일구 구일팔오입니다.,010-4119-9185,male,ko-KR-InJoonNeural,1
+phone_00815_female.wav,output/phone_00815_female.wav,전화번호는 공일공 육공칠일 삼칠구육이에요.,010-6071-3796,female,ko-KR-SunHiNeural,1
+phone_00816_female.wav,output/phone_00816_female.wav,휴대폰 번호는 공일공 육일팔일 육삼공일입니다.,010-6181-6301,female,ko-KR-SunHiNeural,1
+phone_00817_male.wav,output/phone_00817_male.wav,전화번호는 공일공 이육사공 사공오육이에요.,010-2640-4056,male,ko-KR-InJoonNeural,1
+phone_00818_male.wav,output/phone_00818_male.wav,문의는 공일공 오칠육삼 육칠일삼으로 주세요.,010-5763-6713,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00819_female.wav,output/phone_00819_female.wav,연락처는 공일공 오삼구오 삼오구구입니다.,010-5395-3599,female,ko-KR-SunHiNeural,1
+phone_00820_female.wav,output/phone_00820_female.wav,문의는 공일공 육일사공 일공사육으로 주세요.,010-6140-1046,female,ko-KR-SunHiNeural,1
+phone_00821_male.wav,output/phone_00821_male.wav,번호 알려드릴게요. 공일공 오칠구팔 오이삼삼입니다.,010-5798-5233,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00822_male.wav,output/phone_00822_male.wav,전화는 공일공 칠오일팔 사일일칠으로 주시면 됩니다.,010-7518-4117,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00823_male.wav,output/phone_00823_male.wav,연락처는 공일공 공팔이육 육사일이입니다.,010-0826-6412,male,ko-KR-InJoonNeural,1
+phone_00824_male.wav,output/phone_00824_male.wav,번호 알려드릴게요. 공일공 사팔구육 칠삼삼오입니다.,010-4896-7335,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00825_male.wav,output/phone_00825_male.wav,제 번호는 공일공 오사구일 구일오육입니다.,010-5491-9156,male,ko-KR-InJoonNeural,1
+phone_00826_female.wav,output/phone_00826_female.wav,휴대폰 번호는 공일공 육사육칠 사구구칠입니다.,010-6467-4997,female,ko-KR-SunHiNeural,1
+phone_00827_female.wav,output/phone_00827_female.wav,문자 주실 번호는 공일공 공공삼구 공사삼칠입니다.,010-0039-0437,female,ko-KR-SunHiNeural,1
+phone_00828_male.wav,output/phone_00828_male.wav,제 전화번호는 공일공 일팔오팔 구이공사입니다.,010-1858-9204,male,ko-KR-InJoonNeural,1
+phone_00829_male.wav,output/phone_00829_male.wav,전화는 공일공 오육칠구 이삼공삼으로 주시면 됩니다.,010-5679-2303,male,ko-KR-InJoonNeural,1
+phone_00830_male.wav,output/phone_00830_male.wav,문자 주실 번호는 공일공 사사구사 오팔팔사입니다.,010-4494-5884,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00831_female.wav,output/phone_00831_female.wav,문의는 공일공 이이육구 팔육육사으로 주세요.,010-2269-8664,female,ko-KR-SunHiNeural,1
+phone_00832_male.wav,output/phone_00832_male.wav,전화번호는 공일공 육삼오팔 공일일삼이에요.,010-6358-0113,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00833_male.wav,output/phone_00833_male.wav,문자 주실 번호는 공일공 칠이이구 이구칠팔입니다.,010-7229-2978,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00834_male.wav,output/phone_00834_male.wav,제 전화번호는 공일공 칠구삼오 삼칠팔팔입니다.,010-7935-3788,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00835_male.wav,output/phone_00835_male.wav,연락 가능 번호는 공일공 삼일구일 사삼이사입니다.,010-3191-4324,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00836_male.wav,output/phone_00836_male.wav,연락 가능 번호는 공일공 일구팔공 사공오일입니다.,010-1980-4051,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00837_female.wav,output/phone_00837_female.wav,전화는 공일공 오사삼구 공이구이으로 주시면 됩니다.,010-5439-0292,female,ko-KR-SunHiNeural,1
+phone_00838_female.wav,output/phone_00838_female.wav,문자 주실 번호는 공일공 일공팔오 공이육팔입니다.,010-1085-0268,female,ko-KR-SunHiNeural,1
+phone_00839_female.wav,output/phone_00839_female.wav,문자 주실 번호는 공일공 구일칠사 일칠공이입니다.,010-9174-1702,female,ko-KR-SunHiNeural,1
+phone_00840_male.wav,output/phone_00840_male.wav,문의는 공일공 삼팔구오 이이구오으로 주세요.,010-3895-2295,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00841_female.wav,output/phone_00841_female.wav,전화는 공일공 육팔구구 육삼육팔으로 주시면 됩니다.,010-6899-6368,female,ko-KR-SunHiNeural,1
+phone_00842_male.wav,output/phone_00842_male.wav,제 전화번호는 공일공 일구육오 사사칠일입니다.,010-1965-4471,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00843_female.wav,output/phone_00843_female.wav,연락 가능 번호는 공일공 팔이팔팔 칠사삼사입니다.,010-8288-7434,female,ko-KR-SunHiNeural,1
+phone_00844_male.wav,output/phone_00844_male.wav,전화는 공일공 일삼삼삼 일구구사으로 주시면 됩니다.,010-1333-1994,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00845_male.wav,output/phone_00845_male.wav,번호 알려드릴게요. 공일공 구일구팔 육사공삼입니다.,010-9198-6403,male,ko-KR-InJoonNeural,1
+phone_00846_male.wav,output/phone_00846_male.wav,문의는 공일공 구일육사 육사삼오으로 주세요.,010-9164-6435,male,ko-KR-InJoonNeural,1
+phone_00847_male.wav,output/phone_00847_male.wav,전화는 공일공 사사사칠 일공오삼으로 주시면 됩니다.,010-4447-1053,male,ko-KR-InJoonNeural,1
+phone_00848_female.wav,output/phone_00848_female.wav,전화는 공일공 사삼칠사 오공공구으로 주시면 됩니다.,010-4374-5009,female,ko-KR-SunHiNeural,1
+phone_00849_female.wav,output/phone_00849_female.wav,연락처는 공일공 구육팔사 공사오팔입니다.,010-9684-0458,female,ko-KR-SunHiNeural,1
+phone_00850_male.wav,output/phone_00850_male.wav,휴대폰 번호는 공일공 일구육사 이육팔삼입니다.,010-1964-2683,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00851_male.wav,output/phone_00851_male.wav,제 전화번호는 공일공 일구사일 일이오삼입니다.,010-1941-1253,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00852_male.wav,output/phone_00852_male.wav,연락처는 공일공 공육삼육 구구육삼입니다.,010-0636-9963,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00853_male.wav,output/phone_00853_male.wav,문자 주실 번호는 공일공 오이이일 구공육이입니다.,010-5221-9062,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00854_female.wav,output/phone_00854_female.wav,제 전화번호는 공일공 구삼육구 공일이사입니다.,010-9369-0124,female,ko-KR-SunHiNeural,1
+phone_00855_female.wav,output/phone_00855_female.wav,연락 가능 번호는 공일공 칠삼이오 이이팔공입니다.,010-7325-2280,female,ko-KR-SunHiNeural,1
+phone_00856_female.wav,output/phone_00856_female.wav,제 전화번호는 공일공 구일삼오 삼공오칠입니다.,010-9135-3057,female,ko-KR-SunHiNeural,1
+phone_00857_male.wav,output/phone_00857_male.wav,제 번호는 공일공 삼삼일칠 육사이구입니다.,010-3317-6429,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00858_female.wav,output/phone_00858_female.wav,전화번호는 공일공 삼사팔삼 팔사칠이이에요.,010-3483-8472,female,ko-KR-SunHiNeural,1
+phone_00859_male.wav,output/phone_00859_male.wav,전화번호는 공일공 오삼구오 구공사육이에요.,010-5395-9046,male,ko-KR-InJoonNeural,1
+phone_00860_male.wav,output/phone_00860_male.wav,문자 주실 번호는 공일공 삼삼일칠 삼삼팔삼입니다.,010-3317-3383,male,ko-KR-InJoonNeural,1
+phone_00861_female.wav,output/phone_00861_female.wav,문의는 공일공 육칠삼육 공공구사으로 주세요.,010-6736-0094,female,ko-KR-SunHiNeural,1
+phone_00862_male.wav,output/phone_00862_male.wav,문자 주실 번호는 공일공 일이이육 오삼구사입니다.,010-1226-5394,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00863_female.wav,output/phone_00863_female.wav,휴대폰 번호는 공일공 육이이삼 일삼오육입니다.,010-6223-1356,female,ko-KR-SunHiNeural,1
+phone_00864_male.wav,output/phone_00864_male.wav,연락처는 공일공 삼사구칠 구구삼육입니다.,010-3497-9936,male,ko-KR-InJoonNeural,1
+phone_00865_female.wav,output/phone_00865_female.wav,연락처는 공일공 이칠구이 삼공공팔입니다.,010-2792-3008,female,ko-KR-SunHiNeural,1
+phone_00866_male.wav,output/phone_00866_male.wav,전화는 공일공 사육오이 팔오구육으로 주시면 됩니다.,010-4652-8596,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00867_female.wav,output/phone_00867_female.wav,제 번호는 공일공 팔오이이 팔육칠육입니다.,010-8522-8676,female,ko-KR-SunHiNeural,1
+phone_00868_female.wav,output/phone_00868_female.wav,제 번호는 공일공 오구팔육 오구팔공입니다.,010-5986-5980,female,ko-KR-SunHiNeural,1
+phone_00869_male.wav,output/phone_00869_male.wav,문의는 공일공 일오이사 공공칠공으로 주세요.,010-1524-0070,male,ko-KR-InJoonNeural,1
+phone_00870_male.wav,output/phone_00870_male.wav,문의는 공일공 구구공이 삼일일공으로 주세요.,010-9902-3110,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00871_male.wav,output/phone_00871_male.wav,제 전화번호는 공일공 삼일이오 팔구사공입니다.,010-3125-8940,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00872_male.wav,output/phone_00872_male.wav,전화번호는 공일공 오구삼팔 구오구칠이에요.,010-5938-9597,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00873_male.wav,output/phone_00873_male.wav,연락처는 공일공 오오구사 팔구칠일입니다.,010-5594-8971,male,ko-KR-InJoonNeural,1
+phone_00874_male.wav,output/phone_00874_male.wav,제 전화번호는 공일공 구공이공 공삼오일입니다.,010-9020-0351,male,ko-KR-InJoonNeural,1
+phone_00875_female.wav,output/phone_00875_female.wav,문의는 공일공 사사공칠 사삼오팔으로 주세요.,010-4407-4358,female,ko-KR-SunHiNeural,1
+phone_00876_female.wav,output/phone_00876_female.wav,연락 가능 번호는 공일공 칠일오일 구육구팔입니다.,010-7151-9698,female,ko-KR-SunHiNeural,1
+phone_00877_male.wav,output/phone_00877_male.wav,문자 주실 번호는 공일공 이삼팔삼 이이구공입니다.,010-2383-2290,male,ko-KR-InJoonNeural,1
+phone_00878_female.wav,output/phone_00878_female.wav,휴대폰 번호는 공일공 사삼칠구 공이오구입니다.,010-4379-0259,female,ko-KR-SunHiNeural,1
+phone_00879_male.wav,output/phone_00879_male.wav,문자 주실 번호는 공일공 이육사일 사삼칠삼입니다.,010-2641-4373,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00880_male.wav,output/phone_00880_male.wav,전화는 공일공 팔이일삼 육일공오으로 주시면 됩니다.,010-8213-6105,male,ko-KR-InJoonNeural,1
+phone_00881_male.wav,output/phone_00881_male.wav,번호 알려드릴게요. 공일공 이구육삼 삼이육구입니다.,010-2963-3269,male,ko-KR-InJoonNeural,1
+phone_00882_male.wav,output/phone_00882_male.wav,전화번호는 공일공 팔구사육 구일삼공이에요.,010-8946-9130,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00883_male.wav,output/phone_00883_male.wav,제 번호는 공일공 팔팔이삼 공오이사입니다.,010-8823-0524,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00884_female.wav,output/phone_00884_female.wav,연락처는 공일공 사팔구사 팔팔삼공입니다.,010-4894-8830,female,ko-KR-SunHiNeural,1
+phone_00885_female.wav,output/phone_00885_female.wav,전화번호는 공일공 사공구오 칠사팔사이에요.,010-4095-7484,female,ko-KR-SunHiNeural,1
+phone_00886_male.wav,output/phone_00886_male.wav,제 번호는 공일공 육오오이 사사삼공입니다.,010-6552-4430,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00887_female.wav,output/phone_00887_female.wav,문자 주실 번호는 공일공 팔이팔칠 일삼구팔입니다.,010-8287-1398,female,ko-KR-SunHiNeural,1
+phone_00888_male.wav,output/phone_00888_male.wav,제 전화번호는 공일공 칠육오오 육일오사입니다.,010-7655-6154,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00889_male.wav,output/phone_00889_male.wav,번호 알려드릴게요. 공일공 오일팔팔 삼일육팔입니다.,010-5188-3168,male,ko-KR-InJoonNeural,1
+phone_00890_female.wav,output/phone_00890_female.wav,번호 알려드릴게요. 공일공 일이삼오 구팔이이입니다.,010-1235-9822,female,ko-KR-SunHiNeural,1
+phone_00891_male.wav,output/phone_00891_male.wav,연락처는 공일공 일사일팔 오삼삼공입니다.,010-1418-5330,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00892_female.wav,output/phone_00892_female.wav,전화는 공일공 오구칠사 이이칠오으로 주시면 됩니다.,010-5974-2275,female,ko-KR-SunHiNeural,1
+phone_00893_female.wav,output/phone_00893_female.wav,제 전화번호는 공일공 사칠칠공 사육이사입니다.,010-4770-4624,female,ko-KR-SunHiNeural,1
+phone_00894_male.wav,output/phone_00894_male.wav,연락 가능 번호는 공일공 이팔육이 오구이오입니다.,010-2862-5925,male,ko-KR-InJoonNeural,1
+phone_00895_male.wav,output/phone_00895_male.wav,제 번호는 공일공 사팔육오 팔사육구입니다.,010-4865-8469,male,ko-KR-InJoonNeural,1
+phone_00896_female.wav,output/phone_00896_female.wav,번호 알려드릴게요. 공일공 삼공팔공 구육오팔입니다.,010-3080-9658,female,ko-KR-SunHiNeural,1
+phone_00897_female.wav,output/phone_00897_female.wav,제 번호는 공일공 삼사삼팔 공칠구육입니다.,010-3438-0796,female,ko-KR-SunHiNeural,1
+phone_00898_female.wav,output/phone_00898_female.wav,전화번호는 공일공 일오삼삼 칠이팔사이에요.,010-1533-7284,female,ko-KR-SunHiNeural,1
+phone_00899_male.wav,output/phone_00899_male.wav,전화번호는 공일공 구구삼팔 칠팔삼오이에요.,010-9938-7835,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00900_male.wav,output/phone_00900_male.wav,제 번호는 공일공 삼칠사육 사오이삼입니다.,010-3746-4523,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00901_male.wav,output/phone_00901_male.wav,제 번호는 공일공 칠칠삼오 오팔칠공입니다.,010-7735-5870,male,ko-KR-InJoonNeural,1
+phone_00902_male.wav,output/phone_00902_male.wav,연락처는 공일공 사칠삼삼 사일공공입니다.,010-4733-4100,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00903_male.wav,output/phone_00903_male.wav,문자 주실 번호는 공일공 칠칠일공 오오사구입니다.,010-7710-5549,male,ko-KR-InJoonNeural,1
+phone_00904_male.wav,output/phone_00904_male.wav,문자 주실 번호는 공일공 공사육오 팔공육일입니다.,010-0465-8061,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00905_male.wav,output/phone_00905_male.wav,휴대폰 번호는 공일공 공사공육 일공공이입니다.,010-0406-1002,male,ko-KR-InJoonNeural,1
+phone_00906_male.wav,output/phone_00906_male.wav,문자 주실 번호는 공일공 팔육이육 칠삼오팔입니다.,010-8626-7358,male,ko-KR-InJoonNeural,1
+phone_00907_female.wav,output/phone_00907_female.wav,문자 주실 번호는 공일공 공구팔삼 구육공팔입니다.,010-0983-9608,female,ko-KR-SunHiNeural,1
+phone_00908_female.wav,output/phone_00908_female.wav,번호 알려드릴게요. 공일공 구칠이삼 구팔공팔입니다.,010-9723-9808,female,ko-KR-SunHiNeural,1
+phone_00909_male.wav,output/phone_00909_male.wav,전화번호는 공일공 팔구칠육 칠삼일육이에요.,010-8976-7316,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00910_male.wav,output/phone_00910_male.wav,연락처는 공일공 팔오오사 칠구구칠입니다.,010-8554-7997,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00911_male.wav,output/phone_00911_male.wav,번호 알려드릴게요. 공일공 삼육일사 팔삼이육입니다.,010-3614-8326,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00912_male.wav,output/phone_00912_male.wav,제 번호는 공일공 오오팔칠 육팔칠오입니다.,010-5587-6875,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00913_female.wav,output/phone_00913_female.wav,휴대폰 번호는 공일공 육이칠공 오칠이이입니다.,010-6270-5722,female,ko-KR-SunHiNeural,1
+phone_00914_female.wav,output/phone_00914_female.wav,제 번호는 공일공 팔육오구 일육이칠입니다.,010-8659-1627,female,ko-KR-SunHiNeural,1
+phone_00915_male.wav,output/phone_00915_male.wav,연락처는 공일공 구삼사팔 팔삼구사입니다.,010-9348-8394,male,ko-KR-InJoonNeural,1
+phone_00916_female.wav,output/phone_00916_female.wav,전화번호는 공일공 팔오공오 구육삼구이에요.,010-8505-9639,female,ko-KR-SunHiNeural,1
+phone_00917_male.wav,output/phone_00917_male.wav,전화번호는 공일공 삼구삼이 공사일오이에요.,010-3932-0415,male,ko-KR-InJoonNeural,1
+phone_00918_female.wav,output/phone_00918_female.wav,전화번호는 공일공 오이오오 일칠삼사이에요.,010-5255-1734,female,ko-KR-SunHiNeural,1
+phone_00919_female.wav,output/phone_00919_female.wav,연락처는 공일공 팔오사팔 구육삼공입니다.,010-8548-9630,female,ko-KR-SunHiNeural,1
+phone_00920_male.wav,output/phone_00920_male.wav,제 번호는 공일공 일공이팔 삼오구구입니다.,010-1028-3599,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00921_female.wav,output/phone_00921_female.wav,제 전화번호는 공일공 육팔구공 공일오육입니다.,010-6890-0156,female,ko-KR-SunHiNeural,1
+phone_00922_female.wav,output/phone_00922_female.wav,전화는 공일공 삼이공팔 팔삼구팔으로 주시면 됩니다.,010-3208-8398,female,ko-KR-SunHiNeural,1
+phone_00923_male.wav,output/phone_00923_male.wav,번호 알려드릴게요. 공일공 칠공삼사 구사사칠입니다.,010-7034-9447,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00924_male.wav,output/phone_00924_male.wav,전화번호는 공일공 삼사사이 오구구육이에요.,010-3442-5996,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00925_female.wav,output/phone_00925_female.wav,제 번호는 공일공 육공사구 공삼사이입니다.,010-6049-0342,female,ko-KR-SunHiNeural,1
+phone_00926_male.wav,output/phone_00926_male.wav,번호 알려드릴게요. 공일공 삼오팔이 팔공일일입니다.,010-3582-8011,male,ko-KR-InJoonNeural,1
+phone_00927_male.wav,output/phone_00927_male.wav,전화번호는 공일공 일육공구 공칠공이이에요.,010-1609-0702,male,ko-KR-InJoonNeural,1
+phone_00928_male.wav,output/phone_00928_male.wav,제 전화번호는 공일공 오팔삼팔 이일사구입니다.,010-5838-2149,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00929_female.wav,output/phone_00929_female.wav,문자 주실 번호는 공일공 이오사구 공구일육입니다.,010-2549-0916,female,ko-KR-SunHiNeural,1
+phone_00930_male.wav,output/phone_00930_male.wav,제 번호는 공일공 이공팔공 팔팔육팔입니다.,010-2080-8868,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00931_female.wav,output/phone_00931_female.wav,전화는 공일공 사구공구 구육칠육으로 주시면 됩니다.,010-4909-9676,female,ko-KR-SunHiNeural,1
+phone_00932_male.wav,output/phone_00932_male.wav,제 전화번호는 공일공 칠육칠칠 공사구사입니다.,010-7677-0494,male,ko-KR-InJoonNeural,1
+phone_00933_male.wav,output/phone_00933_male.wav,문의는 공일공 칠사칠칠 칠이육육으로 주세요.,010-7477-7266,male,ko-KR-InJoonNeural,1
+phone_00934_male.wav,output/phone_00934_male.wav,제 전화번호는 공일공 사공구일 사이삼구입니다.,010-4091-4239,male,ko-KR-InJoonNeural,1
+phone_00935_male.wav,output/phone_00935_male.wav,전화번호는 공일공 구팔삼삼 일오팔공이에요.,010-9833-1580,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00936_male.wav,output/phone_00936_male.wav,전화는 공일공 육칠칠칠 칠사삼공으로 주시면 됩니다.,010-6777-7430,male,ko-KR-InJoonNeural,1
+phone_00937_female.wav,output/phone_00937_female.wav,휴대폰 번호는 공일공 이육이오 육칠육팔입니다.,010-2625-6768,female,ko-KR-SunHiNeural,1
+phone_00938_male.wav,output/phone_00938_male.wav,전화번호는 공일공 삼삼이일 구공육구이에요.,010-3321-9069,male,ko-KR-InJoonNeural,1
+phone_00939_female.wav,output/phone_00939_female.wav,제 전화번호는 공일공 사오팔공 구일일일입니다.,010-4580-9111,female,ko-KR-SunHiNeural,1
+phone_00940_male.wav,output/phone_00940_male.wav,문자 주실 번호는 공일공 팔공팔공 사칠사공입니다.,010-8080-4740,male,ko-KR-InJoonNeural,1
+phone_00941_male.wav,output/phone_00941_male.wav,문자 주실 번호는 공일공 칠공팔일 사사육이입니다.,010-7081-4462,male,ko-KR-InJoonNeural,1
+phone_00942_male.wav,output/phone_00942_male.wav,문자 주실 번호는 공일공 이삼구칠 구오칠사입니다.,010-2397-9574,male,ko-KR-InJoonNeural,1
+phone_00943_male.wav,output/phone_00943_male.wav,전화는 공일공 공삼칠육 이삼공삼으로 주시면 됩니다.,010-0376-2303,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00944_male.wav,output/phone_00944_male.wav,제 전화번호는 공일공 육이일이 이공구칠입니다.,010-6212-2097,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00945_female.wav,output/phone_00945_female.wav,문의는 공일공 일사오구 삼공삼일으로 주세요.,010-1459-3031,female,ko-KR-SunHiNeural,1
+phone_00946_male.wav,output/phone_00946_male.wav,휴대폰 번호는 공일공 삼사공칠 이이공칠입니다.,010-3407-2207,male,ko-KR-InJoonNeural,1
+phone_00947_male.wav,output/phone_00947_male.wav,번호 알려드릴게요. 공일공 이오오삼 칠칠팔일입니다.,010-2553-7781,male,ko-KR-InJoonNeural,1
+phone_00948_female.wav,output/phone_00948_female.wav,휴대폰 번호는 공일공 구일칠구 일팔일사입니다.,010-9179-1814,female,ko-KR-SunHiNeural,1
+phone_00949_female.wav,output/phone_00949_female.wav,제 번호는 공일공 오이오구 사육팔공입니다.,010-5259-4680,female,ko-KR-SunHiNeural,1
+phone_00950_male.wav,output/phone_00950_male.wav,휴대폰 번호는 공일공 칠사이공 일구칠공입니다.,010-7420-1970,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00951_male.wav,output/phone_00951_male.wav,제 전화번호는 공일공 팔공이삼 오이오칠입니다.,010-8023-5257,male,ko-KR-InJoonNeural,1
+phone_00952_male.wav,output/phone_00952_male.wav,휴대폰 번호는 공일공 삼이칠공 육칠칠칠입니다.,010-3270-6777,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00953_male.wav,output/phone_00953_male.wav,연락처는 공일공 팔공일삼 구팔오일입니다.,010-8013-9851,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00954_female.wav,output/phone_00954_female.wav,연락처는 공일공 일구공육 일공구사입니다.,010-1906-1094,female,ko-KR-SunHiNeural,1
+phone_00955_female.wav,output/phone_00955_female.wav,휴대폰 번호는 공일공 사이칠육 공이삼육입니다.,010-4276-0236,female,ko-KR-SunHiNeural,1
+phone_00956_male.wav,output/phone_00956_male.wav,전화는 공일공 삼칠사일 칠사칠칠으로 주시면 됩니다.,010-3741-7477,male,ko-KR-InJoonNeural,1
+phone_00957_male.wav,output/phone_00957_male.wav,휴대폰 번호는 공일공 사팔팔이 사칠육칠입니다.,010-4882-4767,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00958_male.wav,output/phone_00958_male.wav,휴대폰 번호는 공일공 이공구공 칠사오공입니다.,010-2090-7450,male,ko-KR-InJoonNeural,1
+phone_00959_male.wav,output/phone_00959_male.wav,제 전화번호는 공일공 팔일삼육 구팔사팔입니다.,010-8136-9848,male,ko-KR-InJoonNeural,1
+phone_00960_male.wav,output/phone_00960_male.wav,제 전화번호는 공일공 공팔육사 육육공오입니다.,010-0864-6605,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00961_female.wav,output/phone_00961_female.wav,휴대폰 번호는 공일공 사육사칠 오육삼삼입니다.,010-4647-5633,female,ko-KR-SunHiNeural,1
+phone_00962_female.wav,output/phone_00962_female.wav,연락 가능 번호는 공일공 구사칠삼 오육공이입니다.,010-9473-5602,female,ko-KR-SunHiNeural,1
+phone_00963_female.wav,output/phone_00963_female.wav,문자 주실 번호는 공일공 일일칠구 육구육육입니다.,010-1179-6966,female,ko-KR-SunHiNeural,1
+phone_00964_male.wav,output/phone_00964_male.wav,연락처는 공일공 공육공팔 일구칠육입니다.,010-0608-1976,male,ko-KR-InJoonNeural,1
+phone_00965_male.wav,output/phone_00965_male.wav,번호 알려드릴게요. 공일공 공칠사삼 구팔이공입니다.,010-0743-9820,male,ko-KR-InJoonNeural,1
+phone_00966_male.wav,output/phone_00966_male.wav,문의는 공일공 이칠구팔 이삼이사으로 주세요.,010-2798-2324,male,ko-KR-InJoonNeural,1
+phone_00967_male.wav,output/phone_00967_male.wav,제 전화번호는 공일공 공육육칠 육일육사입니다.,010-0667-6164,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00968_male.wav,output/phone_00968_male.wav,번호 알려드릴게요. 공일공 구일육오 이칠구칠입니다.,010-9165-2797,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00969_male.wav,output/phone_00969_male.wav,전화는 공일공 칠칠오칠 오일구팔으로 주시면 됩니다.,010-7757-5198,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00970_female.wav,output/phone_00970_female.wav,전화는 공일공 육일이공 이이이육으로 주시면 됩니다.,010-6120-2226,female,ko-KR-SunHiNeural,1
+phone_00971_male.wav,output/phone_00971_male.wav,연락처는 공일공 칠칠칠공 이일삼팔입니다.,010-7770-2138,male,ko-KR-InJoonNeural,1
+phone_00972_male.wav,output/phone_00972_male.wav,휴대폰 번호는 공일공 일이육육 일이일삼입니다.,010-1266-1213,male,ko-KR-InJoonNeural,1
+phone_00973_male.wav,output/phone_00973_male.wav,제 번호는 공일공 구팔이육 팔칠삼구입니다.,010-9826-8739,male,ko-KR-InJoonNeural,1
+phone_00974_male.wav,output/phone_00974_male.wav,번호 알려드릴게요. 공일공 육일일팔 삼칠오육입니다.,010-6118-3756,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00975_female.wav,output/phone_00975_female.wav,연락 가능 번호는 공일공 공구오일 사일일이입니다.,010-0951-4112,female,ko-KR-SunHiNeural,1
+phone_00976_male.wav,output/phone_00976_male.wav,연락 가능 번호는 공일공 삼이삼구 삼팔공구입니다.,010-3239-3809,male,ko-KR-InJoonNeural,1
+phone_00977_female.wav,output/phone_00977_female.wav,문의는 공일공 팔오팔사 일팔육공으로 주세요.,010-8584-1860,female,ko-KR-SunHiNeural,1
+phone_00978_male.wav,output/phone_00978_male.wav,휴대폰 번호는 공일공 이이일오 육일이팔입니다.,010-2215-6128,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00979_female.wav,output/phone_00979_female.wav,문자 주실 번호는 공일공 공오이구 공사사공입니다.,010-0529-0440,female,ko-KR-SunHiNeural,1
+phone_00980_male.wav,output/phone_00980_male.wav,전화번호는 공일공 사삼이이 구사이사이에요.,010-4322-9424,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00981_male.wav,output/phone_00981_male.wav,전화번호는 공일공 구구사칠 칠육구오이에요.,010-9947-7695,male,ko-KR-InJoonNeural,1
+phone_00982_male.wav,output/phone_00982_male.wav,문의는 공일공 오이이칠 구이사공으로 주세요.,010-5227-9240,male,ko-KR-InJoonNeural,1
+phone_00983_male.wav,output/phone_00983_male.wav,휴대폰 번호는 공일공 공공삼육 삼이칠일입니다.,010-0036-3271,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00984_male.wav,output/phone_00984_male.wav,전화번호는 공일공 이육삼일 삼삼이삼이에요.,010-2631-3323,male,ko-KR-InJoonNeural,1
+phone_00985_male.wav,output/phone_00985_male.wav,문의는 공일공 이공공사 오사팔칠으로 주세요.,010-2004-5487,male,ko-KR-InJoonNeural,1
+phone_00986_male.wav,output/phone_00986_male.wav,전화번호는 공일공 팔팔오공 오사육공이에요.,010-8850-5460,male,ko-KR-InJoonNeural,1
+phone_00987_female.wav,output/phone_00987_female.wav,전화는 공일공 오삼오이 공삼일삼으로 주시면 됩니다.,010-5352-0313,female,ko-KR-SunHiNeural,1
+phone_00988_male.wav,output/phone_00988_male.wav,휴대폰 번호는 공일공 오육팔이 팔사오사입니다.,010-5682-8454,male,ko-KR-InJoonNeural,1
+phone_00989_male.wav,output/phone_00989_male.wav,문의는 공일공 사공구공 이일사팔으로 주세요.,010-4090-2148,male,ko-KR-InJoonNeural,1
+phone_00990_male.wav,output/phone_00990_male.wav,제 전화번호는 공일공 육팔오칠 공구공일입니다.,010-6857-0901,male,ko-KR-InJoonNeural,1
+phone_00991_female.wav,output/phone_00991_female.wav,연락처는 공일공 오오공삼 구사공이입니다.,010-5503-9402,female,ko-KR-SunHiNeural,1
+phone_00992_female.wav,output/phone_00992_female.wav,문의는 공일공 칠팔구삼 팔사일사으로 주세요.,010-7893-8414,female,ko-KR-SunHiNeural,1
+phone_00993_female.wav,output/phone_00993_female.wav,문의는 공일공 구일구사 일육칠오으로 주세요.,010-9194-1675,female,ko-KR-SunHiNeural,1
+phone_00994_male.wav,output/phone_00994_male.wav,번호 알려드릴게요. 공일공 육칠팔칠 오육구사입니다.,010-6787-5694,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00995_male.wav,output/phone_00995_male.wav,연락 가능 번호는 공일공 오삼공공 일육팔오입니다.,010-5300-1685,male,ko-KR-HyunsuMultilingualNeural,1
+phone_00996_female.wav,output/phone_00996_female.wav,제 전화번호는 공일공 육팔팔칠 사구구구입니다.,010-6887-4999,female,ko-KR-SunHiNeural,1
+phone_00997_male.wav,output/phone_00997_male.wav,연락 가능 번호는 공일공 팔오육칠 이구사칠입니다.,010-8567-2947,male,ko-KR-InJoonNeural,1
+phone_00998_male.wav,output/phone_00998_male.wav,문자 주실 번호는 공일공 이일이오 사팔일공입니다.,010-2125-4810,male,ko-KR-InJoonNeural,1
+phone_00999_male.wav,output/phone_00999_male.wav,전화는 공일공 육사칠공 팔팔일칠으로 주시면 됩니다.,010-6470-8817,male,ko-KR-InJoonNeural,1
