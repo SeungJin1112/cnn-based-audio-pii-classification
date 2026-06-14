@@ -1,0 +1,28 @@
+{
+  "threshold": 0.5,
+  "fpr_by_source": {
+    "negative_hard": 0.415
+  },
+  "hard_neg_fpr_by_category": {
+    "count": {
+      "n": 52,
+      "fpr": 0.365,
+      "mean_prob": 0.366
+    },
+    "order": {
+      "n": 45,
+      "fpr": 0.733,
+      "mean_prob": 0.648
+    },
+    "seat": {
+      "n": 45,
+      "fpr": 0.156,
+      "mean_prob": 0.177
+    }
+  },
+  "recall_by_pii": {
+    "account": 0.982,
+    "card": 1.0,
+    "rrn": 0.865
+  }
+}

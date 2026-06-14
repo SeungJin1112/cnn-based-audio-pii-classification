@@ -91,3 +91,11 @@ in-distribution per-PII recall 도 rrn 0.96 / account 1.0 / card 1.0 으로 4종
 ## 한 줄 결론 (v2)
 
 > 화자를 14명으로 늘리자 speaker-disjoint 성능이 **F1 0.86 으로 안정화**(v1 0.62±0.28 → v2 0.86±0.10)됐고, **학습하지 않은 PII 유형(주민번호)도 recall 0.98 로 탐지**되어 모델이 "PII 형식"을 유형 너머로 일반화함을 확인했다. 즉 STT 없는 음향 PII 선별의 **feasibility(분리·일반화)는 화자/유형 양축에서 강해졌다.** 남은 과제는 운용 precision(calibration)과 실데이터 검증이다.
+
+## 후속 1순위 결과 — precision/calibration (0012)
+
+> precision 약점을 운용점·원인 차원에서 분석. 결론: **post-hoc calibration 으로는 못 고친다.**
+
+- threshold-독립 상한 ROC 0.901 / PR-AUC 0.915 (랭킹은 강함). 그러나 temperature/Platt scaling 으로 ECE 가 거의 안 변함(0.135→0.142/0.112) → 문제는 확률 보정이 아니라 **표현/데이터 차원**.
+- 누수 원인: hard-neg 중 **주문번호(9~11자리) FPR 0.733** 로 집중. 자릿수로 읽은 긴 연속 숫자열은 전화/계좌와 음향 형식이 사실상 동일 → **형식만으로는 구분 불가능한 본질적 한계**(짧은 숫자 좌석류는 FPR 0.16 로 안전).
+- 함의: precision 개선의 레버는 calibration 이 아니라 **(a) 문맥 단서(선행 단어 "주문번호/계좌번호") 활용, (b) 충돌형 hard-neg 강화 학습**. 형식-only 탐지는 비PII 가 같은 형식을 공유할 때 상한이 있으며, 문맥 결합이 필요하다.

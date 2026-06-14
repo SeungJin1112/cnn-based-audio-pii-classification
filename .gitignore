@@ -16,3 +16,4 @@ src/cnn/runs/mobilenet_v3_small_*/checkpoint.pt
 src/cnn/generate/qwen_smoke_out/
 src/cnn/generate/qwen_consistency_out/
 src/cnn/runs/qwen_experiment_smoke.json
+src/cnn/runs/calibration_smoke.json
