@@ -11,3 +11,8 @@ __pycache__/
 src/cnn/runs/convnext_tiny_*/checkpoint.pt
 src/cnn/runs/efficientnet_b0_*/checkpoint.pt
 src/cnn/runs/mobilenet_v3_small_*/checkpoint.pt
+
+# 일회성 스모크 산출물(쓰레기) — 추적 안 함
+src/cnn/generate/qwen_smoke_out/
+src/cnn/generate/qwen_consistency_out/
+src/cnn/runs/qwen_experiment_smoke.json

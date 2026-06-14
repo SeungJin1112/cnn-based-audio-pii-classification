@@ -1,0 +1,901 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+positive_00000_spk01.wav,output/positive_00000_spk01.wav,공일공 일팔이사 공사공구 으로 연락 주세요.,010-1824-0409,phone,female,spk01,phone_2,positive,1,4.0
+positive_00001_spk02.wav,output/positive_00001_spk02.wav,제 주민등록번호는 삼일공사공오 일칠공구오칠공입니다.,310405-1709570,rrn,male,spk02,rrn_0,positive,1,5.44
+positive_00002_spk03.wav,output/positive_00002_spk03.wav,제 계좌번호는 칠공사 사사이 공삼삼삼이육입니다.,704-442-033326,account,female,spk03,account_0,positive,1,4.24
+positive_00003_spk04.wav,output/positive_00003_spk04.wav,제 카드번호는 일오삼오 삼오팔이 삼팔일일 팔이칠구이에요.,1535-3582-3811-8279,card,male,spk04,card_2,positive,1,4.72
+positive_00004_spk05.wav,output/positive_00004_spk05.wav,연락처는 공일공 공사삼사 구일구오이에요.,010-0434-9195,phone,female,spk05,phone_1,positive,1,3.44
+positive_00005_spk06.wav,output/positive_00005_spk06.wav,구일일일이삼 사이삼일일사팔 가 제 주민등록번호입니다.,911123-4231148,rrn,male,spk06,rrn_3,positive,1,5.44
+positive_00006_spk07.wav,output/positive_00006_spk07.wav,제 계좌번호는 칠공삼 이구사 팔사팔칠사구입니다.,703-294-848749,account,female,spk07,account_0,positive,1,4.64
+positive_00007_spk08.wav,output/positive_00007_spk08.wav,카드번호는 이육일오 육구이사 오오칠사 사오오이입니다.,2615-6924-5574-4552,card,male,spk08,card_0,positive,1,4.48
+positive_00008_spk09.wav,output/positive_00008_spk09.wav,제 전화번호는 공일공 삼오이칠 오오일사입니다.,010-3527-5514,phone,female,spk09,phone_0,positive,1,5.52
+positive_00009_spk10.wav,output/positive_00009_spk10.wav,본인 확인을 위해 일일공칠공사 삼팔팔팔육육이 불러드릴게요.,110704-3888662,rrn,male,spk10,rrn_2,positive,1,5.04
+positive_00010_spk11.wav,output/positive_00010_spk11.wav,제 계좌번호는 칠일팔 이팔공 팔사육삼삼오입니다.,718-280-846335,account,female,spk11,account_0,positive,1,5.2
+positive_00011_spk12.wav,output/positive_00011_spk12.wav,카드번호는 칠오이칠 팔칠팔오 이공사오 육이공일입니다.,7527-8785-2045-6201,card,male,spk12,card_0,positive,1,4.0
+positive_00012_spk13.wav,output/positive_00012_spk13.wav,문자는 공일공 구공사사 사팔공삼 으로 보내주세요.,010-9044-4803,phone,male,spk13,phone_4,positive,1,4.0
+positive_00013_spk14.wav,output/positive_00013_spk14.wav,주민번호는 사육일공공칠 일공사팔공오공이에요.,461007-1048050,rrn,female,spk14,rrn_1,positive,1,4.64
+positive_00014_spk01.wav,output/positive_00014_spk01.wav,팔구일 삼공육 공팔삼육육칠 으로 입금해 주세요.,891-306-083667,account,female,spk01,account_1,positive,1,4.4
+positive_00015_spk02.wav,output/positive_00015_spk02.wav,제 카드번호는 일육오사 육이이칠 사오오사 칠사이팔이에요.,1654-6227-4554-7428,card,male,spk02,card_2,positive,1,4.8
+positive_00016_spk03.wav,output/positive_00016_spk03.wav,공일공 오구칠칠 이육육사 으로 연락 주세요.,010-5977-2664,phone,female,spk03,phone_2,positive,1,3.52
+positive_00017_spk04.wav,output/positive_00017_spk04.wav,제 주민등록번호는 사오공사이이 삼칠삼오구일일입니다.,450422-3735911,rrn,male,spk04,rrn_0,positive,1,4.64
+positive_00018_spk05.wav,output/positive_00018_spk05.wav,칠이삼 육육공 일칠구사오일 으로 입금해 주세요.,723-660-179451,account,female,spk05,account_1,positive,1,3.92
+positive_00019_spk06.wav,output/positive_00019_spk06.wav,제 카드번호는 이육칠칠 칠오칠삼 육이일육 사사이이이에요.,2677-7573-6216-4422,card,male,spk06,card_2,positive,1,5.04
+positive_00020_spk07.wav,output/positive_00020_spk07.wav,공일공 구일이오 삼오구팔 으로 연락 주세요.,010-9125-3598,phone,female,spk07,phone_2,positive,1,3.68
+positive_00021_spk08.wav,output/positive_00021_spk08.wav,본인 확인을 위해 구팔공일공팔 일팔사사일오일 불러드릴게요.,980108-1844151,rrn,male,spk08,rrn_2,positive,1,6.48
+positive_00022_spk09.wav,output/positive_00022_spk09.wav,오일공 이팔사 공육구사공삼 으로 입금해 주세요.,510-284-069403,account,female,spk09,account_1,positive,1,3.76
+positive_00023_spk10.wav,output/positive_00023_spk10.wav,구이구이 오일오오 삼사팔삼 팔일칠구 로 결제 부탁드립니다.,9292-5155-3483-8179,card,male,spk10,card_1,positive,1,5.28
+positive_00024_spk11.wav,output/positive_00024_spk11.wav,공일공 칠오일칠 이삼사공 으로 연락 주세요.,010-7517-2340,phone,female,spk11,phone_2,positive,1,3.44
+positive_00025_spk12.wav,output/positive_00025_spk12.wav,일칠공사이사 삼칠팔삼삼공공 가 제 주민등록번호입니다.,170424-3783300,rrn,male,spk12,rrn_3,positive,1,4.64
+positive_00026_spk13.wav,output/positive_00026_spk13.wav,육구칠 사일팔 삼칠구오팔공 으로 입금해 주세요.,697-418-379580,account,male,spk13,account_1,positive,1,4.72
+positive_00027_spk14.wav,output/positive_00027_spk14.wav,카드번호는 이이육육 팔삼사팔 팔공팔오 일사팔구입니다.,2266-8348-8085-1489,card,female,spk14,card_0,positive,1,5.36
+positive_00028_spk01.wav,output/positive_00028_spk01.wav,연락처는 공일공 일칠구육 이오공사이에요.,010-1796-2504,phone,female,spk01,phone_1,positive,1,3.76
+positive_00029_spk02.wav,output/positive_00029_spk02.wav,팔칠공칠이공 일사공삼사오칠 가 제 주민등록번호입니다.,870720-1403457,rrn,male,spk02,rrn_3,positive,1,5.12
+positive_00030_spk03.wav,output/positive_00030_spk03.wav,입금하실 계좌는 칠일공 사팔구 오오사팔일육이에요.,710-489-554816,account,female,spk03,account_2,positive,1,4.56
+positive_00031_spk04.wav,output/positive_00031_spk04.wav,구공육사 공일팔팔 일팔칠육 팔칠구칠 로 결제 부탁드립니다.,9064-0188-1876-8797,card,male,spk04,card_1,positive,1,5.44
+positive_00032_spk05.wav,output/positive_00032_spk05.wav,공일공 오오칠삼 일팔이칠 으로 연락 주세요.,010-5573-1827,phone,female,spk05,phone_2,positive,1,3.6
+positive_00033_spk06.wav,output/positive_00033_spk06.wav,본인 확인을 위해 오오공삼일오 일칠오칠일육팔 불러드릴게요.,550315-1757168,rrn,male,spk06,rrn_2,positive,1,4.72
+positive_00034_spk07.wav,output/positive_00034_spk07.wav,제 계좌번호는 육일이 칠구공 일팔칠삼삼공입니다.,612-790-187330,account,female,spk07,account_0,positive,1,5.04
+positive_00035_spk08.wav,output/positive_00035_spk08.wav,카드번호는 사팔팔구 팔삼일칠 구구칠칠 삼이오팔입니다.,4889-8317-9977-3258,card,male,spk08,card_0,positive,1,5.2
+positive_00036_spk09.wav,output/positive_00036_spk09.wav,문자는 공일공 육일이육 이육사육 으로 보내주세요.,010-6126-2646,phone,female,spk09,phone_4,positive,1,3.68
+positive_00037_spk10.wav,output/positive_00037_spk10.wav,제 주민등록번호는 구구공구공일 삼오일이삼사공입니다.,990901-3512340,rrn,male,spk10,rrn_0,positive,1,4.88
+positive_00038_spk11.wav,output/positive_00038_spk11.wav,입금하실 계좌는 이일사 구육일 삼팔공육일이이에요.,214-961-380612,account,female,spk11,account_2,positive,1,4.0
+positive_00039_spk12.wav,output/positive_00039_spk12.wav,카드번호는 삼구이삼 공구사구 삼구사육 구이구오입니다.,3923-0949-3946-9295,card,male,spk12,card_0,positive,1,4.8
+positive_00040_spk13.wav,output/positive_00040_spk13.wav,제 전화번호는 공일공 일사공삼 칠구육이입니다.,010-1403-7962,phone,male,spk13,phone_0,positive,1,4.24
+positive_00041_spk14.wav,output/positive_00041_spk14.wav,구칠공구이오 이일삼사육이팔 가 제 주민등록번호입니다.,970925-2134628,rrn,female,spk14,rrn_3,positive,1,4.24
+positive_00042_spk01.wav,output/positive_00042_spk01.wav,환불 계좌는 육육이 일칠구 이칠칠구삼이입니다.,662-179-277932,account,female,spk01,account_3,positive,1,4.64
+positive_00043_spk02.wav,output/positive_00043_spk02.wav,삼사칠공 팔팔삼오 삼이구오 오일공칠 로 결제 부탁드립니다.,3470-8835-3295-5107,card,male,spk02,card_1,positive,1,5.2
+positive_00044_spk03.wav,output/positive_00044_spk03.wav,문자는 공일공 육일일팔 칠일칠칠 으로 보내주세요.,010-6118-7177,phone,female,spk03,phone_4,positive,1,4.64
+positive_00045_spk04.wav,output/positive_00045_spk04.wav,본인 확인을 위해 오칠공이공팔 이공육칠일삼육 불러드릴게요.,570208-2067136,rrn,male,spk04,rrn_2,positive,1,5.44
+positive_00046_spk05.wav,output/positive_00046_spk05.wav,일이일 육일이 오팔공팔이팔 으로 입금해 주세요.,121-612-580828,account,female,spk05,account_1,positive,1,3.44
+positive_00047_spk06.wav,output/positive_00047_spk06.wav,제 카드번호는 구육사일 삼육공팔 공일일칠 일일육삼이에요.,9641-3608-0117-1163,card,male,spk06,card_2,positive,1,5.44
+positive_00048_spk07.wav,output/positive_00048_spk07.wav,제 전화번호는 공일공 공구육사 삼칠오공입니다.,010-0964-3750,phone,female,spk07,phone_0,positive,1,4.56
+positive_00049_spk08.wav,output/positive_00049_spk08.wav,공사공육공삼 이이구이공공사 가 제 주민등록번호입니다.,040603-2292004,rrn,male,spk08,rrn_3,positive,1,5.44
+positive_00050_spk09.wav,output/positive_00050_spk09.wav,환불 계좌는 삼일구 오육이 일삼팔칠삼구입니다.,319-562-138739,account,female,spk09,account_3,positive,1,4.24
+positive_00051_spk10.wav,output/positive_00051_spk10.wav,카드번호는 삼구팔일 칠칠사구 육육육구 삼일일구입니다.,3981-7749-6669-3119,card,male,spk10,card_0,positive,1,4.88
+positive_00052_spk11.wav,output/positive_00052_spk11.wav,공일공 일오팔팔 칠공육이 으로 연락 주세요.,010-1588-7062,phone,female,spk11,phone_2,positive,1,4.24
+positive_00053_spk12.wav,output/positive_00053_spk12.wav,제 주민등록번호는 오사공칠일오 일칠공육공칠삼입니다.,540715-1706073,rrn,male,spk12,rrn_0,positive,1,5.44
+positive_00054_spk13.wav,output/positive_00054_spk13.wav,입금하실 계좌는 일육이 사이이 칠육삼오팔칠이에요.,162-422-763587,account,male,spk13,account_2,positive,1,3.44
+positive_00055_spk14.wav,output/positive_00055_spk14.wav,제 카드번호는 일칠구공 사공칠삼 삼일삼구 삼일일육이에요.,1790-4073-3139-3116,card,female,spk14,card_2,positive,1,5.12
+positive_00056_spk01.wav,output/positive_00056_spk01.wav,급하시면 공일공 칠삼오공 이이구육 으로 바로 전화 주세요.,010-7350-2296,phone,female,spk01,phone_3,positive,1,4.88
+positive_00057_spk02.wav,output/positive_00057_spk02.wav,제 주민등록번호는 이삼공오일오 이구일육구육사입니다.,230515-2916964,rrn,male,spk02,rrn_0,positive,1,4.4
+positive_00058_spk03.wav,output/positive_00058_spk03.wav,제 계좌번호는 오오삼 팔삼칠 구공삼일팔구입니다.,553-837-903189,account,female,spk03,account_0,positive,1,4.8
+positive_00059_spk04.wav,output/positive_00059_spk04.wav,카드번호는 공팔이팔 팔팔오육 공이사일 일오이팔입니다.,0828-8856-0241-1528,card,male,spk04,card_0,positive,1,5.04
+positive_00060_spk05.wav,output/positive_00060_spk05.wav,급하시면 공일공 이칠이사 육육오팔 으로 바로 전화 주세요.,010-2724-6658,phone,female,spk05,phone_3,positive,1,4.0
+positive_00061_spk06.wav,output/positive_00061_spk06.wav,제 주민등록번호는 육일공사이팔 사구사육이칠구입니다.,610428-4946279,rrn,male,spk06,rrn_0,positive,1,4.16
+positive_00062_spk07.wav,output/positive_00062_spk07.wav,환불 계좌는 이육팔 삼구팔 공공이이육공입니다.,268-398-002260,account,female,spk07,account_3,positive,1,4.24
+positive_00063_spk08.wav,output/positive_00063_spk08.wav,제 카드번호는 사삼사오 칠사오사 사육칠삼 육구삼공이에요.,4345-7454-4673-6930,card,male,spk08,card_2,positive,1,6.24
+positive_00064_spk09.wav,output/positive_00064_spk09.wav,연락처는 공일공 구일공오 칠구칠삼이에요.,010-9105-7973,phone,female,spk09,phone_1,positive,1,3.2
+positive_00065_spk10.wav,output/positive_00065_spk10.wav,제 주민등록번호는 이사공오공칠 일육공칠삼일사입니다.,240507-1607314,rrn,male,spk10,rrn_0,positive,1,4.08
+positive_00066_spk11.wav,output/positive_00066_spk11.wav,제 계좌번호는 팔육오 삼삼일 공오구구사이입니다.,865-331-059942,account,female,spk11,account_0,positive,1,5.36
+positive_00067_spk12.wav,output/positive_00067_spk12.wav,카드번호는 구오칠일 칠팔일일 팔이삼팔 팔칠공일입니다.,9571-7811-8238-8701,card,male,spk12,card_0,positive,1,5.12
+positive_00068_spk13.wav,output/positive_00068_spk13.wav,제 전화번호는 공일공 공구삼일 팔삼이공입니다.,010-0931-8320,phone,male,spk13,phone_0,positive,1,3.68
+positive_00069_spk14.wav,output/positive_00069_spk14.wav,주민번호는 이삼공이이공 일칠공팔공일일이에요.,230220-1708011,rrn,female,spk14,rrn_1,positive,1,4.32
+positive_00070_spk01.wav,output/positive_00070_spk01.wav,오일삼 일삼이 구팔칠삼삼오 으로 입금해 주세요.,513-132-987335,account,female,spk01,account_1,positive,1,4.56
+positive_00071_spk02.wav,output/positive_00071_spk02.wav,구사팔오 구칠사공 공육오일 일삼사삼 로 결제 부탁드립니다.,9485-9740-0651-1343,card,male,spk02,card_1,positive,1,5.84
+positive_00072_spk03.wav,output/positive_00072_spk03.wav,문자는 공일공 구오육이 구이육공 으로 보내주세요.,010-9562-9260,phone,female,spk03,phone_4,positive,1,4.4
+positive_00073_spk04.wav,output/positive_00073_spk04.wav,본인 확인을 위해 사공공오공칠 삼이오공이팔공 불러드릴게요.,400507-3250280,rrn,male,spk04,rrn_2,positive,1,4.96
+positive_00074_spk05.wav,output/positive_00074_spk05.wav,입금하실 계좌는 오공오 일사사 칠공사삼일팔이에요.,505-144-704318,account,female,spk05,account_2,positive,1,4.16
+positive_00075_spk06.wav,output/positive_00075_spk06.wav,칠사구일 오일팔공 일일팔팔 공일오이 로 결제 부탁드립니다.,7491-5180-1188-0152,card,male,spk06,card_1,positive,1,4.08
+positive_00076_spk07.wav,output/positive_00076_spk07.wav,제 전화번호는 공일공 구이이사 일육삼팔입니다.,010-9224-1638,phone,female,spk07,phone_0,positive,1,3.6
+positive_00077_spk08.wav,output/positive_00077_spk08.wav,본인 확인을 위해 육팔공사일칠 삼일삼팔팔구공 불러드릴게요.,680417-3138890,rrn,male,spk08,rrn_2,positive,1,5.68
+positive_00078_spk09.wav,output/positive_00078_spk09.wav,입금하실 계좌는 일칠공 구일공 이오육일오공이에요.,170-910-256150,account,female,spk09,account_2,positive,1,4.64
+positive_00079_spk10.wav,output/positive_00079_spk10.wav,제 카드번호는 사육육구 이오팔사 칠일칠구 팔구공공이에요.,4669-2584-7179-8900,card,male,spk10,card_2,positive,1,5.2
+positive_00080_spk11.wav,output/positive_00080_spk11.wav,제 전화번호는 공일공 사구오육 팔육육육입니다.,010-4956-8666,phone,female,spk11,phone_0,positive,1,4.8
+positive_00081_spk12.wav,output/positive_00081_spk12.wav,주민번호는 팔오공구일공 일구팔사오삼구이에요.,850910-1984539,rrn,male,spk12,rrn_1,positive,1,3.76
+positive_00082_spk13.wav,output/positive_00082_spk13.wav,제 계좌번호는 삼칠공 일이팔 구삼이구삼일입니다.,370-128-932931,account,male,spk13,account_0,positive,1,4.16
+positive_00083_spk14.wav,output/positive_00083_spk14.wav,제 카드번호는 구공육사 이오사육 사사육이 사육일육이에요.,9064-2546-4462-4616,card,female,spk14,card_2,positive,1,4.8
+positive_00084_spk01.wav,output/positive_00084_spk01.wav,연락처는 공일공 삼사오공 오육일칠이에요.,010-3450-5617,phone,female,spk01,phone_1,positive,1,4.0
+positive_00085_spk02.wav,output/positive_00085_spk02.wav,팔칠일일이팔 삼오이구구오구 가 제 주민등록번호입니다.,871128-3529959,rrn,male,spk02,rrn_3,positive,1,4.72
+positive_00086_spk03.wav,output/positive_00086_spk03.wav,제 계좌번호는 삼오칠 구삼칠 구오이이칠삼입니다.,357-937-952273,account,female,spk03,account_0,positive,1,4.48
+positive_00087_spk04.wav,output/positive_00087_spk04.wav,카드번호는 일오일이 육구삼구 사오삼삼 공칠이이입니다.,1512-6939-4533-0722,card,male,spk04,card_0,positive,1,4.32
+positive_00088_spk05.wav,output/positive_00088_spk05.wav,공일공 오사육사 이일사삼 으로 연락 주세요.,010-5464-2143,phone,female,spk05,phone_2,positive,1,3.44
+positive_00089_spk06.wav,output/positive_00089_spk06.wav,제 주민등록번호는 이공일이일오 사오팔팔일오삼입니다.,201215-4588153,rrn,male,spk06,rrn_0,positive,1,4.72
+positive_00090_spk07.wav,output/positive_00090_spk07.wav,이일사 팔칠 구구공구오칠 으로 입금해 주세요.,214-87-990957,account,female,spk07,account_1,positive,1,4.4
+positive_00091_spk08.wav,output/positive_00091_spk08.wav,제 카드번호는 팔구삼팔 공오구공 육공사구 구오사삼이에요.,8938-0590-6049-9543,card,male,spk08,card_2,positive,1,5.52
+positive_00092_spk09.wav,output/positive_00092_spk09.wav,연락처는 공일공 이사이육 칠공사일이에요.,010-2426-7041,phone,female,spk09,phone_1,positive,1,3.28
+positive_00093_spk10.wav,output/positive_00093_spk10.wav,본인 확인을 위해 공오공오일이 일구사이오구공 불러드릴게요.,050512-1942590,rrn,male,spk10,rrn_2,positive,1,4.56
+positive_00094_spk11.wav,output/positive_00094_spk11.wav,제 계좌번호는 삼일오 칠공팔 이육일육오공입니다.,315-708-261650,account,female,spk11,account_0,positive,1,4.8
+positive_00095_spk12.wav,output/positive_00095_spk12.wav,카드번호는 오칠구사 구일칠삼 육육오팔 이오삼이입니다.,5794-9173-6658-2532,card,male,spk12,card_0,positive,1,4.16
+positive_00096_spk13.wav,output/positive_00096_spk13.wav,급하시면 공일공 이육육이 이구공공 으로 바로 전화 주세요.,010-2662-2900,phone,male,spk13,phone_3,positive,1,4.72
+positive_00097_spk14.wav,output/positive_00097_spk14.wav,공삼공삼이사 삼팔이공삼구일 가 제 주민등록번호입니다.,030324-3820391,rrn,female,spk14,rrn_3,positive,1,5.28
+positive_00098_spk01.wav,output/positive_00098_spk01.wav,구이일 육구오 구공육공삼육 으로 입금해 주세요.,921-695-906036,account,female,spk01,account_1,positive,1,4.72
+positive_00099_spk02.wav,output/positive_00099_spk02.wav,카드번호는 사삼칠일 이육공팔 일칠칠일 육이육칠입니다.,4371-2608-1771-6267,card,male,spk02,card_0,positive,1,4.88
+positive_00100_spk03.wav,output/positive_00100_spk03.wav,연락처는 공일공 칠칠일일 삼육사사이에요.,010-7711-3644,phone,female,spk03,phone_1,positive,1,3.68
+positive_00101_spk04.wav,output/positive_00101_spk04.wav,제 주민등록번호는 오팔공육일공 이이삼삼칠오이입니다.,580610-2233752,rrn,male,spk04,rrn_0,positive,1,4.56
+positive_00102_spk05.wav,output/positive_00102_spk05.wav,입금하실 계좌는 칠칠오 이공칠 사일칠팔이일이에요.,775-207-417821,account,female,spk05,account_2,positive,1,4.8
+positive_00103_spk06.wav,output/positive_00103_spk06.wav,제 카드번호는 사오육사 일일삼칠 사오칠삼 오칠오삼이에요.,4564-1137-4573-5753,card,male,spk06,card_2,positive,1,5.6
+positive_00104_spk07.wav,output/positive_00104_spk07.wav,문자는 공일공 팔삼사육 육오사팔 으로 보내주세요.,010-8346-6548,phone,female,spk07,phone_4,positive,1,4.24
+positive_00105_spk08.wav,output/positive_00105_spk08.wav,본인 확인을 위해 사이공일공사 삼일팔칠이사일 불러드릴게요.,420104-3187241,rrn,male,spk08,rrn_2,positive,1,4.88
+positive_00106_spk09.wav,output/positive_00106_spk09.wav,환불 계좌는 일삼구 일이일 육이오오오공입니다.,139-121-625550,account,female,spk09,account_3,positive,1,3.44
+positive_00107_spk10.wav,output/positive_00107_spk10.wav,제 카드번호는 오육육삼 오일삼구 칠일사구 구구삼이이에요.,5663-5139-7149-9932,card,male,spk10,card_2,positive,1,4.8
+positive_00108_spk11.wav,output/positive_00108_spk11.wav,문자는 공일공 일팔구사 육삼일일 으로 보내주세요.,010-1894-6311,phone,female,spk11,phone_4,positive,1,5.04
+positive_00109_spk12.wav,output/positive_00109_spk12.wav,주민번호는 이사공오공이 사공공일칠칠삼이에요.,240502-4001773,rrn,male,spk12,rrn_1,positive,1,4.0
+positive_00110_spk13.wav,output/positive_00110_spk13.wav,입금하실 계좌는 사칠이 사오일 공칠삼삼칠이이에요.,472-451-073372,account,male,spk13,account_2,positive,1,4.16
+positive_00111_spk14.wav,output/positive_00111_spk14.wav,오일사삼 이공사일 사구이공 팔삼공팔 로 결제 부탁드립니다.,5143-2041-4920-8308,card,female,spk14,card_1,positive,1,5.12
+positive_00112_spk01.wav,output/positive_00112_spk01.wav,급하시면 공일공 육육구일 오삼사사 으로 바로 전화 주세요.,010-6691-5344,phone,female,spk01,phone_3,positive,1,4.96
+positive_00113_spk02.wav,output/positive_00113_spk02.wav,팔구공오일팔 이이공일일오팔 가 제 주민등록번호입니다.,890518-2201158,rrn,male,spk02,rrn_3,positive,1,4.88
+positive_00114_spk03.wav,output/positive_00114_spk03.wav,칠팔공 구칠이 삼구칠오육이 으로 입금해 주세요.,780-972-397562,account,female,spk03,account_1,positive,1,4.32
+positive_00115_spk04.wav,output/positive_00115_spk04.wav,카드번호는 구삼이사 사구삼공 육육오삼 팔구칠칠입니다.,9324-4930-6653-8977,card,male,spk04,card_0,positive,1,5.04
+positive_00116_spk05.wav,output/positive_00116_spk05.wav,연락처는 공일공 사구칠팔 사칠공공이에요.,010-4978-4700,phone,female,spk05,phone_1,positive,1,3.92
+positive_00117_spk06.wav,output/positive_00117_spk06.wav,오오일공이공 삼사팔칠오칠오 가 제 주민등록번호입니다.,551020-3487575,rrn,male,spk06,rrn_3,positive,1,4.56
+positive_00118_spk07.wav,output/positive_00118_spk07.wav,환불 계좌는 오오이 칠공일 이이사공팔이입니다.,552-701-224082,account,female,spk07,account_3,positive,1,4.0
+positive_00119_spk08.wav,output/positive_00119_spk08.wav,제 카드번호는 이칠팔공 일삼팔구 사육사구 팔사사오이에요.,2780-1389-4649-8445,card,male,spk08,card_2,positive,1,5.52
+positive_00120_spk09.wav,output/positive_00120_spk09.wav,연락처는 공일공 오사구일 일오삼공이에요.,010-5491-1530,phone,female,spk09,phone_1,positive,1,3.52
+positive_00121_spk10.wav,output/positive_00121_spk10.wav,제 주민등록번호는 팔육공오공팔 이일오사오일일입니다.,860508-2154511,rrn,male,spk10,rrn_0,positive,1,5.04
+positive_00122_spk11.wav,output/positive_00122_spk11.wav,제 계좌번호는 일사칠 이육공 사구팔이일육입니다.,147-260-498216,account,female,spk11,account_0,positive,1,4.4
+positive_00123_spk12.wav,output/positive_00123_spk12.wav,제 카드번호는 칠사육일 육칠구공 구사삼일 삼일팔오이에요.,7461-6790-9431-3185,card,male,spk12,card_2,positive,1,4.56
+positive_00124_spk13.wav,output/positive_00124_spk13.wav,급하시면 공일공 육이구일 팔공구구 으로 바로 전화 주세요.,010-6291-8099,phone,male,spk13,phone_3,positive,1,4.48
+positive_00125_spk14.wav,output/positive_00125_spk14.wav,제 주민등록번호는 삼일공삼이일 일구삼육공이일입니다.,310321-1936021,rrn,female,spk14,rrn_0,positive,1,4.4
+positive_00126_spk01.wav,output/positive_00126_spk01.wav,팔구칠 사사오 이이구사칠일 으로 입금해 주세요.,897-445-229471,account,female,spk01,account_1,positive,1,3.52
+positive_00127_spk02.wav,output/positive_00127_spk02.wav,카드번호는 팔사팔육 칠육일일 공팔이이 구일삼이입니다.,8486-7611-0822-9132,card,male,spk02,card_0,positive,1,5.04
+positive_00128_spk03.wav,output/positive_00128_spk03.wav,연락처는 공일공 일구팔팔 칠사칠팔이에요.,010-1988-7478,phone,female,spk03,phone_1,positive,1,4.48
+positive_00129_spk04.wav,output/positive_00129_spk04.wav,오구일일일칠 삼구구육일팔팔 가 제 주민등록번호입니다.,591117-3996188,rrn,male,spk04,rrn_3,positive,1,4.4
+positive_00130_spk05.wav,output/positive_00130_spk05.wav,환불 계좌는 칠이칠 팔사사 칠오사이일삼입니다.,727-844-754213,account,female,spk05,account_3,positive,1,4.08
+positive_00131_spk06.wav,output/positive_00131_spk06.wav,팔구칠육 칠삼공오 이육공칠 칠칠칠칠 로 결제 부탁드립니다.,8976-7305-2607-7777,card,male,spk06,card_1,positive,1,6.16
+positive_00132_spk07.wav,output/positive_00132_spk07.wav,공일공 사이사육 사공오공 으로 연락 주세요.,010-4246-4050,phone,female,spk07,phone_2,positive,1,3.6
+positive_00133_spk08.wav,output/positive_00133_spk08.wav,구팔공구일육 이이팔칠구삼육 가 제 주민등록번호입니다.,980916-2287936,rrn,male,spk08,rrn_3,positive,1,5.52
+positive_00134_spk09.wav,output/positive_00134_spk09.wav,일칠구 칠사공 이구구육공칠 으로 입금해 주세요.,179-740-299607,account,female,spk09,account_1,positive,1,3.76
+positive_00135_spk10.wav,output/positive_00135_spk10.wav,카드번호는 사사오일 오오공이 오이삼팔 팔팔사구입니다.,4451-5502-5238-8849,card,male,spk10,card_0,positive,1,4.4
+positive_00136_spk11.wav,output/positive_00136_spk11.wav,연락처는 공일공 이이육칠 이사칠일이에요.,010-2267-2471,phone,female,spk11,phone_1,positive,1,4.48
+positive_00137_spk12.wav,output/positive_00137_spk12.wav,사구일이공오 이공육칠삼사팔 가 제 주민등록번호입니다.,491205-2067348,rrn,male,spk12,rrn_3,positive,1,4.16
+positive_00138_spk13.wav,output/positive_00138_spk13.wav,환불 계좌는 오일칠 삼사팔 오육팔구육구입니다.,517-348-568969,account,male,spk13,account_3,positive,1,4.88
+positive_00139_spk14.wav,output/positive_00139_spk14.wav,육팔일이 일공이공 삼삼팔팔 육팔팔삼 로 결제 부탁드립니다.,6812-1020-3388-6883,card,female,spk14,card_1,positive,1,5.12
+positive_00140_spk01.wav,output/positive_00140_spk01.wav,문자는 공일공 구오육구 공삼이공 으로 보내주세요.,010-9569-0320,phone,female,spk01,phone_4,positive,1,4.4
+positive_00141_spk02.wav,output/positive_00141_spk02.wav,사팔공팔공일 삼삼일삼일일팔 가 제 주민등록번호입니다.,480801-3313118,rrn,male,spk02,rrn_3,positive,1,4.56
+positive_00142_spk03.wav,output/positive_00142_spk03.wav,환불 계좌는 구칠삼 구이삼 구구구칠사사입니다.,973-923-999744,account,female,spk03,account_3,positive,1,5.2
+positive_00143_spk04.wav,output/positive_00143_spk04.wav,팔팔일팔 팔구사칠 구팔팔삼 삼육일삼 로 결제 부탁드립니다.,8818-8947-9883-3613,card,male,spk04,card_1,positive,1,5.36
+positive_00144_spk05.wav,output/positive_00144_spk05.wav,급하시면 공일공 삼오구오 사사칠일 으로 바로 전화 주세요.,010-3595-4471,phone,female,spk05,phone_3,positive,1,4.4
+positive_00145_spk06.wav,output/positive_00145_spk06.wav,육이공일일삼 삼칠공일삼육사 가 제 주민등록번호입니다.,620113-3701364,rrn,male,spk06,rrn_3,positive,1,6.64
+positive_00146_spk07.wav,output/positive_00146_spk07.wav,환불 계좌는 팔사일 일칠구 팔팔일삼삼사입니다.,841-179-881334,account,female,spk07,account_3,positive,1,5.12
+positive_00147_spk08.wav,output/positive_00147_spk08.wav,제 카드번호는 이공구일 팔칠오일 공사사일 육사오오이에요.,2091-8751-0441-6455,card,male,spk08,card_2,positive,1,4.8
+positive_00148_spk09.wav,output/positive_00148_spk09.wav,제 전화번호는 공일공 구이사육 공사사사입니다.,010-9246-0444,phone,female,spk09,phone_0,positive,1,4.32
+positive_00149_spk10.wav,output/positive_00149_spk10.wav,제 주민등록번호는 팔이공칠공오 사일구공오오육입니다.,820705-4190556,rrn,male,spk10,rrn_0,positive,1,5.04
+positive_00150_spk11.wav,output/positive_00150_spk11.wav,삼육육 삼구팔 삼사삼이오사 으로 입금해 주세요.,366-398-343254,account,female,spk11,account_1,positive,1,4.8
+positive_00151_spk12.wav,output/positive_00151_spk12.wav,칠사사구 오삼오오 오오이구 육이일일 로 결제 부탁드립니다.,7449-5355-5529-6211,card,male,spk12,card_1,positive,1,4.08
+positive_00152_spk13.wav,output/positive_00152_spk13.wav,제 전화번호는 공일공 육구공육 사일삼삼입니다.,010-6906-4133,phone,male,spk13,phone_0,positive,1,4.48
+positive_00153_spk14.wav,output/positive_00153_spk14.wav,본인 확인을 위해 육공공일이사 일구구팔일육공 불러드릴게요.,600124-1998160,rrn,female,spk14,rrn_2,positive,1,5.68
+positive_00154_spk01.wav,output/positive_00154_spk01.wav,제 계좌번호는 삼이구 육칠오 공칠일구오일입니다.,329-675-071951,account,female,spk01,account_0,positive,1,4.32
+positive_00155_spk02.wav,output/positive_00155_spk02.wav,제 카드번호는 공오공팔 사공오일 삼이육육 공삼삼삼이에요.,0508-4051-3266-0333,card,male,spk02,card_2,positive,1,5.52
+positive_00156_spk03.wav,output/positive_00156_spk03.wav,연락처는 공일공 이사구육 삼구공팔이에요.,010-2496-3908,phone,female,spk03,phone_1,positive,1,4.16
+positive_00157_spk04.wav,output/positive_00157_spk04.wav,본인 확인을 위해 육공일일공사 이사팔칠육이삼 불러드릴게요.,601104-2487623,rrn,male,spk04,rrn_2,positive,1,5.12
+positive_00158_spk05.wav,output/positive_00158_spk05.wav,제 계좌번호는 팔팔오 삼팔칠 일칠오구삼구입니다.,885-387-175939,account,female,spk05,account_0,positive,1,4.4
+positive_00159_spk06.wav,output/positive_00159_spk06.wav,카드번호는 이육팔삼 오공구육 일칠칠일 구사팔일입니다.,2683-5096-1771-9481,card,male,spk06,card_0,positive,1,5.52
+positive_00160_spk07.wav,output/positive_00160_spk07.wav,급하시면 공일공 오일일일 구사삼삼 으로 바로 전화 주세요.,010-5111-9433,phone,female,spk07,phone_3,positive,1,4.64
+positive_00161_spk08.wav,output/positive_00161_spk08.wav,주민번호는 오공일이공칠 일육이공팔오구이에요.,501207-1620859,rrn,male,spk08,rrn_1,positive,1,4.4
+positive_00162_spk09.wav,output/positive_00162_spk09.wav,입금하실 계좌는 이공사 칠이삼 팔일공공공사이에요.,204-723-810004,account,female,spk09,account_2,positive,1,4.72
+positive_00163_spk10.wav,output/positive_00163_spk10.wav,구팔삼칠 일구팔삼 구이칠이 공육칠이 로 결제 부탁드립니다.,9837-1983-9272-0672,card,male,spk10,card_1,positive,1,5.04
+positive_00164_spk11.wav,output/positive_00164_spk11.wav,공일공 팔칠이팔 칠공일팔 으로 연락 주세요.,010-8728-7018,phone,female,spk11,phone_2,positive,1,4.64
+positive_00165_spk12.wav,output/positive_00165_spk12.wav,공팔공구이일 삼공일삼이육육 가 제 주민등록번호입니다.,080921-3013266,rrn,male,spk12,rrn_3,positive,1,4.72
+positive_00166_spk13.wav,output/positive_00166_spk13.wav,환불 계좌는 구사이 오일일 일일공육육오입니다.,942-511-110665,account,male,spk13,account_3,positive,1,3.44
+positive_00167_spk14.wav,output/positive_00167_spk14.wav,카드번호는 오구삼사 칠오삼이 이오공육 칠일삼오입니다.,5934-7532-2506-7135,card,female,spk14,card_0,positive,1,4.64
+positive_00168_spk01.wav,output/positive_00168_spk01.wav,문자는 공일공 팔오사팔 사사이오 으로 보내주세요.,010-8548-4425,phone,female,spk01,phone_4,positive,1,4.24
+positive_00169_spk02.wav,output/positive_00169_spk02.wav,본인 확인을 위해 육팔공팔일오 사팔육오팔사오 불러드릴게요.,680815-4865845,rrn,male,spk02,rrn_2,positive,1,5.52
+positive_00170_spk03.wav,output/positive_00170_spk03.wav,제 계좌번호는 사삼공 팔팔이 이오칠사이공입니다.,430-882-257420,account,female,spk03,account_0,positive,1,4.48
+positive_00171_spk04.wav,output/positive_00171_spk04.wav,제 카드번호는 사오육구 칠삼팔오 삼구구오 칠육일삼이에요.,4569-7385-3995-7613,card,male,spk04,card_2,positive,1,6.16
+positive_00172_spk05.wav,output/positive_00172_spk05.wav,공일공 구구구구 육이공구 으로 연락 주세요.,010-9999-6209,phone,female,spk05,phone_2,positive,1,3.68
+positive_00173_spk06.wav,output/positive_00173_spk06.wav,공삼공팔이팔 삼일구공육칠이 가 제 주민등록번호입니다.,030828-3190672,rrn,male,spk06,rrn_3,positive,1,4.96
+positive_00174_spk07.wav,output/positive_00174_spk07.wav,입금하실 계좌는 삼일칠 삼칠삼 팔삼육오팔칠이에요.,317-373-836587,account,female,spk07,account_2,positive,1,5.12
+positive_00175_spk08.wav,output/positive_00175_spk08.wav,제 카드번호는 오오칠육 사오팔일 구칠육칠 사오이육이에요.,5576-4581-9767-4526,card,male,spk08,card_2,positive,1,5.52
+positive_00176_spk09.wav,output/positive_00176_spk09.wav,연락처는 공일공 공일육육 팔사육사이에요.,010-0166-8464,phone,female,spk09,phone_1,positive,1,3.52
+positive_00177_spk10.wav,output/positive_00177_spk10.wav,주민번호는 일공공사이사 사오일이삼일일이에요.,100424-4512311,rrn,male,spk10,rrn_1,positive,1,3.6
+positive_00178_spk11.wav,output/positive_00178_spk11.wav,환불 계좌는 팔공칠 사구칠 육칠칠이칠팔입니다.,807-497-677278,account,female,spk11,account_3,positive,1,5.12
+positive_00179_spk12.wav,output/positive_00179_spk12.wav,카드번호는 칠삼사이 공이팔이 일오이사 사팔이공입니다.,7342-0282-1524-4820,card,male,spk12,card_0,positive,1,4.0
+positive_00180_spk13.wav,output/positive_00180_spk13.wav,공일공 육육이오 삼구팔육 으로 연락 주세요.,010-6625-3986,phone,male,spk13,phone_2,positive,1,3.2
+positive_00181_spk14.wav,output/positive_00181_spk14.wav,본인 확인을 위해 팔사일공일이 사오팔공삼오팔 불러드릴게요.,841012-4580358,rrn,female,spk14,rrn_2,positive,1,5.28
+positive_00182_spk01.wav,output/positive_00182_spk01.wav,입금하실 계좌는 오삼오 칠칠삼 오칠칠일이사이에요.,535-773-577124,account,female,spk01,account_2,positive,1,5.04
+positive_00183_spk02.wav,output/positive_00183_spk02.wav,오칠육사 칠사삼사 사사삼팔 오공이삼 로 결제 부탁드립니다.,5764-7434-4438-5023,card,male,spk02,card_1,positive,1,5.36
+positive_00184_spk03.wav,output/positive_00184_spk03.wav,연락처는 공일공 삼칠칠칠 일구칠육이에요.,010-3777-1976,phone,female,spk03,phone_1,positive,1,4.16
+positive_00185_spk04.wav,output/positive_00185_spk04.wav,주민번호는 사공공이이사 이이공공팔사오이에요.,400224-2200845,rrn,male,spk04,rrn_1,positive,1,4.4
+positive_00186_spk05.wav,output/positive_00186_spk05.wav,입금하실 계좌는 팔오육 오공오 이팔구구삼공이에요.,856-505-289930,account,female,spk05,account_2,positive,1,4.08
+positive_00187_spk06.wav,output/positive_00187_spk06.wav,일육사칠 삼일팔공 사팔오삼 삼칠이칠 로 결제 부탁드립니다.,1647-3180-4853-3727,card,male,spk06,card_1,positive,1,4.4
+positive_00188_spk07.wav,output/positive_00188_spk07.wav,제 전화번호는 공일공 이구삼구 사구오이입니다.,010-2939-4952,phone,female,spk07,phone_0,positive,1,4.4
+positive_00189_spk08.wav,output/positive_00189_spk08.wav,제 주민등록번호는 구공공구공오 삼공사칠칠이육입니다.,900905-3047726,rrn,male,spk08,rrn_0,positive,1,4.72
+positive_00190_spk09.wav,output/positive_00190_spk09.wav,육육육 삼공구 칠삼일이구오 으로 입금해 주세요.,666-309-731295,account,female,spk09,account_1,positive,1,4.0
+positive_00191_spk10.wav,output/positive_00191_spk10.wav,팔공사이 일육팔공 공이공공 구사공오 로 결제 부탁드립니다.,8042-1680-0200-9405,card,male,spk10,card_1,positive,1,4.72
+positive_00192_spk11.wav,output/positive_00192_spk11.wav,급하시면 공일공 칠육구공 칠팔사삼 으로 바로 전화 주세요.,010-7690-7843,phone,female,spk11,phone_3,positive,1,4.96
+positive_00193_spk12.wav,output/positive_00193_spk12.wav,사삼공삼공이 삼구팔육칠칠육 가 제 주민등록번호입니다.,430302-3986776,rrn,male,spk12,rrn_3,positive,1,4.48
+positive_00194_spk13.wav,output/positive_00194_spk13.wav,환불 계좌는 이일육 팔오일 공육팔오일칠입니다.,216-851-068517,account,male,spk13,account_3,positive,1,3.44
+positive_00195_spk14.wav,output/positive_00195_spk14.wav,카드번호는 팔공오육 일이일삼 구사오삼 공팔칠팔입니다.,8056-1213-9453-0878,card,female,spk14,card_0,positive,1,4.96
+positive_00196_spk01.wav,output/positive_00196_spk01.wav,공일공 이사사사 구이이일 으로 연락 주세요.,010-2444-9221,phone,female,spk01,phone_2,positive,1,3.6
+positive_00197_spk02.wav,output/positive_00197_spk02.wav,주민번호는 일공공사공사 사육삼오칠칠공이에요.,100404-4635770,rrn,male,spk02,rrn_1,positive,1,4.64
+positive_00198_spk03.wav,output/positive_00198_spk03.wav,환불 계좌는 팔구사 오사오 삼구팔팔오오입니다.,894-545-398855,account,female,spk03,account_3,positive,1,4.32
+positive_00199_spk04.wav,output/positive_00199_spk04.wav,칠이오삼 사팔칠일 구육사이 칠공이오 로 결제 부탁드립니다.,7253-4871-9642-7025,card,male,spk04,card_1,positive,1,4.96
+positive_00200_spk05.wav,output/positive_00200_spk05.wav,문자는 공일공 구삼일육 공구팔육 으로 보내주세요.,010-9316-0986,phone,female,spk05,phone_4,positive,1,4.24
+positive_00201_spk06.wav,output/positive_00201_spk06.wav,주민번호는 구사공이이오 이육오오구공공이에요.,940225-2655900,rrn,male,spk06,rrn_1,positive,1,4.24
+positive_00202_spk07.wav,output/positive_00202_spk07.wav,삼칠공 육팔육 공팔오일삼일 으로 입금해 주세요.,370-686-085131,account,female,spk07,account_1,positive,1,3.84
+positive_00203_spk08.wav,output/positive_00203_spk08.wav,카드번호는 삼구이구 이팔사칠 구공사삼 일이이구입니다.,3929-2847-9043-1229,card,male,spk08,card_0,positive,1,4.8
+positive_00204_spk09.wav,output/positive_00204_spk09.wav,급하시면 공일공 공공사삼 육육구삼 으로 바로 전화 주세요.,010-0043-6693,phone,female,spk09,phone_3,positive,1,4.96
+positive_00205_spk10.wav,output/positive_00205_spk10.wav,주민번호는 팔팔일공일육 삼공삼사이이오이에요.,881016-3034225,rrn,male,spk10,rrn_1,positive,1,4.24
+positive_00206_spk11.wav,output/positive_00206_spk11.wav,환불 계좌는 삼구오 칠삼삼 이구육사오일입니다.,395-733-296451,account,female,spk11,account_3,positive,1,4.08
+positive_00207_spk12.wav,output/positive_00207_spk12.wav,제 카드번호는 일일육육 삼팔이사 사삼삼사 구육육삼이에요.,1166-3824-4334-9663,card,male,spk12,card_2,positive,1,5.2
+positive_00208_spk13.wav,output/positive_00208_spk13.wav,제 전화번호는 공일공 삼이사일 육구육오입니다.,010-3241-6965,phone,male,spk13,phone_0,positive,1,3.68
+positive_00209_spk14.wav,output/positive_00209_spk14.wav,본인 확인을 위해 육구공사이일 이구오이오삼팔 불러드릴게요.,690421-2952538,rrn,female,spk14,rrn_2,positive,1,4.72
+positive_00210_spk01.wav,output/positive_00210_spk01.wav,제 계좌번호는 구사육 일오오 공칠사팔칠팔입니다.,946-155-074878,account,female,spk01,account_0,positive,1,4.32
+positive_00211_spk02.wav,output/positive_00211_spk02.wav,이칠일팔 오공삼구 구칠사구 구삼이오 로 결제 부탁드립니다.,2718-5039-9749-9325,card,male,spk02,card_1,positive,1,6.0
+positive_00212_spk03.wav,output/positive_00212_spk03.wav,급하시면 공일공 칠일구오 이공삼칠 으로 바로 전화 주세요.,010-7195-2037,phone,female,spk03,phone_3,positive,1,5.44
+positive_00213_spk04.wav,output/positive_00213_spk04.wav,본인 확인을 위해 팔팔공오이삼 사구팔팔사육칠 불러드릴게요.,880523-4988467,rrn,male,spk04,rrn_2,positive,1,4.48
+positive_00214_spk05.wav,output/positive_00214_spk05.wav,환불 계좌는 육일이 오육이 오일칠칠팔일입니다.,612-562-517781,account,female,spk05,account_3,positive,1,4.32
+positive_00215_spk06.wav,output/positive_00215_spk06.wav,제 카드번호는 일삼일칠 구칠구팔 공육오삼 칠공칠팔이에요.,1317-9798-0653-7078,card,male,spk06,card_2,positive,1,6.0
+positive_00216_spk07.wav,output/positive_00216_spk07.wav,공일공 오이팔공 구팔구일 으로 연락 주세요.,010-5280-9891,phone,female,spk07,phone_2,positive,1,3.36
+positive_00217_spk08.wav,output/positive_00217_spk08.wav,본인 확인을 위해 공삼공이공팔 일팔공일구공구 불러드릴게요.,030208-1801909,rrn,male,spk08,rrn_2,positive,1,6.4
+positive_00218_spk09.wav,output/positive_00218_spk09.wav,육구공 오일 팔공공일칠칠 으로 입금해 주세요.,690-51-800177,account,female,spk09,account_1,positive,1,3.68
+positive_00219_spk10.wav,output/positive_00219_spk10.wav,카드번호는 칠칠공팔 팔오공이 칠이사오 사오오칠입니다.,7708-8502-7245-4557,card,male,spk10,card_0,positive,1,4.48
+positive_00220_spk11.wav,output/positive_00220_spk11.wav,급하시면 공일공 구오구공 칠일사일 으로 바로 전화 주세요.,010-9590-7141,phone,female,spk11,phone_3,positive,1,5.2
+positive_00221_spk12.wav,output/positive_00221_spk12.wav,본인 확인을 위해 일일공팔일이 사삼사구사구구 불러드릴게요.,110812-4349499,rrn,male,spk12,rrn_2,positive,1,4.72
+positive_00222_spk13.wav,output/positive_00222_spk13.wav,칠팔육 일일칠 팔구구삼구팔 으로 입금해 주세요.,786-117-899398,account,male,spk13,account_1,positive,1,3.76
+positive_00223_spk14.wav,output/positive_00223_spk14.wav,제 카드번호는 오사공삼 육칠사사 팔일일칠 사칠이이이에요.,5403-6744-8117-4722,card,female,spk14,card_2,positive,1,5.2
+positive_00224_spk01.wav,output/positive_00224_spk01.wav,제 전화번호는 공일공 육오육일 구공일이입니다.,010-6561-9012,phone,female,spk01,phone_0,positive,1,3.92
+positive_00225_spk02.wav,output/positive_00225_spk02.wav,제 주민등록번호는 오팔공이일일 삼삼삼팔구칠칠입니다.,580211-3338977,rrn,male,spk02,rrn_0,positive,1,5.84
+positive_00226_spk03.wav,output/positive_00226_spk03.wav,제 계좌번호는 팔구일 사이삼 구공육구이사입니다.,891-423-906924,account,female,spk03,account_0,positive,1,4.24
+positive_00227_spk04.wav,output/positive_00227_spk04.wav,카드번호는 팔팔팔구 칠오육구 육칠칠공 공팔팔팔입니다.,8889-7569-6770-0888,card,male,spk04,card_0,positive,1,5.04
+positive_00228_spk05.wav,output/positive_00228_spk05.wav,문자는 공일공 팔사구사 오구이칠 으로 보내주세요.,010-8494-5927,phone,female,spk05,phone_4,positive,1,3.84
+positive_00229_spk06.wav,output/positive_00229_spk06.wav,제 주민등록번호는 구육공팔이일 사칠구육구공칠입니다.,960821-4796907,rrn,male,spk06,rrn_0,positive,1,6.56
+positive_00230_spk07.wav,output/positive_00230_spk07.wav,삼공팔 이팔삼 오칠오팔구팔 으로 입금해 주세요.,308-283-575898,account,female,spk07,account_1,positive,1,4.32
+positive_00231_spk08.wav,output/positive_00231_spk08.wav,카드번호는 사칠일구 칠일칠팔 칠구사일 일구팔구입니다.,4719-7178-7941-1989,card,male,spk08,card_0,positive,1,5.52
+positive_00232_spk09.wav,output/positive_00232_spk09.wav,연락처는 공일공 구구칠오 삼구이공이에요.,010-9975-3920,phone,female,spk09,phone_1,positive,1,3.2
+positive_00233_spk10.wav,output/positive_00233_spk10.wav,주민번호는 삼구공구공일 사공구칠칠삼육이에요.,390901-4097736,rrn,male,spk10,rrn_1,positive,1,4.0
+positive_00234_spk11.wav,output/positive_00234_spk11.wav,환불 계좌는 구육일 구사사 일일팔구칠이입니다.,961-944-118972,account,female,spk11,account_3,positive,1,4.32
+positive_00235_spk12.wav,output/positive_00235_spk12.wav,제 카드번호는 일구이사 이오이이 팔일육오 사칠팔일이에요.,1924-2522-8165-4781,card,male,spk12,card_2,positive,1,4.32
+positive_00236_spk13.wav,output/positive_00236_spk13.wav,급하시면 공일공 사사칠구 육팔공칠 으로 바로 전화 주세요.,010-4479-6807,phone,male,spk13,phone_3,positive,1,5.04
+positive_00237_spk14.wav,output/positive_00237_spk14.wav,주민번호는 육공공사일오 이사공이이일구이에요.,600415-2402219,rrn,female,spk14,rrn_1,positive,1,3.76
+positive_00238_spk01.wav,output/positive_00238_spk01.wav,칠일삼 오삼공 칠팔이오사사 으로 입금해 주세요.,713-530-782544,account,female,spk01,account_1,positive,1,4.56
+positive_00239_spk02.wav,output/positive_00239_spk02.wav,제 카드번호는 일일사삼 사오이육 육칠구팔 오오육팔이에요.,1143-4526-6798-5568,card,male,spk02,card_2,positive,1,5.76
+positive_00240_spk03.wav,output/positive_00240_spk03.wav,공일공 사삼칠칠 공공사이 으로 연락 주세요.,010-4377-0042,phone,female,spk03,phone_2,positive,1,4.48
+positive_00241_spk04.wav,output/positive_00241_spk04.wav,주민번호는 구이공오이칠 사구공칠이구일이에요.,920527-4907291,rrn,male,spk04,rrn_1,positive,1,3.68
+positive_00242_spk05.wav,output/positive_00242_spk05.wav,입금하실 계좌는 오오칠 오육일 오공칠팔육팔이에요.,557-561-507868,account,female,spk05,account_2,positive,1,4.16
+positive_00243_spk06.wav,output/positive_00243_spk06.wav,오사사육 구공사이 팔구공삼 육일팔공 로 결제 부탁드립니다.,5446-9042-8903-6180,card,male,spk06,card_1,positive,1,4.88
+positive_00244_spk07.wav,output/positive_00244_spk07.wav,연락처는 공일공 오이칠이 삼공구공이에요.,010-5272-3090,phone,female,spk07,phone_1,positive,1,3.52
+positive_00245_spk08.wav,output/positive_00245_spk08.wav,본인 확인을 위해 칠삼공칠공팔 사공사오칠육칠 불러드릴게요.,730708-4045767,rrn,male,spk08,rrn_2,positive,1,6.24
+positive_00246_spk09.wav,output/positive_00246_spk09.wav,환불 계좌는 팔육이 사구사 칠삼구사팔오입니다.,862-494-739485,account,female,spk09,account_3,positive,1,4.4
+positive_00247_spk10.wav,output/positive_00247_spk10.wav,카드번호는 육삼이오 이사구이 팔일일오 공육공육입니다.,6325-2492-8115-0606,card,male,spk10,card_0,positive,1,4.56
+positive_00248_spk11.wav,output/positive_00248_spk11.wav,공일공 팔이이구 구육육구 으로 연락 주세요.,010-8229-9669,phone,female,spk11,phone_2,positive,1,3.44
+positive_00249_spk12.wav,output/positive_00249_spk12.wav,주민번호는 일이공팔공사 사공일육공구삼이에요.,120804-4016093,rrn,male,spk12,rrn_1,positive,1,4.64
+positive_00250_spk13.wav,output/positive_00250_spk13.wav,오일구 구공일 육팔육오팔칠 으로 입금해 주세요.,519-901-686587,account,male,spk13,account_1,positive,1,4.4
+positive_00251_spk14.wav,output/positive_00251_spk14.wav,제 카드번호는 일이이오 칠육구이 사삼사이 오오사육이에요.,1225-7692-4342-5546,card,female,spk14,card_2,positive,1,5.04
+positive_00252_spk01.wav,output/positive_00252_spk01.wav,공일공 육오일이 일삼일오 으로 연락 주세요.,010-6512-1315,phone,female,spk01,phone_2,positive,1,3.92
+positive_00253_spk02.wav,output/positive_00253_spk02.wav,팔육공구일삼 삼육오칠이사육 가 제 주민등록번호입니다.,860913-3657246,rrn,male,spk02,rrn_3,positive,1,5.36
+positive_00254_spk03.wav,output/positive_00254_spk03.wav,제 계좌번호는 구구삼 오육사 공삼칠육사이입니다.,993-564-037642,account,female,spk03,account_0,positive,1,4.24
+positive_00255_spk04.wav,output/positive_00255_spk04.wav,삼팔사육 사칠공팔 삼칠이칠 일사팔공 로 결제 부탁드립니다.,3846-4708-3727-1480,card,male,spk04,card_1,positive,1,5.2
+positive_00256_spk05.wav,output/positive_00256_spk05.wav,급하시면 공일공 일육일이 일육사육 으로 바로 전화 주세요.,010-1612-1646,phone,female,spk05,phone_3,positive,1,4.08
+positive_00257_spk06.wav,output/positive_00257_spk06.wav,본인 확인을 위해 이일일이일공 일공사팔이이오 불러드릴게요.,211210-1048225,rrn,male,spk06,rrn_2,positive,1,5.44
+positive_00258_spk07.wav,output/positive_00258_spk07.wav,입금하실 계좌는 구일오 육칠 삼공칠육일팔이에요.,915-67-307618,account,female,spk07,account_2,positive,1,4.64
+positive_00259_spk08.wav,output/positive_00259_spk08.wav,제 카드번호는 육일사일 칠공오육 이삼팔오 사공공공이에요.,6141-7056-2385-4000,card,male,spk08,card_2,positive,1,4.96
+positive_00260_spk09.wav,output/positive_00260_spk09.wav,연락처는 공일공 육칠오일 구이칠이이에요.,010-6751-9272,phone,female,spk09,phone_1,positive,1,3.6
+positive_00261_spk10.wav,output/positive_00261_spk10.wav,주민번호는 이일공삼공삼 사육사구팔일삼이에요.,210303-4649813,rrn,male,spk10,rrn_1,positive,1,3.68
+positive_00262_spk11.wav,output/positive_00262_spk11.wav,육공구 구사사 육일일사팔사 으로 입금해 주세요.,609-944-611484,account,female,spk11,account_1,positive,1,4.0
+positive_00263_spk12.wav,output/positive_00263_spk12.wav,삼팔공사 칠오오오 사일육일 칠오이구 로 결제 부탁드립니다.,3804-7555-4161-7529,card,male,spk12,card_1,positive,1,4.16
+positive_00264_spk13.wav,output/positive_00264_spk13.wav,공일공 공일오삼 칠육이이 으로 연락 주세요.,010-0153-7622,phone,male,spk13,phone_2,positive,1,3.2
+positive_00265_spk14.wav,output/positive_00265_spk14.wav,본인 확인을 위해 팔육공구공육 일사육삼일팔칠 불러드릴게요.,860906-1463187,rrn,female,spk14,rrn_2,positive,1,5.04
+positive_00266_spk01.wav,output/positive_00266_spk01.wav,환불 계좌는 칠공일 삼일육 육육구구칠오입니다.,701-316-669975,account,female,spk01,account_3,positive,1,4.0
+positive_00267_spk02.wav,output/positive_00267_spk02.wav,사공구칠 칠사팔사 사구사구 삼이육삼 로 결제 부탁드립니다.,4097-7484-4949-3263,card,male,spk02,card_1,positive,1,4.24
+positive_00268_spk03.wav,output/positive_00268_spk03.wav,연락처는 공일공 칠구일육 일칠사칠이에요.,010-7916-1747,phone,female,spk03,phone_1,positive,1,3.84
+positive_00269_spk04.wav,output/positive_00269_spk04.wav,본인 확인을 위해 사팔일공일이 삼칠삼삼이사칠 불러드릴게요.,481012-3733247,rrn,male,spk04,rrn_2,positive,1,4.64
+positive_00270_spk05.wav,output/positive_00270_spk05.wav,환불 계좌는 일이이 팔오구 육구공이공삼입니다.,122-859-690203,account,female,spk05,account_3,positive,1,3.28
+positive_00271_spk06.wav,output/positive_00271_spk06.wav,제 카드번호는 사사구칠 공일삼이 구이칠이 공팔공삼이에요.,4497-0132-9272-0803,card,male,spk06,card_2,positive,1,5.68
+positive_00272_spk07.wav,output/positive_00272_spk07.wav,연락처는 공일공 팔일삼팔 사육팔구이에요.,010-8138-4689,phone,female,spk07,phone_1,positive,1,3.92
+positive_00273_spk08.wav,output/positive_00273_spk08.wav,본인 확인을 위해 칠칠공육공팔 이육오일공오일 불러드릴게요.,770608-2651051,rrn,male,spk08,rrn_2,positive,1,5.36
+positive_00274_spk09.wav,output/positive_00274_spk09.wav,칠구사 칠팔삼 칠오오구사팔 으로 입금해 주세요.,794-783-755948,account,female,spk09,account_1,positive,1,4.32
+positive_00275_spk10.wav,output/positive_00275_spk10.wav,카드번호는 일오구일 공육사오 오공육일 칠이이이입니다.,1591-0645-5061-7222,card,male,spk10,card_0,positive,1,4.48
+positive_00276_spk11.wav,output/positive_00276_spk11.wav,연락처는 공일공 구사구오 오구칠칠이에요.,010-9495-5977,phone,female,spk11,phone_1,positive,1,4.08
+positive_00277_spk12.wav,output/positive_00277_spk12.wav,주민번호는 일일공오일일 사일팔사일칠일이에요.,110511-4184171,rrn,male,spk12,rrn_1,positive,1,3.92
+positive_00278_spk13.wav,output/positive_00278_spk13.wav,입금하실 계좌는 이삼오 팔일오 오육오육일공이에요.,235-815-565610,account,male,spk13,account_2,positive,1,3.92
+positive_00279_spk14.wav,output/positive_00279_spk14.wav,팔육구칠 팔이이일 사사육오 이육구오 로 결제 부탁드립니다.,8697-8221-4465-2695,card,female,spk14,card_1,positive,1,5.12
+positive_00280_spk01.wav,output/positive_00280_spk01.wav,공일공 칠팔구사 사팔삼오 으로 연락 주세요.,010-7894-4835,phone,female,spk01,phone_2,positive,1,4.56
+positive_00281_spk02.wav,output/positive_00281_spk02.wav,주민번호는 일사공팔공삼 이칠구공칠팔오이에요.,140803-2790785,rrn,male,spk02,rrn_1,positive,1,4.56
+positive_00282_spk03.wav,output/positive_00282_spk03.wav,환불 계좌는 구팔공 칠공이 칠오구삼구육입니다.,980-702-759396,account,female,spk03,account_3,positive,1,4.24
+positive_00283_spk04.wav,output/positive_00283_spk04.wav,카드번호는 구일삼일 오구구이 일사칠구 육사육사입니다.,9131-5992-1479-6464,card,male,spk04,card_0,positive,1,5.04
+positive_00284_spk05.wav,output/positive_00284_spk05.wav,제 전화번호는 공일공 사삼삼이 팔칠구일입니다.,010-4332-8791,phone,female,spk05,phone_0,positive,1,4.8
+positive_00285_spk06.wav,output/positive_00285_spk06.wav,오팔공육이이 삼육일이구오오 가 제 주민등록번호입니다.,580622-3612955,rrn,male,spk06,rrn_3,positive,1,4.08
+positive_00286_spk07.wav,output/positive_00286_spk07.wav,입금하실 계좌는 구사이 육육삼 구팔오구육칠이에요.,942-663-985967,account,female,spk07,account_2,positive,1,4.4
+positive_00287_spk08.wav,output/positive_00287_spk08.wav,제 카드번호는 일칠칠오 삼팔삼공 칠칠이사 공사일공이에요.,1775-3830-7724-0410,card,male,spk08,card_2,positive,1,5.76
+positive_00288_spk09.wav,output/positive_00288_spk09.wav,문자는 공일공 구일구팔 오삼칠사 으로 보내주세요.,010-9198-5374,phone,female,spk09,phone_4,positive,1,3.6
+positive_00289_spk10.wav,output/positive_00289_spk10.wav,본인 확인을 위해 이팔일일공삼 사구오삼오육이 불러드릴게요.,281103-4953562,rrn,male,spk10,rrn_2,positive,1,5.12
+positive_00290_spk11.wav,output/positive_00290_spk11.wav,칠육사 사이팔 일이이삼사삼 으로 입금해 주세요.,764-428-122343,account,female,spk11,account_1,positive,1,4.32
+positive_00291_spk12.wav,output/positive_00291_spk12.wav,카드번호는 공칠사이 공육공구 사구팔육 팔공칠일입니다.,0742-0609-4986-8071,card,male,spk12,card_0,positive,1,3.92
+positive_00292_spk13.wav,output/positive_00292_spk13.wav,문자는 공일공 일오구이 삼팔사육 으로 보내주세요.,010-1592-3846,phone,male,spk13,phone_4,positive,1,4.32
+positive_00293_spk14.wav,output/positive_00293_spk14.wav,일칠공칠일오 삼칠공삼공오오 가 제 주민등록번호입니다.,170715-3703055,rrn,female,spk14,rrn_3,positive,1,5.2
+positive_00294_spk01.wav,output/positive_00294_spk01.wav,칠공일 칠칠공 칠육일팔구사 으로 입금해 주세요.,701-770-761894,account,female,spk01,account_1,positive,1,4.4
+positive_00295_spk02.wav,output/positive_00295_spk02.wav,육칠구칠 일육이이 팔공일칠 육육팔육 로 결제 부탁드립니다.,6797-1622-8017-6686,card,male,spk02,card_1,positive,1,4.96
+positive_00296_spk03.wav,output/positive_00296_spk03.wav,연락처는 공일공 공오삼육 육공칠공이에요.,010-0536-6070,phone,female,spk03,phone_1,positive,1,4.16
+positive_00297_spk04.wav,output/positive_00297_spk04.wav,본인 확인을 위해 오육공팔공팔 삼일공사일팔공 불러드릴게요.,560808-3104180,rrn,male,spk04,rrn_2,positive,1,5.6
+positive_00298_spk05.wav,output/positive_00298_spk05.wav,입금하실 계좌는 육오칠 구삼삼 육칠육일사구이에요.,657-933-676149,account,female,spk05,account_2,positive,1,4.16
+positive_00299_spk06.wav,output/positive_00299_spk06.wav,카드번호는 공구구이 육오이삼 사오이공 삼일공구입니다.,0992-6523-4520-3109,card,male,spk06,card_0,positive,1,4.56
+positive_00300_spk07.wav,output/positive_00300_spk07.wav,연락처는 공일공 칠사오공 일오공일이에요.,010-7450-1501,phone,female,spk07,phone_1,positive,1,4.16
+positive_00301_spk08.wav,output/positive_00301_spk08.wav,본인 확인을 위해 팔이일일이공 일공오삼공삼오 불러드릴게요.,821120-1053035,rrn,male,spk08,rrn_2,positive,1,5.28
+positive_00302_spk09.wav,output/positive_00302_spk09.wav,삼사구 일삼팔 팔이오이공육 으로 입금해 주세요.,349-138-825206,account,female,spk09,account_1,positive,1,4.0
+positive_00303_spk10.wav,output/positive_00303_spk10.wav,카드번호는 일일이사 구공팔공 삼삼구사 구육공칠입니다.,1124-9080-3394-9607,card,male,spk10,card_0,positive,1,4.72
+positive_00304_spk11.wav,output/positive_00304_spk11.wav,연락처는 공일공 삼팔일칠 오삼팔삼이에요.,010-3817-5383,phone,female,spk11,phone_1,positive,1,4.48
+positive_00305_spk12.wav,output/positive_00305_spk12.wav,본인 확인을 위해 칠육공일공구 이일삼육삼공육 불러드릴게요.,760109-2136306,rrn,male,spk12,rrn_2,positive,1,4.56
+positive_00306_spk13.wav,output/positive_00306_spk13.wav,제 계좌번호는 구일칠 일팔팔 일일오이육육입니다.,917-188-115266,account,male,spk13,account_0,positive,1,4.48
+positive_00307_spk14.wav,output/positive_00307_spk14.wav,제 카드번호는 이일오구 공이사삼 오팔육구 삼팔구팔이에요.,2159-0243-5869-3898,card,female,spk14,card_2,positive,1,4.88
+positive_00308_spk01.wav,output/positive_00308_spk01.wav,연락처는 공일공 오삼공사 공이오팔이에요.,010-5304-0258,phone,female,spk01,phone_1,positive,1,4.64
+positive_00309_spk02.wav,output/positive_00309_spk02.wav,제 주민등록번호는 삼삼공일공오 사오오일육사공입니다.,330105-4551640,rrn,male,spk02,rrn_0,positive,1,4.72
+positive_00310_spk03.wav,output/positive_00310_spk03.wav,환불 계좌는 팔육삼 칠오 사구구삼팔공입니다.,863-75-499380,account,female,spk03,account_3,positive,1,4.24
+positive_00311_spk04.wav,output/positive_00311_spk04.wav,오구삼일 팔사공팔 구칠이육 일칠팔육 로 결제 부탁드립니다.,5931-8408-9726-1786,card,male,spk04,card_1,positive,1,4.88
+positive_00312_spk05.wav,output/positive_00312_spk05.wav,문자는 공일공 팔이오사 삼육이구 으로 보내주세요.,010-8254-3629,phone,female,spk05,phone_4,positive,1,3.6
+positive_00313_spk06.wav,output/positive_00313_spk06.wav,제 주민등록번호는 공오일이이육 삼사팔공이구이입니다.,051226-3480292,rrn,male,spk06,rrn_0,positive,1,6.08
+positive_00314_spk07.wav,output/positive_00314_spk07.wav,환불 계좌는 일육이 오공공 팔팔팔사오육입니다.,162-500-888456,account,female,spk07,account_3,positive,1,4.48
+positive_00315_spk08.wav,output/positive_00315_spk08.wav,카드번호는 육구팔사 일칠육팔 팔공삼이 칠이육칠입니다.,6984-1768-8032-7267,card,male,spk08,card_0,positive,1,5.84
+positive_00316_spk09.wav,output/positive_00316_spk09.wav,문자는 공일공 일삼이삼 오이칠칠 으로 보내주세요.,010-1323-5277,phone,female,spk09,phone_4,positive,1,3.92
+positive_00317_spk10.wav,output/positive_00317_spk10.wav,본인 확인을 위해 일팔공이공오 삼육오사육사사 불러드릴게요.,180205-3654644,rrn,male,spk10,rrn_2,positive,1,5.04
+positive_00318_spk11.wav,output/positive_00318_spk11.wav,입금하실 계좌는 사구공 육이일 오오육삼이구이에요.,490-621-556329,account,female,spk11,account_2,positive,1,5.2
+positive_00319_spk12.wav,output/positive_00319_spk12.wav,카드번호는 칠사삼삼 팔이팔이 구구일구 칠공사팔입니다.,7433-8282-9919-7048,card,male,spk12,card_0,positive,1,4.56
+positive_00320_spk13.wav,output/positive_00320_spk13.wav,연락처는 공일공 일팔칠사 구공삼삼이에요.,010-1874-9033,phone,male,spk13,phone_1,positive,1,3.84
+positive_00321_spk14.wav,output/positive_00321_spk14.wav,오오공팔공팔 사삼오오삼구오 가 제 주민등록번호입니다.,550808-4355395,rrn,female,spk14,rrn_3,positive,1,4.96
+positive_00322_spk01.wav,output/positive_00322_spk01.wav,제 계좌번호는 오공팔 사삼오 칠육오공오사입니다.,508-435-765054,account,female,spk01,account_0,positive,1,4.4
+positive_00323_spk02.wav,output/positive_00323_spk02.wav,오일이공 육구구이 오일이공 사일칠육 로 결제 부탁드립니다.,5120-6992-5120-4176,card,male,spk02,card_1,positive,1,5.36
+positive_00324_spk03.wav,output/positive_00324_spk03.wav,제 전화번호는 공일공 이오공공 칠칠칠공입니다.,010-2500-7770,phone,female,spk03,phone_0,positive,1,4.4
+positive_00325_spk04.wav,output/positive_00325_spk04.wav,본인 확인을 위해 일일공이공삼 사일공일이오오 불러드릴게요.,110203-4101255,rrn,male,spk04,rrn_2,positive,1,4.8
+positive_00326_spk05.wav,output/positive_00326_spk05.wav,제 계좌번호는 구삼일 일사삼 오팔삼삼구칠입니다.,931-143-583397,account,female,spk05,account_0,positive,1,4.32
+positive_00327_spk06.wav,output/positive_00327_spk06.wav,제 카드번호는 구육공팔 구이공일 구이공이 오사공공이에요.,9608-9201-9202-5400,card,male,spk06,card_2,positive,1,6.56
+positive_00328_spk07.wav,output/positive_00328_spk07.wav,공일공 이공공이 육칠삼공 으로 연락 주세요.,010-2002-6730,phone,female,spk07,phone_2,positive,1,3.52
+positive_00329_spk08.wav,output/positive_00329_spk08.wav,본인 확인을 위해 팔오공칠이팔 일삼공일육공일 불러드릴게요.,850728-1301601,rrn,male,spk08,rrn_2,positive,1,6.24
+positive_00330_spk09.wav,output/positive_00330_spk09.wav,사육공 일일육 육공오구구일 으로 입금해 주세요.,460-116-605991,account,female,spk09,account_1,positive,1,4.24
+positive_00331_spk10.wav,output/positive_00331_spk10.wav,이오삼오 칠구공공 삼육칠사 일칠칠삼 로 결제 부탁드립니다.,2535-7900-3674-1773,card,male,spk10,card_1,positive,1,5.2
+positive_00332_spk11.wav,output/positive_00332_spk11.wav,제 전화번호는 공일공 구일일삼 육공이이입니다.,010-9113-6022,phone,female,spk11,phone_0,positive,1,5.44
+positive_00333_spk12.wav,output/positive_00333_spk12.wav,구칠공오일구 이팔사육사삼이 가 제 주민등록번호입니다.,970519-2846432,rrn,male,spk12,rrn_3,positive,1,5.12
+positive_00334_spk13.wav,output/positive_00334_spk13.wav,제 계좌번호는 구육오 오팔사 팔공사칠일일입니다.,965-584-804711,account,male,spk13,account_0,positive,1,4.48
+positive_00335_spk14.wav,output/positive_00335_spk14.wav,구구칠칠 사삼팔일 공사칠사 이구오오 로 결제 부탁드립니다.,9977-4381-0474-2955,card,female,spk14,card_1,positive,1,5.2
+positive_00336_spk01.wav,output/positive_00336_spk01.wav,공일공 오공육이 오오육칠 으로 연락 주세요.,010-5062-5567,phone,female,spk01,phone_2,positive,1,4.16
+positive_00337_spk02.wav,output/positive_00337_spk02.wav,공공공삼이팔 이오구삼팔삼공 가 제 주민등록번호입니다.,000328-2593830,rrn,male,spk02,rrn_3,positive,1,4.96
+positive_00338_spk03.wav,output/positive_00338_spk03.wav,제 계좌번호는 일칠일 일오오 칠칠육구육이입니다.,171-155-776962,account,female,spk03,account_0,positive,1,5.2
+positive_00339_spk04.wav,output/positive_00339_spk04.wav,일오공삼 팔육구일 삼오이사 육일육삼 로 결제 부탁드립니다.,1503-8691-3524-6163,card,male,spk04,card_1,positive,1,4.72
+positive_00340_spk05.wav,output/positive_00340_spk05.wav,연락처는 공일공 칠사삼이 오오팔오이에요.,010-7432-5585,phone,female,spk05,phone_1,positive,1,3.52
+positive_00341_spk06.wav,output/positive_00341_spk06.wav,제 주민등록번호는 사칠공오이사 삼팔일사오칠일입니다.,470524-3814571,rrn,male,spk06,rrn_0,positive,1,4.88
+positive_00342_spk07.wav,output/positive_00342_spk07.wav,제 계좌번호는 일오삼 일육구 일육오공오육입니다.,153-169-165056,account,female,spk07,account_0,positive,1,4.96
+positive_00343_spk08.wav,output/positive_00343_spk08.wav,일삼삼육 사사오팔 칠이오구 육구사칠 로 결제 부탁드립니다.,1336-4458-7259-6947,card,male,spk08,card_1,positive,1,5.52
+positive_00344_spk09.wav,output/positive_00344_spk09.wav,급하시면 공일공 구구사육 칠이사이 으로 바로 전화 주세요.,010-9946-7242,phone,female,spk09,phone_3,positive,1,4.4
+positive_00345_spk10.wav,output/positive_00345_spk10.wav,삼사공사이오 일삼육일구삼구 가 제 주민등록번호입니다.,340425-1361939,rrn,male,spk10,rrn_3,positive,1,4.72
+positive_00346_spk11.wav,output/positive_00346_spk11.wav,환불 계좌는 이일삼 삼공공 칠일일일육삼입니다.,213-300-711163,account,female,spk11,account_3,positive,1,4.24
+positive_00347_spk12.wav,output/positive_00347_spk12.wav,팔육삼삼 오공오삼 공칠사사 삼육일이 로 결제 부탁드립니다.,8633-5053-0744-3612,card,male,spk12,card_1,positive,1,4.64
+positive_00348_spk13.wav,output/positive_00348_spk13.wav,제 전화번호는 공일공 구팔일구 공팔구칠입니다.,010-9819-0897,phone,male,spk13,phone_0,positive,1,3.68
+positive_00349_spk14.wav,output/positive_00349_spk14.wav,본인 확인을 위해 이육공오공칠 이팔공일이팔공 불러드릴게요.,260507-2801280,rrn,female,spk14,rrn_2,positive,1,4.8
+positive_00350_spk01.wav,output/positive_00350_spk01.wav,제 계좌번호는 삼구육 삼사오 일이오팔일이입니다.,396-345-125812,account,female,spk01,account_0,positive,1,4.32
+positive_00351_spk02.wav,output/positive_00351_spk02.wav,팔일사구 칠공오오 이팔칠팔 이일일육 로 결제 부탁드립니다.,8149-7055-2878-2116,card,male,spk02,card_1,positive,1,4.64
+positive_00352_spk03.wav,output/positive_00352_spk03.wav,문자는 공일공 팔칠이오 삼칠칠공 으로 보내주세요.,010-8725-3770,phone,female,spk03,phone_4,positive,1,4.96
+positive_00353_spk04.wav,output/positive_00353_spk04.wav,칠일일일이육 삼공칠오오칠육 가 제 주민등록번호입니다.,711126-3075576,rrn,male,spk04,rrn_3,positive,1,4.8
+positive_00354_spk05.wav,output/positive_00354_spk05.wav,환불 계좌는 구팔이 칠육구 공사사삼오칠입니다.,982-769-044357,account,female,spk05,account_3,positive,1,4.48
+positive_00355_spk06.wav,output/positive_00355_spk06.wav,제 카드번호는 공삼공칠 칠오삼이 일이칠오 오일이구이에요.,0307-7532-1275-5129,card,male,spk06,card_2,positive,1,5.2
+positive_00356_spk07.wav,output/positive_00356_spk07.wav,급하시면 공일공 칠공삼삼 구삼구사 으로 바로 전화 주세요.,010-7033-9394,phone,female,spk07,phone_3,positive,1,5.36
+positive_00357_spk08.wav,output/positive_00357_spk08.wav,구공일일일사 삼일이공칠육팔 가 제 주민등록번호입니다.,901114-3120768,rrn,male,spk08,rrn_3,positive,1,4.64
+positive_00358_spk09.wav,output/positive_00358_spk09.wav,일이일 구구구 삼사공오사사 으로 입금해 주세요.,121-999-340544,account,female,spk09,account_1,positive,1,3.84
+positive_00359_spk10.wav,output/positive_00359_spk10.wav,카드번호는 칠오삼팔 오구이팔 일사사삼 칠일오오입니다.,7538-5928-1443-7155,card,male,spk10,card_0,positive,1,4.0
+positive_00360_spk11.wav,output/positive_00360_spk11.wav,문자는 공일공 삼구팔육 칠일삼팔 으로 보내주세요.,010-3986-7138,phone,female,spk11,phone_4,positive,1,4.08
+positive_00361_spk12.wav,output/positive_00361_spk12.wav,본인 확인을 위해 오일공구공삼 사구일이팔일일 불러드릴게요.,510903-4912811,rrn,male,spk12,rrn_2,positive,1,4.0
+positive_00362_spk13.wav,output/positive_00362_spk13.wav,입금하실 계좌는 팔육삼 삼오칠 이삼이삼삼오이에요.,863-357-232335,account,male,spk13,account_2,positive,1,3.84
+positive_00363_spk14.wav,output/positive_00363_spk14.wav,제 카드번호는 이칠오사 일이오일 팔삼육삼 일팔육팔이에요.,2754-1251-8363-1868,card,female,spk14,card_2,positive,1,4.88
+positive_00364_spk01.wav,output/positive_00364_spk01.wav,공일공 팔삼오오 삼일칠육 으로 연락 주세요.,010-8355-3176,phone,female,spk01,phone_2,positive,1,3.84
+positive_00365_spk02.wav,output/positive_00365_spk02.wav,제 주민등록번호는 사사일이이칠 이이사칠칠사오입니다.,441227-2247745,rrn,male,spk02,rrn_0,positive,1,4.96
+positive_00366_spk03.wav,output/positive_00366_spk03.wav,이사구 이칠이 이공육팔오사 으로 입금해 주세요.,249-272-206854,account,female,spk03,account_1,positive,1,3.84
+positive_00367_spk04.wav,output/positive_00367_spk04.wav,제 카드번호는 구팔육구 이오공사 일이삼사 이구공이이에요.,9869-2504-1234-2902,card,male,spk04,card_2,positive,1,5.2
+positive_00368_spk05.wav,output/positive_00368_spk05.wav,문자는 공일공 팔공구오 칠육공일 으로 보내주세요.,010-8095-7601,phone,female,spk05,phone_4,positive,1,3.84
+positive_00369_spk06.wav,output/positive_00369_spk06.wav,본인 확인을 위해 구칠일공일오 삼구공육이이팔 불러드릴게요.,971015-3906228,rrn,male,spk06,rrn_2,positive,1,4.4
+positive_00370_spk07.wav,output/positive_00370_spk07.wav,환불 계좌는 이오사 사육공 공칠일육공삼입니다.,254-460-071603,account,female,spk07,account_3,positive,1,4.16
+positive_00371_spk08.wav,output/positive_00371_spk08.wav,카드번호는 칠이사오 사구육일 사오공공 구육팔구입니다.,7245-4961-4500-9689,card,male,spk08,card_0,positive,1,4.72
+positive_00372_spk09.wav,output/positive_00372_spk09.wav,제 전화번호는 공일공 오칠육육 팔삼일이입니다.,010-5766-8312,phone,female,spk09,phone_0,positive,1,3.52
+positive_00373_spk10.wav,output/positive_00373_spk10.wav,본인 확인을 위해 삼구공팔일오 일공오구육오삼 불러드릴게요.,390815-1059653,rrn,male,spk10,rrn_2,positive,1,5.12
+positive_00374_spk11.wav,output/positive_00374_spk11.wav,제 계좌번호는 구오일 삼공삼 공팔공사오팔입니다.,951-303-080458,account,female,spk11,account_0,positive,1,4.88
+positive_00375_spk12.wav,output/positive_00375_spk12.wav,제 카드번호는 구칠삼삼 팔삼공칠 육이구구 칠오팔일이에요.,9733-8307-6299-7581,card,male,spk12,card_2,positive,1,5.04
+positive_00376_spk13.wav,output/positive_00376_spk13.wav,급하시면 공일공 구공팔일 공육칠이 으로 바로 전화 주세요.,010-9081-0672,phone,male,spk13,phone_3,positive,1,4.48
+positive_00377_spk14.wav,output/positive_00377_spk14.wav,칠삼일일공칠 삼육삼사삼구사 가 제 주민등록번호입니다.,731107-3634394,rrn,female,spk14,rrn_3,positive,1,4.8
+positive_00378_spk01.wav,output/positive_00378_spk01.wav,환불 계좌는 육일삼 일육사 공육사팔칠구입니다.,613-164-064879,account,female,spk01,account_3,positive,1,4.88
+positive_00379_spk02.wav,output/positive_00379_spk02.wav,제 카드번호는 일육구오 오육이육 일삼팔일 팔이육육이에요.,1695-5626-1381-8266,card,male,spk02,card_2,positive,1,5.12
+positive_00380_spk03.wav,output/positive_00380_spk03.wav,연락처는 공일공 이팔이칠 공육사일이에요.,010-2827-0641,phone,female,spk03,phone_1,positive,1,4.08
+positive_00381_spk04.wav,output/positive_00381_spk04.wav,본인 확인을 위해 구공공팔일오 이삼팔일오칠사 불러드릴게요.,900815-2381574,rrn,male,spk04,rrn_2,positive,1,5.44
+positive_00382_spk05.wav,output/positive_00382_spk05.wav,입금하실 계좌는 삼팔구 사공육 사이팔육이오이에요.,389-406-428625,account,female,spk05,account_2,positive,1,4.16
+positive_00383_spk06.wav,output/positive_00383_spk06.wav,구칠구오 공팔오칠 오사팔이 일공칠구 로 결제 부탁드립니다.,9795-0857-5482-1079,card,male,spk06,card_1,positive,1,4.64
+positive_00384_spk07.wav,output/positive_00384_spk07.wav,급하시면 공일공 일오사팔 구일사일 으로 바로 전화 주세요.,010-1548-9141,phone,female,spk07,phone_3,positive,1,4.88
+positive_00385_spk08.wav,output/positive_00385_spk08.wav,제 주민등록번호는 삼육공오이사 이삼사구오오오입니다.,360524-2349555,rrn,male,spk08,rrn_0,positive,1,5.12
+positive_00386_spk09.wav,output/positive_00386_spk09.wav,입금하실 계좌는 육구육 육팔구 일사팔이구팔이에요.,696-689-148298,account,female,spk09,account_2,positive,1,4.32
+positive_00387_spk10.wav,output/positive_00387_spk10.wav,제 카드번호는 오공팔이 육사이일 이일일이 구칠사구이에요.,5082-6421-2112-9749,card,male,spk10,card_2,positive,1,5.04
+positive_00388_spk11.wav,output/positive_00388_spk11.wav,문자는 공일공 일삼팔팔 오공칠이 으로 보내주세요.,010-1388-5072,phone,female,spk11,phone_4,positive,1,4.56
+positive_00389_spk12.wav,output/positive_00389_spk12.wav,주민번호는 사팔일일이육 삼팔오이육팔육이에요.,481126-3852686,rrn,male,spk12,rrn_1,positive,1,4.0
+positive_00390_spk13.wav,output/positive_00390_spk13.wav,제 계좌번호는 칠팔육 칠이구 팔육구이이육입니다.,786-729-869226,account,male,spk13,account_0,positive,1,5.2
+positive_00391_spk14.wav,output/positive_00391_spk14.wav,육구삼칠 팔삼삼일 오구이팔 공이구팔 로 결제 부탁드립니다.,6937-8331-5928-0298,card,female,spk14,card_1,positive,1,5.28
+positive_00392_spk01.wav,output/positive_00392_spk01.wav,연락처는 공일공 오공육공 이구오삼이에요.,010-5060-2953,phone,female,spk01,phone_1,positive,1,3.92
+positive_00393_spk02.wav,output/positive_00393_spk02.wav,주민번호는 사삼공팔공칠 이일사사이사칠이에요.,430807-2144247,rrn,male,spk02,rrn_1,positive,1,4.4
+positive_00394_spk03.wav,output/positive_00394_spk03.wav,제 계좌번호는 일칠구 삼일이 팔팔오사사칠입니다.,179-312-885447,account,female,spk03,account_0,positive,1,4.64
+positive_00395_spk04.wav,output/positive_00395_spk04.wav,제 카드번호는 팔삼일칠 팔팔사삼 팔육이육 공육일팔이에요.,8317-8843-8626-0618,card,male,spk04,card_2,positive,1,5.2
+positive_00396_spk05.wav,output/positive_00396_spk05.wav,문자는 공일공 오오일칠 이일사칠 으로 보내주세요.,010-5517-2147,phone,female,spk05,phone_4,positive,1,4.32
+positive_00397_spk06.wav,output/positive_00397_spk06.wav,주민번호는 사팔공삼공육 이팔칠일칠이팔이에요.,480306-2871728,rrn,male,spk06,rrn_1,positive,1,4.56
+positive_00398_spk07.wav,output/positive_00398_spk07.wav,환불 계좌는 팔삼팔 사오팔 공사오팔일사입니다.,838-458-045814,account,female,spk07,account_3,positive,1,5.04
+positive_00399_spk08.wav,output/positive_00399_spk08.wav,제 카드번호는 오구육팔 삼팔구일 칠이칠칠 사육육팔이에요.,5968-3891-7277-4668,card,male,spk08,card_2,positive,1,4.96
+positive_00400_spk09.wav,output/positive_00400_spk09.wav,문자는 공일공 칠삼오오 삼팔삼삼 으로 보내주세요.,010-7355-3833,phone,female,spk09,phone_4,positive,1,4.8
+positive_00401_spk10.wav,output/positive_00401_spk10.wav,주민번호는 삼공공오이육 사구사칠팔팔오이에요.,300526-4947885,rrn,male,spk10,rrn_1,positive,1,4.0
+positive_00402_spk11.wav,output/positive_00402_spk11.wav,환불 계좌는 사칠육 칠공사 구구삼일삼칠입니다.,476-704-993137,account,female,spk11,account_3,positive,1,4.32
+positive_00403_spk12.wav,output/positive_00403_spk12.wav,제 카드번호는 칠오육사 사육일육 육이오육 팔이삼구이에요.,7564-4616-6256-8239,card,male,spk12,card_2,positive,1,4.48
+positive_00404_spk13.wav,output/positive_00404_spk13.wav,연락처는 공일공 육팔오구 이육오오이에요.,010-6859-2655,phone,male,spk13,phone_1,positive,1,4.0
+positive_00405_spk14.wav,output/positive_00405_spk14.wav,칠칠공삼이팔 삼공오사칠일사 가 제 주민등록번호입니다.,770328-3054714,rrn,female,spk14,rrn_3,positive,1,4.72
+positive_00406_spk01.wav,output/positive_00406_spk01.wav,제 계좌번호는 구구오 삼구공 오팔일사칠팔입니다.,995-390-581478,account,female,spk01,account_0,positive,1,4.24
+positive_00407_spk02.wav,output/positive_00407_spk02.wav,카드번호는 팔사오이 이공사이 사육칠공 일삼칠사입니다.,8452-2042-4670-1374,card,male,spk02,card_0,positive,1,5.04
+positive_00408_spk03.wav,output/positive_00408_spk03.wav,문자는 공일공 사사육구 칠삼육일 으로 보내주세요.,010-4469-7361,phone,female,spk03,phone_4,positive,1,4.4
+positive_00409_spk04.wav,output/positive_00409_spk04.wav,일팔공칠공삼 이팔오육삼칠오 가 제 주민등록번호입니다.,180703-2856375,rrn,male,spk04,rrn_3,positive,1,4.88
+positive_00410_spk05.wav,output/positive_00410_spk05.wav,환불 계좌는 사오칠 구육이 공이칠구육오입니다.,457-962-027965,account,female,spk05,account_3,positive,1,3.6
+positive_00411_spk06.wav,output/positive_00411_spk06.wav,카드번호는 공팔칠이 육사구오 팔이이사 육일이육입니다.,0872-6495-8224-6126,card,male,spk06,card_0,positive,1,4.08
+positive_00412_spk07.wav,output/positive_00412_spk07.wav,공일공 육삼이육 일삼삼칠 으로 연락 주세요.,010-6326-1337,phone,female,spk07,phone_2,positive,1,4.16
+positive_00413_spk08.wav,output/positive_00413_spk08.wav,본인 확인을 위해 이팔공일일일 일팔칠구구사공 불러드릴게요.,280111-1879940,rrn,male,spk08,rrn_2,positive,1,5.84
+positive_00414_spk09.wav,output/positive_00414_spk09.wav,제 계좌번호는 구일공 일오구 일사사이팔삼입니다.,910-159-144283,account,female,spk09,account_0,positive,1,4.24
+positive_00415_spk10.wav,output/positive_00415_spk10.wav,사칠공공 칠칠사공 이이칠삼 칠육팔오 로 결제 부탁드립니다.,4700-7740-2273-7685,card,male,spk10,card_1,positive,1,6.08
+positive_00416_spk11.wav,output/positive_00416_spk11.wav,제 전화번호는 공일공 공공팔육 일이구팔입니다.,010-0086-1298,phone,female,spk11,phone_0,positive,1,4.96
+positive_00417_spk12.wav,output/positive_00417_spk12.wav,삼이공사이칠 이오칠오사육이 가 제 주민등록번호입니다.,320427-2575462,rrn,male,spk12,rrn_3,positive,1,4.4
+positive_00418_spk13.wav,output/positive_00418_spk13.wav,이일삼 팔공사 삼공이공구육 으로 입금해 주세요.,213-804-302096,account,male,spk13,account_1,positive,1,3.76
+positive_00419_spk14.wav,output/positive_00419_spk14.wav,사구삼사 일구구육 공칠팔이 삼구공육 로 결제 부탁드립니다.,4934-1996-0782-3906,card,female,spk14,card_1,positive,1,4.96
+positive_00420_spk01.wav,output/positive_00420_spk01.wav,제 전화번호는 공일공 칠사팔구 일공이구입니다.,010-7489-1029,phone,female,spk01,phone_0,positive,1,4.72
+positive_00421_spk02.wav,output/positive_00421_spk02.wav,주민번호는 육삼일공일팔 일육육이육오이이에요.,631018-1662652,rrn,male,spk02,rrn_1,positive,1,4.0
+positive_00422_spk03.wav,output/positive_00422_spk03.wav,환불 계좌는 팔삼오 일오칠 삼공오사이공입니다.,835-157-305420,account,female,spk03,account_3,positive,1,4.72
+positive_00423_spk04.wav,output/positive_00423_spk04.wav,공공이오 오칠팔공 삼구사일 구삼사구 로 결제 부탁드립니다.,0025-5780-3941-9349,card,male,spk04,card_1,positive,1,4.8
+positive_00424_spk05.wav,output/positive_00424_spk05.wav,문자는 공일공 삼공육팔 일사공이 으로 보내주세요.,010-3068-1402,phone,female,spk05,phone_4,positive,1,4.48
+positive_00425_spk06.wav,output/positive_00425_spk06.wav,사육공이일칠 일사공구사이공 가 제 주민등록번호입니다.,460217-1409420,rrn,male,spk06,rrn_3,positive,1,5.6
+positive_00426_spk07.wav,output/positive_00426_spk07.wav,입금하실 계좌는 일사사 육육공 사공오육칠사이에요.,144-660-405674,account,female,spk07,account_2,positive,1,4.48
+positive_00427_spk08.wav,output/positive_00427_spk08.wav,사일오오 공이육육 오팔오공 일일공육 로 결제 부탁드립니다.,4155-0266-5850-1106,card,male,spk08,card_1,positive,1,5.36
+positive_00428_spk09.wav,output/positive_00428_spk09.wav,문자는 공일공 삼구오공 일육구팔 으로 보내주세요.,010-3950-1698,phone,female,spk09,phone_4,positive,1,4.0
+positive_00429_spk10.wav,output/positive_00429_spk10.wav,본인 확인을 위해 구사공육공오 일삼육구사일이 불러드릴게요.,940605-1369412,rrn,male,spk10,rrn_2,positive,1,4.48
+positive_00430_spk11.wav,output/positive_00430_spk11.wav,환불 계좌는 구삼삼 육육팔 일팔삼오구사입니다.,933-668-183594,account,female,spk11,account_3,positive,1,5.12
+positive_00431_spk12.wav,output/positive_00431_spk12.wav,제 카드번호는 칠팔사공 이구팔육 이이공구 일공삼삼이에요.,7840-2986-2209-1033,card,male,spk12,card_2,positive,1,4.96
+positive_00432_spk13.wav,output/positive_00432_spk13.wav,공일공 칠사구팔 공육공오 으로 연락 주세요.,010-7498-0605,phone,male,spk13,phone_2,positive,1,3.6
+positive_00433_spk14.wav,output/positive_00433_spk14.wav,제 주민등록번호는 이오공일이육 이구이팔팔일팔입니다.,250126-2928818,rrn,female,spk14,rrn_0,positive,1,5.04
+positive_00434_spk01.wav,output/positive_00434_spk01.wav,환불 계좌는 사이삼 구육오 삼이오일삼팔입니다.,423-965-325138,account,female,spk01,account_3,positive,1,4.4
+positive_00435_spk02.wav,output/positive_00435_spk02.wav,제 카드번호는 팔팔구칠 칠칠오육 사일오공 공오구구이에요.,8897-7756-4150-0599,card,male,spk02,card_2,positive,1,5.68
+positive_00436_spk03.wav,output/positive_00436_spk03.wav,공일공 삼일삼일 사육팔칠 으로 연락 주세요.,010-3131-4687,phone,female,spk03,phone_2,positive,1,3.92
+positive_00437_spk04.wav,output/positive_00437_spk04.wav,제 주민등록번호는 구구공일이팔 삼이팔육사팔팔입니다.,990128-3286488,rrn,male,spk04,rrn_0,positive,1,4.72
+positive_00438_spk05.wav,output/positive_00438_spk05.wav,환불 계좌는 구일팔 삼팔육 사오팔일칠육입니다.,918-386-458176,account,female,spk05,account_3,positive,1,3.84
+positive_00439_spk06.wav,output/positive_00439_spk06.wav,칠이공사 육삼삼사 오오오사 삼공육공 로 결제 부탁드립니다.,7204-6334-5554-3060,card,male,spk06,card_1,positive,1,5.2
+positive_00440_spk07.wav,output/positive_00440_spk07.wav,문자는 공일공 팔일오일 육공일팔 으로 보내주세요.,010-8151-6018,phone,female,spk07,phone_4,positive,1,4.08
+positive_00441_spk08.wav,output/positive_00441_spk08.wav,삼사공이이사 사공팔이칠육공 가 제 주민등록번호입니다.,340224-4082760,rrn,male,spk08,rrn_3,positive,1,5.12
+positive_00442_spk09.wav,output/positive_00442_spk09.wav,입금하실 계좌는 칠일육 팔오이 일팔구이이이이에요.,716-852-189222,account,female,spk09,account_2,positive,1,4.4
+positive_00443_spk10.wav,output/positive_00443_spk10.wav,제 카드번호는 오이육이 일육팔공 일삼일일 오삼칠이이에요.,5262-1680-1311-5372,card,male,spk10,card_2,positive,1,4.56
+positive_00444_spk11.wav,output/positive_00444_spk11.wav,급하시면 공일공 사팔사삼 오공이일 으로 바로 전화 주세요.,010-4843-5021,phone,female,spk11,phone_3,positive,1,5.28
+positive_00445_spk12.wav,output/positive_00445_spk12.wav,칠칠일이일사 이칠이삼이칠공 가 제 주민등록번호입니다.,771214-2723270,rrn,male,spk12,rrn_3,positive,1,4.24
+positive_00446_spk13.wav,output/positive_00446_spk13.wav,입금하실 계좌는 사오구 사육칠 공사사사일이이에요.,459-467-044412,account,male,spk13,account_2,positive,1,4.48
+positive_00447_spk14.wav,output/positive_00447_spk14.wav,제 카드번호는 칠일이육 사사구팔 공구삼구 일이이구이에요.,7126-4498-0939-1229,card,female,spk14,card_2,positive,1,4.96
+positive_00448_spk01.wav,output/positive_00448_spk01.wav,문자는 공일공 육육오오 오구오이 으로 보내주세요.,010-6655-5952,phone,female,spk01,phone_4,positive,1,4.32
+positive_00449_spk02.wav,output/positive_00449_spk02.wav,구오일일공육 일일사구칠일오 가 제 주민등록번호입니다.,951106-1149715,rrn,male,spk02,rrn_3,positive,1,4.96
+positive_00450_spk03.wav,output/positive_00450_spk03.wav,일삼오 일삼구 공칠공사구구 으로 입금해 주세요.,135-139-070499,account,female,spk03,account_1,positive,1,4.24
+positive_00451_spk04.wav,output/positive_00451_spk04.wav,카드번호는 육공공일 오구삼삼 육이칠이 구이구삼입니다.,6001-5933-6272-9293,card,male,spk04,card_0,positive,1,4.48
+positive_00452_spk05.wav,output/positive_00452_spk05.wav,급하시면 공일공 구구일삼 이오일삼 으로 바로 전화 주세요.,010-9913-2513,phone,female,spk05,phone_3,positive,1,4.4
+positive_00453_spk06.wav,output/positive_00453_spk06.wav,주민번호는 사칠공육일오 일육공일팔공공이에요.,470615-1601800,rrn,male,spk06,rrn_1,positive,1,3.92
+positive_00454_spk07.wav,output/positive_00454_spk07.wav,입금하실 계좌는 육사이 삼팔오 사일칠삼육팔이에요.,642-385-417368,account,female,spk07,account_2,positive,1,4.72
+positive_00455_spk08.wav,output/positive_00455_spk08.wav,제 카드번호는 사오육육 사공팔구 일팔오팔 공사이사이에요.,4566-4089-1858-0424,card,male,spk08,card_2,positive,1,5.76
+positive_00456_spk09.wav,output/positive_00456_spk09.wav,문자는 공일공 삼공사팔 팔일칠육 으로 보내주세요.,010-3048-8176,phone,female,spk09,phone_4,positive,1,4.08
+positive_00457_spk10.wav,output/positive_00457_spk10.wav,본인 확인을 위해 사구공구공사 삼팔일이육공구 불러드릴게요.,490904-3812609,rrn,male,spk10,rrn_2,positive,1,5.04
+positive_00458_spk11.wav,output/positive_00458_spk11.wav,입금하실 계좌는 팔이공 사육육 이이사구구삼이에요.,820-466-224993,account,female,spk11,account_2,positive,1,5.04
+positive_00459_spk12.wav,output/positive_00459_spk12.wav,카드번호는 팔공사칠 삼이칠구 이공공구 이이이삼입니다.,8047-3279-2009-2223,card,male,spk12,card_0,positive,1,4.16
+positive_00460_spk13.wav,output/positive_00460_spk13.wav,급하시면 공일공 칠사공육 이팔이팔 으로 바로 전화 주세요.,010-7406-2828,phone,male,spk13,phone_3,positive,1,4.56
+positive_00461_spk14.wav,output/positive_00461_spk14.wav,본인 확인을 위해 일일일일이팔 삼칠공공이팔공 불러드릴게요.,111128-3700280,rrn,female,spk14,rrn_2,positive,1,5.12
+positive_00462_spk01.wav,output/positive_00462_spk01.wav,입금하실 계좌는 팔이육 칠육 오칠육칠일삼이에요.,826-76-576713,account,female,spk01,account_2,positive,1,4.8
+positive_00463_spk02.wav,output/positive_00463_spk02.wav,제 카드번호는 사구일사 이오팔공 이팔오이 오구이이이에요.,4914-2580-2852-5922,card,male,spk02,card_2,positive,1,4.32
+positive_00464_spk03.wav,output/positive_00464_spk03.wav,연락처는 공일공 삼육칠삼 일구팔팔이에요.,010-3673-1988,phone,female,spk03,phone_1,positive,1,4.08
+positive_00465_spk04.wav,output/positive_00465_spk04.wav,본인 확인을 위해 일칠공사이육 사공이칠오육공 불러드릴게요.,170426-4027560,rrn,male,spk04,rrn_2,positive,1,4.64
+positive_00466_spk05.wav,output/positive_00466_spk05.wav,환불 계좌는 육육칠 오구육 삼팔육팔삼일입니다.,667-596-386831,account,female,spk05,account_3,positive,1,4.08
+positive_00467_spk06.wav,output/positive_00467_spk06.wav,구공삼팔 이일이육 일사일이 일공칠칠 로 결제 부탁드립니다.,9038-2126-1412-1077,card,male,spk06,card_1,positive,1,5.28
+positive_00468_spk07.wav,output/positive_00468_spk07.wav,문자는 공일공 육오이삼 칠팔사이 으로 보내주세요.,010-6523-7842,phone,female,spk07,phone_4,positive,1,4.32
+positive_00469_spk08.wav,output/positive_00469_spk08.wav,본인 확인을 위해 오이공칠이칠 일일삼일사일사 불러드릴게요.,520727-1131414,rrn,male,spk08,rrn_2,positive,1,5.68
+positive_00470_spk09.wav,output/positive_00470_spk09.wav,환불 계좌는 칠오칠 팔오 사칠일팔삼이입니다.,757-85-471832,account,female,spk09,account_3,positive,1,3.6
+positive_00471_spk10.wav,output/positive_00471_spk10.wav,제 카드번호는 팔사칠육 오육사사 이일공이 구공삼이이에요.,8476-5644-2102-9032,card,male,spk10,card_2,positive,1,6.16
+positive_00472_spk11.wav,output/positive_00472_spk11.wav,연락처는 공일공 구육삼공 이구팔일이에요.,010-9630-2981,phone,female,spk11,phone_1,positive,1,4.56
+positive_00473_spk12.wav,output/positive_00473_spk12.wav,제 주민등록번호는 오오공구이팔 일팔칠일칠칠육입니다.,550928-1871776,rrn,male,spk12,rrn_0,positive,1,4.56
+positive_00474_spk13.wav,output/positive_00474_spk13.wav,육삼공 일육육 삼일팔팔구칠 으로 입금해 주세요.,630-166-318897,account,male,spk13,account_1,positive,1,4.24
+positive_00475_spk14.wav,output/positive_00475_spk14.wav,제 카드번호는 이육오삼 오이팔육 삼육구사 오육육구이에요.,2653-5286-3694-5669,card,female,spk14,card_2,positive,1,5.12
+positive_00476_spk01.wav,output/positive_00476_spk01.wav,공일공 사육오삼 일이구이 으로 연락 주세요.,010-4653-1292,phone,female,spk01,phone_2,positive,1,3.52
+positive_00477_spk02.wav,output/positive_00477_spk02.wav,본인 확인을 위해 이오일일일팔 삼일삼일이오공 불러드릴게요.,251118-3131250,rrn,male,spk02,rrn_2,positive,1,4.88
+positive_00478_spk03.wav,output/positive_00478_spk03.wav,칠이구 오오육 공구칠구육육 으로 입금해 주세요.,729-556-097966,account,female,spk03,account_1,positive,1,4.0
+positive_00479_spk04.wav,output/positive_00479_spk04.wav,제 카드번호는 구육구육 구오일삼 이오이육 이팔공사이에요.,9696-9513-2526-2804,card,male,spk04,card_2,positive,1,4.88
+positive_00480_spk05.wav,output/positive_00480_spk05.wav,문자는 공일공 구구일사 오오삼일 으로 보내주세요.,010-9914-5531,phone,female,spk05,phone_4,positive,1,4.32
+positive_00481_spk06.wav,output/positive_00481_spk06.wav,본인 확인을 위해 공오공일공삼 일구구사육이삼 불러드릴게요.,050103-1994623,rrn,male,spk06,rrn_2,positive,1,4.48
+positive_00482_spk07.wav,output/positive_00482_spk07.wav,환불 계좌는 칠육육 이이오 팔공사이일사입니다.,766-225-804214,account,female,spk07,account_3,positive,1,3.68
+positive_00483_spk08.wav,output/positive_00483_spk08.wav,제 카드번호는 공사구육 팔일오구 팔구삼팔 사칠사오이에요.,0496-8159-8938-4745,card,male,spk08,card_2,positive,1,5.2
+positive_00484_spk09.wav,output/positive_00484_spk09.wav,연락처는 공일공 사구사구 칠구일이이에요.,010-4949-7912,phone,female,spk09,phone_1,positive,1,3.52
+positive_00485_spk10.wav,output/positive_00485_spk10.wav,제 주민등록번호는 팔칠공칠일공 사공칠육오일칠입니다.,870710-4076517,rrn,male,spk10,rrn_0,positive,1,5.04
+positive_00486_spk11.wav,output/positive_00486_spk11.wav,환불 계좌는 이육일 사육공 사삼오팔일공입니다.,261-460-435810,account,female,spk11,account_3,positive,1,5.36
+positive_00487_spk12.wav,output/positive_00487_spk12.wav,카드번호는 칠육공구 삼삼사이 오오칠삼 구구삼구입니다.,7609-3342-5573-9939,card,male,spk12,card_0,positive,1,4.88
+positive_00488_spk13.wav,output/positive_00488_spk13.wav,공일공 오일이일 오이삼일 으로 연락 주세요.,010-5121-5231,phone,male,spk13,phone_2,positive,1,3.68
+positive_00489_spk14.wav,output/positive_00489_spk14.wav,제 주민등록번호는 오일공삼이오 삼오삼구구구오입니다.,510325-3539995,rrn,female,spk14,rrn_0,positive,1,4.96
+positive_00490_spk01.wav,output/positive_00490_spk01.wav,제 계좌번호는 사이육 이오칠 사팔구일삼일입니다.,426-257-489131,account,female,spk01,account_0,positive,1,4.16
+positive_00491_spk02.wav,output/positive_00491_spk02.wav,카드번호는 사삼팔이 칠삼육육 사공육일 이삼공팔입니다.,4382-7366-4061-2308,card,male,spk02,card_0,positive,1,5.84
+positive_00492_spk03.wav,output/positive_00492_spk03.wav,급하시면 공일공 공팔이구 사칠오사 으로 바로 전화 주세요.,010-0829-4754,phone,female,spk03,phone_3,positive,1,4.16
+positive_00493_spk04.wav,output/positive_00493_spk04.wav,본인 확인을 위해 칠팔공칠공팔 이팔오이구구삼 불러드릴게요.,780708-2852993,rrn,male,spk04,rrn_2,positive,1,4.96
+positive_00494_spk05.wav,output/positive_00494_spk05.wav,육구일 칠사팔 삼이칠구공오 으로 입금해 주세요.,691-748-327905,account,female,spk05,account_1,positive,1,4.16
+positive_00495_spk06.wav,output/positive_00495_spk06.wav,이육일공 팔일육삼 팔사삼삼 칠육사팔 로 결제 부탁드립니다.,2610-8163-8433-7648,card,male,spk06,card_1,positive,1,4.88
+positive_00496_spk07.wav,output/positive_00496_spk07.wav,제 전화번호는 공일공 오공오오 팔일사팔입니다.,010-5055-8148,phone,female,spk07,phone_0,positive,1,4.24
+positive_00497_spk08.wav,output/positive_00497_spk08.wav,주민번호는 일일공칠일칠 사이오이사이이이에요.,110717-4252422,rrn,male,spk08,rrn_1,positive,1,4.08
+positive_00498_spk09.wav,output/positive_00498_spk09.wav,제 계좌번호는 육구칠 삼칠일 공오일공이일입니다.,697-371-051021,account,female,spk09,account_0,positive,1,4.16
+positive_00499_spk10.wav,output/positive_00499_spk10.wav,사육공구 팔일공팔 구칠팔구 칠칠일공 로 결제 부탁드립니다.,4609-8108-9789-7710,card,male,spk10,card_1,positive,1,5.12
+positive_00500_spk11.wav,output/positive_00500_spk11.wav,제 전화번호는 공일공 팔칠구삼 공일삼삼입니다.,010-8793-0133,phone,female,spk11,phone_0,positive,1,5.12
+positive_00501_spk12.wav,output/positive_00501_spk12.wav,오오공삼공구 삼팔공공구육일 가 제 주민등록번호입니다.,550309-3800961,rrn,male,spk12,rrn_3,positive,1,4.88
+positive_00502_spk13.wav,output/positive_00502_spk13.wav,제 계좌번호는 사칠사 오육 사이공공사공입니다.,474-56-420040,account,male,spk13,account_0,positive,1,3.92
+positive_00503_spk14.wav,output/positive_00503_spk14.wav,제 카드번호는 구삼사삼 구이공사 삼일팔구 오구삼구이에요.,9343-9204-3189-5939,card,female,spk14,card_2,positive,1,4.88
+positive_00504_spk01.wav,output/positive_00504_spk01.wav,급하시면 공일공 사칠이팔 일이공사 으로 바로 전화 주세요.,010-4728-1204,phone,female,spk01,phone_3,positive,1,4.96
+positive_00505_spk02.wav,output/positive_00505_spk02.wav,제 주민등록번호는 육사공팔이오 삼팔육오사공일입니다.,640825-3865401,rrn,male,spk02,rrn_0,positive,1,4.4
+positive_00506_spk03.wav,output/positive_00506_spk03.wav,입금하실 계좌는 이삼일 일공구 사일삼공삼칠이에요.,231-109-413037,account,female,spk03,account_2,positive,1,4.88
+positive_00507_spk04.wav,output/positive_00507_spk04.wav,카드번호는 오오오오 구일삼구 오구구공 이삼육삼입니다.,5555-9139-5990-2363,card,male,spk04,card_0,positive,1,5.2
+positive_00508_spk05.wav,output/positive_00508_spk05.wav,급하시면 공일공 구팔칠공 팔삼사일 으로 바로 전화 주세요.,010-9870-8341,phone,female,spk05,phone_3,positive,1,4.56
+positive_00509_spk06.wav,output/positive_00509_spk06.wav,본인 확인을 위해 육사공일공이 일일사삼육구삼 불러드릴게요.,640102-1143693,rrn,male,spk06,rrn_2,positive,1,6.16
+positive_00510_spk07.wav,output/positive_00510_spk07.wav,환불 계좌는 구이삼 사구오 오사사오오구입니다.,923-495-544559,account,female,spk07,account_3,positive,1,4.72
+positive_00511_spk08.wav,output/positive_00511_spk08.wav,이사사공 구구삼이 팔사사육 이이구공 로 결제 부탁드립니다.,2440-9932-8446-2290,card,male,spk08,card_1,positive,1,5.44
+positive_00512_spk09.wav,output/positive_00512_spk09.wav,급하시면 공일공 오이일팔 이육육이 으로 바로 전화 주세요.,010-5218-2662,phone,female,spk09,phone_3,positive,1,4.4
+positive_00513_spk10.wav,output/positive_00513_spk10.wav,본인 확인을 위해 칠팔일이이칠 삼육이이오육오 불러드릴게요.,781227-3622565,rrn,male,spk10,rrn_2,positive,1,4.8
+positive_00514_spk11.wav,output/positive_00514_spk11.wav,환불 계좌는 육일구 팔오팔 오삼사사칠삼입니다.,619-858-534473,account,female,spk11,account_3,positive,1,5.04
+positive_00515_spk12.wav,output/positive_00515_spk12.wav,구이이이 사구일일 칠칠팔공 공이칠이 로 결제 부탁드립니다.,9222-4911-7780-0272,card,male,spk12,card_1,positive,1,4.88
+positive_00516_spk13.wav,output/positive_00516_spk13.wav,급하시면 공일공 오사이칠 일칠구오 으로 바로 전화 주세요.,010-5427-1795,phone,male,spk13,phone_3,positive,1,4.88
+positive_00517_spk14.wav,output/positive_00517_spk14.wav,칠사공오이육 일육이오구공오 가 제 주민등록번호입니다.,740526-1625905,rrn,female,spk14,rrn_3,positive,1,5.04
+positive_00518_spk01.wav,output/positive_00518_spk01.wav,삼칠일 육팔일 팔이공구삼사 으로 입금해 주세요.,371-681-820934,account,female,spk01,account_1,positive,1,4.4
+positive_00519_spk02.wav,output/positive_00519_spk02.wav,제 카드번호는 공팔사일 구오육공 칠팔칠일 이칠구삼이에요.,0841-9560-7871-2793,card,male,spk02,card_2,positive,1,6.08
+positive_00520_spk03.wav,output/positive_00520_spk03.wav,연락처는 공일공 육이이구 이사이일이에요.,010-6229-2421,phone,female,spk03,phone_1,positive,1,3.6
+positive_00521_spk04.wav,output/positive_00521_spk04.wav,제 주민등록번호는 공사일공이삼 일이공공공오일입니다.,041023-1200051,rrn,male,spk04,rrn_0,positive,1,5.12
+positive_00522_spk05.wav,output/positive_00522_spk05.wav,오오일 삼삼일 사삼구일이이 으로 입금해 주세요.,551-331-439122,account,female,spk05,account_1,positive,1,3.28
+positive_00523_spk06.wav,output/positive_00523_spk06.wav,제 카드번호는 육칠육오 삼삼사공 육칠이삼 팔이이일이에요.,6765-3340-6723-8221,card,male,spk06,card_2,positive,1,3.92
+positive_00524_spk07.wav,output/positive_00524_spk07.wav,연락처는 공일공 칠칠이육 일공이공이에요.,010-7726-1020,phone,female,spk07,phone_1,positive,1,3.76
+positive_00525_spk08.wav,output/positive_00525_spk08.wav,육육공사일팔 삼육구사삼구오 가 제 주민등록번호입니다.,660418-3694395,rrn,male,spk08,rrn_3,positive,1,6.08
+positive_00526_spk09.wav,output/positive_00526_spk09.wav,육삼팔 삼구오 삼이팔구구삼 으로 입금해 주세요.,638-395-328993,account,female,spk09,account_1,positive,1,3.84
+positive_00527_spk10.wav,output/positive_00527_spk10.wav,칠오삼일 팔칠삼사 오육공팔 팔구오공 로 결제 부탁드립니다.,7531-8734-5608-8950,card,male,spk10,card_1,positive,1,4.96
+positive_00528_spk11.wav,output/positive_00528_spk11.wav,급하시면 공일공 사삼삼일 구구구오 으로 바로 전화 주세요.,010-4331-9995,phone,female,spk11,phone_3,positive,1,5.84
+positive_00529_spk12.wav,output/positive_00529_spk12.wav,본인 확인을 위해 이사공사공구 삼이삼오칠구공 불러드릴게요.,240409-3235790,rrn,male,spk12,rrn_2,positive,1,4.72
+positive_00530_spk13.wav,output/positive_00530_spk13.wav,팔팔구 삼공오 칠삼구일사이 으로 입금해 주세요.,889-305-739142,account,male,spk13,account_1,positive,1,4.4
+positive_00531_spk14.wav,output/positive_00531_spk14.wav,제 카드번호는 팔공일일 오일구사 칠팔육일 오칠일사이에요.,8011-5194-7861-5714,card,female,spk14,card_2,positive,1,4.64
+positive_00532_spk01.wav,output/positive_00532_spk01.wav,제 전화번호는 공일공 사사팔공 사칠일오입니다.,010-4480-4715,phone,female,spk01,phone_0,positive,1,4.4
+positive_00533_spk02.wav,output/positive_00533_spk02.wav,칠삼일일일팔 사구삼구이칠이 가 제 주민등록번호입니다.,731118-4939272,rrn,male,spk02,rrn_3,positive,1,4.8
+positive_00534_spk03.wav,output/positive_00534_spk03.wav,구삼팔 삼육삼 팔일공육일육 으로 입금해 주세요.,938-363-810616,account,female,spk03,account_1,positive,1,4.16
+positive_00535_spk04.wav,output/positive_00535_spk04.wav,사칠오팔 공육팔구 사칠일이 일이구사 로 결제 부탁드립니다.,4758-0689-4712-1294,card,male,spk04,card_1,positive,1,4.56
+positive_00536_spk05.wav,output/positive_00536_spk05.wav,급하시면 공일공 칠이사칠 사이공일 으로 바로 전화 주세요.,010-7247-4201,phone,female,spk05,phone_3,positive,1,4.0
+positive_00537_spk06.wav,output/positive_00537_spk06.wav,본인 확인을 위해 이칠공사이칠 삼구칠팔삼사육 불러드릴게요.,270427-3978346,rrn,male,spk06,rrn_2,positive,1,4.8
+positive_00538_spk07.wav,output/positive_00538_spk07.wav,이사공 일이일 육사오오팔사 으로 입금해 주세요.,240-121-645584,account,female,spk07,account_1,positive,1,3.6
+positive_00539_spk08.wav,output/positive_00539_spk08.wav,제 카드번호는 삼구칠이 공팔삼일 팔칠공공 삼육구칠이에요.,3972-0831-8700-3697,card,male,spk08,card_2,positive,1,5.92
+positive_00540_spk09.wav,output/positive_00540_spk09.wav,제 전화번호는 공일공 삼팔일사 공팔육공입니다.,010-3814-0860,phone,female,spk09,phone_0,positive,1,4.08
+positive_00541_spk10.wav,output/positive_00541_spk10.wav,주민번호는 오이공육이삼 사일공오사이팔이에요.,520623-4105428,rrn,male,spk10,rrn_1,positive,1,3.44
+positive_00542_spk11.wav,output/positive_00542_spk11.wav,일공오 구구칠 오칠칠공팔육 으로 입금해 주세요.,105-997-577086,account,female,spk11,account_1,positive,1,3.92
+positive_00543_spk12.wav,output/positive_00543_spk12.wav,육육육육 칠칠구삼 칠팔이이 삼이육칠 로 결제 부탁드립니다.,6666-7793-7822-3267,card,male,spk12,card_1,positive,1,4.8
+positive_00544_spk13.wav,output/positive_00544_spk13.wav,제 전화번호는 공일공 오이육이 사육칠육입니다.,010-5262-4676,phone,male,spk13,phone_0,positive,1,3.76
+positive_00545_spk14.wav,output/positive_00545_spk14.wav,제 주민등록번호는 구팔공이이일 이오육일일사칠입니다.,980221-2561147,rrn,female,spk14,rrn_0,positive,1,5.28
+positive_00546_spk01.wav,output/positive_00546_spk01.wav,이칠구 사삼칠 구이오일공공 으로 입금해 주세요.,279-437-925100,account,female,spk01,account_1,positive,1,4.24
+positive_00547_spk02.wav,output/positive_00547_spk02.wav,제 카드번호는 공오구오 육오공사 팔일일육 삼공오이이에요.,0595-6504-8116-3052,card,male,spk02,card_2,positive,1,5.76
+positive_00548_spk03.wav,output/positive_00548_spk03.wav,제 전화번호는 공일공 사칠사이 공육일삼입니다.,010-4742-0613,phone,female,spk03,phone_0,positive,1,4.08
+positive_00549_spk04.wav,output/positive_00549_spk04.wav,본인 확인을 위해 삼팔일공이공 일구칠삼오오오 불러드릴게요.,381020-1973555,rrn,male,spk04,rrn_2,positive,1,5.04
+positive_00550_spk05.wav,output/positive_00550_spk05.wav,환불 계좌는 삼구일 사칠오 육칠이사육사입니다.,391-475-672464,account,female,spk05,account_3,positive,1,3.52
+positive_00551_spk06.wav,output/positive_00551_spk06.wav,카드번호는 이일구팔 팔이육일 칠육육팔 사사칠공입니다.,2198-8261-7668-4470,card,male,spk06,card_0,positive,1,4.4
+positive_00552_spk07.wav,output/positive_00552_spk07.wav,연락처는 공일공 일팔사오 오사일칠이에요.,010-1845-5417,phone,female,spk07,phone_1,positive,1,4.4
+positive_00553_spk08.wav,output/positive_00553_spk08.wav,주민번호는 구삼공팔이일 삼칠오삼오공사이에요.,930821-3753504,rrn,male,spk08,rrn_1,positive,1,4.32
+positive_00554_spk09.wav,output/positive_00554_spk09.wav,입금하실 계좌는 일일사 칠육사 삼오삼사팔칠이에요.,114-764-353487,account,female,spk09,account_2,positive,1,4.72
+positive_00555_spk10.wav,output/positive_00555_spk10.wav,구삼공이 삼일육사 이팔칠오 육육사삼 로 결제 부탁드립니다.,9302-3164-2875-6643,card,male,spk10,card_1,positive,1,5.2
+positive_00556_spk11.wav,output/positive_00556_spk11.wav,제 전화번호는 공일공 팔사사이 오삼칠이입니다.,010-8442-5372,phone,female,spk11,phone_0,positive,1,4.16
+positive_00557_spk12.wav,output/positive_00557_spk12.wav,오일일일공사 이일사칠사사이 가 제 주민등록번호입니다.,511104-2147442,rrn,male,spk12,rrn_3,positive,1,4.8
+positive_00558_spk13.wav,output/positive_00558_spk13.wav,제 계좌번호는 사삼일 구육팔 이육공공구육입니다.,431-968-260096,account,male,spk13,account_0,positive,1,5.44
+positive_00559_spk14.wav,output/positive_00559_spk14.wav,사이칠이 육이팔사 삼팔오팔 칠삼일구 로 결제 부탁드립니다.,4272-6284-3858-7319,card,female,spk14,card_1,positive,1,5.2
+positive_00560_spk01.wav,output/positive_00560_spk01.wav,문자는 공일공 오사공공 사구사칠 으로 보내주세요.,010-5400-4947,phone,female,spk01,phone_4,positive,1,4.64
+positive_00561_spk02.wav,output/positive_00561_spk02.wav,본인 확인을 위해 구이일공공일 삼육팔오사삼육 불러드릴게요.,921001-3685436,rrn,male,spk02,rrn_2,positive,1,5.76
+positive_00562_spk03.wav,output/positive_00562_spk03.wav,제 계좌번호는 팔공구 이오일 공육오일사이입니다.,809-251-065142,account,female,spk03,account_0,positive,1,4.32
+positive_00563_spk04.wav,output/positive_00563_spk04.wav,제 카드번호는 칠육이오 오공이육 이육일육 육육사이이에요.,7625-5026-2616-6642,card,male,spk04,card_2,positive,1,5.84
+positive_00564_spk05.wav,output/positive_00564_spk05.wav,제 전화번호는 공일공 팔이삼삼 오공구오입니다.,010-8233-5095,phone,female,spk05,phone_0,positive,1,4.64
+positive_00565_spk06.wav,output/positive_00565_spk06.wav,주민번호는 팔일공오일이 이이이구칠칠이이에요.,810512-2229772,rrn,male,spk06,rrn_1,positive,1,3.52
+positive_00566_spk07.wav,output/positive_00566_spk07.wav,입금하실 계좌는 오팔구 일육육 사칠칠공칠구이에요.,589-166-477079,account,female,spk07,account_2,positive,1,3.92
+positive_00567_spk08.wav,output/positive_00567_spk08.wav,제 카드번호는 육팔일삼 팔구구팔 칠칠일사 팔팔공육이에요.,6813-8998-7714-8806,card,male,spk08,card_2,positive,1,5.52
+positive_00568_spk09.wav,output/positive_00568_spk09.wav,문자는 공일공 삼오칠팔 사공오사 으로 보내주세요.,010-3578-4054,phone,female,spk09,phone_4,positive,1,3.52
+positive_00569_spk10.wav,output/positive_00569_spk10.wav,제 주민등록번호는 일공공구일오 삼공팔일팔구육입니다.,100915-3081896,rrn,male,spk10,rrn_0,positive,1,4.96
+positive_00570_spk11.wav,output/positive_00570_spk11.wav,일육삼 팔오팔 오칠사이오일 으로 입금해 주세요.,163-858-574251,account,female,spk11,account_1,positive,1,4.16
+positive_00571_spk12.wav,output/positive_00571_spk12.wav,구삼팔삼 팔칠구이 이사오오 이육구오 로 결제 부탁드립니다.,9383-8792-2455-2695,card,male,spk12,card_1,positive,1,4.4
+positive_00572_spk13.wav,output/positive_00572_spk13.wav,제 전화번호는 공일공 팔오이오 칠이삼구입니다.,010-8525-7239,phone,male,spk13,phone_0,positive,1,4.16
+positive_00573_spk14.wav,output/positive_00573_spk14.wav,팔칠공사이삼 사공구오삼오구 가 제 주민등록번호입니다.,870423-4095359,rrn,female,spk14,rrn_3,positive,1,4.56
+positive_00574_spk01.wav,output/positive_00574_spk01.wav,구이팔 육육 사칠오사오팔 으로 입금해 주세요.,928-66-475458,account,female,spk01,account_1,positive,1,4.16
+positive_00575_spk02.wav,output/positive_00575_spk02.wav,카드번호는 팔사공구 육팔공육 칠사팔사 구이삼구입니다.,8409-6806-7484-9239,card,male,spk02,card_0,positive,1,4.88
+positive_00576_spk03.wav,output/positive_00576_spk03.wav,공일공 구일오오 칠오칠오 으로 연락 주세요.,010-9155-7575,phone,female,spk03,phone_2,positive,1,3.44
+positive_00577_spk04.wav,output/positive_00577_spk04.wav,제 주민등록번호는 구이공일일삼 삼팔오육일일삼입니다.,920113-3856113,rrn,male,spk04,rrn_0,positive,1,5.04
+positive_00578_spk05.wav,output/positive_00578_spk05.wav,제 계좌번호는 팔육삼 이삼삼 육공육사공삼입니다.,863-233-606403,account,female,spk05,account_0,positive,1,4.32
+positive_00579_spk06.wav,output/positive_00579_spk06.wav,제 카드번호는 공칠사이 육구사일 오육사사 일공사사이에요.,0742-6941-5644-1044,card,male,spk06,card_2,positive,1,5.04
+positive_00580_spk07.wav,output/positive_00580_spk07.wav,급하시면 공일공 공구팔칠 일일삼공 으로 바로 전화 주세요.,010-0987-1130,phone,female,spk07,phone_3,positive,1,5.2
+positive_00581_spk08.wav,output/positive_00581_spk08.wav,주민번호는 공사공오일사 이팔공육삼이오이에요.,040514-2806325,rrn,male,spk08,rrn_1,positive,1,4.64
+positive_00582_spk09.wav,output/positive_00582_spk09.wav,환불 계좌는 팔팔사 육육육 칠육사칠일오입니다.,884-666-764715,account,female,spk09,account_3,positive,1,3.6
+positive_00583_spk10.wav,output/positive_00583_spk10.wav,육일삼오 육이육육 칠삼사팔 육일팔사 로 결제 부탁드립니다.,6135-6266-7348-6184,card,male,spk10,card_1,positive,1,4.8
+positive_00584_spk11.wav,output/positive_00584_spk11.wav,연락처는 공일공 일삼일사 팔팔삼오이에요.,010-1314-8835,phone,female,spk11,phone_1,positive,1,4.72
+positive_00585_spk12.wav,output/positive_00585_spk12.wav,팔삼공육공사 이오육삼삼오육 가 제 주민등록번호입니다.,830604-2563356,rrn,male,spk12,rrn_3,positive,1,5.2
+positive_00586_spk13.wav,output/positive_00586_spk13.wav,육사일 일사공 칠육삼이일사 으로 입금해 주세요.,641-140-763214,account,male,spk13,account_1,positive,1,4.0
+positive_00587_spk14.wav,output/positive_00587_spk14.wav,제 카드번호는 공공오육 공삼칠이 사팔팔팔 칠오팔오이에요.,0056-0372-4888-7585,card,female,spk14,card_2,positive,1,4.96
+positive_00588_spk01.wav,output/positive_00588_spk01.wav,문자는 공일공 팔구이공 육구사팔 으로 보내주세요.,010-8920-6948,phone,female,spk01,phone_4,positive,1,4.16
+positive_00589_spk02.wav,output/positive_00589_spk02.wav,주민번호는 사팔공사공팔 사삼육이구칠사이에요.,480408-4362974,rrn,male,spk02,rrn_1,positive,1,4.48
+positive_00590_spk03.wav,output/positive_00590_spk03.wav,제 계좌번호는 삼팔이 이공삼 구팔이구사육입니다.,382-203-982946,account,female,spk03,account_0,positive,1,4.32
+positive_00591_spk04.wav,output/positive_00591_spk04.wav,카드번호는 공오이칠 육팔육팔 공이오육 삼구사삼입니다.,0527-6868-0256-3943,card,male,spk04,card_0,positive,1,4.88
+positive_00592_spk05.wav,output/positive_00592_spk05.wav,문자는 공일공 일일공이 일육오삼 으로 보내주세요.,010-1102-1653,phone,female,spk05,phone_4,positive,1,4.48
+positive_00593_spk06.wav,output/positive_00593_spk06.wav,제 주민등록번호는 공사공팔이공 일이오육육이이입니다.,040820-1256622,rrn,male,spk06,rrn_0,positive,1,4.16
+positive_00594_spk07.wav,output/positive_00594_spk07.wav,오일일 사오구 이사오칠이이 으로 입금해 주세요.,511-459-245722,account,female,spk07,account_1,positive,1,3.84
+positive_00595_spk08.wav,output/positive_00595_spk08.wav,카드번호는 공구이사 이이구오 팔이오오 사칠삼구입니다.,0924-2295-8255-4739,card,male,spk08,card_0,positive,1,4.48
+positive_00596_spk09.wav,output/positive_00596_spk09.wav,문자는 공일공 구사삼팔 오이이사 으로 보내주세요.,010-9438-5224,phone,female,spk09,phone_4,positive,1,4.48
+positive_00597_spk10.wav,output/positive_00597_spk10.wav,본인 확인을 위해 칠육일일이칠 삼이사팔사일일 불러드릴게요.,761127-3248411,rrn,male,spk10,rrn_2,positive,1,4.0
+positive_00598_spk11.wav,output/positive_00598_spk11.wav,구구칠 일오육 육구이이팔이 으로 입금해 주세요.,997-156-692282,account,female,spk11,account_1,positive,1,3.84
+positive_00599_spk12.wav,output/positive_00599_spk12.wav,제 카드번호는 육칠칠오 사구이삼 사오공팔 공구구팔이에요.,6775-4923-4508-0998,card,male,spk12,card_2,positive,1,5.44
+positive_00600_spk13.wav,output/positive_00600_spk13.wav,급하시면 공일공 구육구삼 이팔육구 으로 바로 전화 주세요.,010-9693-2869,phone,male,spk13,phone_3,positive,1,4.24
+positive_00601_spk14.wav,output/positive_00601_spk14.wav,칠일공팔공이 삼구팔칠삼이사 가 제 주민등록번호입니다.,710802-3987324,rrn,female,spk14,rrn_3,positive,1,5.12
+positive_00602_spk01.wav,output/positive_00602_spk01.wav,환불 계좌는 구공사 오사칠 삼삼사이일칠입니다.,904-547-334217,account,female,spk01,account_3,positive,1,4.4
+positive_00603_spk02.wav,output/positive_00603_spk02.wav,카드번호는 육육팔팔 이사사사 사구일삼 육일육칠입니다.,6688-2444-4913-6167,card,male,spk02,card_0,positive,1,5.6
+positive_00604_spk03.wav,output/positive_00604_spk03.wav,연락처는 공일공 팔팔일삼 칠칠오팔이에요.,010-8813-7758,phone,female,spk03,phone_1,positive,1,5.6
+positive_00605_spk04.wav,output/positive_00605_spk04.wav,이팔공오이팔 이팔사사구일칠 가 제 주민등록번호입니다.,280528-2844917,rrn,male,spk04,rrn_3,positive,1,5.36
+positive_00606_spk05.wav,output/positive_00606_spk05.wav,환불 계좌는 일오구 오팔오 사삼이칠이삼입니다.,159-585-432723,account,female,spk05,account_3,positive,1,3.52
+positive_00607_spk06.wav,output/positive_00607_spk06.wav,카드번호는 구일삼공 팔육팔삼 이일구육 육삼육삼입니다.,9130-8683-2196-6363,card,male,spk06,card_0,positive,1,5.84
+positive_00608_spk07.wav,output/positive_00608_spk07.wav,공일공 사일칠칠 삼삼삼일 으로 연락 주세요.,010-4177-3331,phone,female,spk07,phone_2,positive,1,3.76
+positive_00609_spk08.wav,output/positive_00609_spk08.wav,주민번호는 팔이공이일오 삼공구육구오오이에요.,820215-3096955,rrn,male,spk08,rrn_1,positive,1,4.0
+positive_00610_spk09.wav,output/positive_00610_spk09.wav,제 계좌번호는 일오이 이팔사 삼구오사팔구입니다.,152-284-395489,account,female,spk09,account_0,positive,1,4.4
+positive_00611_spk10.wav,output/positive_00611_spk10.wav,카드번호는 일일구이 삼공팔이 구육이육 구일오육입니다.,1192-3082-9626-9156,card,male,spk10,card_0,positive,1,4.48
+positive_00612_spk11.wav,output/positive_00612_spk11.wav,공일공 칠팔오사 삼사이이 으로 연락 주세요.,010-7854-3422,phone,female,spk11,phone_2,positive,1,3.76
+positive_00613_spk12.wav,output/positive_00613_spk12.wav,제 주민등록번호는 삼팔공일공칠 이칠칠칠사구삼입니다.,380107-2777493,rrn,male,spk12,rrn_0,positive,1,4.64
+positive_00614_spk13.wav,output/positive_00614_spk13.wav,팔육사 칠팔이 오공이일팔사 으로 입금해 주세요.,864-782-502184,account,male,spk13,account_1,positive,1,3.52
+positive_00615_spk14.wav,output/positive_00615_spk14.wav,제 카드번호는 구구공이 삼삼오공 육사구팔 삼구이일이에요.,9902-3350-6498-3921,card,female,spk14,card_2,positive,1,5.36
+positive_00616_spk01.wav,output/positive_00616_spk01.wav,급하시면 공일공 오이육구 사육삼칠 으로 바로 전화 주세요.,010-5269-4637,phone,female,spk01,phone_3,positive,1,4.8
+positive_00617_spk02.wav,output/positive_00617_spk02.wav,본인 확인을 위해 오구공구이일 삼삼이삼사공사 불러드릴게요.,590921-3323404,rrn,male,spk02,rrn_2,positive,1,5.6
+positive_00618_spk03.wav,output/positive_00618_spk03.wav,환불 계좌는 사육팔 오삼오 구이오육구오입니다.,468-535-925695,account,female,spk03,account_3,positive,1,4.72
+positive_00619_spk04.wav,output/positive_00619_spk04.wav,카드번호는 칠육삼오 일육일오 칠육구이 오이사육입니다.,7635-1615-7692-5246,card,male,spk04,card_0,positive,1,4.88
+positive_00620_spk05.wav,output/positive_00620_spk05.wav,급하시면 공일공 육공칠삼 오일이육 으로 바로 전화 주세요.,010-6073-5126,phone,female,spk05,phone_3,positive,1,4.96
+positive_00621_spk06.wav,output/positive_00621_spk06.wav,주민번호는 공오일공이팔 이칠칠칠이오구이에요.,051028-2777259,rrn,male,spk06,rrn_1,positive,1,4.48
+positive_00622_spk07.wav,output/positive_00622_spk07.wav,환불 계좌는 일일육 이칠칠 오팔공일팔구입니다.,116-277-580189,account,female,spk07,account_3,positive,1,3.92
+positive_00623_spk08.wav,output/positive_00623_spk08.wav,카드번호는 사팔삼육 이사구칠 삼이일사 오사공사입니다.,4836-2497-3214-5404,card,male,spk08,card_0,positive,1,5.44
+positive_00624_spk09.wav,output/positive_00624_spk09.wav,연락처는 공일공 육이이삼 구삼삼오이에요.,010-6223-9335,phone,female,spk09,phone_1,positive,1,3.68
+positive_00625_spk10.wav,output/positive_00625_spk10.wav,육삼공구이일 삼이육구팔이육 가 제 주민등록번호입니다.,630921-3269826,rrn,male,spk10,rrn_3,positive,1,4.56
+positive_00626_spk11.wav,output/positive_00626_spk11.wav,환불 계좌는 팔사공 육육칠 칠칠오오이공입니다.,840-667-775520,account,female,spk11,account_3,positive,1,4.56
+positive_00627_spk12.wav,output/positive_00627_spk12.wav,카드번호는 칠오오공 이칠오육 오칠칠공 이칠칠삼입니다.,7550-2756-5770-2773,card,male,spk12,card_0,positive,1,4.16
+positive_00628_spk13.wav,output/positive_00628_spk13.wav,연락처는 공일공 팔구오사 팔공공공이에요.,010-8954-8000,phone,male,spk13,phone_1,positive,1,3.36
+positive_00629_spk14.wav,output/positive_00629_spk14.wav,제 주민등록번호는 육구일일공이 일팔칠구팔이칠입니다.,691102-1879827,rrn,female,spk14,rrn_0,positive,1,4.48
+positive_00630_spk01.wav,output/positive_00630_spk01.wav,제 계좌번호는 구삼칠 육구사 공오공팔칠일입니다.,937-694-050871,account,female,spk01,account_0,positive,1,4.96
+positive_00631_spk02.wav,output/positive_00631_spk02.wav,제 카드번호는 육칠오육 이이오이 삼칠구일 일일일삼이에요.,6756-2252-3791-1113,card,male,spk02,card_2,positive,1,5.12
+positive_00632_spk03.wav,output/positive_00632_spk03.wav,연락처는 공일공 이사칠사 공일사구이에요.,010-2474-0149,phone,female,spk03,phone_1,positive,1,4.72
+positive_00633_spk04.wav,output/positive_00633_spk04.wav,육사공팔일이 일육사칠팔사칠 가 제 주민등록번호입니다.,640812-1647847,rrn,male,spk04,rrn_3,positive,1,5.04
+positive_00634_spk05.wav,output/positive_00634_spk05.wav,제 계좌번호는 칠칠오 오공구 공일육사구오입니다.,775-509-016495,account,female,spk05,account_0,positive,1,3.92
+positive_00635_spk06.wav,output/positive_00635_spk06.wav,카드번호는 팔칠일구 구공삼팔 육칠삼구 공일구사입니다.,8719-9038-6739-0194,card,male,spk06,card_0,positive,1,4.64
+positive_00636_spk07.wav,output/positive_00636_spk07.wav,문자는 공일공 팔육칠삼 사오공일 으로 보내주세요.,010-8673-4501,phone,female,spk07,phone_4,positive,1,3.76
+positive_00637_spk08.wav,output/positive_00637_spk08.wav,주민번호는 삼육공일일칠 사팔사오삼이팔이에요.,360117-4845328,rrn,male,spk08,rrn_1,positive,1,4.24
+positive_00638_spk09.wav,output/positive_00638_spk09.wav,이공구 구오공 일공공구구이 으로 입금해 주세요.,209-950-100992,account,female,spk09,account_1,positive,1,3.76
+positive_00639_spk10.wav,output/positive_00639_spk10.wav,삼구사팔 삼일사사 팔육이오 사일삼오 로 결제 부탁드립니다.,3948-3144-8625-4135,card,male,spk10,card_1,positive,1,5.12
+positive_00640_spk11.wav,output/positive_00640_spk11.wav,제 전화번호는 공일공 사삼칠구 육오공이입니다.,010-4379-6502,phone,female,spk11,phone_0,positive,1,4.56
+positive_00641_spk12.wav,output/positive_00641_spk12.wav,주민번호는 사칠공칠일오 이칠삼일일공오이에요.,470715-2731105,rrn,male,spk12,rrn_1,positive,1,3.68
+positive_00642_spk13.wav,output/positive_00642_spk13.wav,제 계좌번호는 사공칠 칠일공 팔육팔이팔육입니다.,407-710-868286,account,male,spk13,account_0,positive,1,3.84
+positive_00643_spk14.wav,output/positive_00643_spk14.wav,공오일구 일오삼일 육육사공 육이일삼 로 결제 부탁드립니다.,0519-1531-6640-6213,card,female,spk14,card_1,positive,1,4.72
+positive_00644_spk01.wav,output/positive_00644_spk01.wav,제 전화번호는 공일공 구공오오 칠칠구팔입니다.,010-9055-7798,phone,female,spk01,phone_0,positive,1,4.64
+positive_00645_spk02.wav,output/positive_00645_spk02.wav,팔일공일이삼 이공팔육칠공이 가 제 주민등록번호입니다.,810123-2086702,rrn,male,spk02,rrn_3,positive,1,5.04
+positive_00646_spk03.wav,output/positive_00646_spk03.wav,입금하실 계좌는 구육오 사오사 육칠육이삼사이에요.,965-454-676234,account,female,spk03,account_2,positive,1,5.04
+positive_00647_spk04.wav,output/positive_00647_spk04.wav,카드번호는 구이칠공 일오육이 팔육오삼 공육구칠입니다.,9270-1562-8653-0697,card,male,spk04,card_0,positive,1,4.72
+positive_00648_spk05.wav,output/positive_00648_spk05.wav,급하시면 공일공 삼사육삼 구이팔육 으로 바로 전화 주세요.,010-3463-9286,phone,female,spk05,phone_3,positive,1,5.04
+positive_00649_spk06.wav,output/positive_00649_spk06.wav,제 주민등록번호는 삼사공일공삼 삼구사이구구육입니다.,340103-3942996,rrn,male,spk06,rrn_0,positive,1,6.48
+positive_00650_spk07.wav,output/positive_00650_spk07.wav,입금하실 계좌는 이팔삼 구육일 팔구일칠삼칠이에요.,283-961-891737,account,female,spk07,account_2,positive,1,5.04
+positive_00651_spk08.wav,output/positive_00651_spk08.wav,제 카드번호는 공이오육 삼삼구사 구육일칠 이삼육이이에요.,0256-3394-9617-2362,card,male,spk08,card_2,positive,1,5.84
+positive_00652_spk09.wav,output/positive_00652_spk09.wav,공일공 육오이오 일이육공 으로 연락 주세요.,010-6525-1260,phone,female,spk09,phone_2,positive,1,3.2
+positive_00653_spk10.wav,output/positive_00653_spk10.wav,본인 확인을 위해 이공일공공팔 사칠공구구이이 불러드릴게요.,201008-4709922,rrn,male,spk10,rrn_2,positive,1,5.44
+positive_00654_spk11.wav,output/positive_00654_spk11.wav,사구삼 칠팔삼 칠칠오육칠구 으로 입금해 주세요.,493-783-775679,account,female,spk11,account_1,positive,1,5.04
+positive_00655_spk12.wav,output/positive_00655_spk12.wav,카드번호는 일이팔사 팔이공사 오육육육 공팔칠구입니다.,1284-8204-5666-0879,card,male,spk12,card_0,positive,1,4.8
+positive_00656_spk13.wav,output/positive_00656_spk13.wav,제 전화번호는 공일공 칠일육일 삼팔공삼입니다.,010-7161-3803,phone,male,spk13,phone_0,positive,1,4.48
+positive_00657_spk14.wav,output/positive_00657_spk14.wav,본인 확인을 위해 사삼일공이오 사팔일일일삼일 불러드릴게요.,431025-4811131,rrn,female,spk14,rrn_2,positive,1,4.4
+positive_00658_spk01.wav,output/positive_00658_spk01.wav,환불 계좌는 일삼공 육오구 이팔육육공사입니다.,130-659-286604,account,female,spk01,account_3,positive,1,4.72
+positive_00659_spk02.wav,output/positive_00659_spk02.wav,팔공삼팔 삼칠삼칠 오팔이구 구공육공 로 결제 부탁드립니다.,8038-3737-5829-9060,card,male,spk02,card_1,positive,1,5.84
+positive_00660_spk03.wav,output/positive_00660_spk03.wav,문자는 공일공 칠공칠오 삼공사삼 으로 보내주세요.,010-7075-3043,phone,female,spk03,phone_4,positive,1,4.88
+positive_00661_spk04.wav,output/positive_00661_spk04.wav,주민번호는 팔사공칠공삼 삼팔삼육팔이일이에요.,840703-3836821,rrn,male,spk04,rrn_1,positive,1,4.08
+positive_00662_spk05.wav,output/positive_00662_spk05.wav,입금하실 계좌는 팔삼공 팔오 공팔육공이삼이에요.,830-85-086023,account,female,spk05,account_2,positive,1,4.24
+positive_00663_spk06.wav,output/positive_00663_spk06.wav,이오이육 육이이오 이오이칠 육삼팔삼 로 결제 부탁드립니다.,2526-6225-2527-6383,card,male,spk06,card_1,positive,1,5.12
+positive_00664_spk07.wav,output/positive_00664_spk07.wav,제 전화번호는 공일공 오구공구 일칠사오입니다.,010-5909-1745,phone,female,spk07,phone_0,positive,1,4.48
+positive_00665_spk08.wav,output/positive_00665_spk08.wav,본인 확인을 위해 공공공오일오 삼칠구팔삼이구 불러드릴게요.,000515-3798329,rrn,male,spk08,rrn_2,positive,1,5.44
+positive_00666_spk09.wav,output/positive_00666_spk09.wav,이공사 일사오 공구일오삼칠 으로 입금해 주세요.,204-145-091537,account,female,spk09,account_1,positive,1,4.0
+positive_00667_spk10.wav,output/positive_00667_spk10.wav,제 카드번호는 칠공육일 칠삼오삼 구일이오 구공팔팔이에요.,7061-7353-9125-9088,card,male,spk10,card_2,positive,1,5.12
+positive_00668_spk11.wav,output/positive_00668_spk11.wav,제 전화번호는 공일공 육육팔오 일육구이입니다.,010-6685-1692,phone,female,spk11,phone_0,positive,1,4.4
+positive_00669_spk12.wav,output/positive_00669_spk12.wav,본인 확인을 위해 일일공육일팔 일육이오구이공 불러드릴게요.,110618-1625920,rrn,male,spk12,rrn_2,positive,1,5.2
+positive_00670_spk13.wav,output/positive_00670_spk13.wav,입금하실 계좌는 구팔사 사공사 공일이구사공이에요.,984-404-012940,account,male,spk13,account_2,positive,1,4.64
+positive_00671_spk14.wav,output/positive_00671_spk14.wav,카드번호는 육칠칠구 육삼오삼 일삼팔칠 구일육칠입니다.,6779-6353-1387-9167,card,female,spk14,card_0,positive,1,5.44
+positive_00672_spk01.wav,output/positive_00672_spk01.wav,연락처는 공일공 구삼칠공 팔오삼칠이에요.,010-9370-8537,phone,female,spk01,phone_1,positive,1,4.24
+positive_00673_spk02.wav,output/positive_00673_spk02.wav,본인 확인을 위해 팔칠공칠공육 이이팔일구팔일 불러드릴게요.,870706-2281981,rrn,male,spk02,rrn_2,positive,1,5.12
+positive_00674_spk03.wav,output/positive_00674_spk03.wav,제 계좌번호는 삼칠사 오일사 일오삼공이삼입니다.,374-514-153023,account,female,spk03,account_0,positive,1,4.96
+positive_00675_spk04.wav,output/positive_00675_spk04.wav,이칠삼구 칠일이일 사오이일 육팔구구 로 결제 부탁드립니다.,2739-7121-4521-6899,card,male,spk04,card_1,positive,1,4.56
+positive_00676_spk05.wav,output/positive_00676_spk05.wav,공일공 칠구삼삼 일이육공 으로 연락 주세요.,010-7933-1260,phone,female,spk05,phone_2,positive,1,3.44
+positive_00677_spk06.wav,output/positive_00677_spk06.wav,주민번호는 삼이공사이사 사육이이육오일이에요.,320424-4622651,rrn,male,spk06,rrn_1,positive,1,5.04
+positive_00678_spk07.wav,output/positive_00678_spk07.wav,입금하실 계좌는 오육팔 일일구 일사이공칠일이에요.,568-119-142071,account,female,spk07,account_2,positive,1,4.64
+positive_00679_spk08.wav,output/positive_00679_spk08.wav,공일일공 육사팔삼 오사사삼 육이이사 로 결제 부탁드립니다.,0110-6483-5443-6224,card,male,spk08,card_1,positive,1,5.28
+positive_00680_spk09.wav,output/positive_00680_spk09.wav,급하시면 공일공 칠이일이 오사팔사 으로 바로 전화 주세요.,010-7212-5484,phone,female,spk09,phone_3,positive,1,4.16
+positive_00681_spk10.wav,output/positive_00681_spk10.wav,주민번호는 팔삼일공공오 삼삼삼육이사일이에요.,831005-3336241,rrn,male,spk10,rrn_1,positive,1,4.08
+positive_00682_spk11.wav,output/positive_00682_spk11.wav,환불 계좌는 오구공 삼삼일 일팔육이육육입니다.,590-331-186266,account,female,spk11,account_3,positive,1,4.56
+positive_00683_spk12.wav,output/positive_00683_spk12.wav,카드번호는 오이이팔 사칠칠오 팔공사사 구사삼오입니다.,5228-4775-8044-9435,card,male,spk12,card_0,positive,1,4.24
+positive_00684_spk13.wav,output/positive_00684_spk13.wav,공일공 오삼삼구 육일육일 으로 연락 주세요.,010-5339-6161,phone,male,spk13,phone_2,positive,1,3.52
+positive_00685_spk14.wav,output/positive_00685_spk14.wav,주민번호는 오공공육공사 이육이공구구오이에요.,500604-2620995,rrn,female,spk14,rrn_1,positive,1,3.6
+positive_00686_spk01.wav,output/positive_00686_spk01.wav,제 계좌번호는 칠구팔 칠구육 오칠육팔이공입니다.,798-796-576820,account,female,spk01,account_0,positive,1,5.6
+positive_00687_spk02.wav,output/positive_00687_spk02.wav,제 카드번호는 칠오육삼 삼사삼사 칠일팔삼 사칠칠삼이에요.,7563-3434-7183-4773,card,male,spk02,card_2,positive,1,5.36
+positive_00688_spk03.wav,output/positive_00688_spk03.wav,급하시면 공일공 일일삼삼 육칠공삼 으로 바로 전화 주세요.,010-1133-6703,phone,female,spk03,phone_3,positive,1,5.44
+positive_00689_spk04.wav,output/positive_00689_spk04.wav,주민번호는 일칠일일일공 이이육사구오오이에요.,171110-2264955,rrn,male,spk04,rrn_1,positive,1,4.56
+positive_00690_spk05.wav,output/positive_00690_spk05.wav,환불 계좌는 팔삼이 사사삼 팔이칠사공육입니다.,832-443-827406,account,female,spk05,account_3,positive,1,3.92
+positive_00691_spk06.wav,output/positive_00691_spk06.wav,제 카드번호는 일이일일 칠삼오칠 구칠구육 칠팔오일이에요.,1211-7357-9796-7851,card,male,spk06,card_2,positive,1,4.96
+positive_00692_spk07.wav,output/positive_00692_spk07.wav,문자는 공일공 육오육육 팔칠오오 으로 보내주세요.,010-6566-8755,phone,female,spk07,phone_4,positive,1,5.28
+positive_00693_spk08.wav,output/positive_00693_spk08.wav,본인 확인을 위해 팔팔공칠일팔 일팔이구일삼공 불러드릴게요.,880718-1829130,rrn,male,spk08,rrn_2,positive,1,5.84
+positive_00694_spk09.wav,output/positive_00694_spk09.wav,제 계좌번호는 팔일팔 구이육 팔오일칠오오입니다.,818-926-851755,account,female,spk09,account_0,positive,1,4.48
+positive_00695_spk10.wav,output/positive_00695_spk10.wav,제 카드번호는 일칠구일 사공육칠 오팔일육 이칠이오이에요.,1791-4067-5816-2725,card,male,spk10,card_2,positive,1,4.96
+positive_00696_spk11.wav,output/positive_00696_spk11.wav,급하시면 공일공 공칠이오 구이이칠 으로 바로 전화 주세요.,010-0725-9227,phone,female,spk11,phone_3,positive,1,5.76
+positive_00697_spk12.wav,output/positive_00697_spk12.wav,제 주민등록번호는 구육공육이육 사일일일공구공입니다.,960626-4111090,rrn,male,spk12,rrn_0,positive,1,4.24
+positive_00698_spk13.wav,output/positive_00698_spk13.wav,이공공 이칠사 이삼이칠팔오 으로 입금해 주세요.,200-274-232785,account,male,spk13,account_1,positive,1,4.0
+positive_00699_spk14.wav,output/positive_00699_spk14.wav,제 카드번호는 칠삼공삼 육일이구 육사공팔 칠오팔육이에요.,7303-6129-6408-7586,card,female,spk14,card_2,positive,1,4.88
+positive_00700_spk01.wav,output/positive_00700_spk01.wav,연락처는 공일공 구육사삼 팔일구구이에요.,010-9643-8199,phone,female,spk01,phone_1,positive,1,3.84
+positive_00701_spk02.wav,output/positive_00701_spk02.wav,사사공일일육 일삼공구칠팔삼 가 제 주민등록번호입니다.,440116-1309783,rrn,male,spk02,rrn_3,positive,1,4.56
+positive_00702_spk03.wav,output/positive_00702_spk03.wav,일팔칠 일이팔 팔칠일육구구 으로 입금해 주세요.,187-128-871699,account,female,spk03,account_1,positive,1,4.0
+positive_00703_spk04.wav,output/positive_00703_spk04.wav,카드번호는 오칠공칠 오일일공 오육이공 칠사육공입니다.,5707-5110-5620-7460,card,male,spk04,card_0,positive,1,5.28
+positive_00704_spk05.wav,output/positive_00704_spk05.wav,공일공 팔오삼칠 칠구일이 으로 연락 주세요.,010-8537-7912,phone,female,spk05,phone_2,positive,1,3.2
+positive_00705_spk06.wav,output/positive_00705_spk06.wav,제 주민등록번호는 육공공이일오 사삼삼사사공공입니다.,600215-4334400,rrn,male,spk06,rrn_0,positive,1,5.84
+positive_00706_spk07.wav,output/positive_00706_spk07.wav,제 계좌번호는 사공칠 오오 팔사구오사일입니다.,407-55-849541,account,female,spk07,account_0,positive,1,4.8
+positive_00707_spk08.wav,output/positive_00707_spk08.wav,제 카드번호는 공삼칠공 오육이공 일칠구일 이육구이이에요.,0370-5620-1791-2692,card,male,spk08,card_2,positive,1,5.68
+positive_00708_spk09.wav,output/positive_00708_spk09.wav,연락처는 공일공 삼구구육 팔사오사이에요.,010-3996-8454,phone,female,spk09,phone_1,positive,1,3.44
+positive_00709_spk10.wav,output/positive_00709_spk10.wav,주민번호는 칠공공삼일일 사사팔사사구팔이에요.,700311-4484498,rrn,male,spk10,rrn_1,positive,1,3.84
+positive_00710_spk11.wav,output/positive_00710_spk11.wav,구일육 사이사 육육공삼오일 으로 입금해 주세요.,916-424-660351,account,female,spk11,account_1,positive,1,4.08
+positive_00711_spk12.wav,output/positive_00711_spk12.wav,제 카드번호는 삼공오삼 칠공팔공 육사팔일 공사칠팔이에요.,3053-7080-6481-0478,card,male,spk12,card_2,positive,1,5.2
+positive_00712_spk13.wav,output/positive_00712_spk13.wav,문자는 공일공 삼이삼이 칠삼육오 으로 보내주세요.,010-3232-7365,phone,male,spk13,phone_4,positive,1,4.08
+positive_00713_spk14.wav,output/positive_00713_spk14.wav,본인 확인을 위해 오사공칠공일 이이일오칠팔공 불러드릴게요.,540701-2215780,rrn,female,spk14,rrn_2,positive,1,4.96
+positive_00714_spk01.wav,output/positive_00714_spk01.wav,제 계좌번호는 팔칠공 칠삼공 팔사팔공일사입니다.,870-730-848014,account,female,spk01,account_0,positive,1,4.96
+positive_00715_spk02.wav,output/positive_00715_spk02.wav,구사오구 일육육칠 팔칠구육 삼공육삼 로 결제 부탁드립니다.,9459-1667-8796-3063,card,male,spk02,card_1,positive,1,4.88
+positive_00716_spk03.wav,output/positive_00716_spk03.wav,급하시면 공일공 오삼사공 삼이이팔 으로 바로 전화 주세요.,010-5340-3228,phone,female,spk03,phone_3,positive,1,5.04
+positive_00717_spk04.wav,output/positive_00717_spk04.wav,본인 확인을 위해 일사공오이이 사오오삼삼사구 불러드릴게요.,140522-4553349,rrn,male,spk04,rrn_2,positive,1,4.4
+positive_00718_spk05.wav,output/positive_00718_spk05.wav,환불 계좌는 칠일일 사공칠 육사일공공삼입니다.,711-407-641003,account,female,spk05,account_3,positive,1,4.56
+positive_00719_spk06.wav,output/positive_00719_spk06.wav,구육일칠 일팔칠일 오칠공공 오칠육육 로 결제 부탁드립니다.,9617-1871-5700-5766,card,male,spk06,card_1,positive,1,6.08
+positive_00720_spk07.wav,output/positive_00720_spk07.wav,문자는 공일공 이팔이육 사팔칠삼 으로 보내주세요.,010-2826-4873,phone,female,spk07,phone_4,positive,1,4.24
+positive_00721_spk08.wav,output/positive_00721_spk08.wav,제 주민등록번호는 칠오공이이이 이삼이팔삼구구입니다.,750222-2328399,rrn,male,spk08,rrn_0,positive,1,5.52
+positive_00722_spk09.wav,output/positive_00722_spk09.wav,삼사사 삼이이 일이이육이구 으로 입금해 주세요.,344-322-122629,account,female,spk09,account_1,positive,1,3.28
+positive_00723_spk10.wav,output/positive_00723_spk10.wav,육일일육 이삼일육 팔삼육구 육삼육사 로 결제 부탁드립니다.,6116-2316-8369-6364,card,male,spk10,card_1,positive,1,4.08
+positive_00724_spk11.wav,output/positive_00724_spk11.wav,문자는 공일공 구칠칠일 이이오팔 으로 보내주세요.,010-9771-2258,phone,female,spk11,phone_4,positive,1,4.64
+positive_00725_spk12.wav,output/positive_00725_spk12.wav,주민번호는 사구공칠공육 사육육육삼칠일이에요.,490706-4666371,rrn,male,spk12,rrn_1,positive,1,3.52
+positive_00726_spk13.wav,output/positive_00726_spk13.wav,입금하실 계좌는 육육팔 일팔공 오일삼사이육이에요.,668-180-513426,account,male,spk13,account_2,positive,1,4.4
+positive_00727_spk14.wav,output/positive_00727_spk14.wav,제 카드번호는 이이구팔 삼공육오 오일오사 칠삼팔구이에요.,2298-3065-5154-7389,card,female,spk14,card_2,positive,1,5.12
+positive_00728_spk01.wav,output/positive_00728_spk01.wav,제 전화번호는 공일공 공팔칠팔 오팔팔이입니다.,010-0878-5882,phone,female,spk01,phone_0,positive,1,4.32
+positive_00729_spk02.wav,output/positive_00729_spk02.wav,육이공삼공칠 사오팔팔팔육일 가 제 주민등록번호입니다.,620307-4588861,rrn,male,spk02,rrn_3,positive,1,4.72
+positive_00730_spk03.wav,output/positive_00730_spk03.wav,환불 계좌는 오일팔 칠일일 오일오육일일입니다.,518-711-515611,account,female,spk03,account_3,positive,1,4.8
+positive_00731_spk04.wav,output/positive_00731_spk04.wav,제 카드번호는 칠이칠이 팔공공육 이칠사공 일삼오사이에요.,7272-8006-2740-1354,card,male,spk04,card_2,positive,1,4.8
+positive_00732_spk05.wav,output/positive_00732_spk05.wav,공일공 공오공오 삼육일삼 으로 연락 주세요.,010-0505-3613,phone,female,spk05,phone_2,positive,1,3.76
+positive_00733_spk06.wav,output/positive_00733_spk06.wav,공사공오공팔 삼일칠육삼칠구 가 제 주민등록번호입니다.,040508-3176379,rrn,male,spk06,rrn_3,positive,1,4.56
+positive_00734_spk07.wav,output/positive_00734_spk07.wav,환불 계좌는 육칠구 칠칠공 팔일공공칠사입니다.,679-770-810074,account,female,spk07,account_3,positive,1,4.48
+positive_00735_spk08.wav,output/positive_00735_spk08.wav,카드번호는 구공공육 팔삼육구 일팔오사 구삼팔삼입니다.,9006-8369-1854-9383,card,male,spk08,card_0,positive,1,5.36
+positive_00736_spk09.wav,output/positive_00736_spk09.wav,공일공 사삼팔구 팔팔구팔 으로 연락 주세요.,010-4389-8898,phone,female,spk09,phone_2,positive,1,3.44
+positive_00737_spk10.wav,output/positive_00737_spk10.wav,주민번호는 육구공일이오 사오칠이팔구이이에요.,690125-4572892,rrn,male,spk10,rrn_1,positive,1,3.2
+positive_00738_spk11.wav,output/positive_00738_spk11.wav,오삼오 일일사 칠칠일칠사공 으로 입금해 주세요.,535-114-771740,account,female,spk11,account_1,positive,1,4.56
+positive_00739_spk12.wav,output/positive_00739_spk12.wav,사팔칠칠 공오이팔 칠삼육팔 사삼공오 로 결제 부탁드립니다.,4877-0528-7368-4305,card,male,spk12,card_1,positive,1,4.96
+positive_00740_spk13.wav,output/positive_00740_spk13.wav,제 전화번호는 공일공 일사이오 칠일구삼입니다.,010-1425-7193,phone,male,spk13,phone_0,positive,1,4.24
+positive_00741_spk14.wav,output/positive_00741_spk14.wav,구구공사공칠 삼구공이팔칠사 가 제 주민등록번호입니다.,990407-3902874,rrn,female,spk14,rrn_3,positive,1,5.44
+positive_00742_spk01.wav,output/positive_00742_spk01.wav,이육구 육사공 일사오구구팔 으로 입금해 주세요.,269-640-145998,account,female,spk01,account_1,positive,1,4.32
+positive_00743_spk02.wav,output/positive_00743_spk02.wav,제 카드번호는 삼삼구공 공구칠이 구삼사공 오칠사칠이에요.,3390-0972-9340-5747,card,male,spk02,card_2,positive,1,4.96
+positive_00744_spk03.wav,output/positive_00744_spk03.wav,문자는 공일공 사육공오 구칠칠팔 으로 보내주세요.,010-4605-9778,phone,female,spk03,phone_4,positive,1,5.2
+positive_00745_spk04.wav,output/positive_00745_spk04.wav,본인 확인을 위해 이일공육이삼 삼삼공삼삼팔칠 불러드릴게요.,210623-3303387,rrn,male,spk04,rrn_2,positive,1,6.0
+positive_00746_spk05.wav,output/positive_00746_spk05.wav,제 계좌번호는 구칠팔 오삼육 구사삼팔팔일입니다.,978-536-943881,account,female,spk05,account_0,positive,1,4.64
+positive_00747_spk06.wav,output/positive_00747_spk06.wav,제 카드번호는 이이이일 육칠사삼 공구칠일 사오사삼이에요.,2221-6743-0971-4543,card,male,spk06,card_2,positive,1,4.96
+positive_00748_spk07.wav,output/positive_00748_spk07.wav,연락처는 공일공 이공칠팔 이일칠사이에요.,010-2078-2174,phone,female,spk07,phone_1,positive,1,3.84
+positive_00749_spk08.wav,output/positive_00749_spk08.wav,일팔일이일일 이칠구팔사육이 가 제 주민등록번호입니다.,181211-2798462,rrn,male,spk08,rrn_3,positive,1,5.36
+positive_00750_spk09.wav,output/positive_00750_spk09.wav,입금하실 계좌는 육공일 일오오 육공오사칠사이에요.,601-155-605474,account,female,spk09,account_2,positive,1,4.88
+positive_00751_spk10.wav,output/positive_00751_spk10.wav,제 카드번호는 육칠팔육 육일사육 칠사공오 일이삼칠이에요.,6786-6146-7405-1237,card,male,spk10,card_2,positive,1,4.64
+positive_00752_spk11.wav,output/positive_00752_spk11.wav,문자는 공일공 일오이오 육육공공 으로 보내주세요.,010-1525-6600,phone,female,spk11,phone_4,positive,1,4.72
+positive_00753_spk12.wav,output/positive_00753_spk12.wav,구오공오이삼 삼사칠육칠팔이 가 제 주민등록번호입니다.,950523-3476782,rrn,male,spk12,rrn_3,positive,1,4.24
+positive_00754_spk13.wav,output/positive_00754_spk13.wav,제 계좌번호는 사삼오 육공오 공공이오구삼입니다.,435-605-002593,account,male,spk13,account_0,positive,1,3.92
+positive_00755_spk14.wav,output/positive_00755_spk14.wav,칠오일일 오팔육구 일공삼칠 팔칠오육 로 결제 부탁드립니다.,7511-5869-1037-8756,card,female,spk14,card_1,positive,1,5.44
+positive_00756_spk01.wav,output/positive_00756_spk01.wav,연락처는 공일공 삼오육팔 칠공삼구이에요.,010-3568-7039,phone,female,spk01,phone_1,positive,1,4.48
+positive_00757_spk02.wav,output/positive_00757_spk02.wav,주민번호는 육삼공오일일 삼삼오사일육일이에요.,630511-3354161,rrn,male,spk02,rrn_1,positive,1,4.56
+positive_00758_spk03.wav,output/positive_00758_spk03.wav,입금하실 계좌는 육칠구 팔팔이 오공팔구일삼이에요.,679-882-508913,account,female,spk03,account_2,positive,1,5.36
+positive_00759_spk04.wav,output/positive_00759_spk04.wav,카드번호는 공칠구삼 공칠오이 일육삼일 칠오이구입니다.,0793-0752-1631-7529,card,male,spk04,card_0,positive,1,4.4
+positive_00760_spk05.wav,output/positive_00760_spk05.wav,급하시면 공일공 이공삼오 이오팔팔 으로 바로 전화 주세요.,010-2035-2588,phone,female,spk05,phone_3,positive,1,4.96
+positive_00761_spk06.wav,output/positive_00761_spk06.wav,주민번호는 오팔공일일사 이칠이이공사공이에요.,580114-2722040,rrn,male,spk06,rrn_1,positive,1,3.68
+positive_00762_spk07.wav,output/positive_00762_spk07.wav,입금하실 계좌는 칠육오 삼일구 일육육육구구이에요.,765-319-166699,account,female,spk07,account_2,positive,1,4.16
+positive_00763_spk08.wav,output/positive_00763_spk08.wav,일오이구 오구공오 사일공이 일삼오공 로 결제 부탁드립니다.,1529-5905-4102-1350,card,male,spk08,card_1,positive,1,5.12
+positive_00764_spk09.wav,output/positive_00764_spk09.wav,급하시면 공일공 이칠일일 공팔사팔 으로 바로 전화 주세요.,010-2711-0848,phone,female,spk09,phone_3,positive,1,5.2
+positive_00765_spk10.wav,output/positive_00765_spk10.wav,제 주민등록번호는 팔공공오이사 이사오공공팔일입니다.,800524-2450081,rrn,male,spk10,rrn_0,positive,1,5.44
+positive_00766_spk11.wav,output/positive_00766_spk11.wav,팔이공 일공칠 공공일일삼구 으로 입금해 주세요.,820-107-001139,account,female,spk11,account_1,positive,1,4.0
+positive_00767_spk12.wav,output/positive_00767_spk12.wav,카드번호는 칠팔일이 일이칠육 이일칠사 구칠이육입니다.,7812-1276-2174-9726,card,male,spk12,card_0,positive,1,4.16
+positive_00768_spk13.wav,output/positive_00768_spk13.wav,제 전화번호는 공일공 팔오일공 칠이구일입니다.,010-8510-7291,phone,male,spk13,phone_0,positive,1,4.4
+positive_00769_spk14.wav,output/positive_00769_spk14.wav,공일일이일일 일구공이일삼이 가 제 주민등록번호입니다.,011211-1902132,rrn,female,spk14,rrn_3,positive,1,4.4
+positive_00770_spk01.wav,output/positive_00770_spk01.wav,제 계좌번호는 팔일공 일사오 오공공구공오입니다.,810-145-500905,account,female,spk01,account_0,positive,1,4.32
+positive_00771_spk02.wav,output/positive_00771_spk02.wav,카드번호는 삼칠오일 육이칠육 일사육삼 일육칠팔입니다.,3751-6276-1463-1678,card,male,spk02,card_0,positive,1,5.2
+positive_00772_spk03.wav,output/positive_00772_spk03.wav,공일공 오일삼삼 육공이이 으로 연락 주세요.,010-5133-6022,phone,female,spk03,phone_2,positive,1,3.68
+positive_00773_spk04.wav,output/positive_00773_spk04.wav,주민번호는 일칠공칠이오 이육칠이칠사일이에요.,170725-2672741,rrn,male,spk04,rrn_1,positive,1,3.84
+positive_00774_spk05.wav,output/positive_00774_spk05.wav,제 계좌번호는 일칠공 오오삼 오구공육오삼입니다.,170-553-590653,account,female,spk05,account_0,positive,1,5.2
+positive_00775_spk06.wav,output/positive_00775_spk06.wav,제 카드번호는 구구구구 이육팔팔 칠이일공 오칠오삼이에요.,9999-2688-7210-5753,card,male,spk06,card_2,positive,1,4.88
+positive_00776_spk07.wav,output/positive_00776_spk07.wav,급하시면 공일공 삼사구공 이사팔공 으로 바로 전화 주세요.,010-3490-2480,phone,female,spk07,phone_3,positive,1,5.04
+positive_00777_spk08.wav,output/positive_00777_spk08.wav,제 주민등록번호는 칠팔일일일오 이공구공팔구팔입니다.,781115-2090898,rrn,male,spk08,rrn_0,positive,1,4.64
+positive_00778_spk09.wav,output/positive_00778_spk09.wav,환불 계좌는 이사삼 칠팔공 일이구일삼구입니다.,243-780-129139,account,female,spk09,account_3,positive,1,5.44
+positive_00779_spk10.wav,output/positive_00779_spk10.wav,카드번호는 오칠오구 칠공삼오 오일오이 이이구공입니다.,5759-7035-5152-2290,card,male,spk10,card_0,positive,1,4.56
+positive_00780_spk11.wav,output/positive_00780_spk11.wav,연락처는 공일공 사오삼칠 일삼팔공이에요.,010-4537-1380,phone,female,spk11,phone_1,positive,1,5.2
+positive_00781_spk12.wav,output/positive_00781_spk12.wav,제 주민등록번호는 칠공일공이공 삼팔일육팔공팔입니다.,701020-3816808,rrn,male,spk12,rrn_0,positive,1,4.8
+positive_00782_spk13.wav,output/positive_00782_spk13.wav,입금하실 계좌는 구육팔 팔칠칠 육구공삼팔팔이에요.,968-877-690388,account,male,spk13,account_2,positive,1,4.56
+positive_00783_spk14.wav,output/positive_00783_spk14.wav,카드번호는 삼삼육육 팔사팔이 구구사삼 팔삼사팔입니다.,3366-8482-9943-8348,card,female,spk14,card_0,positive,1,5.12
+positive_00784_spk01.wav,output/positive_00784_spk01.wav,제 전화번호는 공일공 육사일팔 사팔사이입니다.,010-6418-4842,phone,female,spk01,phone_0,positive,1,4.08
+positive_00785_spk02.wav,output/positive_00785_spk02.wav,삼공공팔일삼 일이오이칠구이 가 제 주민등록번호입니다.,300813-1252792,rrn,male,spk02,rrn_3,positive,1,4.8
+positive_00786_spk03.wav,output/positive_00786_spk03.wav,제 계좌번호는 칠오삼 육일팔 공칠사사육일입니다.,753-618-074461,account,female,spk03,account_0,positive,1,4.88
+positive_00787_spk04.wav,output/positive_00787_spk04.wav,제 카드번호는 오구일육 오일팔오 이일육이 육삼삼칠이에요.,5916-5185-2162-6337,card,male,spk04,card_2,positive,1,5.04
+positive_00788_spk05.wav,output/positive_00788_spk05.wav,문자는 공일공 육팔구오 오구팔육 으로 보내주세요.,010-6895-5986,phone,female,spk05,phone_4,positive,1,3.44
+positive_00789_spk06.wav,output/positive_00789_spk06.wav,제 주민등록번호는 팔칠공삼이오 사팔공칠칠팔팔입니다.,870325-4807788,rrn,male,spk06,rrn_0,positive,1,4.4
+positive_00790_spk07.wav,output/positive_00790_spk07.wav,제 계좌번호는 일일칠 육일일 공칠공팔일삼입니다.,117-611-070813,account,female,spk07,account_0,positive,1,4.56
+positive_00791_spk08.wav,output/positive_00791_spk08.wav,사이구오 삼오삼사 공육오이 공구구공 로 결제 부탁드립니다.,4295-3534-0652-0990,card,male,spk08,card_1,positive,1,4.8
+positive_00792_spk09.wav,output/positive_00792_spk09.wav,문자는 공일공 팔삼공공 사육구삼 으로 보내주세요.,010-8300-4693,phone,female,spk09,phone_4,positive,1,4.08
+positive_00793_spk10.wav,output/positive_00793_spk10.wav,주민번호는 구팔공칠일사 사공팔육사삼일이에요.,980714-4086431,rrn,male,spk10,rrn_1,positive,1,3.92
+positive_00794_spk11.wav,output/positive_00794_spk11.wav,제 계좌번호는 삼팔사 구오 삼이사구육공입니다.,384-95-324960,account,female,spk11,account_0,positive,1,4.08
+positive_00795_spk12.wav,output/positive_00795_spk12.wav,팔삼칠칠 삼삼이구 이오사오 팔칠팔팔 로 결제 부탁드립니다.,8377-3329-2545-8788,card,male,spk12,card_1,positive,1,4.64
+positive_00796_spk13.wav,output/positive_00796_spk13.wav,제 전화번호는 공일공 육사공일 구육공팔입니다.,010-6401-9608,phone,male,spk13,phone_0,positive,1,3.76
+positive_00797_spk14.wav,output/positive_00797_spk14.wav,주민번호는 삼구일이일사 이공육공칠일팔이에요.,391214-2060718,rrn,female,spk14,rrn_1,positive,1,4.16
+positive_00798_spk01.wav,output/positive_00798_spk01.wav,제 계좌번호는 일팔팔 구오육 사오오오팔구입니다.,188-956-455589,account,female,spk01,account_0,positive,1,4.8
+positive_00799_spk02.wav,output/positive_00799_spk02.wav,제 카드번호는 칠사이팔 구구칠오 공구공일 오공육칠이에요.,7428-9975-0901-5067,card,male,spk02,card_2,positive,1,5.28
+positive_00800_spk03.wav,output/positive_00800_spk03.wav,제 전화번호는 공일공 이팔칠칠 일구오육입니다.,010-2877-1956,phone,female,spk03,phone_0,positive,1,5.04
+positive_00801_spk04.wav,output/positive_00801_spk04.wav,구공공삼이삼 일일칠일칠구공 가 제 주민등록번호입니다.,900323-1171790,rrn,male,spk04,rrn_3,positive,1,4.88
+positive_00802_spk05.wav,output/positive_00802_spk05.wav,입금하실 계좌는 사오오 오사오 오사이삼사칠이에요.,455-545-542347,account,female,spk05,account_2,positive,1,4.24
+positive_00803_spk06.wav,output/positive_00803_spk06.wav,제 카드번호는 이칠삼오 육공구이 이공칠구 사사공삼이에요.,2735-6092-2079-4403,card,male,spk06,card_2,positive,1,5.84
+positive_00804_spk07.wav,output/positive_00804_spk07.wav,공일공 일구삼사 공사팔공 으로 연락 주세요.,010-1934-0480,phone,female,spk07,phone_2,positive,1,3.36
+positive_00805_spk08.wav,output/positive_00805_spk08.wav,제 주민등록번호는 오사공오일칠 일이칠오칠이이입니다.,540517-1275722,rrn,male,spk08,rrn_0,positive,1,5.36
+positive_00806_spk09.wav,output/positive_00806_spk09.wav,입금하실 계좌는 육공팔 사칠육 오삼오오구삼이에요.,608-476-535593,account,female,spk09,account_2,positive,1,4.56
+positive_00807_spk10.wav,output/positive_00807_spk10.wav,공구공팔 팔일팔오 구이팔칠 이칠삼사 로 결제 부탁드립니다.,0908-8185-9287-2734,card,male,spk10,card_1,positive,1,4.72
+positive_00808_spk11.wav,output/positive_00808_spk11.wav,제 전화번호는 공일공 이오칠칠 사일칠구입니다.,010-2577-4179,phone,female,spk11,phone_0,positive,1,5.12
+positive_00809_spk12.wav,output/positive_00809_spk12.wav,제 주민등록번호는 칠삼일일이사 일이삼구사구구입니다.,731124-1239499,rrn,male,spk12,rrn_0,positive,1,4.32
+positive_00810_spk13.wav,output/positive_00810_spk13.wav,제 계좌번호는 일사오 팔팔구 구공사팔사육입니다.,145-889-904846,account,male,spk13,account_0,positive,1,4.56
+positive_00811_spk14.wav,output/positive_00811_spk14.wav,사공공육 공칠오삼 칠칠이구 오구육삼 로 결제 부탁드립니다.,4006-0753-7729-5963,card,female,spk14,card_1,positive,1,4.88
+positive_00812_spk01.wav,output/positive_00812_spk01.wav,제 전화번호는 공일공 이사오팔 이구삼이입니다.,010-2458-2932,phone,female,spk01,phone_0,positive,1,4.32
+positive_00813_spk02.wav,output/positive_00813_spk02.wav,본인 확인을 위해 칠공일이이사 사이삼오사이일 불러드릴게요.,701224-4235421,rrn,male,spk02,rrn_2,positive,1,4.64
+positive_00814_spk03.wav,output/positive_00814_spk03.wav,입금하실 계좌는 삼오사 사삼육 구육공삼사삼이에요.,354-436-960343,account,female,spk03,account_2,positive,1,4.72
+positive_00815_spk04.wav,output/positive_00815_spk04.wav,카드번호는 사사사사 일이칠육 구삼육사 육일공팔입니다.,4444-1276-9364-6108,card,male,spk04,card_0,positive,1,4.24
+positive_00816_spk05.wav,output/positive_00816_spk05.wav,연락처는 공일공 팔이이오 공팔육이이에요.,010-8225-0862,phone,female,spk05,phone_1,positive,1,3.12
+positive_00817_spk06.wav,output/positive_00817_spk06.wav,이팔공구공이 사공칠이이칠사 가 제 주민등록번호입니다.,280902-4072274,rrn,male,spk06,rrn_3,positive,1,5.2
+positive_00818_spk07.wav,output/positive_00818_spk07.wav,입금하실 계좌는 구팔육 이구구 팔일일일공이이에요.,986-299-811102,account,female,spk07,account_2,positive,1,4.64
+positive_00819_spk08.wav,output/positive_00819_spk08.wav,카드번호는 오삼육이 일사일오 구공육일 칠사팔삼입니다.,5362-1415-9061-7483,card,male,spk08,card_0,positive,1,4.72
+positive_00820_spk09.wav,output/positive_00820_spk09.wav,공일공 육공사사 삼이팔칠 으로 연락 주세요.,010-6044-3287,phone,female,spk09,phone_2,positive,1,3.52
+positive_00821_spk10.wav,output/positive_00821_spk10.wav,본인 확인을 위해 칠이공오이사 이사팔육사육이 불러드릴게요.,720524-2486462,rrn,male,spk10,rrn_2,positive,1,3.84
+positive_00822_spk11.wav,output/positive_00822_spk11.wav,칠공오 오일오 팔일공일사삼 으로 입금해 주세요.,705-515-810143,account,female,spk11,account_1,positive,1,3.84
+positive_00823_spk12.wav,output/positive_00823_spk12.wav,팔구오사 사공일육 이사육육 공일공사 로 결제 부탁드립니다.,8954-4016-2466-0104,card,male,spk12,card_1,positive,1,5.12
+positive_00824_spk13.wav,output/positive_00824_spk13.wav,문자는 공일공 공삼구일 삼팔일칠 으로 보내주세요.,010-0391-3817,phone,male,spk13,phone_4,positive,1,4.16
+positive_00825_spk14.wav,output/positive_00825_spk14.wav,본인 확인을 위해 사사일일이칠 일구구칠일팔오 불러드릴게요.,441127-1997185,rrn,female,spk14,rrn_2,positive,1,5.12
+positive_00826_spk01.wav,output/positive_00826_spk01.wav,환불 계좌는 일공일 칠팔칠 육팔구이삼삼입니다.,101-787-689233,account,female,spk01,account_3,positive,1,4.64
+positive_00827_spk02.wav,output/positive_00827_spk02.wav,카드번호는 오공삼팔 일칠공삼 삼삼육일 팔육팔공입니다.,5038-1703-3361-8680,card,male,spk02,card_0,positive,1,4.88
+positive_00828_spk03.wav,output/positive_00828_spk03.wav,제 전화번호는 공일공 육팔칠팔 팔공육일입니다.,010-6878-8061,phone,female,spk03,phone_0,positive,1,4.16
+positive_00829_spk04.wav,output/positive_00829_spk04.wav,주민번호는 일팔일이공구 일공사육공삼이이에요.,181209-1046032,rrn,male,spk04,rrn_1,positive,1,3.84
+positive_00830_spk05.wav,output/positive_00830_spk05.wav,입금하실 계좌는 구육오 오사이 사삼삼일이일이에요.,965-542-433121,account,female,spk05,account_2,positive,1,4.0
+positive_00831_spk06.wav,output/positive_00831_spk06.wav,제 카드번호는 칠오일일 일삼구일 구오일오 일오육오이에요.,7511-1391-9515-1565,card,male,spk06,card_2,positive,1,6.0
+positive_00832_spk07.wav,output/positive_00832_spk07.wav,제 전화번호는 공일공 이일팔칠 육사육일입니다.,010-2187-6461,phone,female,spk07,phone_0,positive,1,3.84
+positive_00833_spk08.wav,output/positive_00833_spk08.wav,주민번호는 칠오일공공이 사육구사육이이이에요.,751002-4694622,rrn,male,spk08,rrn_1,positive,1,4.0
+positive_00834_spk09.wav,output/positive_00834_spk09.wav,입금하실 계좌는 삼사이 삼공팔 이칠삼육육팔이에요.,342-308-273668,account,female,spk09,account_2,positive,1,4.96
+positive_00835_spk10.wav,output/positive_00835_spk10.wav,육사삼팔 오삼사오 오이일일 칠사일칠 로 결제 부탁드립니다.,6438-5345-5211-7417,card,male,spk10,card_1,positive,1,5.2
+positive_00836_spk11.wav,output/positive_00836_spk11.wav,연락처는 공일공 삼팔이칠 일이이삼이에요.,010-3827-1223,phone,female,spk11,phone_1,positive,1,4.32
+positive_00837_spk12.wav,output/positive_00837_spk12.wav,주민번호는 일칠일공공사 이일일공칠구공이에요.,171004-2110790,rrn,male,spk12,rrn_1,positive,1,4.4
+positive_00838_spk13.wav,output/positive_00838_spk13.wav,환불 계좌는 오육공 사팔칠 삼이구이팔칠입니다.,560-487-329287,account,male,spk13,account_3,positive,1,3.92
+positive_00839_spk14.wav,output/positive_00839_spk14.wav,일구칠팔 팔칠팔공 오팔칠공 삼사공일 로 결제 부탁드립니다.,1978-8780-5870-3401,card,female,spk14,card_1,positive,1,5.44
+positive_00840_spk01.wav,output/positive_00840_spk01.wav,공일공 오공오일 칠오구일 으로 연락 주세요.,010-5051-7591,phone,female,spk01,phone_2,positive,1,4.0
+positive_00841_spk02.wav,output/positive_00841_spk02.wav,제 주민등록번호는 일오공이공육 삼팔육육오이구입니다.,150206-3866529,rrn,male,spk02,rrn_0,positive,1,5.28
+positive_00842_spk03.wav,output/positive_00842_spk03.wav,입금하실 계좌는 삼이공 팔육오 팔구팔일팔이이에요.,320-865-898182,account,female,spk03,account_2,positive,1,4.16
+positive_00843_spk04.wav,output/positive_00843_spk04.wav,이사삼공 일사구사 사공육육 오팔이팔 로 결제 부탁드립니다.,2430-1494-4066-5828,card,male,spk04,card_1,positive,1,5.28
+positive_00844_spk05.wav,output/positive_00844_spk05.wav,공일공 팔사일이 공팔공이 으로 연락 주세요.,010-8412-0802,phone,female,spk05,phone_2,positive,1,4.0
+positive_00845_spk06.wav,output/positive_00845_spk06.wav,삼삼공삼공일 사팔구육일일사 가 제 주민등록번호입니다.,330301-4896114,rrn,male,spk06,rrn_3,positive,1,4.8
+positive_00846_spk07.wav,output/positive_00846_spk07.wav,육육구 칠칠육 오칠육팔사삼 으로 입금해 주세요.,669-776-576843,account,female,spk07,account_1,positive,1,4.4
+positive_00847_spk08.wav,output/positive_00847_spk08.wav,카드번호는 일오오일 칠오칠공 일육육구 이이구공입니다.,1551-7570-1669-2290,card,male,spk08,card_0,positive,1,4.56
+positive_00848_spk09.wav,output/positive_00848_spk09.wav,연락처는 공일공 공일구오 일공일공이에요.,010-0195-1010,phone,female,spk09,phone_1,positive,1,3.76
+positive_00849_spk10.wav,output/positive_00849_spk10.wav,제 주민등록번호는 일육공사이칠 사삼구공삼이일입니다.,160427-4390321,rrn,male,spk10,rrn_0,positive,1,4.64
+positive_00850_spk11.wav,output/positive_00850_spk11.wav,제 계좌번호는 육구육 육일공 이칠일삼구삼입니다.,696-610-271393,account,female,spk11,account_0,positive,1,5.28
+positive_00851_spk12.wav,output/positive_00851_spk12.wav,카드번호는 공삼오칠 일공오육 삼이삼구 칠이육오입니다.,0357-1056-3239-7265,card,male,spk12,card_0,positive,1,4.56
+positive_00852_spk13.wav,output/positive_00852_spk13.wav,제 전화번호는 공일공 일오공육 오사삼이입니다.,010-1506-5432,phone,male,spk13,phone_0,positive,1,3.84
+positive_00853_spk14.wav,output/positive_00853_spk14.wav,공오공팔공이 이구육구공이이 가 제 주민등록번호입니다.,050802-2969022,rrn,female,spk14,rrn_3,positive,1,4.32
+positive_00854_spk01.wav,output/positive_00854_spk01.wav,환불 계좌는 구사일 칠오일 사일사일팔육입니다.,941-751-414186,account,female,spk01,account_3,positive,1,4.4
+positive_00855_spk02.wav,output/positive_00855_spk02.wav,공사팔삼 육이칠공 육구구공 이팔삼일 로 결제 부탁드립니다.,0483-6270-6990-2831,card,male,spk02,card_1,positive,1,5.2
+positive_00856_spk03.wav,output/positive_00856_spk03.wav,공일공 삼오일칠 삼공육육 으로 연락 주세요.,010-3517-3066,phone,female,spk03,phone_2,positive,1,4.16
+positive_00857_spk04.wav,output/positive_00857_spk04.wav,주민번호는 삼오공팔공오 일육사삼구삼칠이에요.,350805-1643937,rrn,male,spk04,rrn_1,positive,1,4.32
+positive_00858_spk05.wav,output/positive_00858_spk05.wav,환불 계좌는 칠육이 삼일이 오이삼일이오입니다.,762-312-523125,account,female,spk05,account_3,positive,1,3.52
+positive_00859_spk06.wav,output/positive_00859_spk06.wav,구공이이 칠팔사팔 공구구구 일사삼칠 로 결제 부탁드립니다.,9022-7848-0999-1437,card,male,spk06,card_1,positive,1,5.28
+positive_00860_spk07.wav,output/positive_00860_spk07.wav,급하시면 공일공 육이칠오 이이사팔 으로 바로 전화 주세요.,010-6275-2248,phone,female,spk07,phone_3,positive,1,4.56
+positive_00861_spk08.wav,output/positive_00861_spk08.wav,제 주민등록번호는 이오일일이육 이육육일삼구삼입니다.,251126-2661393,rrn,male,spk08,rrn_0,positive,1,5.2
+positive_00862_spk09.wav,output/positive_00862_spk09.wav,입금하실 계좌는 사구일 팔일공 칠사팔공이삼이에요.,491-810-748023,account,female,spk09,account_2,positive,1,4.16
+positive_00863_spk10.wav,output/positive_00863_spk10.wav,제 카드번호는 칠팔오구 팔구이일 칠구사공 오육삼육이에요.,7859-8921-7940-5636,card,male,spk10,card_2,positive,1,4.96
+positive_00864_spk11.wav,output/positive_00864_spk11.wav,급하시면 공일공 팔이삼일 오이육구 으로 바로 전화 주세요.,010-8231-5269,phone,female,spk11,phone_3,positive,1,4.96
+positive_00865_spk12.wav,output/positive_00865_spk12.wav,주민번호는 삼사공삼공일 삼육이육일이일이에요.,340301-3626121,rrn,male,spk12,rrn_1,positive,1,3.84
+positive_00866_spk13.wav,output/positive_00866_spk13.wav,입금하실 계좌는 일삼공 구이칠 팔오공공육구이에요.,130-927-850069,account,male,spk13,account_2,positive,1,5.04
+positive_00867_spk14.wav,output/positive_00867_spk14.wav,제 카드번호는 공구오구 칠칠이팔 팔육칠사 오팔오육이에요.,0959-7728-8674-5856,card,female,spk14,card_2,positive,1,4.96
+positive_00868_spk01.wav,output/positive_00868_spk01.wav,제 전화번호는 공일공 삼팔일삼 이육일오입니다.,010-3813-2615,phone,female,spk01,phone_0,positive,1,4.16
+positive_00869_spk02.wav,output/positive_00869_spk02.wav,제 주민등록번호는 삼일일일공팔 삼오오구육일사입니다.,311108-3559614,rrn,male,spk02,rrn_0,positive,1,4.56
+positive_00870_spk03.wav,output/positive_00870_spk03.wav,환불 계좌는 팔팔이 구팔공 이삼공공육구입니다.,882-980-230069,account,female,spk03,account_3,positive,1,4.88
+positive_00871_spk04.wav,output/positive_00871_spk04.wav,제 카드번호는 오팔일삼 이팔사육 이팔팔오 삼팔칠오이에요.,5813-2846-2885-3875,card,male,spk04,card_2,positive,1,4.88
+positive_00872_spk05.wav,output/positive_00872_spk05.wav,문자는 공일공 오이일공 오팔칠팔 으로 보내주세요.,010-5210-5878,phone,female,spk05,phone_4,positive,1,3.76
+positive_00873_spk06.wav,output/positive_00873_spk06.wav,주민번호는 공삼일이이삼 삼구구삼오팔칠이에요.,031223-3993587,rrn,male,spk06,rrn_1,positive,1,3.68
+positive_00874_spk07.wav,output/positive_00874_spk07.wav,환불 계좌는 육칠육 구팔일 일구칠삼칠칠입니다.,676-981-197377,account,female,spk07,account_3,positive,1,4.88
+positive_00875_spk08.wav,output/positive_00875_spk08.wav,카드번호는 팔팔팔이 오공육삼 이팔칠육 팔공삼오입니다.,8882-5063-2876-8035,card,male,spk08,card_0,positive,1,4.56
+positive_00876_spk09.wav,output/positive_00876_spk09.wav,연락처는 공일공 일사칠팔 공구이공이에요.,010-1478-0920,phone,female,spk09,phone_1,positive,1,3.6
+positive_00877_spk10.wav,output/positive_00877_spk10.wav,본인 확인을 위해 칠칠공사공일 사공공공칠일육 불러드릴게요.,770401-4000716,rrn,male,spk10,rrn_2,positive,1,5.28
+positive_00878_spk11.wav,output/positive_00878_spk11.wav,칠이팔 이일육 팔사오육일구 으로 입금해 주세요.,728-216-845619,account,female,spk11,account_1,positive,1,4.56
+positive_00879_spk12.wav,output/positive_00879_spk12.wav,카드번호는 오오팔이 이구공칠 오삼공일 공구칠오입니다.,5582-2907-5301-0975,card,male,spk12,card_0,positive,1,4.24
+positive_00880_spk13.wav,output/positive_00880_spk13.wav,연락처는 공일공 이사이공 구육일일이에요.,010-2420-9611,phone,male,spk13,phone_1,positive,1,3.36
+positive_00881_spk14.wav,output/positive_00881_spk14.wav,본인 확인을 위해 구구공이이팔 삼공칠육공오사 불러드릴게요.,990228-3076054,rrn,female,spk14,rrn_2,positive,1,4.96
+positive_00882_spk01.wav,output/positive_00882_spk01.wav,환불 계좌는 팔이일 구칠사 육구사삼공삼입니다.,821-974-694303,account,female,spk01,account_3,positive,1,4.64
+positive_00883_spk02.wav,output/positive_00883_spk02.wav,구육공일 일육오오 오오일사 사구사사 로 결제 부탁드립니다.,9601-1655-5514-4944,card,male,spk02,card_1,positive,1,4.96
+positive_00884_spk03.wav,output/positive_00884_spk03.wav,급하시면 공일공 이이삼오 이오팔공 으로 바로 전화 주세요.,010-2235-2580,phone,female,spk03,phone_3,positive,1,4.64
+positive_00885_spk04.wav,output/positive_00885_spk04.wav,본인 확인을 위해 팔일공팔이일 삼일팔이육육사 불러드릴게요.,810821-3182664,rrn,male,spk04,rrn_2,positive,1,4.8
+positive_00886_spk05.wav,output/positive_00886_spk05.wav,삼이팔 육구일 육일칠오오팔 으로 입금해 주세요.,328-691-617558,account,female,spk05,account_1,positive,1,3.36
+positive_00887_spk06.wav,output/positive_00887_spk06.wav,카드번호는 육일구구 오공이육 사팔이오 이공팔육입니다.,6199-5026-4825-2086,card,male,spk06,card_0,positive,1,3.84
+positive_00888_spk07.wav,output/positive_00888_spk07.wav,급하시면 공일공 공공이구 구삼팔오 으로 바로 전화 주세요.,010-0029-9385,phone,female,spk07,phone_3,positive,1,5.36
+positive_00889_spk08.wav,output/positive_00889_spk08.wav,본인 확인을 위해 구팔일공공이 이육삼일육오공 불러드릴게요.,981002-2631650,rrn,male,spk08,rrn_2,positive,1,5.68
+positive_00890_spk09.wav,output/positive_00890_spk09.wav,제 계좌번호는 구이팔 육삼육 이삼일육이오입니다.,928-636-231625,account,female,spk09,account_0,positive,1,4.16
+positive_00891_spk10.wav,output/positive_00891_spk10.wav,카드번호는 팔일이구 이삼공사 오사이오 일이칠사입니다.,8129-2304-5425-1274,card,male,spk10,card_0,positive,1,4.0
+positive_00892_spk11.wav,output/positive_00892_spk11.wav,연락처는 공일공 오육팔이 오이삼사이에요.,010-5682-5234,phone,female,spk11,phone_1,positive,1,4.64
+positive_00893_spk12.wav,output/positive_00893_spk12.wav,제 주민등록번호는 팔일공이이칠 삼사육팔삼이오입니다.,810227-3468325,rrn,male,spk12,rrn_0,positive,1,4.32
+positive_00894_spk13.wav,output/positive_00894_spk13.wav,제 계좌번호는 삼칠일 이이사 이육일육육이입니다.,371-224-261662,account,male,spk13,account_0,positive,1,4.0
+positive_00895_spk14.wav,output/positive_00895_spk14.wav,카드번호는 오칠사이 사이공오 일칠칠공 공공이공입니다.,5742-4205-1770-0020,card,female,spk14,card_0,positive,1,4.88
+positive_00896_spk01.wav,output/positive_00896_spk01.wav,급하시면 공일공 육삼이삼 칠일칠구 으로 바로 전화 주세요.,010-6323-7179,phone,female,spk01,phone_3,positive,1,4.8
+positive_00897_spk02.wav,output/positive_00897_spk02.wav,이일공칠일육 사삼육팔이구이 가 제 주민등록번호입니다.,210716-4368292,rrn,male,spk02,rrn_3,positive,1,5.04
+positive_00898_spk03.wav,output/positive_00898_spk03.wav,이공삼 팔오팔 오공이칠팔공 으로 입금해 주세요.,203-858-502780,account,female,spk03,account_1,positive,1,4.56
+positive_00899_spk04.wav,output/positive_00899_spk04.wav,이육육사 칠삼구삼 일이공칠 공오사칠 로 결제 부탁드립니다.,2664-7393-1207-0547,card,male,spk04,card_1,positive,1,4.88

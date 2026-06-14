@@ -1,0 +1,451 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+negative_easy_00000_spk01.wav,output/negative_easy_00000_spk01.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk01,easy,negative_easy,0,2.96
+negative_easy_00001_spk02.wav,output/negative_easy_00001_spk02.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk02,easy,negative_easy,0,3.44
+negative_easy_00002_spk03.wav,output/negative_easy_00002_spk03.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk03,easy,negative_easy,0,3.76
+negative_easy_00003_spk04.wav,output/negative_easy_00003_spk04.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk04,easy,negative_easy,0,3.28
+negative_easy_00004_spk05.wav,output/negative_easy_00004_spk05.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00005_spk06.wav,output/negative_easy_00005_spk06.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk06,easy,negative_easy,0,4.24
+negative_easy_00006_spk07.wav,output/negative_easy_00006_spk07.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk07,easy,negative_easy,0,3.84
+negative_easy_00007_spk08.wav,output/negative_easy_00007_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,3.68
+negative_easy_00008_spk09.wav,output/negative_easy_00008_spk09.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk09,easy,negative_easy,0,3.04
+negative_easy_00009_spk10.wav,output/negative_easy_00009_spk10.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk10,easy,negative_easy,0,3.68
+negative_easy_00010_spk11.wav,output/negative_easy_00010_spk11.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk11,easy,negative_easy,0,3.76
+negative_easy_00011_spk12.wav,output/negative_easy_00011_spk12.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk12,easy,negative_easy,0,2.4
+negative_easy_00012_spk13.wav,output/negative_easy_00012_spk13.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk13,easy,negative_easy,0,3.44
+negative_easy_00013_spk14.wav,output/negative_easy_00013_spk14.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk14,easy,negative_easy,0,3.2
+negative_easy_00014_spk01.wav,output/negative_easy_00014_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00015_spk02.wav,output/negative_easy_00015_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,2.88
+negative_easy_00016_spk03.wav,output/negative_easy_00016_spk03.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk03,easy,negative_easy,0,4.08
+negative_easy_00017_spk04.wav,output/negative_easy_00017_spk04.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk04,easy,negative_easy,0,3.28
+negative_easy_00018_spk05.wav,output/negative_easy_00018_spk05.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk05,easy,negative_easy,0,3.44
+negative_easy_00019_spk06.wav,output/negative_easy_00019_spk06.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk06,easy,negative_easy,0,3.68
+negative_easy_00020_spk07.wav,output/negative_easy_00020_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.52
+negative_easy_00021_spk08.wav,output/negative_easy_00021_spk08.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk08,easy,negative_easy,0,3.04
+negative_easy_00022_spk09.wav,output/negative_easy_00022_spk09.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk09,easy,negative_easy,0,3.44
+negative_easy_00023_spk10.wav,output/negative_easy_00023_spk10.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk10,easy,negative_easy,0,3.12
+negative_easy_00024_spk11.wav,output/negative_easy_00024_spk11.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk11,easy,negative_easy,0,3.04
+negative_easy_00025_spk12.wav,output/negative_easy_00025_spk12.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk12,easy,negative_easy,0,2.64
+negative_easy_00026_spk13.wav,output/negative_easy_00026_spk13.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk13,easy,negative_easy,0,2.96
+negative_easy_00027_spk14.wav,output/negative_easy_00027_spk14.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk14,easy,negative_easy,0,2.72
+negative_easy_00028_spk01.wav,output/negative_easy_00028_spk01.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk01,easy,negative_easy,0,2.88
+negative_easy_00029_spk02.wav,output/negative_easy_00029_spk02.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk02,easy,negative_easy,0,4.4
+negative_easy_00030_spk03.wav,output/negative_easy_00030_spk03.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk03,easy,negative_easy,0,3.76
+negative_easy_00031_spk04.wav,output/negative_easy_00031_spk04.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk04,easy,negative_easy,0,3.2
+negative_easy_00032_spk05.wav,output/negative_easy_00032_spk05.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk05,easy,negative_easy,0,3.44
+negative_easy_00033_spk06.wav,output/negative_easy_00033_spk06.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk06,easy,negative_easy,0,2.88
+negative_easy_00034_spk07.wav,output/negative_easy_00034_spk07.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk07,easy,negative_easy,0,3.84
+negative_easy_00035_spk08.wav,output/negative_easy_00035_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,4.24
+negative_easy_00036_spk09.wav,output/negative_easy_00036_spk09.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk09,easy,negative_easy,0,2.88
+negative_easy_00037_spk10.wav,output/negative_easy_00037_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,3.44
+negative_easy_00038_spk11.wav,output/negative_easy_00038_spk11.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk11,easy,negative_easy,0,3.6
+negative_easy_00039_spk12.wav,output/negative_easy_00039_spk12.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk12,easy,negative_easy,0,2.88
+negative_easy_00040_spk13.wav,output/negative_easy_00040_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,2.8
+negative_easy_00041_spk14.wav,output/negative_easy_00041_spk14.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk14,easy,negative_easy,0,3.52
+negative_easy_00042_spk01.wav,output/negative_easy_00042_spk01.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk01,easy,negative_easy,0,4.0
+negative_easy_00043_spk02.wav,output/negative_easy_00043_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,3.52
+negative_easy_00044_spk03.wav,output/negative_easy_00044_spk03.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk03,easy,negative_easy,0,4.24
+negative_easy_00045_spk04.wav,output/negative_easy_00045_spk04.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk04,easy,negative_easy,0,3.6
+negative_easy_00046_spk05.wav,output/negative_easy_00046_spk05.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk05,easy,negative_easy,0,3.36
+negative_easy_00047_spk06.wav,output/negative_easy_00047_spk06.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk06,easy,negative_easy,0,2.88
+negative_easy_00048_spk07.wav,output/negative_easy_00048_spk07.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk07,easy,negative_easy,0,3.28
+negative_easy_00049_spk08.wav,output/negative_easy_00049_spk08.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk08,easy,negative_easy,0,3.84
+negative_easy_00050_spk09.wav,output/negative_easy_00050_spk09.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk09,easy,negative_easy,0,2.8
+negative_easy_00051_spk10.wav,output/negative_easy_00051_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,2.8
+negative_easy_00052_spk11.wav,output/negative_easy_00052_spk11.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk11,easy,negative_easy,0,3.68
+negative_easy_00053_spk12.wav,output/negative_easy_00053_spk12.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00054_spk13.wav,output/negative_easy_00054_spk13.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk13,easy,negative_easy,0,3.28
+negative_easy_00055_spk14.wav,output/negative_easy_00055_spk14.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk14,easy,negative_easy,0,2.88
+negative_easy_00056_spk01.wav,output/negative_easy_00056_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.68
+negative_easy_00057_spk02.wav,output/negative_easy_00057_spk02.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00058_spk03.wav,output/negative_easy_00058_spk03.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk03,easy,negative_easy,0,3.76
+negative_easy_00059_spk04.wav,output/negative_easy_00059_spk04.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk04,easy,negative_easy,0,3.68
+negative_easy_00060_spk05.wav,output/negative_easy_00060_spk05.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk05,easy,negative_easy,0,3.28
+negative_easy_00061_spk06.wav,output/negative_easy_00061_spk06.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk06,easy,negative_easy,0,3.04
+negative_easy_00062_spk07.wav,output/negative_easy_00062_spk07.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk07,easy,negative_easy,0,3.84
+negative_easy_00063_spk08.wav,output/negative_easy_00063_spk08.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk08,easy,negative_easy,0,3.44
+negative_easy_00064_spk09.wav,output/negative_easy_00064_spk09.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk09,easy,negative_easy,0,3.28
+negative_easy_00065_spk10.wav,output/negative_easy_00065_spk10.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk10,easy,negative_easy,0,4.0
+negative_easy_00066_spk11.wav,output/negative_easy_00066_spk11.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk11,easy,negative_easy,0,4.16
+negative_easy_00067_spk12.wav,output/negative_easy_00067_spk12.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk12,easy,negative_easy,0,2.8
+negative_easy_00068_spk13.wav,output/negative_easy_00068_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,3.76
+negative_easy_00069_spk14.wav,output/negative_easy_00069_spk14.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk14,easy,negative_easy,0,3.36
+negative_easy_00070_spk01.wav,output/negative_easy_00070_spk01.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk01,easy,negative_easy,0,3.52
+negative_easy_00071_spk02.wav,output/negative_easy_00071_spk02.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk02,easy,negative_easy,0,3.52
+negative_easy_00072_spk03.wav,output/negative_easy_00072_spk03.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk03,easy,negative_easy,0,2.96
+negative_easy_00073_spk04.wav,output/negative_easy_00073_spk04.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk04,easy,negative_easy,0,3.44
+negative_easy_00074_spk05.wav,output/negative_easy_00074_spk05.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk05,easy,negative_easy,0,3.6
+negative_easy_00075_spk06.wav,output/negative_easy_00075_spk06.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk06,easy,negative_easy,0,4.08
+negative_easy_00076_spk07.wav,output/negative_easy_00076_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.76
+negative_easy_00077_spk08.wav,output/negative_easy_00077_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,3.36
+negative_easy_00078_spk09.wav,output/negative_easy_00078_spk09.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk09,easy,negative_easy,0,2.72
+negative_easy_00079_spk10.wav,output/negative_easy_00079_spk10.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk10,easy,negative_easy,0,3.28
+negative_easy_00080_spk11.wav,output/negative_easy_00080_spk11.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk11,easy,negative_easy,0,3.6
+negative_easy_00081_spk12.wav,output/negative_easy_00081_spk12.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00082_spk13.wav,output/negative_easy_00082_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,3.12
+negative_easy_00083_spk14.wav,output/negative_easy_00083_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.92
+negative_easy_00084_spk01.wav,output/negative_easy_00084_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00085_spk02.wav,output/negative_easy_00085_spk02.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk02,easy,negative_easy,0,3.2
+negative_easy_00086_spk03.wav,output/negative_easy_00086_spk03.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk03,easy,negative_easy,0,3.28
+negative_easy_00087_spk04.wav,output/negative_easy_00087_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,2.96
+negative_easy_00088_spk05.wav,output/negative_easy_00088_spk05.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk05,easy,negative_easy,0,2.96
+negative_easy_00089_spk06.wav,output/negative_easy_00089_spk06.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk06,easy,negative_easy,0,4.32
+negative_easy_00090_spk07.wav,output/negative_easy_00090_spk07.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk07,easy,negative_easy,0,3.12
+negative_easy_00091_spk08.wav,output/negative_easy_00091_spk08.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk08,easy,negative_easy,0,2.96
+negative_easy_00092_spk09.wav,output/negative_easy_00092_spk09.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00093_spk10.wav,output/negative_easy_00093_spk10.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk10,easy,negative_easy,0,3.44
+negative_easy_00094_spk11.wav,output/negative_easy_00094_spk11.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk11,easy,negative_easy,0,3.92
+negative_easy_00095_spk12.wav,output/negative_easy_00095_spk12.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk12,easy,negative_easy,0,3.52
+negative_easy_00096_spk13.wav,output/negative_easy_00096_spk13.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk13,easy,negative_easy,0,3.44
+negative_easy_00097_spk14.wav,output/negative_easy_00097_spk14.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk14,easy,negative_easy,0,3.28
+negative_easy_00098_spk01.wav,output/negative_easy_00098_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00099_spk02.wav,output/negative_easy_00099_spk02.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk02,easy,negative_easy,0,3.6
+negative_easy_00100_spk03.wav,output/negative_easy_00100_spk03.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk03,easy,negative_easy,0,4.48
+negative_easy_00101_spk04.wav,output/negative_easy_00101_spk04.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk04,easy,negative_easy,0,3.52
+negative_easy_00102_spk05.wav,output/negative_easy_00102_spk05.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00103_spk06.wav,output/negative_easy_00103_spk06.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk06,easy,negative_easy,0,3.92
+negative_easy_00104_spk07.wav,output/negative_easy_00104_spk07.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk07,easy,negative_easy,0,3.36
+negative_easy_00105_spk08.wav,output/negative_easy_00105_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,2.88
+negative_easy_00106_spk09.wav,output/negative_easy_00106_spk09.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk09,easy,negative_easy,0,2.72
+negative_easy_00107_spk10.wav,output/negative_easy_00107_spk10.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk10,easy,negative_easy,0,2.96
+negative_easy_00108_spk11.wav,output/negative_easy_00108_spk11.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk11,easy,negative_easy,0,3.68
+negative_easy_00109_spk12.wav,output/negative_easy_00109_spk12.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00110_spk13.wav,output/negative_easy_00110_spk13.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk13,easy,negative_easy,0,2.72
+negative_easy_00111_spk14.wav,output/negative_easy_00111_spk14.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk14,easy,negative_easy,0,3.68
+negative_easy_00112_spk01.wav,output/negative_easy_00112_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.68
+negative_easy_00113_spk02.wav,output/negative_easy_00113_spk02.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00114_spk03.wav,output/negative_easy_00114_spk03.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk03,easy,negative_easy,0,4.0
+negative_easy_00115_spk04.wav,output/negative_easy_00115_spk04.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk04,easy,negative_easy,0,3.04
+negative_easy_00116_spk05.wav,output/negative_easy_00116_spk05.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk05,easy,negative_easy,0,3.04
+negative_easy_00117_spk06.wav,output/negative_easy_00117_spk06.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk06,easy,negative_easy,0,3.28
+negative_easy_00118_spk07.wav,output/negative_easy_00118_spk07.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk07,easy,negative_easy,0,3.28
+negative_easy_00119_spk08.wav,output/negative_easy_00119_spk08.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk08,easy,negative_easy,0,3.44
+negative_easy_00120_spk09.wav,output/negative_easy_00120_spk09.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk09,easy,negative_easy,0,2.56
+negative_easy_00121_spk10.wav,output/negative_easy_00121_spk10.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk10,easy,negative_easy,0,2.96
+negative_easy_00122_spk11.wav,output/negative_easy_00122_spk11.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk11,easy,negative_easy,0,3.12
+negative_easy_00123_spk12.wav,output/negative_easy_00123_spk12.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk12,easy,negative_easy,0,2.8
+negative_easy_00124_spk13.wav,output/negative_easy_00124_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,3.2
+negative_easy_00125_spk14.wav,output/negative_easy_00125_spk14.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk14,easy,negative_easy,0,3.36
+negative_easy_00126_spk01.wav,output/negative_easy_00126_spk01.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk01,easy,negative_easy,0,3.28
+negative_easy_00127_spk02.wav,output/negative_easy_00127_spk02.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk02,easy,negative_easy,0,3.68
+negative_easy_00128_spk03.wav,output/negative_easy_00128_spk03.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk03,easy,negative_easy,0,3.12
+negative_easy_00129_spk04.wav,output/negative_easy_00129_spk04.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk04,easy,negative_easy,0,3.6
+negative_easy_00130_spk05.wav,output/negative_easy_00130_spk05.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk05,easy,negative_easy,0,3.92
+negative_easy_00131_spk06.wav,output/negative_easy_00131_spk06.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk06,easy,negative_easy,0,3.12
+negative_easy_00132_spk07.wav,output/negative_easy_00132_spk07.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk07,easy,negative_easy,0,2.96
+negative_easy_00133_spk08.wav,output/negative_easy_00133_spk08.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk08,easy,negative_easy,0,3.44
+negative_easy_00134_spk09.wav,output/negative_easy_00134_spk09.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk09,easy,negative_easy,0,4.4
+negative_easy_00135_spk10.wav,output/negative_easy_00135_spk10.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk10,easy,negative_easy,0,2.96
+negative_easy_00136_spk11.wav,output/negative_easy_00136_spk11.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk11,easy,negative_easy,0,4.16
+negative_easy_00137_spk12.wav,output/negative_easy_00137_spk12.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk12,easy,negative_easy,0,3.04
+negative_easy_00138_spk13.wav,output/negative_easy_00138_spk13.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk13,easy,negative_easy,0,3.44
+negative_easy_00139_spk14.wav,output/negative_easy_00139_spk14.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk14,easy,negative_easy,0,3.04
+negative_easy_00140_spk01.wav,output/negative_easy_00140_spk01.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk01,easy,negative_easy,0,3.52
+negative_easy_00141_spk02.wav,output/negative_easy_00141_spk02.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00142_spk03.wav,output/negative_easy_00142_spk03.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk03,easy,negative_easy,0,3.04
+negative_easy_00143_spk04.wav,output/negative_easy_00143_spk04.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk04,easy,negative_easy,0,3.44
+negative_easy_00144_spk05.wav,output/negative_easy_00144_spk05.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk05,easy,negative_easy,0,3.92
+negative_easy_00145_spk06.wav,output/negative_easy_00145_spk06.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk06,easy,negative_easy,0,3.12
+negative_easy_00146_spk07.wav,output/negative_easy_00146_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.12
+negative_easy_00147_spk08.wav,output/negative_easy_00147_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,3.36
+negative_easy_00148_spk09.wav,output/negative_easy_00148_spk09.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk09,easy,negative_easy,0,2.64
+negative_easy_00149_spk10.wav,output/negative_easy_00149_spk10.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk10,easy,negative_easy,0,2.72
+negative_easy_00150_spk11.wav,output/negative_easy_00150_spk11.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk11,easy,negative_easy,0,3.68
+negative_easy_00151_spk12.wav,output/negative_easy_00151_spk12.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk12,easy,negative_easy,0,2.24
+negative_easy_00152_spk13.wav,output/negative_easy_00152_spk13.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk13,easy,negative_easy,0,4.4
+negative_easy_00153_spk14.wav,output/negative_easy_00153_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.28
+negative_easy_00154_spk01.wav,output/negative_easy_00154_spk01.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk01,easy,negative_easy,0,3.36
+negative_easy_00155_spk02.wav,output/negative_easy_00155_spk02.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk02,easy,negative_easy,0,4.24
+negative_easy_00156_spk03.wav,output/negative_easy_00156_spk03.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk03,easy,negative_easy,0,4.16
+negative_easy_00157_spk04.wav,output/negative_easy_00157_spk04.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk04,easy,negative_easy,0,3.52
+negative_easy_00158_spk05.wav,output/negative_easy_00158_spk05.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk05,easy,negative_easy,0,2.96
+negative_easy_00159_spk06.wav,output/negative_easy_00159_spk06.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk06,easy,negative_easy,0,3.04
+negative_easy_00160_spk07.wav,output/negative_easy_00160_spk07.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk07,easy,negative_easy,0,3.04
+negative_easy_00161_spk08.wav,output/negative_easy_00161_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,3.2
+negative_easy_00162_spk09.wav,output/negative_easy_00162_spk09.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00163_spk10.wav,output/negative_easy_00163_spk10.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk10,easy,negative_easy,0,3.28
+negative_easy_00164_spk11.wav,output/negative_easy_00164_spk11.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk11,easy,negative_easy,0,3.52
+negative_easy_00165_spk12.wav,output/negative_easy_00165_spk12.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk12,easy,negative_easy,0,3.76
+negative_easy_00166_spk13.wav,output/negative_easy_00166_spk13.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk13,easy,negative_easy,0,3.6
+negative_easy_00167_spk14.wav,output/negative_easy_00167_spk14.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk14,easy,negative_easy,0,3.52
+negative_easy_00168_spk01.wav,output/negative_easy_00168_spk01.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk01,easy,negative_easy,0,4.08
+negative_easy_00169_spk02.wav,output/negative_easy_00169_spk02.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk02,easy,negative_easy,0,4.32
+negative_easy_00170_spk03.wav,output/negative_easy_00170_spk03.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk03,easy,negative_easy,0,4.0
+negative_easy_00171_spk04.wav,output/negative_easy_00171_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,2.8
+negative_easy_00172_spk05.wav,output/negative_easy_00172_spk05.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00173_spk06.wav,output/negative_easy_00173_spk06.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk06,easy,negative_easy,0,4.32
+negative_easy_00174_spk07.wav,output/negative_easy_00174_spk07.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk07,easy,negative_easy,0,2.72
+negative_easy_00175_spk08.wav,output/negative_easy_00175_spk08.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk08,easy,negative_easy,0,3.76
+negative_easy_00176_spk09.wav,output/negative_easy_00176_spk09.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk09,easy,negative_easy,0,3.28
+negative_easy_00177_spk10.wav,output/negative_easy_00177_spk10.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk10,easy,negative_easy,0,3.04
+negative_easy_00178_spk11.wav,output/negative_easy_00178_spk11.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk11,easy,negative_easy,0,3.68
+negative_easy_00179_spk12.wav,output/negative_easy_00179_spk12.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk12,easy,negative_easy,0,3.6
+negative_easy_00180_spk13.wav,output/negative_easy_00180_spk13.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk13,easy,negative_easy,0,2.64
+negative_easy_00181_spk14.wav,output/negative_easy_00181_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.52
+negative_easy_00182_spk01.wav,output/negative_easy_00182_spk01.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk01,easy,negative_easy,0,3.04
+negative_easy_00183_spk02.wav,output/negative_easy_00183_spk02.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk02,easy,negative_easy,0,3.36
+negative_easy_00184_spk03.wav,output/negative_easy_00184_spk03.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk03,easy,negative_easy,0,3.92
+negative_easy_00185_spk04.wav,output/negative_easy_00185_spk04.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk04,easy,negative_easy,0,3.92
+negative_easy_00186_spk05.wav,output/negative_easy_00186_spk05.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk05,easy,negative_easy,0,3.2
+negative_easy_00187_spk06.wav,output/negative_easy_00187_spk06.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk06,easy,negative_easy,0,3.52
+negative_easy_00188_spk07.wav,output/negative_easy_00188_spk07.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk07,easy,negative_easy,0,3.68
+negative_easy_00189_spk08.wav,output/negative_easy_00189_spk08.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk08,easy,negative_easy,0,2.96
+negative_easy_00190_spk09.wav,output/negative_easy_00190_spk09.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00191_spk10.wav,output/negative_easy_00191_spk10.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk10,easy,negative_easy,0,3.2
+negative_easy_00192_spk11.wav,output/negative_easy_00192_spk11.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk11,easy,negative_easy,0,4.08
+negative_easy_00193_spk12.wav,output/negative_easy_00193_spk12.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk12,easy,negative_easy,0,4.0
+negative_easy_00194_spk13.wav,output/negative_easy_00194_spk13.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk13,easy,negative_easy,0,3.36
+negative_easy_00195_spk14.wav,output/negative_easy_00195_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.36
+negative_easy_00196_spk01.wav,output/negative_easy_00196_spk01.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk01,easy,negative_easy,0,3.28
+negative_easy_00197_spk02.wav,output/negative_easy_00197_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,2.88
+negative_easy_00198_spk03.wav,output/negative_easy_00198_spk03.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk03,easy,negative_easy,0,4.16
+negative_easy_00199_spk04.wav,output/negative_easy_00199_spk04.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk04,easy,negative_easy,0,3.44
+negative_easy_00200_spk05.wav,output/negative_easy_00200_spk05.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk05,easy,negative_easy,0,2.88
+negative_easy_00201_spk06.wav,output/negative_easy_00201_spk06.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk06,easy,negative_easy,0,3.52
+negative_easy_00202_spk07.wav,output/negative_easy_00202_spk07.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk07,easy,negative_easy,0,3.04
+negative_easy_00203_spk08.wav,output/negative_easy_00203_spk08.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk08,easy,negative_easy,0,3.52
+negative_easy_00204_spk09.wav,output/negative_easy_00204_spk09.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00205_spk10.wav,output/negative_easy_00205_spk10.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk10,easy,negative_easy,0,3.6
+negative_easy_00206_spk11.wav,output/negative_easy_00206_spk11.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk11,easy,negative_easy,0,3.6
+negative_easy_00207_spk12.wav,output/negative_easy_00207_spk12.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk12,easy,negative_easy,0,2.8
+negative_easy_00208_spk13.wav,output/negative_easy_00208_spk13.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk13,easy,negative_easy,0,3.2
+negative_easy_00209_spk14.wav,output/negative_easy_00209_spk14.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk14,easy,negative_easy,0,3.04
+negative_easy_00210_spk01.wav,output/negative_easy_00210_spk01.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk01,easy,negative_easy,0,3.36
+negative_easy_00211_spk02.wav,output/negative_easy_00211_spk02.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk02,easy,negative_easy,0,2.96
+negative_easy_00212_spk03.wav,output/negative_easy_00212_spk03.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk03,easy,negative_easy,0,2.96
+negative_easy_00213_spk04.wav,output/negative_easy_00213_spk04.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk04,easy,negative_easy,0,3.2
+negative_easy_00214_spk05.wav,output/negative_easy_00214_spk05.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00215_spk06.wav,output/negative_easy_00215_spk06.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk06,easy,negative_easy,0,2.16
+negative_easy_00216_spk07.wav,output/negative_easy_00216_spk07.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk07,easy,negative_easy,0,4.08
+negative_easy_00217_spk08.wav,output/negative_easy_00217_spk08.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk08,easy,negative_easy,0,3.12
+negative_easy_00218_spk09.wav,output/negative_easy_00218_spk09.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk09,easy,negative_easy,0,3.44
+negative_easy_00219_spk10.wav,output/negative_easy_00219_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,3.12
+negative_easy_00220_spk11.wav,output/negative_easy_00220_spk11.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk11,easy,negative_easy,0,4.0
+negative_easy_00221_spk12.wav,output/negative_easy_00221_spk12.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk12,easy,negative_easy,0,3.12
+negative_easy_00222_spk13.wav,output/negative_easy_00222_spk13.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk13,easy,negative_easy,0,2.96
+negative_easy_00223_spk14.wav,output/negative_easy_00223_spk14.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk14,easy,negative_easy,0,2.96
+negative_easy_00224_spk01.wav,output/negative_easy_00224_spk01.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00225_spk02.wav,output/negative_easy_00225_spk02.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk02,easy,negative_easy,0,4.4
+negative_easy_00226_spk03.wav,output/negative_easy_00226_spk03.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk03,easy,negative_easy,0,3.68
+negative_easy_00227_spk04.wav,output/negative_easy_00227_spk04.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk04,easy,negative_easy,0,3.36
+negative_easy_00228_spk05.wav,output/negative_easy_00228_spk05.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk05,easy,negative_easy,0,2.64
+negative_easy_00229_spk06.wav,output/negative_easy_00229_spk06.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk06,easy,negative_easy,0,2.8
+negative_easy_00230_spk07.wav,output/negative_easy_00230_spk07.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk07,easy,negative_easy,0,3.44
+negative_easy_00231_spk08.wav,output/negative_easy_00231_spk08.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk08,easy,negative_easy,0,3.28
+negative_easy_00232_spk09.wav,output/negative_easy_00232_spk09.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk09,easy,negative_easy,0,3.2
+negative_easy_00233_spk10.wav,output/negative_easy_00233_spk10.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk10,easy,negative_easy,0,3.28
+negative_easy_00234_spk11.wav,output/negative_easy_00234_spk11.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk11,easy,negative_easy,0,3.36
+negative_easy_00235_spk12.wav,output/negative_easy_00235_spk12.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk12,easy,negative_easy,0,2.56
+negative_easy_00236_spk13.wav,output/negative_easy_00236_spk13.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk13,easy,negative_easy,0,3.84
+negative_easy_00237_spk14.wav,output/negative_easy_00237_spk14.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk14,easy,negative_easy,0,2.72
+negative_easy_00238_spk01.wav,output/negative_easy_00238_spk01.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk01,easy,negative_easy,0,3.12
+negative_easy_00239_spk02.wav,output/negative_easy_00239_spk02.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk02,easy,negative_easy,0,3.84
+negative_easy_00240_spk03.wav,output/negative_easy_00240_spk03.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk03,easy,negative_easy,0,3.6
+negative_easy_00241_spk04.wav,output/negative_easy_00241_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,3.04
+negative_easy_00242_spk05.wav,output/negative_easy_00242_spk05.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk05,easy,negative_easy,0,2.88
+negative_easy_00243_spk06.wav,output/negative_easy_00243_spk06.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk06,easy,negative_easy,0,3.28
+negative_easy_00244_spk07.wav,output/negative_easy_00244_spk07.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk07,easy,negative_easy,0,3.2
+negative_easy_00245_spk08.wav,output/negative_easy_00245_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,3.84
+negative_easy_00246_spk09.wav,output/negative_easy_00246_spk09.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk09,easy,negative_easy,0,3.28
+negative_easy_00247_spk10.wav,output/negative_easy_00247_spk10.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk10,easy,negative_easy,0,3.04
+negative_easy_00248_spk11.wav,output/negative_easy_00248_spk11.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk11,easy,negative_easy,0,3.44
+negative_easy_00249_spk12.wav,output/negative_easy_00249_spk12.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk12,easy,negative_easy,0,2.8
+negative_easy_00250_spk13.wav,output/negative_easy_00250_spk13.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk13,easy,negative_easy,0,3.12
+negative_easy_00251_spk14.wav,output/negative_easy_00251_spk14.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk14,easy,negative_easy,0,2.56
+negative_easy_00252_spk01.wav,output/negative_easy_00252_spk01.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk01,easy,negative_easy,0,3.12
+negative_easy_00253_spk02.wav,output/negative_easy_00253_spk02.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00254_spk03.wav,output/negative_easy_00254_spk03.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk03,easy,negative_easy,0,3.2
+negative_easy_00255_spk04.wav,output/negative_easy_00255_spk04.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk04,easy,negative_easy,0,3.36
+negative_easy_00256_spk05.wav,output/negative_easy_00256_spk05.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk05,easy,negative_easy,0,3.52
+negative_easy_00257_spk06.wav,output/negative_easy_00257_spk06.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk06,easy,negative_easy,0,2.56
+negative_easy_00258_spk07.wav,output/negative_easy_00258_spk07.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk07,easy,negative_easy,0,3.68
+negative_easy_00259_spk08.wav,output/negative_easy_00259_spk08.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk08,easy,negative_easy,0,3.2
+negative_easy_00260_spk09.wav,output/negative_easy_00260_spk09.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00261_spk10.wav,output/negative_easy_00261_spk10.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk10,easy,negative_easy,0,2.96
+negative_easy_00262_spk11.wav,output/negative_easy_00262_spk11.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk11,easy,negative_easy,0,3.52
+negative_easy_00263_spk12.wav,output/negative_easy_00263_spk12.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk12,easy,negative_easy,0,2.88
+negative_easy_00264_spk13.wav,output/negative_easy_00264_spk13.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk13,easy,negative_easy,0,3.12
+negative_easy_00265_spk14.wav,output/negative_easy_00265_spk14.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk14,easy,negative_easy,0,3.6
+negative_easy_00266_spk01.wav,output/negative_easy_00266_spk01.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk01,easy,negative_easy,0,3.2
+negative_easy_00267_spk02.wav,output/negative_easy_00267_spk02.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk02,easy,negative_easy,0,3.52
+negative_easy_00268_spk03.wav,output/negative_easy_00268_spk03.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk03,easy,negative_easy,0,3.68
+negative_easy_00269_spk04.wav,output/negative_easy_00269_spk04.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk04,easy,negative_easy,0,3.52
+negative_easy_00270_spk05.wav,output/negative_easy_00270_spk05.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk05,easy,negative_easy,0,3.2
+negative_easy_00271_spk06.wav,output/negative_easy_00271_spk06.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk06,easy,negative_easy,0,3.52
+negative_easy_00272_spk07.wav,output/negative_easy_00272_spk07.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk07,easy,negative_easy,0,2.8
+negative_easy_00273_spk08.wav,output/negative_easy_00273_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,3.6
+negative_easy_00274_spk09.wav,output/negative_easy_00274_spk09.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk09,easy,negative_easy,0,3.2
+negative_easy_00275_spk10.wav,output/negative_easy_00275_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,3.52
+negative_easy_00276_spk11.wav,output/negative_easy_00276_spk11.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk11,easy,negative_easy,0,3.28
+negative_easy_00277_spk12.wav,output/negative_easy_00277_spk12.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00278_spk13.wav,output/negative_easy_00278_spk13.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk13,easy,negative_easy,0,4.16
+negative_easy_00279_spk14.wav,output/negative_easy_00279_spk14.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk14,easy,negative_easy,0,3.6
+negative_easy_00280_spk01.wav,output/negative_easy_00280_spk01.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00281_spk02.wav,output/negative_easy_00281_spk02.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk02,easy,negative_easy,0,3.04
+negative_easy_00282_spk03.wav,output/negative_easy_00282_spk03.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk03,easy,negative_easy,0,3.52
+negative_easy_00283_spk04.wav,output/negative_easy_00283_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,2.96
+negative_easy_00284_spk05.wav,output/negative_easy_00284_spk05.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk05,easy,negative_easy,0,2.96
+negative_easy_00285_spk06.wav,output/negative_easy_00285_spk06.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk06,easy,negative_easy,0,3.68
+negative_easy_00286_spk07.wav,output/negative_easy_00286_spk07.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk07,easy,negative_easy,0,3.28
+negative_easy_00287_spk08.wav,output/negative_easy_00287_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,2.88
+negative_easy_00288_spk09.wav,output/negative_easy_00288_spk09.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk09,easy,negative_easy,0,2.96
+negative_easy_00289_spk10.wav,output/negative_easy_00289_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,3.52
+negative_easy_00290_spk11.wav,output/negative_easy_00290_spk11.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk11,easy,negative_easy,0,3.76
+negative_easy_00291_spk12.wav,output/negative_easy_00291_spk12.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk12,easy,negative_easy,0,3.2
+negative_easy_00292_spk13.wav,output/negative_easy_00292_spk13.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk13,easy,negative_easy,0,2.64
+negative_easy_00293_spk14.wav,output/negative_easy_00293_spk14.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk14,easy,negative_easy,0,3.04
+negative_easy_00294_spk01.wav,output/negative_easy_00294_spk01.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk01,easy,negative_easy,0,3.84
+negative_easy_00295_spk02.wav,output/negative_easy_00295_spk02.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk02,easy,negative_easy,0,3.28
+negative_easy_00296_spk03.wav,output/negative_easy_00296_spk03.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk03,easy,negative_easy,0,3.68
+negative_easy_00297_spk04.wav,output/negative_easy_00297_spk04.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk04,easy,negative_easy,0,3.12
+negative_easy_00298_spk05.wav,output/negative_easy_00298_spk05.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk05,easy,negative_easy,0,2.88
+negative_easy_00299_spk06.wav,output/negative_easy_00299_spk06.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk06,easy,negative_easy,0,3.6
+negative_easy_00300_spk07.wav,output/negative_easy_00300_spk07.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk07,easy,negative_easy,0,3.76
+negative_easy_00301_spk08.wav,output/negative_easy_00301_spk08.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk08,easy,negative_easy,0,3.76
+negative_easy_00302_spk09.wav,output/negative_easy_00302_spk09.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk09,easy,negative_easy,0,3.2
+negative_easy_00303_spk10.wav,output/negative_easy_00303_spk10.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk10,easy,negative_easy,0,3.92
+negative_easy_00304_spk11.wav,output/negative_easy_00304_spk11.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk11,easy,negative_easy,0,4.08
+negative_easy_00305_spk12.wav,output/negative_easy_00305_spk12.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00306_spk13.wav,output/negative_easy_00306_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,2.64
+negative_easy_00307_spk14.wav,output/negative_easy_00307_spk14.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk14,easy,negative_easy,0,3.2
+negative_easy_00308_spk01.wav,output/negative_easy_00308_spk01.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk01,easy,negative_easy,0,3.68
+negative_easy_00309_spk02.wav,output/negative_easy_00309_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,3.84
+negative_easy_00310_spk03.wav,output/negative_easy_00310_spk03.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk03,easy,negative_easy,0,3.84
+negative_easy_00311_spk04.wav,output/negative_easy_00311_spk04.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk04,easy,negative_easy,0,3.12
+negative_easy_00312_spk05.wav,output/negative_easy_00312_spk05.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk05,easy,negative_easy,0,3.2
+negative_easy_00313_spk06.wav,output/negative_easy_00313_spk06.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk06,easy,negative_easy,0,3.44
+negative_easy_00314_spk07.wav,output/negative_easy_00314_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.52
+negative_easy_00315_spk08.wav,output/negative_easy_00315_spk08.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk08,easy,negative_easy,0,3.04
+negative_easy_00316_spk09.wav,output/negative_easy_00316_spk09.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00317_spk10.wav,output/negative_easy_00317_spk10.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk10,easy,negative_easy,0,3.04
+negative_easy_00318_spk11.wav,output/negative_easy_00318_spk11.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk11,easy,negative_easy,0,3.12
+negative_easy_00319_spk12.wav,output/negative_easy_00319_spk12.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00320_spk13.wav,output/negative_easy_00320_spk13.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk13,easy,negative_easy,0,3.2
+negative_easy_00321_spk14.wav,output/negative_easy_00321_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.44
+negative_easy_00322_spk01.wav,output/negative_easy_00322_spk01.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk01,easy,negative_easy,0,3.12
+negative_easy_00323_spk02.wav,output/negative_easy_00323_spk02.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00324_spk03.wav,output/negative_easy_00324_spk03.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk03,easy,negative_easy,0,4.0
+negative_easy_00325_spk04.wav,output/negative_easy_00325_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,2.96
+negative_easy_00326_spk05.wav,output/negative_easy_00326_spk05.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk05,easy,negative_easy,0,3.68
+negative_easy_00327_spk06.wav,output/negative_easy_00327_spk06.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk06,easy,negative_easy,0,4.56
+negative_easy_00328_spk07.wav,output/negative_easy_00328_spk07.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk07,easy,negative_easy,0,3.52
+negative_easy_00329_spk08.wav,output/negative_easy_00329_spk08.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk08,easy,negative_easy,0,3.92
+negative_easy_00330_spk09.wav,output/negative_easy_00330_spk09.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk09,easy,negative_easy,0,2.8
+negative_easy_00331_spk10.wav,output/negative_easy_00331_spk10.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk10,easy,negative_easy,0,2.8
+negative_easy_00332_spk11.wav,output/negative_easy_00332_spk11.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk11,easy,negative_easy,0,4.0
+negative_easy_00333_spk12.wav,output/negative_easy_00333_spk12.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk12,easy,negative_easy,0,2.32
+negative_easy_00334_spk13.wav,output/negative_easy_00334_spk13.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk13,easy,negative_easy,0,2.8
+negative_easy_00335_spk14.wav,output/negative_easy_00335_spk14.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk14,easy,negative_easy,0,3.44
+negative_easy_00336_spk01.wav,output/negative_easy_00336_spk01.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk01,easy,negative_easy,0,3.6
+negative_easy_00337_spk02.wav,output/negative_easy_00337_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,2.96
+negative_easy_00338_spk03.wav,output/negative_easy_00338_spk03.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk03,easy,negative_easy,0,3.44
+negative_easy_00339_spk04.wav,output/negative_easy_00339_spk04.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk04,easy,negative_easy,0,3.04
+negative_easy_00340_spk05.wav,output/negative_easy_00340_spk05.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk05,easy,negative_easy,0,3.84
+negative_easy_00341_spk06.wav,output/negative_easy_00341_spk06.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk06,easy,negative_easy,0,3.04
+negative_easy_00342_spk07.wav,output/negative_easy_00342_spk07.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk07,easy,negative_easy,0,2.48
+negative_easy_00343_spk08.wav,output/negative_easy_00343_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,2.96
+negative_easy_00344_spk09.wav,output/negative_easy_00344_spk09.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk09,easy,negative_easy,0,3.12
+negative_easy_00345_spk10.wav,output/negative_easy_00345_spk10.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk10,easy,negative_easy,0,3.28
+negative_easy_00346_spk11.wav,output/negative_easy_00346_spk11.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk11,easy,negative_easy,0,3.76
+negative_easy_00347_spk12.wav,output/negative_easy_00347_spk12.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk12,easy,negative_easy,0,2.88
+negative_easy_00348_spk13.wav,output/negative_easy_00348_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,3.36
+negative_easy_00349_spk14.wav,output/negative_easy_00349_spk14.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk14,easy,negative_easy,0,2.72
+negative_easy_00350_spk01.wav,output/negative_easy_00350_spk01.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk01,easy,negative_easy,0,3.36
+negative_easy_00351_spk02.wav,output/negative_easy_00351_spk02.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk02,easy,negative_easy,0,4.08
+negative_easy_00352_spk03.wav,output/negative_easy_00352_spk03.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk03,easy,negative_easy,0,3.04
+negative_easy_00353_spk04.wav,output/negative_easy_00353_spk04.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk04,easy,negative_easy,0,3.2
+negative_easy_00354_spk05.wav,output/negative_easy_00354_spk05.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00355_spk06.wav,output/negative_easy_00355_spk06.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk06,easy,negative_easy,0,3.84
+negative_easy_00356_spk07.wav,output/negative_easy_00356_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.6
+negative_easy_00357_spk08.wav,output/negative_easy_00357_spk08.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk08,easy,negative_easy,0,3.68
+negative_easy_00358_spk09.wav,output/negative_easy_00358_spk09.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk09,easy,negative_easy,0,2.88
+negative_easy_00359_spk10.wav,output/negative_easy_00359_spk10.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk10,easy,negative_easy,0,3.44
+negative_easy_00360_spk11.wav,output/negative_easy_00360_spk11.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk11,easy,negative_easy,0,2.64
+negative_easy_00361_spk12.wav,output/negative_easy_00361_spk12.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk12,easy,negative_easy,0,3.52
+negative_easy_00362_spk13.wav,output/negative_easy_00362_spk13.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk13,easy,negative_easy,0,3.36
+negative_easy_00363_spk14.wav,output/negative_easy_00363_spk14.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,female,spk14,easy,negative_easy,0,3.2
+negative_easy_00364_spk01.wav,output/negative_easy_00364_spk01.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk01,easy,negative_easy,0,3.36
+negative_easy_00365_spk02.wav,output/negative_easy_00365_spk02.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk02,easy,negative_easy,0,2.88
+negative_easy_00366_spk03.wav,output/negative_easy_00366_spk03.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk03,easy,negative_easy,0,3.44
+negative_easy_00367_spk04.wav,output/negative_easy_00367_spk04.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk04,easy,negative_easy,0,3.36
+negative_easy_00368_spk05.wav,output/negative_easy_00368_spk05.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,female,spk05,easy,negative_easy,0,2.96
+negative_easy_00369_spk06.wav,output/negative_easy_00369_spk06.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk06,easy,negative_easy,0,2.4
+negative_easy_00370_spk07.wav,output/negative_easy_00370_spk07.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk07,easy,negative_easy,0,3.2
+negative_easy_00371_spk08.wav,output/negative_easy_00371_spk08.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk08,easy,negative_easy,0,3.28
+negative_easy_00372_spk09.wav,output/negative_easy_00372_spk09.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk09,easy,negative_easy,0,2.72
+negative_easy_00373_spk10.wav,output/negative_easy_00373_spk10.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk10,easy,negative_easy,0,2.96
+negative_easy_00374_spk11.wav,output/negative_easy_00374_spk11.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk11,easy,negative_easy,0,4.16
+negative_easy_00375_spk12.wav,output/negative_easy_00375_spk12.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk12,easy,negative_easy,0,3.28
+negative_easy_00376_spk13.wav,output/negative_easy_00376_spk13.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk13,easy,negative_easy,0,4.08
+negative_easy_00377_spk14.wav,output/negative_easy_00377_spk14.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk14,easy,negative_easy,0,2.96
+negative_easy_00378_spk01.wav,output/negative_easy_00378_spk01.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk01,easy,negative_easy,0,3.36
+negative_easy_00379_spk02.wav,output/negative_easy_00379_spk02.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk02,easy,negative_easy,0,3.68
+negative_easy_00380_spk03.wav,output/negative_easy_00380_spk03.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk03,easy,negative_easy,0,4.16
+negative_easy_00381_spk04.wav,output/negative_easy_00381_spk04.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk04,easy,negative_easy,0,3.6
+negative_easy_00382_spk05.wav,output/negative_easy_00382_spk05.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,female,spk05,easy,negative_easy,0,2.88
+negative_easy_00383_spk06.wav,output/negative_easy_00383_spk06.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk06,easy,negative_easy,0,4.32
+negative_easy_00384_spk07.wav,output/negative_easy_00384_spk07.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk07,easy,negative_easy,0,3.68
+negative_easy_00385_spk08.wav,output/negative_easy_00385_spk08.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk08,easy,negative_easy,0,3.6
+negative_easy_00386_spk09.wav,output/negative_easy_00386_spk09.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk09,easy,negative_easy,0,2.56
+negative_easy_00387_spk10.wav,output/negative_easy_00387_spk10.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk10,easy,negative_easy,0,3.76
+negative_easy_00388_spk11.wav,output/negative_easy_00388_spk11.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk11,easy,negative_easy,0,3.6
+negative_easy_00389_spk12.wav,output/negative_easy_00389_spk12.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk12,easy,negative_easy,0,3.2
+negative_easy_00390_spk13.wav,output/negative_easy_00390_spk13.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk13,easy,negative_easy,0,3.2
+negative_easy_00391_spk14.wav,output/negative_easy_00391_spk14.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk14,easy,negative_easy,0,3.12
+negative_easy_00392_spk01.wav,output/negative_easy_00392_spk01.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk01,easy,negative_easy,0,3.68
+negative_easy_00393_spk02.wav,output/negative_easy_00393_spk02.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk02,easy,negative_easy,0,4.16
+negative_easy_00394_spk03.wav,output/negative_easy_00394_spk03.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk03,easy,negative_easy,0,4.24
+negative_easy_00395_spk04.wav,output/negative_easy_00395_spk04.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk04,easy,negative_easy,0,3.76
+negative_easy_00396_spk05.wav,output/negative_easy_00396_spk05.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk05,easy,negative_easy,0,3.12
+negative_easy_00397_spk06.wav,output/negative_easy_00397_spk06.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk06,easy,negative_easy,0,3.04
+negative_easy_00398_spk07.wav,output/negative_easy_00398_spk07.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk07,easy,negative_easy,0,3.28
+negative_easy_00399_spk08.wav,output/negative_easy_00399_spk08.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,male,spk08,easy,negative_easy,0,3.76
+negative_easy_00400_spk09.wav,output/negative_easy_00400_spk09.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk09,easy,negative_easy,0,3.04
+negative_easy_00401_spk10.wav,output/negative_easy_00401_spk10.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk10,easy,negative_easy,0,3.2
+negative_easy_00402_spk11.wav,output/negative_easy_00402_spk11.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk11,easy,negative_easy,0,3.44
+negative_easy_00403_spk12.wav,output/negative_easy_00403_spk12.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk12,easy,negative_easy,0,2.24
+negative_easy_00404_spk13.wav,output/negative_easy_00404_spk13.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,male,spk13,easy,negative_easy,0,3.44
+negative_easy_00405_spk14.wav,output/negative_easy_00405_spk14.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk14,easy,negative_easy,0,3.04
+negative_easy_00406_spk01.wav,output/negative_easy_00406_spk01.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk01,easy,negative_easy,0,3.44
+negative_easy_00407_spk02.wav,output/negative_easy_00407_spk02.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00408_spk03.wav,output/negative_easy_00408_spk03.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk03,easy,negative_easy,0,3.04
+negative_easy_00409_spk04.wav,output/negative_easy_00409_spk04.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk04,easy,negative_easy,0,4.08
+negative_easy_00410_spk05.wav,output/negative_easy_00410_spk05.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,female,spk05,easy,negative_easy,0,3.52
+negative_easy_00411_spk06.wav,output/negative_easy_00411_spk06.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk06,easy,negative_easy,0,3.76
+negative_easy_00412_spk07.wav,output/negative_easy_00412_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.6
+negative_easy_00413_spk08.wav,output/negative_easy_00413_spk08.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk08,easy,negative_easy,0,2.88
+negative_easy_00414_spk09.wav,output/negative_easy_00414_spk09.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk09,easy,negative_easy,0,3.28
+negative_easy_00415_spk10.wav,output/negative_easy_00415_spk10.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,male,spk10,easy,negative_easy,0,2.64
+negative_easy_00416_spk11.wav,output/negative_easy_00416_spk11.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk11,easy,negative_easy,0,4.0
+negative_easy_00417_spk12.wav,output/negative_easy_00417_spk12.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk12,easy,negative_easy,0,2.88
+negative_easy_00418_spk13.wav,output/negative_easy_00418_spk13.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk13,easy,negative_easy,0,3.28
+negative_easy_00419_spk14.wav,output/negative_easy_00419_spk14.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk14,easy,negative_easy,0,2.88
+negative_easy_00420_spk01.wav,output/negative_easy_00420_spk01.wav,커피 한잔하면서 잠깐 쉬었다 가시죠.,,,female,spk01,easy,negative_easy,0,3.12
+negative_easy_00421_spk02.wav,output/negative_easy_00421_spk02.wav,요즘 아침 저녁으로 날이 많이 쌀쌀해졌네요.,,,male,spk02,easy,negative_easy,0,3.76
+negative_easy_00422_spk03.wav,output/negative_easy_00422_spk03.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk03,easy,negative_easy,0,4.08
+negative_easy_00423_spk04.wav,output/negative_easy_00423_spk04.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk04,easy,negative_easy,0,2.96
+negative_easy_00424_spk05.wav,output/negative_easy_00424_spk05.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,female,spk05,easy,negative_easy,0,3.28
+negative_easy_00425_spk06.wav,output/negative_easy_00425_spk06.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk06,easy,negative_easy,0,3.28
+negative_easy_00426_spk07.wav,output/negative_easy_00426_spk07.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk07,easy,negative_easy,0,3.36
+negative_easy_00427_spk08.wav,output/negative_easy_00427_spk08.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk08,easy,negative_easy,0,2.96
+negative_easy_00428_spk09.wav,output/negative_easy_00428_spk09.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk09,easy,negative_easy,0,2.72
+negative_easy_00429_spk10.wav,output/negative_easy_00429_spk10.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk10,easy,negative_easy,0,3.6
+negative_easy_00430_spk11.wav,output/negative_easy_00430_spk11.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,female,spk11,easy,negative_easy,0,4.56
+negative_easy_00431_spk12.wav,output/negative_easy_00431_spk12.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk12,easy,negative_easy,0,2.72
+negative_easy_00432_spk13.wav,output/negative_easy_00432_spk13.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk13,easy,negative_easy,0,3.52
+negative_easy_00433_spk14.wav,output/negative_easy_00433_spk14.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk14,easy,negative_easy,0,3.44
+negative_easy_00434_spk01.wav,output/negative_easy_00434_spk01.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,female,spk01,easy,negative_easy,0,2.88
+negative_easy_00435_spk02.wav,output/negative_easy_00435_spk02.wav,오랜만에 친구를 만나서 즐거운 시간을 보냈어요.,,,male,spk02,easy,negative_easy,0,4.24
+negative_easy_00436_spk03.wav,output/negative_easy_00436_spk03.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk03,easy,negative_easy,0,3.36
+negative_easy_00437_spk04.wav,output/negative_easy_00437_spk04.wav,오늘 날씨가 정말 화창하고 좋습니다.,,,male,spk04,easy,negative_easy,0,3.12
+negative_easy_00438_spk05.wav,output/negative_easy_00438_spk05.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk05,easy,negative_easy,0,3.2
+negative_easy_00439_spk06.wav,output/negative_easy_00439_spk06.wav,운동을 꾸준히 하니 몸이 한결 가벼워졌어요.,,,male,spk06,easy,negative_easy,0,655.28
+negative_easy_00440_spk07.wav,output/negative_easy_00440_spk07.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk07,easy,negative_easy,0,3.04
+negative_easy_00441_spk08.wav,output/negative_easy_00441_spk08.wav,이번 프로젝트는 다음 주에 마무리될 예정입니다.,,,male,spk08,easy,negative_easy,0,3.76
+negative_easy_00442_spk09.wav,output/negative_easy_00442_spk09.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,female,spk09,easy,negative_easy,0,2.72
+negative_easy_00443_spk10.wav,output/negative_easy_00443_spk10.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,male,spk10,easy,negative_easy,0,2.88
+negative_easy_00444_spk11.wav,output/negative_easy_00444_spk11.wav,새로 산 책이 생각보다 훨씬 재미있었습니다.,,,female,spk11,easy,negative_easy,0,4.32
+negative_easy_00445_spk12.wav,output/negative_easy_00445_spk12.wav,발표 준비는 거의 다 끝나가고 있습니다.,,,male,spk12,easy,negative_easy,0,2.48
+negative_easy_00446_spk13.wav,output/negative_easy_00446_spk13.wav,다음 휴가에는 제주도로 여행을 가려고 합니다.,,,male,spk13,easy,negative_easy,0,2.96
+negative_easy_00447_spk14.wav,output/negative_easy_00447_spk14.wav,점심으로 김치찌개를 먹었는데 맛있었어요.,,,female,spk14,easy,negative_easy,0,3.68
+negative_easy_00448_spk01.wav,output/negative_easy_00448_spk01.wav,주말에 가족과 함께 공원에 다녀왔어요.,,,female,spk01,easy,negative_easy,0,3.28
+negative_easy_00449_spk02.wav,output/negative_easy_00449_spk02.wav,회의 자료는 메일로 미리 보내드리겠습니다.,,,male,spk02,easy,negative_easy,0,3.36

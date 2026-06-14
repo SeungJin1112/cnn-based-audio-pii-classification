@@ -1,0 +1,451 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+negative_hard_00000_spk01.wav,output/negative_hard_00000_spk01.wav,고객님께 안내드립니다. 오늘은 이공이이년 오월 사일입니다.,,,female,spk01,date,negative_hard,0,5.36
+negative_hard_00001_spk02.wav,output/negative_hard_00001_spk02.wav,송장번호는 일팔일오 구구칠공입니다. 감사합니다.,,,male,spk02,invoice,negative_hard,0,4.88
+negative_hard_00002_spk03.wav,output/negative_hard_00002_spk03.wav,잠시 안내드립니다. 송장번호는 공일오삼 삼육팔팔입니다.,,,female,spk03,invoice,negative_hard,0,5.68
+negative_hard_00003_spk04.wav,output/negative_hard_00003_spk04.wav,주문번호는 육구팔칠이공오공육입니다. 감사합니다.,,,male,spk04,order,negative_hard,0,4.8
+negative_hard_00004_spk05.wav,output/negative_hard_00004_spk05.wav,가격은 이삼이사원입니다.,,,female,spk05,price,negative_hard,0,2.0
+negative_hard_00005_spk06.wav,output/negative_hard_00005_spk06.wav,확인을 위해 알려드립니다. 생일은 이월 일공일이에요.,,,male,spk06,birth,negative_hard,0,4.4
+negative_hard_00006_spk07.wav,output/negative_hard_00006_spk07.wav,확인을 위해 알려드립니다. 주문번호는 팔육이오육오이칠공사칠입니다.,,,female,spk07,order,negative_hard,0,5.52
+negative_hard_00007_spk08.wav,output/negative_hard_00007_spk08.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,male,spk08,count,negative_hard,0,4.32
+negative_hard_00008_spk09.wav,output/negative_hard_00008_spk09.wav,주문번호는 오팔육구삼팔공육팔육팔입니다. 참고 부탁드립니다.,,,female,spk09,order,negative_hard,0,5.6
+negative_hard_00009_spk10.wav,output/negative_hard_00009_spk10.wav,생일은 오월 삼일이에요. 확인 부탁드립니다.,,,male,spk10,birth,negative_hard,0,3.6
+negative_hard_00010_spk11.wav,output/negative_hard_00010_spk11.wav,구구구번 버스를 타시면 됩니다. 감사합니다.,,,female,spk11,bus,negative_hard,0,4.56
+negative_hard_00011_spk12.wav,output/negative_hard_00011_spk12.wav,송장번호는 이삼삼이 공육일육입니다. 참고 부탁드립니다.,,,male,spk12,invoice,negative_hard,0,4.72
+negative_hard_00012_spk13.wav,output/negative_hard_00012_spk13.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,male,spk13,count,negative_hard,0,3.68
+negative_hard_00013_spk14.wav,output/negative_hard_00013_spk14.wav,고객님께 안내드립니다. 주문번호는 팔육팔오사팔칠공구구입니다.,,,female,spk14,order,negative_hard,0,5.84
+negative_hard_00014_spk01.wav,output/negative_hard_00014_spk01.wav,송장번호는 이구구구 일일구일입니다. 양해 부탁드립니다.,,,female,spk01,invoice,negative_hard,0,5.52
+negative_hard_00015_spk02.wav,output/negative_hard_00015_spk02.wav,제품 일련번호는 사육칠구 구칠공이 사육이구입니다. 확인 부탁드립니다.,,,male,spk02,serial,negative_hard,0,5.76
+negative_hard_00016_spk03.wav,output/negative_hard_00016_spk03.wav,제품 일련번호는 오삼공칠 사오공오 사사사칠입니다.,,,female,spk03,serial,negative_hard,0,4.72
+negative_hard_00017_spk04.wav,output/negative_hard_00017_spk04.wav,주문번호는 이사칠오사육구일삼입니다. 감사합니다.,,,male,spk04,order,negative_hard,0,4.96
+negative_hard_00018_spk05.wav,output/negative_hard_00018_spk05.wav,잠시 안내드립니다. 생일은 구월 이팔일이에요.,,,female,spk05,birth,negative_hard,0,4.24
+negative_hard_00019_spk06.wav,output/negative_hard_00019_spk06.wav,확인을 위해 알려드립니다. 주문번호는 팔육이팔구공이삼삼공입니다.,,,male,spk06,order,negative_hard,0,6.72
+negative_hard_00020_spk07.wav,output/negative_hard_00020_spk07.wav,고객님께 안내드립니다. 가격은 오칠팔육일원입니다.,,,female,spk07,price,negative_hard,0,5.04
+negative_hard_00021_spk08.wav,output/negative_hard_00021_spk08.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk08,count,negative_hard,0,4.16
+negative_hard_00022_spk09.wav,output/negative_hard_00022_spk09.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk09,count,negative_hard,0,5.44
+negative_hard_00023_spk10.wav,output/negative_hard_00023_spk10.wav,주문번호는 육팔공공칠이이구공삼사입니다. 양해 부탁드립니다.,,,male,spk10,order,negative_hard,0,5.44
+negative_hard_00024_spk11.wav,output/negative_hard_00024_spk11.wav,제품 일련번호는 육오칠사 삼칠사팔 구육구일입니다. 양해 부탁드립니다.,,,female,spk11,serial,negative_hard,0,6.24
+negative_hard_00025_spk12.wav,output/negative_hard_00025_spk12.wav,확인을 위해 알려드립니다. 오사일번 버스를 타시면 됩니다.,,,male,spk12,bus,negative_hard,0,4.88
+negative_hard_00026_spk13.wav,output/negative_hard_00026_spk13.wav,좌석은 이팔열 일팔번입니다. 양해 부탁드립니다.,,,male,spk13,seat,negative_hard,0,3.92
+negative_hard_00027_spk14.wav,output/negative_hard_00027_spk14.wav,가격은 삼공구육원입니다. 확인 부탁드립니다.,,,female,spk14,price,negative_hard,0,3.76
+negative_hard_00028_spk01.wav,output/negative_hard_00028_spk01.wav,생일은 오월 구일이에요.,,,female,spk01,birth,negative_hard,0,2.64
+negative_hard_00029_spk02.wav,output/negative_hard_00029_spk02.wav,확인을 위해 알려드립니다. 제품 일련번호는 이팔이사 일칠이사 팔이오일입니다.,,,male,spk02,serial,negative_hard,0,6.72
+negative_hard_00030_spk03.wav,output/negative_hard_00030_spk03.wav,제품 일련번호는 오오사구 사칠일칠 공구구구입니다. 확인 부탁드립니다.,,,female,spk03,serial,negative_hard,0,6.72
+negative_hard_00031_spk04.wav,output/negative_hard_00031_spk04.wav,제품 일련번호는 팔사육공 이이삼오 육구칠이입니다. 확인 부탁드립니다.,,,male,spk04,serial,negative_hard,0,7.28
+negative_hard_00032_spk05.wav,output/negative_hard_00032_spk05.wav,생일은 육월 이일일이에요.,,,female,spk05,birth,negative_hard,0,2.16
+negative_hard_00033_spk06.wav,output/negative_hard_00033_spk06.wav,잠시 안내드립니다. 좌석은 이일열 사번입니다.,,,male,spk06,seat,negative_hard,0,655.28
+negative_hard_00034_spk07.wav,output/negative_hard_00034_spk07.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk07,count,negative_hard,0,5.12
+negative_hard_00035_spk08.wav,output/negative_hard_00035_spk08.wav,확인을 위해 알려드립니다. 송장번호는 구육육육 육칠육공입니다.,,,male,spk08,invoice,negative_hard,0,5.92
+negative_hard_00036_spk09.wav,output/negative_hard_00036_spk09.wav,잠시 안내드립니다. 오늘은 이공이이년 구월 칠일입니다.,,,female,spk09,date,negative_hard,0,4.4
+negative_hard_00037_spk10.wav,output/negative_hard_00037_spk10.wav,안내 말씀드립니다. 가격은 육이일육팔원입니다.,,,male,spk10,price,negative_hard,0,4.32
+negative_hard_00038_spk11.wav,output/negative_hard_00038_spk11.wav,우편번호는 사칠팔구팔입니다. 참고 부탁드립니다.,,,female,spk11,postal,negative_hard,0,4.56
+negative_hard_00039_spk12.wav,output/negative_hard_00039_spk12.wav,고객님께 안내드립니다. 좌석은 이구열 삼이번입니다.,,,male,spk12,seat,negative_hard,0,4.0
+negative_hard_00040_spk13.wav,output/negative_hard_00040_spk13.wav,오늘은 이공이일년 사월 이사일입니다.,,,male,spk13,date,negative_hard,0,3.2
+negative_hard_00041_spk14.wav,output/negative_hard_00041_spk14.wav,가격은 일일오공원입니다. 확인 부탁드립니다.,,,female,spk14,price,negative_hard,0,3.92
+negative_hard_00042_spk01.wav,output/negative_hard_00042_spk01.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk01,count,negative_hard,0,3.04
+negative_hard_00043_spk02.wav,output/negative_hard_00043_spk02.wav,주문번호는 공사육일팔사구구이입니다. 확인 부탁드립니다.,,,male,spk02,order,negative_hard,0,5.04
+negative_hard_00044_spk03.wav,output/negative_hard_00044_spk03.wav,잠시 안내드립니다. 우편번호는 일일칠삼구입니다.,,,female,spk03,postal,negative_hard,0,4.64
+negative_hard_00045_spk04.wav,output/negative_hard_00045_spk04.wav,고객님께 안내드립니다. 좌석은 이삼열 이칠번입니다.,,,male,spk04,seat,negative_hard,0,4.48
+negative_hard_00046_spk05.wav,output/negative_hard_00046_spk05.wav,가격은 팔삼공공일원입니다.,,,female,spk05,price,negative_hard,0,2.4
+negative_hard_00047_spk06.wav,output/negative_hard_00047_spk06.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk06,count,negative_hard,0,2.72
+negative_hard_00048_spk07.wav,output/negative_hard_00048_spk07.wav,확인을 위해 알려드립니다. 이일사번 버스를 타시면 됩니다.,,,female,spk07,bus,negative_hard,0,4.64
+negative_hard_00049_spk08.wav,output/negative_hard_00049_spk08.wav,우편번호는 칠공일이공입니다.,,,male,spk08,postal,negative_hard,0,2.32
+negative_hard_00050_spk09.wav,output/negative_hard_00050_spk09.wav,안내 말씀드립니다. 좌석은 이육열 이일번입니다.,,,female,spk09,seat,negative_hard,0,4.32
+negative_hard_00051_spk10.wav,output/negative_hard_00051_spk10.wav,고객님께 안내드립니다. 오늘은 이공이육년 삼월 이이일입니다.,,,male,spk10,date,negative_hard,0,5.28
+negative_hard_00052_spk11.wav,output/negative_hard_00052_spk11.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,,female,spk11,count,negative_hard,0,4.64
+negative_hard_00053_spk12.wav,output/negative_hard_00053_spk12.wav,좌석은 육열 팔번입니다. 양해 부탁드립니다.,,,male,spk12,seat,negative_hard,0,3.6
+negative_hard_00054_spk13.wav,output/negative_hard_00054_spk13.wav,고객님께 안내드립니다. 제품 일련번호는 칠육이일 이공이일 육구칠구입니다.,,,male,spk13,serial,negative_hard,0,5.84
+negative_hard_00055_spk14.wav,output/negative_hard_00055_spk14.wav,좌석은 이공열 이번입니다.,,,female,spk14,seat,negative_hard,0,2.8
+negative_hard_00056_spk01.wav,output/negative_hard_00056_spk01.wav,잠시 안내드립니다. 송장번호는 칠칠일육 칠공일사입니다.,,,female,spk01,invoice,negative_hard,0,5.6
+negative_hard_00057_spk02.wav,output/negative_hard_00057_spk02.wav,좌석은 일칠열 삼사번입니다. 감사합니다.,,,male,spk02,seat,negative_hard,0,3.6
+negative_hard_00058_spk03.wav,output/negative_hard_00058_spk03.wav,가격은 팔육이팔구원입니다. 참고 부탁드립니다.,,,female,spk03,price,negative_hard,0,5.04
+negative_hard_00059_spk04.wav,output/negative_hard_00059_spk04.wav,잠시 안내드립니다. 팔칠이번 버스를 타시면 됩니다.,,,male,spk04,bus,negative_hard,0,4.88
+negative_hard_00060_spk05.wav,output/negative_hard_00060_spk05.wav,좌석은 구열 사번입니다. 감사합니다.,,,female,spk05,seat,negative_hard,0,3.6
+negative_hard_00061_spk06.wav,output/negative_hard_00061_spk06.wav,고객님께 안내드립니다. 제품 일련번호는 삼일칠칠 구칠일칠 칠오일칠입니다.,,,male,spk06,serial,negative_hard,0,6.24
+negative_hard_00062_spk07.wav,output/negative_hard_00062_spk07.wav,제품 일련번호는 공팔팔공 일구구사 팔팔삼칠입니다.,,,female,spk07,serial,negative_hard,0,4.4
+negative_hard_00063_spk08.wav,output/negative_hard_00063_spk08.wav,좌석은 이칠열 사번입니다. 양해 부탁드립니다.,,,male,spk08,seat,negative_hard,0,4.72
+negative_hard_00064_spk09.wav,output/negative_hard_00064_spk09.wav,팔오칠번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,female,spk09,bus,negative_hard,0,4.48
+negative_hard_00065_spk10.wav,output/negative_hard_00065_spk10.wav,오늘은 이공이이년 육월 이칠일입니다. 양해 부탁드립니다.,,,male,spk10,date,negative_hard,0,5.12
+negative_hard_00066_spk11.wav,output/negative_hard_00066_spk11.wav,주문번호는 이칠이육일사구삼삼입니다. 참고 부탁드립니다.,,,female,spk11,order,negative_hard,0,6.32
+negative_hard_00067_spk12.wav,output/negative_hard_00067_spk12.wav,생일은 사월 이삼일이에요. 확인 부탁드립니다.,,,male,spk12,birth,negative_hard,0,3.84
+negative_hard_00068_spk13.wav,output/negative_hard_00068_spk13.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk13,count,negative_hard,0,4.4
+negative_hard_00069_spk14.wav,output/negative_hard_00069_spk14.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk14,count,negative_hard,0,3.12
+negative_hard_00070_spk01.wav,output/negative_hard_00070_spk01.wav,송장번호는 칠공팔공 팔육구칠입니다.,,,female,spk01,invoice,negative_hard,0,3.76
+negative_hard_00071_spk02.wav,output/negative_hard_00071_spk02.wav,잠시 안내드립니다. 송장번호는 구이이일 육구구오입니다.,,,male,spk02,invoice,negative_hard,0,5.84
+negative_hard_00072_spk03.wav,output/negative_hard_00072_spk03.wav,우편번호는 육오사칠이입니다. 양해 부탁드립니다.,,,female,spk03,postal,negative_hard,0,4.64
+negative_hard_00073_spk04.wav,output/negative_hard_00073_spk04.wav,육팔삼번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,male,spk04,bus,negative_hard,0,4.32
+negative_hard_00074_spk05.wav,output/negative_hard_00074_spk05.wav,좌석은 삼공열 구번입니다.,,,female,spk05,seat,negative_hard,0,1.92
+negative_hard_00075_spk06.wav,output/negative_hard_00075_spk06.wav,송장번호는 팔팔오일 오팔칠구입니다. 감사합니다.,,,male,spk06,invoice,negative_hard,0,3.92
+negative_hard_00076_spk07.wav,output/negative_hard_00076_spk07.wav,잠시 안내드립니다. 오육공번 버스를 타시면 됩니다.,,,female,spk07,bus,negative_hard,0,4.0
+negative_hard_00077_spk08.wav,output/negative_hard_00077_spk08.wav,오늘은 이공이오년 일월 칠일입니다. 양해 부탁드립니다.,,,male,spk08,date,negative_hard,0,4.72
+negative_hard_00078_spk09.wav,output/negative_hard_00078_spk09.wav,우편번호는 이공사삼팔입니다. 확인 부탁드립니다.,,,female,spk09,postal,negative_hard,0,4.24
+negative_hard_00079_spk10.wav,output/negative_hard_00079_spk10.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk10,count,negative_hard,0,2.48
+negative_hard_00080_spk11.wav,output/negative_hard_00080_spk11.wav,사팔육번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,female,spk11,bus,negative_hard,0,4.8
+negative_hard_00081_spk12.wav,output/negative_hard_00081_spk12.wav,오늘은 이공이삼년 칠월 일사일입니다.,,,male,spk12,date,negative_hard,0,2.56
+negative_hard_00082_spk13.wav,output/negative_hard_00082_spk13.wav,고객님께 안내드립니다. 좌석은 일팔열 사번입니다.,,,male,spk13,seat,negative_hard,0,4.32
+negative_hard_00083_spk14.wav,output/negative_hard_00083_spk14.wav,가격은 육삼사칠원입니다. 참고 부탁드립니다.,,,female,spk14,price,negative_hard,0,4.08
+negative_hard_00084_spk01.wav,output/negative_hard_00084_spk01.wav,송장번호는 팔일육공 육사팔사입니다. 양해 부탁드립니다.,,,female,spk01,invoice,negative_hard,0,5.68
+negative_hard_00085_spk02.wav,output/negative_hard_00085_spk02.wav,오늘은 이공이이년 팔월 이삼일입니다.,,,male,spk02,date,negative_hard,0,3.68
+negative_hard_00086_spk03.wav,output/negative_hard_00086_spk03.wav,오늘은 이공이일년 육월 이공일입니다. 양해 부탁드립니다.,,,female,spk03,date,negative_hard,0,4.88
+negative_hard_00087_spk04.wav,output/negative_hard_00087_spk04.wav,생일은 일공월 일팔일이에요. 양해 부탁드립니다.,,,male,spk04,birth,negative_hard,0,4.24
+negative_hard_00088_spk05.wav,output/negative_hard_00088_spk05.wav,사이팔번 버스를 타시면 됩니다. 감사합니다.,,,female,spk05,bus,negative_hard,0,3.6
+negative_hard_00089_spk06.wav,output/negative_hard_00089_spk06.wav,구육일번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,male,spk06,bus,negative_hard,0,4.0
+negative_hard_00090_spk07.wav,output/negative_hard_00090_spk07.wav,좌석은 일이열 일구번입니다. 감사합니다.,,,female,spk07,seat,negative_hard,0,4.16
+negative_hard_00091_spk08.wav,output/negative_hard_00091_spk08.wav,일일오번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,male,spk08,bus,negative_hard,0,4.96
+negative_hard_00092_spk09.wav,output/negative_hard_00092_spk09.wav,오늘은 이공이오년 육월 일삼일입니다.,,,female,spk09,date,negative_hard,0,3.76
+negative_hard_00093_spk10.wav,output/negative_hard_00093_spk10.wav,주문번호는 사팔사공팔오팔팔칠칠입니다. 참고 부탁드립니다.,,,male,spk10,order,negative_hard,0,5.2
+negative_hard_00094_spk11.wav,output/negative_hard_00094_spk11.wav,좌석은 일칠열 육번입니다.,,,female,spk11,seat,negative_hard,0,3.84
+negative_hard_00095_spk12.wav,output/negative_hard_00095_spk12.wav,송장번호는 팔팔공일 삼삼육일입니다. 감사합니다.,,,male,spk12,invoice,negative_hard,0,4.56
+negative_hard_00096_spk13.wav,output/negative_hard_00096_spk13.wav,주문번호는 구삼사육육칠육육오입니다. 확인 부탁드립니다.,,,male,spk13,order,negative_hard,0,5.44
+negative_hard_00097_spk14.wav,output/negative_hard_00097_spk14.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk14,count,negative_hard,0,4.64
+negative_hard_00098_spk01.wav,output/negative_hard_00098_spk01.wav,잠시 안내드립니다. 주문번호는 팔일사사구일사칠육육입니다.,,,female,spk01,order,negative_hard,0,5.36
+negative_hard_00099_spk02.wav,output/negative_hard_00099_spk02.wav,사이육번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,male,spk02,bus,negative_hard,0,4.0
+negative_hard_00100_spk03.wav,output/negative_hard_00100_spk03.wav,송장번호는 사오공팔 팔이일공입니다. 확인 부탁드립니다.,,,female,spk03,invoice,negative_hard,0,5.12
+negative_hard_00101_spk04.wav,output/negative_hard_00101_spk04.wav,확인을 위해 알려드립니다. 우편번호는 삼오삼육팔입니다.,,,male,spk04,postal,negative_hard,0,5.28
+negative_hard_00102_spk05.wav,output/negative_hard_00102_spk05.wav,가격은 이구공팔원입니다. 양해 부탁드립니다.,,,female,spk05,price,negative_hard,0,4.48
+negative_hard_00103_spk06.wav,output/negative_hard_00103_spk06.wav,주문번호는 일삼구칠오오이삼일사입니다. 양해 부탁드립니다.,,,male,spk06,order,negative_hard,0,6.08
+negative_hard_00104_spk07.wav,output/negative_hard_00104_spk07.wav,잠시 안내드립니다. 생일은 팔월 일일일이에요.,,,female,spk07,birth,negative_hard,0,4.24
+negative_hard_00105_spk08.wav,output/negative_hard_00105_spk08.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk08,count,negative_hard,0,3.92
+negative_hard_00106_spk09.wav,output/negative_hard_00106_spk09.wav,고객님께 안내드립니다. 송장번호는 공오삼삼 육사오이입니다.,,,female,spk09,invoice,negative_hard,0,5.52
+negative_hard_00107_spk10.wav,output/negative_hard_00107_spk10.wav,안내 말씀드립니다. 생일은 팔월 일이일이에요.,,,male,spk10,birth,negative_hard,0,4.32
+negative_hard_00108_spk11.wav,output/negative_hard_00108_spk11.wav,송장번호는 구일사이 팔삼사일입니다. 확인 부탁드립니다.,,,female,spk11,invoice,negative_hard,0,4.64
+negative_hard_00109_spk12.wav,output/negative_hard_00109_spk12.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,,male,spk12,count,negative_hard,0,5.04
+negative_hard_00110_spk13.wav,output/negative_hard_00110_spk13.wav,오늘은 이공이사년 오월 일팔일입니다.,,,male,spk13,date,negative_hard,0,2.96
+negative_hard_00111_spk14.wav,output/negative_hard_00111_spk14.wav,팔이오번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,female,spk14,bus,negative_hard,0,4.4
+negative_hard_00112_spk01.wav,output/negative_hard_00112_spk01.wav,송장번호는 칠팔팔일 육오팔공입니다. 참고 부탁드립니다.,,,female,spk01,invoice,negative_hard,0,5.28
+negative_hard_00113_spk02.wav,output/negative_hard_00113_spk02.wav,삼칠이번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,male,spk02,bus,negative_hard,0,5.52
+negative_hard_00114_spk03.wav,output/negative_hard_00114_spk03.wav,안내 말씀드립니다. 생일은 육월 이일이에요.,,,female,spk03,birth,negative_hard,0,5.2
+negative_hard_00115_spk04.wav,output/negative_hard_00115_spk04.wav,우편번호는 오삼공삼팔입니다.,,,male,spk04,postal,negative_hard,0,3.12
+negative_hard_00116_spk05.wav,output/negative_hard_00116_spk05.wav,좌석은 일삼열 삼일번입니다.,,,female,spk05,seat,negative_hard,0,2.8
+negative_hard_00117_spk06.wav,output/negative_hard_00117_spk06.wav,오늘은 이공이공년 일일월 일일일입니다. 양해 부탁드립니다.,,,male,spk06,date,negative_hard,0,4.64
+negative_hard_00118_spk07.wav,output/negative_hard_00118_spk07.wav,안내 말씀드립니다. 우편번호는 구팔구이육입니다.,,,female,spk07,postal,negative_hard,0,4.72
+negative_hard_00119_spk08.wav,output/negative_hard_00119_spk08.wav,확인을 위해 알려드립니다. 오육삼번 버스를 타시면 됩니다.,,,male,spk08,bus,negative_hard,0,4.8
+negative_hard_00120_spk09.wav,output/negative_hard_00120_spk09.wav,생일은 팔월 이공일이에요. 감사합니다.,,,female,spk09,birth,negative_hard,0,3.52
+negative_hard_00121_spk10.wav,output/negative_hard_00121_spk10.wav,송장번호는 삼일팔사 삼이이이입니다. 확인 부탁드립니다.,,,male,spk10,invoice,negative_hard,0,4.8
+negative_hard_00122_spk11.wav,output/negative_hard_00122_spk11.wav,고객님께 안내드립니다. 가격은 칠일칠칠칠원입니다.,,,female,spk11,price,negative_hard,0,5.28
+negative_hard_00123_spk12.wav,output/negative_hard_00123_spk12.wav,안내 말씀드립니다. 오늘은 이공이일년 일월 오일입니다.,,,male,spk12,date,negative_hard,0,4.48
+negative_hard_00124_spk13.wav,output/negative_hard_00124_spk13.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk13,count,negative_hard,0,4.64
+negative_hard_00125_spk14.wav,output/negative_hard_00125_spk14.wav,칠구구번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,female,spk14,bus,negative_hard,0,4.16
+negative_hard_00126_spk01.wav,output/negative_hard_00126_spk01.wav,주문번호는 칠구칠칠이삼육구이입니다. 참고 부탁드립니다.,,,female,spk01,order,negative_hard,0,5.44
+negative_hard_00127_spk02.wav,output/negative_hard_00127_spk02.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk02,count,negative_hard,0,5.52
+negative_hard_00128_spk03.wav,output/negative_hard_00128_spk03.wav,잠시 안내드립니다. 생일은 일공월 일구일이에요.,,,female,spk03,birth,negative_hard,0,4.72
+negative_hard_00129_spk04.wav,output/negative_hard_00129_spk04.wav,주문번호는 삼팔팔육이구일이칠입니다.,,,male,spk04,order,negative_hard,0,3.36
+negative_hard_00130_spk05.wav,output/negative_hard_00130_spk05.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk05,count,negative_hard,0,4.72
+negative_hard_00131_spk06.wav,output/negative_hard_00131_spk06.wav,주문번호는 이구팔공육팔육오공팔입니다. 감사합니다.,,,male,spk06,order,negative_hard,0,4.8
+negative_hard_00132_spk07.wav,output/negative_hard_00132_spk07.wav,제품 일련번호는 오구구일 육이사칠 삼일사구입니다.,,,female,spk07,serial,negative_hard,0,4.16
+negative_hard_00133_spk08.wav,output/negative_hard_00133_spk08.wav,고객님께 안내드립니다. 제품 일련번호는 사삼공공 구팔일팔 공육삼오입니다.,,,male,spk08,serial,negative_hard,0,7.44
+negative_hard_00134_spk09.wav,output/negative_hard_00134_spk09.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,female,spk09,count,negative_hard,0,4.16
+negative_hard_00135_spk10.wav,output/negative_hard_00135_spk10.wav,고객님께 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk10,count,negative_hard,0,4.88
+negative_hard_00136_spk11.wav,output/negative_hard_00136_spk11.wav,가격은 칠이오팔팔원입니다. 양해 부탁드립니다.,,,female,spk11,price,negative_hard,0,4.48
+negative_hard_00137_spk12.wav,output/negative_hard_00137_spk12.wav,제품 일련번호는 이일삼칠 이일삼팔 육오팔구입니다. 참고 부탁드립니다.,,,male,spk12,serial,negative_hard,0,5.76
+negative_hard_00138_spk13.wav,output/negative_hard_00138_spk13.wav,제품 일련번호는 공일이칠 구육일일 사삼오일입니다. 감사합니다.,,,male,spk13,serial,negative_hard,0,5.68
+negative_hard_00139_spk14.wav,output/negative_hard_00139_spk14.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk14,count,negative_hard,0,4.24
+negative_hard_00140_spk01.wav,output/negative_hard_00140_spk01.wav,송장번호는 칠칠공삼 팔사삼공입니다. 참고 부탁드립니다.,,,female,spk01,invoice,negative_hard,0,5.52
+negative_hard_00141_spk02.wav,output/negative_hard_00141_spk02.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk02,count,negative_hard,0,4.56
+negative_hard_00142_spk03.wav,output/negative_hard_00142_spk03.wav,고객님께 안내드립니다. 오늘은 이공이일년 이월 구일입니다.,,,female,spk03,date,negative_hard,0,5.84
+negative_hard_00143_spk04.wav,output/negative_hard_00143_spk04.wav,제품 일련번호는 구삼팔공 일일팔사 팔구오오입니다.,,,male,spk04,serial,negative_hard,0,4.4
+negative_hard_00144_spk05.wav,output/negative_hard_00144_spk05.wav,고객님께 안내드립니다. 우편번호는 삼구삼칠육입니다.,,,female,spk05,postal,negative_hard,0,4.72
+negative_hard_00145_spk06.wav,output/negative_hard_00145_spk06.wav,안내 말씀드립니다. 이팔일번 버스를 타시면 됩니다.,,,male,spk06,bus,negative_hard,0,3.84
+negative_hard_00146_spk07.wav,output/negative_hard_00146_spk07.wav,고객님께 안내드립니다. 오팔구번 버스를 타시면 됩니다.,,,female,spk07,bus,negative_hard,0,4.32
+negative_hard_00147_spk08.wav,output/negative_hard_00147_spk08.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk08,count,negative_hard,0,5.04
+negative_hard_00148_spk09.wav,output/negative_hard_00148_spk09.wav,생일은 일일월 일오일이에요.,,,female,spk09,birth,negative_hard,0,2.4
+negative_hard_00149_spk10.wav,output/negative_hard_00149_spk10.wav,오늘은 이공이삼년 이월 구일입니다. 참고 부탁드립니다.,,,male,spk10,date,negative_hard,0,4.24
+negative_hard_00150_spk11.wav,output/negative_hard_00150_spk11.wav,확인을 위해 알려드립니다. 가격은 육오팔팔공원입니다.,,,female,spk11,price,negative_hard,0,5.44
+negative_hard_00151_spk12.wav,output/negative_hard_00151_spk12.wav,주문번호는 오일팔이칠오오삼구사입니다. 참고 부탁드립니다.,,,male,spk12,order,negative_hard,0,4.88
+negative_hard_00152_spk13.wav,output/negative_hard_00152_spk13.wav,확인을 위해 알려드립니다. 생일은 일이월 칠일이에요.,,,male,spk13,birth,negative_hard,0,4.8
+negative_hard_00153_spk14.wav,output/negative_hard_00153_spk14.wav,안내 말씀드립니다. 가격은 사삼구오원입니다.,,,female,spk14,price,negative_hard,0,4.16
+negative_hard_00154_spk01.wav,output/negative_hard_00154_spk01.wav,생일은 일공월 일일이에요. 확인 부탁드립니다.,,,female,spk01,birth,negative_hard,0,4.16
+negative_hard_00155_spk02.wav,output/negative_hard_00155_spk02.wav,생일은 육월 이공일이에요. 양해 부탁드립니다.,,,male,spk02,birth,negative_hard,0,4.32
+negative_hard_00156_spk03.wav,output/negative_hard_00156_spk03.wav,생일은 삼월 이오일이에요.,,,female,spk03,birth,negative_hard,0,2.08
+negative_hard_00157_spk04.wav,output/negative_hard_00157_spk04.wav,안내 말씀드립니다. 우편번호는 육삼구이공입니다.,,,male,spk04,postal,negative_hard,0,4.32
+negative_hard_00158_spk05.wav,output/negative_hard_00158_spk05.wav,고객님께 안내드립니다. 육육이번 버스를 타시면 됩니다.,,,female,spk05,bus,negative_hard,0,4.32
+negative_hard_00159_spk06.wav,output/negative_hard_00159_spk06.wav,안내 말씀드립니다. 좌석은 이삼열 일번입니다.,,,male,spk06,seat,negative_hard,0,4.0
+negative_hard_00160_spk07.wav,output/negative_hard_00160_spk07.wav,좌석은 일이열 사공번입니다.,,,female,spk07,seat,negative_hard,0,2.56
+negative_hard_00161_spk08.wav,output/negative_hard_00161_spk08.wav,고객님께 안내드립니다. 송장번호는 팔사삼사 칠구오오입니다.,,,male,spk08,invoice,negative_hard,0,5.84
+negative_hard_00162_spk09.wav,output/negative_hard_00162_spk09.wav,잠시 안내드립니다. 좌석은 일이열 이육번입니다.,,,female,spk09,seat,negative_hard,0,4.0
+negative_hard_00163_spk10.wav,output/negative_hard_00163_spk10.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,,male,spk10,count,negative_hard,0,3.84
+negative_hard_00164_spk11.wav,output/negative_hard_00164_spk11.wav,고객님께 안내드립니다. 가격은 구육삼이이원입니다.,,,female,spk11,price,negative_hard,0,5.92
+negative_hard_00165_spk12.wav,output/negative_hard_00165_spk12.wav,생일은 삼월 이팔일이에요. 양해 부탁드립니다.,,,male,spk12,birth,negative_hard,0,3.76
+negative_hard_00166_spk13.wav,output/negative_hard_00166_spk13.wav,생일은 오월 구일이에요. 감사합니다.,,,male,spk13,birth,negative_hard,0,3.84
+negative_hard_00167_spk14.wav,output/negative_hard_00167_spk14.wav,주문번호는 팔사오공육일오구삼구구입니다. 양해 부탁드립니다.,,,female,spk14,order,negative_hard,0,5.84
+negative_hard_00168_spk01.wav,output/negative_hard_00168_spk01.wav,좌석은 일일열 삼삼번입니다. 확인 부탁드립니다.,,,female,spk01,seat,negative_hard,0,5.04
+negative_hard_00169_spk02.wav,output/negative_hard_00169_spk02.wav,확인을 위해 알려드립니다. 제품 일련번호는 구사칠이 이오육구 구육일일입니다.,,,male,spk02,serial,negative_hard,0,6.32
+negative_hard_00170_spk03.wav,output/negative_hard_00170_spk03.wav,우편번호는 사구육사칠입니다. 감사합니다.,,,female,spk03,postal,negative_hard,0,3.84
+negative_hard_00171_spk04.wav,output/negative_hard_00171_spk04.wav,제품 일련번호는 이이공이 삼사일삼 이육일일입니다. 확인 부탁드립니다.,,,male,spk04,serial,negative_hard,0,6.72
+negative_hard_00172_spk05.wav,output/negative_hard_00172_spk05.wav,확인을 위해 알려드립니다. 오늘은 이공이육년 칠월 일칠일입니다.,,,female,spk05,date,negative_hard,0,5.52
+negative_hard_00173_spk06.wav,output/negative_hard_00173_spk06.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk06,count,negative_hard,0,4.0
+negative_hard_00174_spk07.wav,output/negative_hard_00174_spk07.wav,우편번호는 삼삼사칠이입니다. 확인 부탁드립니다.,,,female,spk07,postal,negative_hard,0,4.96
+negative_hard_00175_spk08.wav,output/negative_hard_00175_spk08.wav,오늘은 이공이오년 육월 이팔일입니다.,,,male,spk08,date,negative_hard,0,3.12
+negative_hard_00176_spk09.wav,output/negative_hard_00176_spk09.wav,고객님께 안내드립니다. 생일은 팔월 이팔일이에요.,,,female,spk09,birth,negative_hard,0,4.56
+negative_hard_00177_spk10.wav,output/negative_hard_00177_spk10.wav,송장번호는 팔이구구 칠구육팔입니다. 양해 부탁드립니다.,,,male,spk10,invoice,negative_hard,0,4.96
+negative_hard_00178_spk11.wav,output/negative_hard_00178_spk11.wav,확인을 위해 알려드립니다. 생일은 구월 팔일이에요.,,,female,spk11,birth,negative_hard,0,4.56
+negative_hard_00179_spk12.wav,output/negative_hard_00179_spk12.wav,고객님께 안내드립니다. 제품 일련번호는 사이사공 공팔이오 사칠팔공입니다.,,,male,spk12,serial,negative_hard,0,6.16
+negative_hard_00180_spk13.wav,output/negative_hard_00180_spk13.wav,우편번호는 공육사구삼입니다. 참고 부탁드립니다.,,,male,spk13,postal,negative_hard,0,4.96
+negative_hard_00181_spk14.wav,output/negative_hard_00181_spk14.wav,제품 일련번호는 팔육육삼 이육육삼 사일육삼입니다. 양해 부탁드립니다.,,,female,spk14,serial,negative_hard,0,5.92
+negative_hard_00182_spk01.wav,output/negative_hard_00182_spk01.wav,고객님께 안내드립니다. 우편번호는 팔사육삼일입니다.,,,female,spk01,postal,negative_hard,0,5.52
+negative_hard_00183_spk02.wav,output/negative_hard_00183_spk02.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk02,count,negative_hard,0,4.88
+negative_hard_00184_spk03.wav,output/negative_hard_00184_spk03.wav,가격은 육이공팔원입니다. 양해 부탁드립니다.,,,female,spk03,price,negative_hard,0,4.24
+negative_hard_00185_spk04.wav,output/negative_hard_00185_spk04.wav,확인을 위해 알려드립니다. 우편번호는 이칠공삼일입니다.,,,male,spk04,postal,negative_hard,0,4.56
+negative_hard_00186_spk05.wav,output/negative_hard_00186_spk05.wav,확인을 위해 알려드립니다. 제품 일련번호는 사칠오칠 공오일이 공사육일입니다.,,,female,spk05,serial,negative_hard,0,6.64
+negative_hard_00187_spk06.wav,output/negative_hard_00187_spk06.wav,제품 일련번호는 공일삼육 칠삼공삼 칠일팔삼입니다. 양해 부탁드립니다.,,,male,spk06,serial,negative_hard,0,6.48
+negative_hard_00188_spk07.wav,output/negative_hard_00188_spk07.wav,좌석은 육열 삼번입니다. 확인 부탁드립니다.,,,female,spk07,seat,negative_hard,0,4.32
+negative_hard_00189_spk08.wav,output/negative_hard_00189_spk08.wav,우편번호는 칠사삼오공입니다.,,,male,spk08,postal,negative_hard,0,3.12
+negative_hard_00190_spk09.wav,output/negative_hard_00190_spk09.wav,안내 말씀드립니다. 가격은 이육오공원입니다.,,,female,spk09,price,negative_hard,0,4.16
+negative_hard_00191_spk10.wav,output/negative_hard_00191_spk10.wav,제품 일련번호는 일구오공 공오이팔 일이칠삼입니다. 양해 부탁드립니다.,,,male,spk10,serial,negative_hard,0,5.76
+negative_hard_00192_spk11.wav,output/negative_hard_00192_spk11.wav,잠시 안내드립니다. 생일은 일이월 칠일이에요.,,,female,spk11,birth,negative_hard,0,4.72
+negative_hard_00193_spk12.wav,output/negative_hard_00193_spk12.wav,잠시 안내드립니다. 우편번호는 공칠칠팔사입니다.,,,male,spk12,postal,negative_hard,0,4.0
+negative_hard_00194_spk13.wav,output/negative_hard_00194_spk13.wav,육오칠번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,male,spk13,bus,negative_hard,0,4.08
+negative_hard_00195_spk14.wav,output/negative_hard_00195_spk14.wav,주문번호는 이칠사사팔오칠공팔육이입니다.,,,female,spk14,order,negative_hard,0,3.84
+negative_hard_00196_spk01.wav,output/negative_hard_00196_spk01.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk01,count,negative_hard,0,2.88
+negative_hard_00197_spk02.wav,output/negative_hard_00197_spk02.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk02,count,negative_hard,0,5.2
+negative_hard_00198_spk03.wav,output/negative_hard_00198_spk03.wav,가격은 구팔이구사원입니다. 확인 부탁드립니다.,,,female,spk03,price,negative_hard,0,3.76
+negative_hard_00199_spk04.wav,output/negative_hard_00199_spk04.wav,주문번호는 육칠팔구구사공오삼구일입니다. 감사합니다.,,,male,spk04,order,negative_hard,0,6.48
+negative_hard_00200_spk05.wav,output/negative_hard_00200_spk05.wav,주문번호는 일사일삼팔일일삼팔육삼입니다. 참고 부탁드립니다.,,,female,spk05,order,negative_hard,0,5.44
+negative_hard_00201_spk06.wav,output/negative_hard_00201_spk06.wav,구육일번 버스를 타시면 됩니다. 감사합니다.,,,male,spk06,bus,negative_hard,0,3.28
+negative_hard_00202_spk07.wav,output/negative_hard_00202_spk07.wav,제품 일련번호는 일이이팔 육팔오이 팔구칠오입니다.,,,female,spk07,serial,negative_hard,0,5.36
+negative_hard_00203_spk08.wav,output/negative_hard_00203_spk08.wav,확인을 위해 알려드립니다. 육오육번 버스를 타시면 됩니다.,,,male,spk08,bus,negative_hard,0,4.88
+negative_hard_00204_spk09.wav,output/negative_hard_00204_spk09.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,female,spk09,count,negative_hard,0,4.24
+negative_hard_00205_spk10.wav,output/negative_hard_00205_spk10.wav,안내 말씀드립니다. 오오칠번 버스를 타시면 됩니다.,,,male,spk10,bus,negative_hard,0,4.16
+negative_hard_00206_spk11.wav,output/negative_hard_00206_spk11.wav,우편번호는 구공팔이사입니다. 참고 부탁드립니다.,,,female,spk11,postal,negative_hard,0,4.64
+negative_hard_00207_spk12.wav,output/negative_hard_00207_spk12.wav,좌석은 일열 일팔번입니다.,,,male,spk12,seat,negative_hard,0,2.08
+negative_hard_00208_spk13.wav,output/negative_hard_00208_spk13.wav,확인을 위해 알려드립니다. 구구구번 버스를 타시면 됩니다.,,,male,spk13,bus,negative_hard,0,5.04
+negative_hard_00209_spk14.wav,output/negative_hard_00209_spk14.wav,잠시 안내드립니다. 송장번호는 이사오구 삼삼사사입니다.,,,female,spk14,invoice,negative_hard,0,4.64
+negative_hard_00210_spk01.wav,output/negative_hard_00210_spk01.wav,확인을 위해 알려드립니다. 주문번호는 오칠이칠구일구사공구육입니다.,,,female,spk01,order,negative_hard,0,6.16
+negative_hard_00211_spk02.wav,output/negative_hard_00211_spk02.wav,좌석은 이구열 이팔번입니다. 참고 부탁드립니다.,,,male,spk02,seat,negative_hard,0,5.04
+negative_hard_00212_spk03.wav,output/negative_hard_00212_spk03.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk03,count,negative_hard,0,3.04
+negative_hard_00213_spk04.wav,output/negative_hard_00213_spk04.wav,제품 일련번호는 공사팔공 오팔구이 오팔삼이입니다. 감사합니다.,,,male,spk04,serial,negative_hard,0,5.6
+negative_hard_00214_spk05.wav,output/negative_hard_00214_spk05.wav,확인을 위해 알려드립니다. 생일은 일공월 일구일이에요.,,,female,spk05,birth,negative_hard,0,5.12
+negative_hard_00215_spk06.wav,output/negative_hard_00215_spk06.wav,제품 일련번호는 이이오일 칠구공팔 육사일육입니다. 참고 부탁드립니다.,,,male,spk06,serial,negative_hard,0,6.56
+negative_hard_00216_spk07.wav,output/negative_hard_00216_spk07.wav,송장번호는 칠팔삼칠 육구삼팔입니다. 참고 부탁드립니다.,,,female,spk07,invoice,negative_hard,0,5.76
+negative_hard_00217_spk08.wav,output/negative_hard_00217_spk08.wav,확인을 위해 알려드립니다. 가격은 이육오구일원입니다.,,,male,spk08,price,negative_hard,0,4.24
+negative_hard_00218_spk09.wav,output/negative_hard_00218_spk09.wav,좌석은 칠열 이일번입니다. 양해 부탁드립니다.,,,female,spk09,seat,negative_hard,0,4.16
+negative_hard_00219_spk10.wav,output/negative_hard_00219_spk10.wav,안내 말씀드립니다. 송장번호는 오구칠구 이칠공삼입니다.,,,male,spk10,invoice,negative_hard,0,4.8
+negative_hard_00220_spk11.wav,output/negative_hard_00220_spk11.wav,주문번호는 오삼팔삼삼팔팔사팔입니다. 참고 부탁드립니다.,,,female,spk11,order,negative_hard,0,5.12
+negative_hard_00221_spk12.wav,output/negative_hard_00221_spk12.wav,안내 말씀드립니다. 오늘은 이공이삼년 일공월 이이일입니다.,,,male,spk12,date,negative_hard,0,4.4
+negative_hard_00222_spk13.wav,output/negative_hard_00222_spk13.wav,고객님께 안내드립니다. 우편번호는 삼구사공칠입니다.,,,male,spk13,postal,negative_hard,0,5.28
+negative_hard_00223_spk14.wav,output/negative_hard_00223_spk14.wav,안내 말씀드립니다. 우편번호는 오일공사육입니다.,,,female,spk14,postal,negative_hard,0,4.0
+negative_hard_00224_spk01.wav,output/negative_hard_00224_spk01.wav,고객님께 안내드립니다. 좌석은 일육열 삼구번입니다.,,,female,spk01,seat,negative_hard,0,5.28
+negative_hard_00225_spk02.wav,output/negative_hard_00225_spk02.wav,일공삼번 버스를 타시면 됩니다.,,,male,spk02,bus,negative_hard,0,3.2
+negative_hard_00226_spk03.wav,output/negative_hard_00226_spk03.wav,확인을 위해 알려드립니다. 우편번호는 오칠육이공입니다.,,,female,spk03,postal,negative_hard,0,4.56
+negative_hard_00227_spk04.wav,output/negative_hard_00227_spk04.wav,가격은 구공사육공원입니다.,,,male,spk04,price,negative_hard,0,3.04
+negative_hard_00228_spk05.wav,output/negative_hard_00228_spk05.wav,잠시 안내드립니다. 우편번호는 삼이오육이입니다.,,,female,spk05,postal,negative_hard,0,4.4
+negative_hard_00229_spk06.wav,output/negative_hard_00229_spk06.wav,제품 일련번호는 삼구이육 사구오칠 팔이삼이입니다. 참고 부탁드립니다.,,,male,spk06,serial,negative_hard,0,5.6
+negative_hard_00230_spk07.wav,output/negative_hard_00230_spk07.wav,송장번호는 사팔이육 이구이오입니다. 확인 부탁드립니다.,,,female,spk07,invoice,negative_hard,0,5.52
+negative_hard_00231_spk08.wav,output/negative_hard_00231_spk08.wav,송장번호는 오이공오 육육사칠입니다. 양해 부탁드립니다.,,,male,spk08,invoice,negative_hard,0,5.6
+negative_hard_00232_spk09.wav,output/negative_hard_00232_spk09.wav,송장번호는 삼일이이 공구구사입니다. 참고 부탁드립니다.,,,female,spk09,invoice,negative_hard,0,5.2
+negative_hard_00233_spk10.wav,output/negative_hard_00233_spk10.wav,확인을 위해 알려드립니다. 가격은 일일칠이팔원입니다.,,,male,spk10,price,negative_hard,0,4.48
+negative_hard_00234_spk11.wav,output/negative_hard_00234_spk11.wav,송장번호는 육칠칠이 이삼삼공입니다. 양해 부탁드립니다.,,,female,spk11,invoice,negative_hard,0,6.16
+negative_hard_00235_spk12.wav,output/negative_hard_00235_spk12.wav,고객님께 안내드립니다. 제품 일련번호는 삼삼삼일 이칠구칠 오칠삼육입니다.,,,male,spk12,serial,negative_hard,0,6.16
+negative_hard_00236_spk13.wav,output/negative_hard_00236_spk13.wav,좌석은 일삼열 사공번입니다.,,,male,spk13,seat,negative_hard,0,2.64
+negative_hard_00237_spk14.wav,output/negative_hard_00237_spk14.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk14,count,negative_hard,0,5.2
+negative_hard_00238_spk01.wav,output/negative_hard_00238_spk01.wav,잠시 안내드립니다. 이칠칠번 버스를 타시면 됩니다.,,,female,spk01,bus,negative_hard,0,4.8
+negative_hard_00239_spk02.wav,output/negative_hard_00239_spk02.wav,구육공번 버스를 타시면 됩니다. 확인 부탁드립니다.,,,male,spk02,bus,negative_hard,0,4.96
+negative_hard_00240_spk03.wav,output/negative_hard_00240_spk03.wav,안내 말씀드립니다. 가격은 오육사사칠원입니다.,,,female,spk03,price,negative_hard,0,5.76
+negative_hard_00241_spk04.wav,output/negative_hard_00241_spk04.wav,삼칠칠번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,male,spk04,bus,negative_hard,0,5.36
+negative_hard_00242_spk05.wav,output/negative_hard_00242_spk05.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk05,count,negative_hard,0,2.64
+negative_hard_00243_spk06.wav,output/negative_hard_00243_spk06.wav,고객님께 안내드립니다. 삼육육번 버스를 타시면 됩니다.,,,male,spk06,bus,negative_hard,0,4.0
+negative_hard_00244_spk07.wav,output/negative_hard_00244_spk07.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk07,count,negative_hard,0,2.96
+negative_hard_00245_spk08.wav,output/negative_hard_00245_spk08.wav,안내 말씀드립니다. 가격은 팔사오이원입니다.,,,male,spk08,price,negative_hard,0,4.16
+negative_hard_00246_spk09.wav,output/negative_hard_00246_spk09.wav,생일은 일일월 일이일이에요. 참고 부탁드립니다.,,,female,spk09,birth,negative_hard,0,3.28
+negative_hard_00247_spk10.wav,output/negative_hard_00247_spk10.wav,제품 일련번호는 팔육공이 오구이이 이이공육입니다. 감사합니다.,,,male,spk10,serial,negative_hard,0,5.44
+negative_hard_00248_spk11.wav,output/negative_hard_00248_spk11.wav,고객님께 안내드립니다. 우편번호는 이일이삼공입니다.,,,female,spk11,postal,negative_hard,0,4.4
+negative_hard_00249_spk12.wav,output/negative_hard_00249_spk12.wav,생일은 팔월 일팔일이에요. 감사합니다.,,,male,spk12,birth,negative_hard,0,3.36
+negative_hard_00250_spk13.wav,output/negative_hard_00250_spk13.wav,확인을 위해 알려드립니다. 가격은 사칠육칠일원입니다.,,,male,spk13,price,negative_hard,0,6.64
+negative_hard_00251_spk14.wav,output/negative_hard_00251_spk14.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,,female,spk14,count,negative_hard,0,4.72
+negative_hard_00252_spk01.wav,output/negative_hard_00252_spk01.wav,안내 말씀드립니다. 오늘은 이공이일년 삼월 이일입니다.,,,female,spk01,date,negative_hard,0,5.44
+negative_hard_00253_spk02.wav,output/negative_hard_00253_spk02.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk02,count,negative_hard,0,4.64
+negative_hard_00254_spk03.wav,output/negative_hard_00254_spk03.wav,잠시 안내드립니다. 오늘은 이공이공년 칠월 육일입니다.,,,female,spk03,date,negative_hard,0,4.64
+negative_hard_00255_spk04.wav,output/negative_hard_00255_spk04.wav,확인을 위해 알려드립니다. 생일은 일이월 일구일이에요.,,,male,spk04,birth,negative_hard,0,4.64
+negative_hard_00256_spk05.wav,output/negative_hard_00256_spk05.wav,좌석은 일이열 이오번입니다. 확인 부탁드립니다.,,,female,spk05,seat,negative_hard,0,4.08
+negative_hard_00257_spk06.wav,output/negative_hard_00257_spk06.wav,우편번호는 칠이일사오입니다. 참고 부탁드립니다.,,,male,spk06,postal,negative_hard,0,4.48
+negative_hard_00258_spk07.wav,output/negative_hard_00258_spk07.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk07,count,negative_hard,0,4.16
+negative_hard_00259_spk08.wav,output/negative_hard_00259_spk08.wav,생일은 일이월 이삼일이에요. 양해 부탁드립니다.,,,male,spk08,birth,negative_hard,0,3.92
+negative_hard_00260_spk09.wav,output/negative_hard_00260_spk09.wav,잠시 안내드립니다. 제품 일련번호는 구오사팔 구구오이 구구칠팔입니다.,,,female,spk09,serial,negative_hard,0,6.88
+negative_hard_00261_spk10.wav,output/negative_hard_00261_spk10.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk10,count,negative_hard,0,4.64
+negative_hard_00262_spk11.wav,output/negative_hard_00262_spk11.wav,잠시 안내드립니다. 오늘은 이공이공년 일월 일오일입니다.,,,female,spk11,date,negative_hard,0,6.24
+negative_hard_00263_spk12.wav,output/negative_hard_00263_spk12.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk12,count,negative_hard,0,2.48
+negative_hard_00264_spk13.wav,output/negative_hard_00264_spk13.wav,안내 말씀드립니다. 제품 일련번호는 공오오팔 삼공삼사 사일사사입니다.,,,male,spk13,serial,negative_hard,0,5.6
+negative_hard_00265_spk14.wav,output/negative_hard_00265_spk14.wav,주문번호는 오오육구구공이삼오오칠입니다.,,,female,spk14,order,negative_hard,0,4.16
+negative_hard_00266_spk01.wav,output/negative_hard_00266_spk01.wav,확인을 위해 알려드립니다. 오늘은 이공이오년 삼월 일육일입니다.,,,female,spk01,date,negative_hard,0,5.12
+negative_hard_00267_spk02.wav,output/negative_hard_00267_spk02.wav,생일은 칠월 이사일이에요. 양해 부탁드립니다.,,,male,spk02,birth,negative_hard,0,4.48
+negative_hard_00268_spk03.wav,output/negative_hard_00268_spk03.wav,확인을 위해 알려드립니다. 구공삼번 버스를 타시면 됩니다.,,,female,spk03,bus,negative_hard,0,5.52
+negative_hard_00269_spk04.wav,output/negative_hard_00269_spk04.wav,확인을 위해 알려드립니다. 주문번호는 사공오육팔이구구육입니다.,,,male,spk04,order,negative_hard,0,6.24
+negative_hard_00270_spk05.wav,output/negative_hard_00270_spk05.wav,잠시 안내드립니다. 좌석은 이삼열 삼번입니다.,,,female,spk05,seat,negative_hard,0,4.72
+negative_hard_00271_spk06.wav,output/negative_hard_00271_spk06.wav,안내 말씀드립니다. 좌석은 일오열 이공번입니다.,,,male,spk06,seat,negative_hard,0,4.16
+negative_hard_00272_spk07.wav,output/negative_hard_00272_spk07.wav,좌석은 이육열 삼번입니다. 감사합니다.,,,female,spk07,seat,negative_hard,0,3.68
+negative_hard_00273_spk08.wav,output/negative_hard_00273_spk08.wav,고객님께 안내드립니다. 일칠팔번 버스를 타시면 됩니다.,,,male,spk08,bus,negative_hard,0,4.96
+negative_hard_00274_spk09.wav,output/negative_hard_00274_spk09.wav,잠시 안내드립니다. 오오이번 버스를 타시면 됩니다.,,,female,spk09,bus,negative_hard,0,4.64
+negative_hard_00275_spk10.wav,output/negative_hard_00275_spk10.wav,안내 말씀드립니다. 가격은 일육팔일공원입니다.,,,male,spk10,price,negative_hard,0,4.24
+negative_hard_00276_spk11.wav,output/negative_hard_00276_spk11.wav,좌석은 일오열 삼번입니다. 양해 부탁드립니다.,,,female,spk11,seat,negative_hard,0,4.16
+negative_hard_00277_spk12.wav,output/negative_hard_00277_spk12.wav,오늘은 이공이사년 오월 이일일입니다.,,,male,spk12,date,negative_hard,0,3.12
+negative_hard_00278_spk13.wav,output/negative_hard_00278_spk13.wav,좌석은 칠열 일삼번입니다. 감사합니다.,,,male,spk13,seat,negative_hard,0,3.68
+negative_hard_00279_spk14.wav,output/negative_hard_00279_spk14.wav,주문번호는 이이사일공구팔팔일삼입니다. 양해 부탁드립니다.,,,female,spk14,order,negative_hard,0,5.2
+negative_hard_00280_spk01.wav,output/negative_hard_00280_spk01.wav,안내 말씀드립니다. 송장번호는 사구삼이 일사구오입니다.,,,female,spk01,invoice,negative_hard,0,5.68
+negative_hard_00281_spk02.wav,output/negative_hard_00281_spk02.wav,고객님께 안내드립니다. 생일은 일일월 이일이에요.,,,male,spk02,birth,negative_hard,0,4.88
+negative_hard_00282_spk03.wav,output/negative_hard_00282_spk03.wav,고객님께 안내드립니다. 제품 일련번호는 이구구칠 구오사오 삼팔일칠입니다.,,,female,spk03,serial,negative_hard,0,6.56
+negative_hard_00283_spk04.wav,output/negative_hard_00283_spk04.wav,주문번호는 사칠칠삼삼이구사오육입니다. 양해 부탁드립니다.,,,male,spk04,order,negative_hard,0,5.44
+negative_hard_00284_spk05.wav,output/negative_hard_00284_spk05.wav,확인을 위해 알려드립니다. 좌석은 일오열 삼이번입니다.,,,female,spk05,seat,negative_hard,0,4.4
+negative_hard_00285_spk06.wav,output/negative_hard_00285_spk06.wav,생일은 팔월 이팔일이에요. 참고 부탁드립니다.,,,male,spk06,birth,negative_hard,0,5.12
+negative_hard_00286_spk07.wav,output/negative_hard_00286_spk07.wav,이육일번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,female,spk07,bus,negative_hard,0,4.4
+negative_hard_00287_spk08.wav,output/negative_hard_00287_spk08.wav,팔육구번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,male,spk08,bus,negative_hard,0,4.48
+negative_hard_00288_spk09.wav,output/negative_hard_00288_spk09.wav,생일은 칠월 삼일이에요. 감사합니다.,,,female,spk09,birth,negative_hard,0,2.8
+negative_hard_00289_spk10.wav,output/negative_hard_00289_spk10.wav,고객님께 안내드립니다. 제품 일련번호는 구오팔삼 이일구칠 일구구칠입니다.,,,male,spk10,serial,negative_hard,0,6.72
+negative_hard_00290_spk11.wav,output/negative_hard_00290_spk11.wav,송장번호는 사육일구 일구육오입니다. 확인 부탁드립니다.,,,female,spk11,invoice,negative_hard,0,5.6
+negative_hard_00291_spk12.wav,output/negative_hard_00291_spk12.wav,고객님께 안내드립니다. 가격은 삼이이칠원입니다.,,,male,spk12,price,negative_hard,0,3.92
+negative_hard_00292_spk13.wav,output/negative_hard_00292_spk13.wav,가격은 사사구사육원입니다. 확인 부탁드립니다.,,,male,spk13,price,negative_hard,0,4.72
+negative_hard_00293_spk14.wav,output/negative_hard_00293_spk14.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,female,spk14,count,negative_hard,0,3.84
+negative_hard_00294_spk01.wav,output/negative_hard_00294_spk01.wav,안내 말씀드립니다. 송장번호는 사공오팔 공공팔오입니다.,,,female,spk01,invoice,negative_hard,0,5.52
+negative_hard_00295_spk02.wav,output/negative_hard_00295_spk02.wav,잠시 안내드립니다. 가격은 칠오육육육원입니다.,,,male,spk02,price,negative_hard,0,4.56
+negative_hard_00296_spk03.wav,output/negative_hard_00296_spk03.wav,생일은 삼월 칠일이에요. 양해 부탁드립니다.,,,female,spk03,birth,negative_hard,0,4.4
+negative_hard_00297_spk04.wav,output/negative_hard_00297_spk04.wav,제품 일련번호는 이사이이 공일공이 칠육이일입니다. 감사합니다.,,,male,spk04,serial,negative_hard,0,5.04
+negative_hard_00298_spk05.wav,output/negative_hard_00298_spk05.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,female,spk05,count,negative_hard,0,2.96
+negative_hard_00299_spk06.wav,output/negative_hard_00299_spk06.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk06,count,negative_hard,0,3.6
+negative_hard_00300_spk07.wav,output/negative_hard_00300_spk07.wav,제품 일련번호는 오삼이육 구공구칠 삼팔사육입니다.,,,female,spk07,serial,negative_hard,0,4.96
+negative_hard_00301_spk08.wav,output/negative_hard_00301_spk08.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,male,spk08,count,negative_hard,0,3.6
+negative_hard_00302_spk09.wav,output/negative_hard_00302_spk09.wav,좌석은 사열 삼팔번입니다. 참고 부탁드립니다.,,,female,spk09,seat,negative_hard,0,3.76
+negative_hard_00303_spk10.wav,output/negative_hard_00303_spk10.wav,오칠팔번 버스를 타시면 됩니다. 확인 부탁드립니다.,,,male,spk10,bus,negative_hard,0,4.08
+negative_hard_00304_spk11.wav,output/negative_hard_00304_spk11.wav,가격은 팔팔구사원입니다. 확인 부탁드립니다.,,,female,spk11,price,negative_hard,0,4.32
+negative_hard_00305_spk12.wav,output/negative_hard_00305_spk12.wav,생일은 팔월 일칠일이에요.,,,male,spk12,birth,negative_hard,0,2.4
+negative_hard_00306_spk13.wav,output/negative_hard_00306_spk13.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk13,count,negative_hard,0,5.04
+negative_hard_00307_spk14.wav,output/negative_hard_00307_spk14.wav,우편번호는 이공구사구입니다. 참고 부탁드립니다.,,,female,spk14,postal,negative_hard,0,4.24
+negative_hard_00308_spk01.wav,output/negative_hard_00308_spk01.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk01,count,negative_hard,0,4.8
+negative_hard_00309_spk02.wav,output/negative_hard_00309_spk02.wav,우편번호는 칠일이팔일입니다.,,,male,spk02,postal,negative_hard,0,2.64
+negative_hard_00310_spk03.wav,output/negative_hard_00310_spk03.wav,우편번호는 사이구사사입니다.,,,female,spk03,postal,negative_hard,0,3.28
+negative_hard_00311_spk04.wav,output/negative_hard_00311_spk04.wav,오늘은 이공이오년 이월 이공일입니다. 참고 부탁드립니다.,,,male,spk04,date,negative_hard,0,6.0
+negative_hard_00312_spk05.wav,output/negative_hard_00312_spk05.wav,생일은 육월 이육일이에요. 참고 부탁드립니다.,,,female,spk05,birth,negative_hard,0,3.84
+negative_hard_00313_spk06.wav,output/negative_hard_00313_spk06.wav,안내 말씀드립니다. 생일은 삼월 이육일이에요.,,,male,spk06,birth,negative_hard,0,4.48
+negative_hard_00314_spk07.wav,output/negative_hard_00314_spk07.wav,송장번호는 구이칠육 육삼칠이입니다. 양해 부탁드립니다.,,,female,spk07,invoice,negative_hard,0,5.52
+negative_hard_00315_spk08.wav,output/negative_hard_00315_spk08.wav,고객님께 안내드립니다. 오늘은 이공이오년 오월 이오일입니다.,,,male,spk08,date,negative_hard,0,6.0
+negative_hard_00316_spk09.wav,output/negative_hard_00316_spk09.wav,제품 일련번호는 칠사칠팔 삼육육칠 사이팔육입니다. 감사합니다.,,,female,spk09,serial,negative_hard,0,6.4
+negative_hard_00317_spk10.wav,output/negative_hard_00317_spk10.wav,고객님께 안내드립니다. 제품 일련번호는 오팔공일 팔오육구 사오사사입니다.,,,male,spk10,serial,negative_hard,0,6.0
+negative_hard_00318_spk11.wav,output/negative_hard_00318_spk11.wav,생일은 일일월 이사일이에요. 참고 부탁드립니다.,,,female,spk11,birth,negative_hard,0,4.96
+negative_hard_00319_spk12.wav,output/negative_hard_00319_spk12.wav,육이오번 버스를 타시면 됩니다. 확인 부탁드립니다.,,,male,spk12,bus,negative_hard,0,4.56
+negative_hard_00320_spk13.wav,output/negative_hard_00320_spk13.wav,잠시 안내드립니다. 오늘은 이공이삼년 이월 일칠일입니다.,,,male,spk13,date,negative_hard,0,5.28
+negative_hard_00321_spk14.wav,output/negative_hard_00321_spk14.wav,우편번호는 사삼공공구입니다. 참고 부탁드립니다.,,,female,spk14,postal,negative_hard,0,4.32
+negative_hard_00322_spk01.wav,output/negative_hard_00322_spk01.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,female,spk01,count,negative_hard,0,4.32
+negative_hard_00323_spk02.wav,output/negative_hard_00323_spk02.wav,주문번호는 이육구이일이사사칠일칠입니다.,,,male,spk02,order,negative_hard,0,3.68
+negative_hard_00324_spk03.wav,output/negative_hard_00324_spk03.wav,고객님께 안내드립니다. 우편번호는 육오사이일입니다.,,,female,spk03,postal,negative_hard,0,4.56
+negative_hard_00325_spk04.wav,output/negative_hard_00325_spk04.wav,좌석은 이열 일칠번입니다.,,,male,spk04,seat,negative_hard,0,2.56
+negative_hard_00326_spk05.wav,output/negative_hard_00326_spk05.wav,고객님께 안내드립니다. 우편번호는 이칠일칠삼입니다.,,,female,spk05,postal,negative_hard,0,5.28
+negative_hard_00327_spk06.wav,output/negative_hard_00327_spk06.wav,주문번호는 팔육삼구일칠사일공입니다. 양해 부탁드립니다.,,,male,spk06,order,negative_hard,0,4.96
+negative_hard_00328_spk07.wav,output/negative_hard_00328_spk07.wav,생일은 일월 일육일이에요. 확인 부탁드립니다.,,,female,spk07,birth,negative_hard,0,4.32
+negative_hard_00329_spk08.wav,output/negative_hard_00329_spk08.wav,고객님께 안내드립니다. 제품 일련번호는 사이오육 구공팔칠 칠육육일입니다.,,,male,spk08,serial,negative_hard,0,7.04
+negative_hard_00330_spk09.wav,output/negative_hard_00330_spk09.wav,주문번호는 팔오오사육공일오팔오일입니다. 양해 부탁드립니다.,,,female,spk09,order,negative_hard,0,5.04
+negative_hard_00331_spk10.wav,output/negative_hard_00331_spk10.wav,가격은 삼육삼사원입니다. 양해 부탁드립니다.,,,male,spk10,price,negative_hard,0,4.16
+negative_hard_00332_spk11.wav,output/negative_hard_00332_spk11.wav,안내 말씀드립니다. 생일은 이월 이일일이에요.,,,female,spk11,birth,negative_hard,0,4.48
+negative_hard_00333_spk12.wav,output/negative_hard_00333_spk12.wav,가격은 일칠육일원입니다. 감사합니다.,,,male,spk12,price,negative_hard,0,3.52
+negative_hard_00334_spk13.wav,output/negative_hard_00334_spk13.wav,안내 말씀드립니다. 팔공공번 버스를 타시면 됩니다.,,,male,spk13,bus,negative_hard,0,4.48
+negative_hard_00335_spk14.wav,output/negative_hard_00335_spk14.wav,안내 말씀드립니다. 제품 일련번호는 일삼팔칠 팔이구삼 일공이칠입니다.,,,female,spk14,serial,negative_hard,0,6.32
+negative_hard_00336_spk01.wav,output/negative_hard_00336_spk01.wav,잠시 안내드립니다. 가격은 삼이공사원입니다.,,,female,spk01,price,negative_hard,0,4.64
+negative_hard_00337_spk02.wav,output/negative_hard_00337_spk02.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,,male,spk02,count,negative_hard,0,4.32
+negative_hard_00338_spk03.wav,output/negative_hard_00338_spk03.wav,잠시 안내드립니다. 생일은 일공월 이육일이에요.,,,female,spk03,birth,negative_hard,0,4.32
+negative_hard_00339_spk04.wav,output/negative_hard_00339_spk04.wav,잠시 안내드립니다. 제품 일련번호는 오육오일 구팔이오 삼공구이입니다.,,,male,spk04,serial,negative_hard,0,6.96
+negative_hard_00340_spk05.wav,output/negative_hard_00340_spk05.wav,고객님께 안내드립니다. 제품 일련번호는 이오팔이 칠삼구공 이일구육입니다.,,,female,spk05,serial,negative_hard,0,6.56
+negative_hard_00341_spk06.wav,output/negative_hard_00341_spk06.wav,고객님께 안내드립니다. 주문번호는 공이일구사육칠이삼입니다.,,,male,spk06,order,negative_hard,0,4.96
+negative_hard_00342_spk07.wav,output/negative_hard_00342_spk07.wav,안내 말씀드립니다. 제품 일련번호는 삼이구공 구이칠구 일사오육입니다.,,,female,spk07,serial,negative_hard,0,8.16
+negative_hard_00343_spk08.wav,output/negative_hard_00343_spk08.wav,이구오번 버스를 타시면 됩니다.,,,male,spk08,bus,negative_hard,0,2.48
+negative_hard_00344_spk09.wav,output/negative_hard_00344_spk09.wav,구삼칠번 버스를 타시면 됩니다. 양해 부탁드립니다.,,,female,spk09,bus,negative_hard,0,3.84
+negative_hard_00345_spk10.wav,output/negative_hard_00345_spk10.wav,오늘은 이공이일년 이월 이육일입니다. 감사합니다.,,,male,spk10,date,negative_hard,0,4.72
+negative_hard_00346_spk11.wav,output/negative_hard_00346_spk11.wav,확인을 위해 알려드립니다. 생일은 삼월 육일이에요.,,,female,spk11,birth,negative_hard,0,4.64
+negative_hard_00347_spk12.wav,output/negative_hard_00347_spk12.wav,우편번호는 삼육사오구입니다. 확인 부탁드립니다.,,,male,spk12,postal,negative_hard,0,3.52
+negative_hard_00348_spk13.wav,output/negative_hard_00348_spk13.wav,주문번호는 구오육삼오삼일오삼일삼입니다. 감사합니다.,,,male,spk13,order,negative_hard,0,4.96
+negative_hard_00349_spk14.wav,output/negative_hard_00349_spk14.wav,가격은 이구칠공육원입니다. 감사합니다.,,,female,spk14,price,negative_hard,0,3.52
+negative_hard_00350_spk01.wav,output/negative_hard_00350_spk01.wav,안내 말씀드립니다. 송장번호는 육오이칠 삼오사삼입니다.,,,female,spk01,invoice,negative_hard,0,5.76
+negative_hard_00351_spk02.wav,output/negative_hard_00351_spk02.wav,확인을 위해 알려드립니다. 우편번호는 이일칠칠육입니다.,,,male,spk02,postal,negative_hard,0,4.4
+negative_hard_00352_spk03.wav,output/negative_hard_00352_spk03.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,,female,spk03,count,negative_hard,0,4.48
+negative_hard_00353_spk04.wav,output/negative_hard_00353_spk04.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk04,count,negative_hard,0,2.96
+negative_hard_00354_spk05.wav,output/negative_hard_00354_spk05.wav,안내 말씀드립니다. 가격은 이팔칠삼구원입니다.,,,female,spk05,price,negative_hard,0,4.8
+negative_hard_00355_spk06.wav,output/negative_hard_00355_spk06.wav,안내 말씀드립니다. 제품 일련번호는 삼삼오육 구삼구이 구공육공입니다.,,,male,spk06,serial,negative_hard,0,6.96
+negative_hard_00356_spk07.wav,output/negative_hard_00356_spk07.wav,안내 말씀드립니다. 제품 일련번호는 팔육칠일 칠칠삼일 팔공육삼입니다.,,,female,spk07,serial,negative_hard,0,7.84
+negative_hard_00357_spk08.wav,output/negative_hard_00357_spk08.wav,안내 말씀드립니다. 오늘은 이공이삼년 일일월 일공일입니다.,,,male,spk08,date,negative_hard,0,4.96
+negative_hard_00358_spk09.wav,output/negative_hard_00358_spk09.wav,생일은 팔월 이오일이에요. 참고 부탁드립니다.,,,female,spk09,birth,negative_hard,0,3.84
+negative_hard_00359_spk10.wav,output/negative_hard_00359_spk10.wav,안내 말씀드립니다. 좌석은 이일열 삼공번입니다.,,,male,spk10,seat,negative_hard,0,4.4
+negative_hard_00360_spk11.wav,output/negative_hard_00360_spk11.wav,제품 일련번호는 오팔공사 육사구팔 구삼일구입니다.,,,female,spk11,serial,negative_hard,0,4.72
+negative_hard_00361_spk12.wav,output/negative_hard_00361_spk12.wav,오늘은 이공이사년 일일월 일이일입니다.,,,male,spk12,date,negative_hard,0,3.04
+negative_hard_00362_spk13.wav,output/negative_hard_00362_spk13.wav,확인을 위해 알려드립니다. 주문번호는 오칠구공오오이팔일팔입니다.,,,male,spk13,order,negative_hard,0,5.84
+negative_hard_00363_spk14.wav,output/negative_hard_00363_spk14.wav,가격은 구칠구삼원입니다. 양해 부탁드립니다.,,,female,spk14,price,negative_hard,0,4.16
+negative_hard_00364_spk01.wav,output/negative_hard_00364_spk01.wav,안내 말씀드립니다. 좌석은 이구열 일팔번입니다.,,,female,spk01,seat,negative_hard,0,4.64
+negative_hard_00365_spk02.wav,output/negative_hard_00365_spk02.wav,안내 말씀드립니다. 주문번호는 오칠칠팔팔일칠팔팔사입니다.,,,male,spk02,order,negative_hard,0,5.2
+negative_hard_00366_spk03.wav,output/negative_hard_00366_spk03.wav,가격은 팔일육이원입니다. 확인 부탁드립니다.,,,female,spk03,price,negative_hard,0,3.92
+negative_hard_00367_spk04.wav,output/negative_hard_00367_spk04.wav,송장번호는 사일이칠 이삼팔공입니다. 참고 부탁드립니다.,,,male,spk04,invoice,negative_hard,0,5.04
+negative_hard_00368_spk05.wav,output/negative_hard_00368_spk05.wav,생일은 육월 일사일이에요. 양해 부탁드립니다.,,,female,spk05,birth,negative_hard,0,4.24
+negative_hard_00369_spk06.wav,output/negative_hard_00369_spk06.wav,확인을 위해 알려드립니다. 가격은 이삼팔오원입니다.,,,male,spk06,price,negative_hard,0,4.0
+negative_hard_00370_spk07.wav,output/negative_hard_00370_spk07.wav,생일은 일공월 이이일이에요. 감사합니다.,,,female,spk07,birth,negative_hard,0,3.92
+negative_hard_00371_spk08.wav,output/negative_hard_00371_spk08.wav,생일은 오월 일구일이에요. 참고 부탁드립니다.,,,male,spk08,birth,negative_hard,0,4.08
+negative_hard_00372_spk09.wav,output/negative_hard_00372_spk09.wav,잠시 안내드립니다. 우편번호는 삼칠오사공입니다.,,,female,spk09,postal,negative_hard,0,3.92
+negative_hard_00373_spk10.wav,output/negative_hard_00373_spk10.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,,male,spk10,count,negative_hard,0,2.4
+negative_hard_00374_spk11.wav,output/negative_hard_00374_spk11.wav,오이이번 버스를 타시면 됩니다. 참고 부탁드립니다.,,,female,spk11,bus,negative_hard,0,4.32
+negative_hard_00375_spk12.wav,output/negative_hard_00375_spk12.wav,안내 말씀드립니다. 송장번호는 삼일공오 구이칠사입니다.,,,male,spk12,invoice,negative_hard,0,4.4
+negative_hard_00376_spk13.wav,output/negative_hard_00376_spk13.wav,좌석은 일이열 일공번입니다. 참고 부탁드립니다.,,,male,spk13,seat,negative_hard,0,4.16
+negative_hard_00377_spk14.wav,output/negative_hard_00377_spk14.wav,잠시 안내드립니다. 오일공번 버스를 타시면 됩니다.,,,female,spk14,bus,negative_hard,0,4.8
+negative_hard_00378_spk01.wav,output/negative_hard_00378_spk01.wav,생일은 육월 오일이에요. 양해 부탁드립니다.,,,female,spk01,birth,negative_hard,0,3.76
+negative_hard_00379_spk02.wav,output/negative_hard_00379_spk02.wav,우편번호는 칠사구이구입니다. 양해 부탁드립니다.,,,male,spk02,postal,negative_hard,0,4.72
+negative_hard_00380_spk03.wav,output/negative_hard_00380_spk03.wav,주문번호는 일오공구삼구팔삼사삼입니다. 감사합니다.,,,female,spk03,order,negative_hard,0,5.52
+negative_hard_00381_spk04.wav,output/negative_hard_00381_spk04.wav,고객님께 안내드립니다. 주문번호는 육삼칠오구구팔공오육이입니다.,,,male,spk04,order,negative_hard,0,5.92
+negative_hard_00382_spk05.wav,output/negative_hard_00382_spk05.wav,고객님께 안내드립니다. 좌석은 일열 일구번입니다.,,,female,spk05,seat,negative_hard,0,4.88
+negative_hard_00383_spk06.wav,output/negative_hard_00383_spk06.wav,고객님께 안내드립니다. 이삼칠번 버스를 타시면 됩니다.,,,male,spk06,bus,negative_hard,0,4.16
+negative_hard_00384_spk07.wav,output/negative_hard_00384_spk07.wav,확인을 위해 알려드립니다. 우편번호는 이육육이구입니다.,,,female,spk07,postal,negative_hard,0,4.56
+negative_hard_00385_spk08.wav,output/negative_hard_00385_spk08.wav,생일은 구월 일일일이에요. 감사합니다.,,,male,spk08,birth,negative_hard,0,3.44
+negative_hard_00386_spk09.wav,output/negative_hard_00386_spk09.wav,고객님께 안내드립니다. 주문번호는 육사육이팔칠구이삼입니다.,,,female,spk09,order,negative_hard,0,5.76
+negative_hard_00387_spk10.wav,output/negative_hard_00387_spk10.wav,고객님께 안내드립니다. 오늘은 이공이육년 오월 이칠일입니다.,,,male,spk10,date,negative_hard,0,4.96
+negative_hard_00388_spk11.wav,output/negative_hard_00388_spk11.wav,가격은 일이사사원입니다.,,,female,spk11,price,negative_hard,0,2.8
+negative_hard_00389_spk12.wav,output/negative_hard_00389_spk12.wav,잠시 안내드립니다. 생일은 이월 이일일이에요.,,,male,spk12,birth,negative_hard,0,4.16
+negative_hard_00390_spk13.wav,output/negative_hard_00390_spk13.wav,확인을 위해 알려드립니다. 생일은 일이월 이일일이에요.,,,male,spk13,birth,negative_hard,0,4.64
+negative_hard_00391_spk14.wav,output/negative_hard_00391_spk14.wav,생일은 이월 이공일이에요. 감사합니다.,,,female,spk14,birth,negative_hard,0,3.76
+negative_hard_00392_spk01.wav,output/negative_hard_00392_spk01.wav,안내 말씀드립니다. 우편번호는 칠일오팔구입니다.,,,female,spk01,postal,negative_hard,0,5.12
+negative_hard_00393_spk02.wav,output/negative_hard_00393_spk02.wav,송장번호는 오칠이오 이공사오입니다. 양해 부탁드립니다.,,,male,spk02,invoice,negative_hard,0,4.72
+negative_hard_00394_spk03.wav,output/negative_hard_00394_spk03.wav,잠시 안내드립니다. 오늘은 이공이이년 오월 일칠일입니다.,,,female,spk03,date,negative_hard,0,4.64
+negative_hard_00395_spk04.wav,output/negative_hard_00395_spk04.wav,송장번호는 일구이팔 오오사사입니다. 확인 부탁드립니다.,,,male,spk04,invoice,negative_hard,0,4.4
+negative_hard_00396_spk05.wav,output/negative_hard_00396_spk05.wav,고객님께 안내드립니다. 육이공번 버스를 타시면 됩니다.,,,female,spk05,bus,negative_hard,0,4.88
+negative_hard_00397_spk06.wav,output/negative_hard_00397_spk06.wav,제품 일련번호는 오이일삼 이팔삼삼 팔구팔팔입니다. 확인 부탁드립니다.,,,male,spk06,serial,negative_hard,0,5.84
+negative_hard_00398_spk07.wav,output/negative_hard_00398_spk07.wav,제품 일련번호는 칠일일이 공칠오사 오이칠구입니다. 참고 부탁드립니다.,,,female,spk07,serial,negative_hard,0,6.56
+negative_hard_00399_spk08.wav,output/negative_hard_00399_spk08.wav,잠시 안내드립니다. 우편번호는 공일삼이이입니다.,,,male,spk08,postal,negative_hard,0,4.48
+negative_hard_00400_spk09.wav,output/negative_hard_00400_spk09.wav,안내 말씀드립니다. 송장번호는 일육일일 공칠육공입니다.,,,female,spk09,invoice,negative_hard,0,5.28
+negative_hard_00401_spk10.wav,output/negative_hard_00401_spk10.wav,안내 말씀드립니다. 생일은 이월 구일이에요.,,,male,spk10,birth,negative_hard,0,3.92
+negative_hard_00402_spk11.wav,output/negative_hard_00402_spk11.wav,주문번호는 구삼구삼이오공일이입니다. 양해 부탁드립니다.,,,female,spk11,order,negative_hard,0,5.28
+negative_hard_00403_spk12.wav,output/negative_hard_00403_spk12.wav,좌석은 육열 삼삼번입니다. 확인 부탁드립니다.,,,male,spk12,seat,negative_hard,0,4.24
+negative_hard_00404_spk13.wav,output/negative_hard_00404_spk13.wav,확인을 위해 알려드립니다. 주문번호는 칠오구이칠일이오육육삼입니다.,,,male,spk13,order,negative_hard,0,5.2
+negative_hard_00405_spk14.wav,output/negative_hard_00405_spk14.wav,고객님께 안내드립니다. 주문번호는 일팔이칠오사팔공일오입니다.,,,female,spk14,order,negative_hard,0,5.36
+negative_hard_00406_spk01.wav,output/negative_hard_00406_spk01.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,female,spk01,count,negative_hard,0,4.64
+negative_hard_00407_spk02.wav,output/negative_hard_00407_spk02.wav,가격은 구사육삼일원입니다.,,,male,spk02,price,negative_hard,0,3.04
+negative_hard_00408_spk03.wav,output/negative_hard_00408_spk03.wav,생일은 일일월 일이일이에요. 감사합니다.,,,female,spk03,birth,negative_hard,0,4.72
+negative_hard_00409_spk04.wav,output/negative_hard_00409_spk04.wav,주문번호는 칠팔일일이육육구일이입니다. 양해 부탁드립니다.,,,male,spk04,order,negative_hard,0,6.08
+negative_hard_00410_spk05.wav,output/negative_hard_00410_spk05.wav,가격은 칠삼육칠원입니다. 양해 부탁드립니다.,,,female,spk05,price,negative_hard,0,4.48
+negative_hard_00411_spk06.wav,output/negative_hard_00411_spk06.wav,잠시 안내드립니다. 제품 일련번호는 오칠구육 칠팔사이 칠일일사입니다.,,,male,spk06,serial,negative_hard,0,6.24
+negative_hard_00412_spk07.wav,output/negative_hard_00412_spk07.wav,안내 말씀드립니다. 오늘은 이공이공년 일이월 이일입니다.,,,female,spk07,date,negative_hard,0,5.28
+negative_hard_00413_spk08.wav,output/negative_hard_00413_spk08.wav,송장번호는 육구오이 사구구일입니다. 감사합니다.,,,male,spk08,invoice,negative_hard,0,4.8
+negative_hard_00414_spk09.wav,output/negative_hard_00414_spk09.wav,확인을 위해 알려드립니다. 생일은 사월 일공일이에요.,,,female,spk09,birth,negative_hard,0,4.32
+negative_hard_00415_spk10.wav,output/negative_hard_00415_spk10.wav,육팔팔번 버스를 타시면 됩니다. 감사합니다.,,,male,spk10,bus,negative_hard,0,3.92
+negative_hard_00416_spk11.wav,output/negative_hard_00416_spk11.wav,주문번호는 칠오육칠칠공공이팔사입니다.,,,female,spk11,order,negative_hard,0,3.84
+negative_hard_00417_spk12.wav,output/negative_hard_00417_spk12.wav,송장번호는 칠육이사 육칠일구입니다. 감사합니다.,,,male,spk12,invoice,negative_hard,0,4.08
+negative_hard_00418_spk13.wav,output/negative_hard_00418_spk13.wav,확인을 위해 알려드립니다. 생일은 구월 이팔일이에요.,,,male,spk13,birth,negative_hard,0,3.68
+negative_hard_00419_spk14.wav,output/negative_hard_00419_spk14.wav,확인을 위해 알려드립니다. 생일은 일공월 일삼일이에요.,,,female,spk14,birth,negative_hard,0,4.72
+negative_hard_00420_spk01.wav,output/negative_hard_00420_spk01.wav,확인을 위해 알려드립니다. 좌석은 이열 이번입니다.,,,female,spk01,seat,negative_hard,0,4.88
+negative_hard_00421_spk02.wav,output/negative_hard_00421_spk02.wav,좌석은 이육열 삼팔번입니다. 양해 부탁드립니다.,,,male,spk02,seat,negative_hard,0,4.32
+negative_hard_00422_spk03.wav,output/negative_hard_00422_spk03.wav,제품 일련번호는 일육오오 육오공삼 삼삼사구입니다. 양해 부탁드립니다.,,,female,spk03,serial,negative_hard,0,5.52
+negative_hard_00423_spk04.wav,output/negative_hard_00423_spk04.wav,주문번호는 이공팔오공칠육구팔육입니다. 확인 부탁드립니다.,,,male,spk04,order,negative_hard,0,6.16
+negative_hard_00424_spk05.wav,output/negative_hard_00424_spk05.wav,좌석은 일삼열 삼칠번입니다. 감사합니다.,,,female,spk05,seat,negative_hard,0,3.44
+negative_hard_00425_spk06.wav,output/negative_hard_00425_spk06.wav,주문번호는 삼오칠팔오이구사오육삼입니다. 확인 부탁드립니다.,,,male,spk06,order,negative_hard,0,5.36
+negative_hard_00426_spk07.wav,output/negative_hard_00426_spk07.wav,사사사번 버스를 타시면 됩니다. 감사합니다.,,,female,spk07,bus,negative_hard,0,4.16
+negative_hard_00427_spk08.wav,output/negative_hard_00427_spk08.wav,가격은 이구오사원입니다. 감사합니다.,,,male,spk08,price,negative_hard,0,2.96
+negative_hard_00428_spk09.wav,output/negative_hard_00428_spk09.wav,제품 일련번호는 삼오일사 팔사육팔 오삼육육입니다. 참고 부탁드립니다.,,,female,spk09,serial,negative_hard,0,6.4
+negative_hard_00429_spk10.wav,output/negative_hard_00429_spk10.wav,오늘은 이공이오년 일이월 일칠일입니다.,,,male,spk10,date,negative_hard,0,3.04
+negative_hard_00430_spk11.wav,output/negative_hard_00430_spk11.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,,female,spk11,count,negative_hard,0,3.76
+negative_hard_00431_spk12.wav,output/negative_hard_00431_spk12.wav,잠시 안내드립니다. 우편번호는 팔구육구공입니다.,,,male,spk12,postal,negative_hard,0,3.92
+negative_hard_00432_spk13.wav,output/negative_hard_00432_spk13.wav,가격은 삼육육오일원입니다. 양해 부탁드립니다.,,,male,spk13,price,negative_hard,0,4.24
+negative_hard_00433_spk14.wav,output/negative_hard_00433_spk14.wav,안내 말씀드립니다. 우편번호는 이사구삼육입니다.,,,female,spk14,postal,negative_hard,0,4.24
+negative_hard_00434_spk01.wav,output/negative_hard_00434_spk01.wav,잠시 안내드립니다. 가격은 오칠팔육육원입니다.,,,female,spk01,price,negative_hard,0,5.28
+negative_hard_00435_spk02.wav,output/negative_hard_00435_spk02.wav,우편번호는 이공사사팔입니다. 감사합니다.,,,male,spk02,postal,negative_hard,0,4.08
+negative_hard_00436_spk03.wav,output/negative_hard_00436_spk03.wav,오늘은 이공이공년 이월 일일일입니다. 감사합니다.,,,female,spk03,date,negative_hard,0,4.64
+negative_hard_00437_spk04.wav,output/negative_hard_00437_spk04.wav,좌석은 이이열 육번입니다. 참고 부탁드립니다.,,,male,spk04,seat,negative_hard,0,4.48
+negative_hard_00438_spk05.wav,output/negative_hard_00438_spk05.wav,가격은 이팔구팔원입니다. 참고 부탁드립니다.,,,female,spk05,price,negative_hard,0,4.16
+negative_hard_00439_spk06.wav,output/negative_hard_00439_spk06.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,,male,spk06,count,negative_hard,0,17.04
+negative_hard_00440_spk07.wav,output/negative_hard_00440_spk07.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,,female,spk07,count,negative_hard,0,3.92
+negative_hard_00441_spk08.wav,output/negative_hard_00441_spk08.wav,제품 일련번호는 삼이일이 삼사칠육 사구공칠입니다. 확인 부탁드립니다.,,,male,spk08,serial,negative_hard,0,5.76
+negative_hard_00442_spk09.wav,output/negative_hard_00442_spk09.wav,확인을 위해 알려드립니다. 좌석은 일팔열 이팔번입니다.,,,female,spk09,seat,negative_hard,0,4.64
+negative_hard_00443_spk10.wav,output/negative_hard_00443_spk10.wav,송장번호는 오칠오사 공구공공입니다. 참고 부탁드립니다.,,,male,spk10,invoice,negative_hard,0,5.04
+negative_hard_00444_spk11.wav,output/negative_hard_00444_spk11.wav,고객님께 안내드립니다. 우편번호는 팔육사오일입니다.,,,female,spk11,postal,negative_hard,0,5.84
+negative_hard_00445_spk12.wav,output/negative_hard_00445_spk12.wav,안내 말씀드립니다. 제품 일련번호는 공육사사 일삼사삼 이칠오육입니다.,,,male,spk12,serial,negative_hard,0,5.92
+negative_hard_00446_spk13.wav,output/negative_hard_00446_spk13.wav,생일은 팔월 이사일이에요. 감사합니다.,,,male,spk13,birth,negative_hard,0,3.44
+negative_hard_00447_spk14.wav,output/negative_hard_00447_spk14.wav,주문번호는 사팔일오육구팔오칠입니다. 참고 부탁드립니다.,,,female,spk14,order,negative_hard,0,5.28
+negative_hard_00448_spk01.wav,output/negative_hard_00448_spk01.wav,확인을 위해 알려드립니다. 생일은 일일월 오일이에요.,,,female,spk01,birth,negative_hard,0,4.48
+negative_hard_00449_spk02.wav,output/negative_hard_00449_spk02.wav,잠시 안내드립니다. 좌석은 일구열 육번입니다.,,,male,spk02,seat,negative_hard,0,4.16
