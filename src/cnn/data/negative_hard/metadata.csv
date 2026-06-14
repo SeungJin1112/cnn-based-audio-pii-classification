@@ -1,0 +1,301 @@
+﻿filename,filepath,text,phone,gender,voice,speaker_id,template_id,source_type,label,duration
+hardneg_00000_male.wav,output/hardneg_00000_male.wav,삼번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,3.384
+hardneg_00001_male.wav,output/hardneg_00001_male.wav,주문번호는 구칠구공팔육구오구팔입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,4.128
+hardneg_00002_male.wav,output/hardneg_00002_male.wav,고객님께 안내드립니다. 가격은 삼일일육원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.592
+hardneg_00003_male.wav,output/hardneg_00003_male.wav,안내 말씀드립니다. 가격은 구구이육일원입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.0
+hardneg_00004_male.wav,output/hardneg_00004_male.wav,오번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,3.336
+hardneg_00005_female.wav,output/hardneg_00005_female.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,4.632
+hardneg_00006_male.wav,output/hardneg_00006_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,5.136
+hardneg_00007_male.wav,output/hardneg_00007_male.wav,우편번호는 칠이이일오입니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,5.448
+hardneg_00008_female.wav,output/hardneg_00008_female.wav,송장번호는 구일팔일 사칠오육입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,6.024
+hardneg_00009_male.wav,output/hardneg_00009_male.wav,안내 말씀드립니다. 송장번호는 일이구사 일팔육칠입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,6.24
+hardneg_00010_male.wav,output/hardneg_00010_male.wav,송장번호는 공오일팔 칠사칠오입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,4.104
+hardneg_00011_male.wav,output/hardneg_00011_male.wav,잠시 안내드립니다. 주문번호는 육오공이팔이삼공삼사입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,6.6
+hardneg_00012_male.wav,output/hardneg_00012_male.wav,안내 말씀드립니다. 가격은 사칠팔공원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.376
+hardneg_00013_female.wav,output/hardneg_00013_female.wav,잠시 안내드립니다. 오삼이번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.472
+hardneg_00014_male.wav,output/hardneg_00014_male.wav,확인을 위해 알려드립니다. 주문번호는 삼일구구육삼육육일공이입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.632
+hardneg_00015_female.wav,output/hardneg_00015_female.wav,송장번호는 팔구이삼 삼삼공일입니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,6.192
+hardneg_00016_female.wav,output/hardneg_00016_female.wav,고객님께 안내드립니다. 주문번호는 오이오삼공삼칠이사구입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.624
+hardneg_00017_male.wav,output/hardneg_00017_male.wav,구번 창구에서 접수해 주세요. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,4.632
+hardneg_00018_female.wav,output/hardneg_00018_female.wav,안내 말씀드립니다. 가격은 구삼구이원입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,5.088
+hardneg_00019_female.wav,output/hardneg_00019_female.wav,고객님께 안내드립니다. 주문번호는 삼삼삼구팔공사이칠칠육입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.984
+hardneg_00020_female.wav,output/hardneg_00020_female.wav,팔번 창구에서 접수해 주세요. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.256
+hardneg_00021_male.wav,output/hardneg_00021_male.wav,이육칠번 버스를 타시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.424
+hardneg_00022_male.wav,output/hardneg_00022_male.wav,총 이오개가 필요합니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.88
+hardneg_00023_female.wav,output/hardneg_00023_female.wav,구번 창구에서 접수해 주세요. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.232
+hardneg_00024_male.wav,output/hardneg_00024_male.wav,송장번호는 삼이이구 팔삼사칠입니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.72
+hardneg_00025_male.wav,output/hardneg_00025_male.wav,우편번호는 오이일육사입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.144
+hardneg_00026_male.wav,output/hardneg_00026_male.wav,고객님께 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,6.48
+hardneg_00027_female.wav,output/hardneg_00027_female.wav,안내 말씀드립니다. 총 팔이개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,4.92
+hardneg_00028_male.wav,output/hardneg_00028_male.wav,잠시 안내드립니다. 총 육삼개가 필요합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,6.144
+hardneg_00029_male.wav,output/hardneg_00029_male.wav,주문번호는 팔육칠이이오공일사오공입니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,6.312
+hardneg_00030_male.wav,output/hardneg_00030_male.wav,고객님께 안내드립니다. 오늘은 이공이오년 육월 칠일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.84
+hardneg_00031_male.wav,output/hardneg_00031_male.wav,잠시 안내드립니다. 오늘은 이공이오년 일이월 삼일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.768
+hardneg_00032_female.wav,output/hardneg_00032_female.wav,확인을 위해 알려드립니다. 사공칠호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.52
+hardneg_00033_male.wav,output/hardneg_00033_male.wav,주문번호는 팔삼사사육구이이오칠구입니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,6.456
+hardneg_00034_female.wav,output/hardneg_00034_female.wav,고객님께 안내드립니다. 팔오구번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.808
+hardneg_00035_male.wav,output/hardneg_00035_male.wav,고객님께 안내드립니다. 우편번호는 이칠공구이입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.504
+hardneg_00036_male.wav,output/hardneg_00036_male.wav,총 일오개가 필요합니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.784
+hardneg_00037_female.wav,output/hardneg_00037_female.wav,고객님께 안내드립니다. 우편번호는 팔육삼칠공입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.928
+hardneg_00038_male.wav,output/hardneg_00038_male.wav,송장번호는 공팔구일 일육공일입니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.336
+hardneg_00039_female.wav,output/hardneg_00039_female.wav,고객님께 안내드립니다. 오늘은 이공이이년 일이월 일구일입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,6.216
+hardneg_00040_female.wav,output/hardneg_00040_female.wav,오늘은 이공이삼년 일이월 이사일입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,5.976
+hardneg_00041_male.wav,output/hardneg_00041_male.wav,고객님께 안내드립니다. 가격은 오팔사공오원입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.576
+hardneg_00042_male.wav,output/hardneg_00042_male.wav,잠시 안내드립니다. 육번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.448
+hardneg_00043_female.wav,output/hardneg_00043_female.wav,주문번호는 오오구칠사일칠오팔이입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,3.84
+hardneg_00044_male.wav,output/hardneg_00044_male.wav,가격은 칠이삼구사원입니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.376
+hardneg_00045_male.wav,output/hardneg_00045_male.wav,오일구번 버스를 타시면 됩니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,4.68
+hardneg_00046_female.wav,output/hardneg_00046_female.wav,칠번 창구에서 접수해 주세요. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.304
+hardneg_00047_male.wav,output/hardneg_00047_male.wav,오늘은 이공이일년 오월 칠일입니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.456
+hardneg_00048_male.wav,output/hardneg_00048_male.wav,우편번호는 구팔칠육구입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.408
+hardneg_00049_female.wav,output/hardneg_00049_female.wav,오구공번 버스를 타시면 됩니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.592
+hardneg_00050_male.wav,output/hardneg_00050_male.wav,삼번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,3.384
+hardneg_00051_male.wav,output/hardneg_00051_male.wav,잠시 안내드립니다. 총 구칠개가 필요합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,6.024
+hardneg_00052_male.wav,output/hardneg_00052_male.wav,주문번호는 사이구칠팔공이일육사입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.008
+hardneg_00053_female.wav,output/hardneg_00053_female.wav,안내 말씀드립니다. 이오구번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.4
+hardneg_00054_female.wav,output/hardneg_00054_female.wav,잠시 안내드립니다. 총 칠칠개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.16
+hardneg_00055_male.wav,output/hardneg_00055_male.wav,확인을 위해 알려드립니다. 가격은 오사공육이원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.784
+hardneg_00056_male.wav,output/hardneg_00056_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.52
+hardneg_00057_female.wav,output/hardneg_00057_female.wav,확인을 위해 알려드립니다. 이팔칠번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.856
+hardneg_00058_male.wav,output/hardneg_00058_male.wav,확인을 위해 알려드립니다. 우편번호는 이삼삼육팔입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,6.168
+hardneg_00059_male.wav,output/hardneg_00059_male.wav,육삼팔호로 오시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,room,negative_hard,0,3.336
+hardneg_00060_male.wav,output/hardneg_00060_male.wav,확인을 위해 알려드립니다. 이칠오번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.664
+hardneg_00061_male.wav,output/hardneg_00061_male.wav,확인을 위해 알려드립니다. 오공칠호로 오시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,room,negative_hard,0,5.52
+hardneg_00062_male.wav,output/hardneg_00062_male.wav,오늘은 이공이삼년 칠월 이칠일입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.624
+hardneg_00063_female.wav,output/hardneg_00063_female.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,5.544
+hardneg_00064_male.wav,output/hardneg_00064_male.wav,일번 창구에서 접수해 주세요. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.0
+hardneg_00065_female.wav,output/hardneg_00065_female.wav,총 팔일개가 필요합니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,4.992
+hardneg_00066_female.wav,output/hardneg_00066_female.wav,이육사번 버스를 타시면 됩니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.208
+hardneg_00067_male.wav,output/hardneg_00067_male.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,3.168
+hardneg_00068_female.wav,output/hardneg_00068_female.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,3.192
+hardneg_00069_male.wav,output/hardneg_00069_male.wav,안내 말씀드립니다. 주문번호는 사삼육칠이구팔일오이입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.104
+hardneg_00070_female.wav,output/hardneg_00070_female.wav,안내 말씀드립니다. 칠오이번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.304
+hardneg_00071_male.wav,output/hardneg_00071_male.wav,확인을 위해 알려드립니다. 총 팔사개가 필요합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,6.192
+hardneg_00072_female.wav,output/hardneg_00072_female.wav,총 삼육개가 필요합니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.112
+hardneg_00073_male.wav,output/hardneg_00073_male.wav,가격은 구팔구육일원입니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.352
+hardneg_00074_female.wav,output/hardneg_00074_female.wav,고객님께 안내드립니다. 송장번호는 오팔칠칠 팔구공구입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,6.6
+hardneg_00075_male.wav,output/hardneg_00075_male.wav,오늘은 이공이사년 오월 사일입니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.216
+hardneg_00076_male.wav,output/hardneg_00076_male.wav,잠시 안내드립니다. 가격은 팔이구칠원입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.144
+hardneg_00077_female.wav,output/hardneg_00077_female.wav,이번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,2.904
+hardneg_00078_male.wav,output/hardneg_00078_male.wav,안내 말씀드립니다. 오번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,5.976
+hardneg_00079_male.wav,output/hardneg_00079_male.wav,확인을 위해 알려드립니다. 일오일번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.784
+hardneg_00080_female.wav,output/hardneg_00080_female.wav,주문번호는 구삼사구공사육삼공일삼입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.576
+hardneg_00081_male.wav,output/hardneg_00081_male.wav,확인을 위해 알려드립니다. 우편번호는 사오공사일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.696
+hardneg_00082_female.wav,output/hardneg_00082_female.wav,오육칠호로 오시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.112
+hardneg_00083_male.wav,output/hardneg_00083_male.wav,총 삼오개가 필요합니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.896
+hardneg_00084_male.wav,output/hardneg_00084_male.wav,총 오오개가 필요합니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.808
+hardneg_00085_male.wav,output/hardneg_00085_male.wav,잠시 안내드립니다. 가격은 이구구오원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.28
+hardneg_00086_male.wav,output/hardneg_00086_male.wav,안내 말씀드립니다. 주문번호는 공사육오삼이사삼칠입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,6.936
+hardneg_00087_male.wav,output/hardneg_00087_male.wav,사구삼번 버스를 타시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,3.552
+hardneg_00088_male.wav,output/hardneg_00088_male.wav,우편번호는 구이팔공팔입니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,4.992
+hardneg_00089_female.wav,output/hardneg_00089_female.wav,확인을 위해 알려드립니다. 총 사공개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.496
+hardneg_00090_male.wav,output/hardneg_00090_male.wav,안내 말씀드립니다. 육오팔호로 오시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,room,negative_hard,0,5.88
+hardneg_00091_female.wav,output/hardneg_00091_female.wav,확인을 위해 알려드립니다. 총 삼개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.328
+hardneg_00092_female.wav,output/hardneg_00092_female.wav,칠육육번 버스를 타시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.52
+hardneg_00093_female.wav,output/hardneg_00093_female.wav,가격은 일공이사원입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,5.28
+hardneg_00094_male.wav,output/hardneg_00094_male.wav,주문번호는 오오일구일공이칠오육이입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,6.864
+hardneg_00095_female.wav,output/hardneg_00095_female.wav,일공공번 버스를 타시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.496
+hardneg_00096_male.wav,output/hardneg_00096_male.wav,사번 창구에서 접수해 주세요. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.024
+hardneg_00097_female.wav,output/hardneg_00097_female.wav,주문번호는 구팔육구삼사공오사입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,5.832
+hardneg_00098_male.wav,output/hardneg_00098_male.wav,안내 말씀드립니다. 오늘은 이공이공년 일공월 이육일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.72
+hardneg_00099_female.wav,output/hardneg_00099_female.wav,오늘은 이공이삼년 이월 이공일입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,6.0
+hardneg_00100_male.wav,output/hardneg_00100_male.wav,오늘은 이공이사년 팔월 육일입니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.432
+hardneg_00101_female.wav,output/hardneg_00101_female.wav,우편번호는 오삼일육삼입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.688
+hardneg_00102_female.wav,output/hardneg_00102_female.wav,우편번호는 삼육육일오입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.544
+hardneg_00103_male.wav,output/hardneg_00103_male.wav,칠번 창구에서 접수해 주세요. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.28
+hardneg_00104_male.wav,output/hardneg_00104_male.wav,주문번호는 칠오공일칠사오공칠입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,4.32
+hardneg_00105_male.wav,output/hardneg_00105_male.wav,고객님께 안내드립니다. 우편번호는 팔칠오공오입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.624
+hardneg_00106_male.wav,output/hardneg_00106_male.wav,안내 말씀드립니다. 우편번호는 사구팔공오입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.288
+hardneg_00107_male.wav,output/hardneg_00107_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,5.04
+hardneg_00108_male.wav,output/hardneg_00108_male.wav,잠시 안내드립니다. 총 팔육개가 필요합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.944
+hardneg_00109_male.wav,output/hardneg_00109_male.wav,고객님께 안내드립니다. 주문번호는 일사오일삼공칠사팔공사입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.824
+hardneg_00110_male.wav,output/hardneg_00110_male.wav,확인을 위해 알려드립니다. 육육이번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.736
+hardneg_00111_male.wav,output/hardneg_00111_male.wav,총 일삼개가 필요합니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.944
+hardneg_00112_male.wav,output/hardneg_00112_male.wav,잠시 안내드립니다. 오사공번 버스를 타시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,6.408
+hardneg_00113_male.wav,output/hardneg_00113_male.wav,가격은 팔일육공일원입니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,5.592
+hardneg_00114_male.wav,output/hardneg_00114_male.wav,안내 말씀드립니다. 이번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.0
+hardneg_00115_male.wav,output/hardneg_00115_male.wav,잠시 안내드립니다. 일오칠번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.424
+hardneg_00116_female.wav,output/hardneg_00116_female.wav,팔구칠호로 오시면 됩니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,4.776
+hardneg_00117_male.wav,output/hardneg_00117_male.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.856
+hardneg_00118_female.wav,output/hardneg_00118_female.wav,안내 말씀드립니다. 우편번호는 칠공공공사입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.52
+hardneg_00119_female.wav,output/hardneg_00119_female.wav,총 일사개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,2.736
+hardneg_00120_male.wav,output/hardneg_00120_male.wav,이번 창구에서 접수해 주세요. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,4.632
+hardneg_00121_male.wav,output/hardneg_00121_male.wav,총 사이개가 필요합니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.824
+hardneg_00122_male.wav,output/hardneg_00122_male.wav,총 팔팔개가 필요합니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.4
+hardneg_00123_male.wav,output/hardneg_00123_male.wav,사사공번 버스를 타시면 됩니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.448
+hardneg_00124_male.wav,output/hardneg_00124_male.wav,확인을 위해 알려드립니다. 우편번호는 공칠육공구입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.744
+hardneg_00125_male.wav,output/hardneg_00125_male.wav,삼번 창구에서 접수해 주세요. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.024
+hardneg_00126_male.wav,output/hardneg_00126_male.wav,칠팔삼번 버스를 타시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.52
+hardneg_00127_female.wav,output/hardneg_00127_female.wav,칠오공번 버스를 타시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.472
+hardneg_00128_male.wav,output/hardneg_00128_male.wav,사일일번 버스를 타시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.4
+hardneg_00129_male.wav,output/hardneg_00129_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.4
+hardneg_00130_male.wav,output/hardneg_00130_male.wav,총 칠삼개가 필요합니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.904
+hardneg_00131_male.wav,output/hardneg_00131_male.wav,팔구팔번 버스를 타시면 됩니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,4.704
+hardneg_00132_female.wav,output/hardneg_00132_female.wav,우편번호는 팔칠육육팔입니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.544
+hardneg_00133_male.wav,output/hardneg_00133_male.wav,안내 말씀드립니다. 가격은 일칠칠공원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.4
+hardneg_00134_male.wav,output/hardneg_00134_male.wav,확인을 위해 알려드립니다. 오번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.736
+hardneg_00135_female.wav,output/hardneg_00135_female.wav,송장번호는 이삼사구 사칠육이입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,5.88
+hardneg_00136_male.wav,output/hardneg_00136_male.wav,안내 말씀드립니다. 오늘은 이공이일년 이월 육일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,5.976
+hardneg_00137_male.wav,output/hardneg_00137_male.wav,잠시 안내드립니다. 주문번호는 사육오팔구구칠일팔오팔입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.224
+hardneg_00138_male.wav,output/hardneg_00138_male.wav,주문번호는 구사삼팔오팔사일육입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,3.912
+hardneg_00139_female.wav,output/hardneg_00139_female.wav,사육공번 버스를 타시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.496
+hardneg_00140_female.wav,output/hardneg_00140_female.wav,삼사구번 버스를 타시면 됩니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.544
+hardneg_00141_male.wav,output/hardneg_00141_male.wav,가격은 육공육구삼원입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.192
+hardneg_00142_female.wav,output/hardneg_00142_female.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,5.544
+hardneg_00143_male.wav,output/hardneg_00143_male.wav,확인을 위해 알려드립니다. 오늘은 이공이육년 사월 이일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.84
+hardneg_00144_male.wav,output/hardneg_00144_male.wav,고객님께 안내드립니다. 오늘은 이공이삼년 사월 일구일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.576
+hardneg_00145_male.wav,output/hardneg_00145_male.wav,확인을 위해 알려드립니다. 송장번호는 팔이이공 구칠삼구입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,6.648
+hardneg_00146_female.wav,output/hardneg_00146_female.wav,이번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,2.904
+hardneg_00147_female.wav,output/hardneg_00147_female.wav,송장번호는 일일구공 공팔육이입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,6.072
+hardneg_00148_female.wav,output/hardneg_00148_female.wav,오늘은 이공이일년 구월 일일입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,3.504
+hardneg_00149_male.wav,output/hardneg_00149_male.wav,안내 말씀드립니다. 송장번호는 이일삼칠 칠육오칠입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.792
+hardneg_00150_female.wav,output/hardneg_00150_female.wav,하나 둘 셋 넷 다섯 여섯 일곱. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,4.752
+hardneg_00151_male.wav,output/hardneg_00151_male.wav,확인을 위해 알려드립니다. 우편번호는 삼칠팔삼육입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.816
+hardneg_00152_male.wav,output/hardneg_00152_male.wav,안내 말씀드립니다. 육번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.376
+hardneg_00153_female.wav,output/hardneg_00153_female.wav,송장번호는 육구삼육 칠구육오입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,5.784
+hardneg_00154_male.wav,output/hardneg_00154_male.wav,주문번호는 칠팔일사구구육구팔팔입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,4.128
+hardneg_00155_male.wav,output/hardneg_00155_male.wav,팔번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,2.952
+hardneg_00156_male.wav,output/hardneg_00156_male.wav,칠번 창구에서 접수해 주세요. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.048
+hardneg_00157_male.wav,output/hardneg_00157_male.wav,이번 창구에서 접수해 주세요. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.352
+hardneg_00158_female.wav,output/hardneg_00158_female.wav,확인을 위해 알려드립니다. 일칠삼호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.544
+hardneg_00159_male.wav,output/hardneg_00159_male.wav,고객님께 안내드립니다. 가격은 육사공사원입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.504
+hardneg_00160_male.wav,output/hardneg_00160_male.wav,잠시 안내드립니다. 송장번호는 사육칠일 삼이육사입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,6.24
+hardneg_00161_female.wav,output/hardneg_00161_female.wav,잠시 안내드립니다. 구번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.28
+hardneg_00162_male.wav,output/hardneg_00162_male.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,3.168
+hardneg_00163_male.wav,output/hardneg_00163_male.wav,확인을 위해 알려드립니다. 주문번호는 구육팔칠일구삼육오육칠입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,order,negative_hard,0,6.936
+hardneg_00164_female.wav,output/hardneg_00164_female.wav,가격은 삼사육이원입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,4.992
+hardneg_00165_male.wav,output/hardneg_00165_male.wav,가격은 육오사오원입니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.208
+hardneg_00166_female.wav,output/hardneg_00166_female.wav,확인을 위해 알려드립니다. 총 이구개가 필요합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.328
+hardneg_00167_female.wav,output/hardneg_00167_female.wav,고객님께 안내드립니다. 사번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.616
+hardneg_00168_male.wav,output/hardneg_00168_male.wav,안내 말씀드립니다. 주문번호는 칠칠칠삼팔일일일육삼사입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.32
+hardneg_00169_male.wav,output/hardneg_00169_male.wav,주문번호는 육육사오칠구삼팔일공입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,4.536
+hardneg_00170_male.wav,output/hardneg_00170_male.wav,우편번호는 구오공사칠입니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,5.016
+hardneg_00171_female.wav,output/hardneg_00171_female.wav,우편번호는 이사구칠이입니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.28
+hardneg_00172_female.wav,output/hardneg_00172_female.wav,팔번 창구에서 접수해 주세요. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.256
+hardneg_00173_male.wav,output/hardneg_00173_male.wav,우편번호는 육공이오팔입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,3.36
+hardneg_00174_female.wav,output/hardneg_00174_female.wav,칠번 창구에서 접수해 주세요. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.448
+hardneg_00175_female.wav,output/hardneg_00175_female.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,4.656
+hardneg_00176_female.wav,output/hardneg_00176_female.wav,주문번호는 사오이사칠칠육삼오공입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.504
+hardneg_00177_female.wav,output/hardneg_00177_female.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,5.424
+hardneg_00178_female.wav,output/hardneg_00178_female.wav,우편번호는 삼삼육구일입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.496
+hardneg_00179_female.wav,output/hardneg_00179_female.wav,우편번호는 삼이오육사입니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.64
+hardneg_00180_male.wav,output/hardneg_00180_male.wav,확인을 위해 알려드립니다. 삼번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.736
+hardneg_00181_male.wav,output/hardneg_00181_male.wav,오늘은 이공이공년 일이월 사일입니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.048
+hardneg_00182_male.wav,output/hardneg_00182_male.wav,잠시 안내드립니다. 총 구팔개가 필요합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,6.072
+hardneg_00183_female.wav,output/hardneg_00183_female.wav,육공사호로 오시면 됩니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.28
+hardneg_00184_male.wav,output/hardneg_00184_male.wav,확인을 위해 알려드립니다. 우편번호는 삼육삼육팔입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.696
+hardneg_00185_female.wav,output/hardneg_00185_female.wav,총 육공개가 필요합니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,quantity,negative_hard,0,5.016
+hardneg_00186_male.wav,output/hardneg_00186_male.wav,고객님께 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.832
+hardneg_00187_male.wav,output/hardneg_00187_male.wav,우편번호는 삼일육팔육입니다. 참고 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,5.64
+hardneg_00188_female.wav,output/hardneg_00188_female.wav,잠시 안내드립니다. 구육공번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.568
+hardneg_00189_female.wav,output/hardneg_00189_female.wav,잠시 안내드립니다. 삼이사호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.112
+hardneg_00190_male.wav,output/hardneg_00190_male.wav,고객님께 안내드립니다. 칠팔팔호로 오시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,room,negative_hard,0,5.52
+hardneg_00191_male.wav,output/hardneg_00191_male.wav,구공구번 버스를 타시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,6.264
+hardneg_00192_male.wav,output/hardneg_00192_male.wav,오이육호로 오시면 됩니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,room,negative_hard,0,4.944
+hardneg_00193_male.wav,output/hardneg_00193_male.wav,칠이삼번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,3.048
+hardneg_00194_female.wav,output/hardneg_00194_female.wav,구팔칠호로 오시면 됩니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,4.848
+hardneg_00195_male.wav,output/hardneg_00195_male.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,6.48
+hardneg_00196_female.wav,output/hardneg_00196_female.wav,삼이칠호로 오시면 됩니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.232
+hardneg_00197_male.wav,output/hardneg_00197_male.wav,가격은 삼칠구육원입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,5.976
+hardneg_00198_male.wav,output/hardneg_00198_male.wav,구삼오번 버스를 타시면 됩니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,4.704
+hardneg_00199_male.wav,output/hardneg_00199_male.wav,안내 말씀드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.496
+hardneg_00200_female.wav,output/hardneg_00200_female.wav,안내 말씀드립니다. 우편번호는 삼사이구사입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.424
+hardneg_00201_female.wav,output/hardneg_00201_female.wav,안내 말씀드립니다. 육공사호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.112
+hardneg_00202_female.wav,output/hardneg_00202_female.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,5.88
+hardneg_00203_male.wav,output/hardneg_00203_male.wav,고객님께 안내드립니다. 우편번호는 사팔일칠삼입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.816
+hardneg_00204_female.wav,output/hardneg_00204_female.wav,하나 둘 셋 넷 다섯 여섯 일곱. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,4.224
+hardneg_00205_female.wav,output/hardneg_00205_female.wav,고객님께 안내드립니다. 주문번호는 사오공팔공구일구칠팔입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.696
+hardneg_00206_female.wav,output/hardneg_00206_female.wav,고객님께 안내드립니다. 팔이이호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.352
+hardneg_00207_female.wav,output/hardneg_00207_female.wav,가격은 일팔칠공팔원입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,5.568
+hardneg_00208_male.wav,output/hardneg_00208_male.wav,잠시 안내드립니다. 송장번호는 칠팔오공 구칠삼이입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.84
+hardneg_00209_male.wav,output/hardneg_00209_male.wav,고객님께 안내드립니다. 오늘은 이공이육년 삼월 이오일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.504
+hardneg_00210_male.wav,output/hardneg_00210_male.wav,고객님께 안내드립니다. 송장번호는 칠공구오 이칠구팔입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,7.056
+hardneg_00211_female.wav,output/hardneg_00211_female.wav,우편번호는 육육일오삼입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,3.12
+hardneg_00212_male.wav,output/hardneg_00212_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,5.136
+hardneg_00213_male.wav,output/hardneg_00213_male.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.448
+hardneg_00214_female.wav,output/hardneg_00214_female.wav,안내 말씀드립니다. 우편번호는 이팔오이오입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.28
+hardneg_00215_female.wav,output/hardneg_00215_female.wav,이번 창구에서 접수해 주세요. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,4.944
+hardneg_00216_male.wav,output/hardneg_00216_male.wav,안내 말씀드립니다. 오늘은 이공이공년 일공월 일일입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.624
+hardneg_00217_female.wav,output/hardneg_00217_female.wav,하나 둘 셋 넷 다섯 여섯 일곱. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,4.632
+hardneg_00218_male.wav,output/hardneg_00218_male.wav,총 구공개가 필요합니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,quantity,negative_hard,0,5.856
+hardneg_00219_male.wav,output/hardneg_00219_male.wav,확인을 위해 알려드립니다. 팔사팔호로 오시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,room,negative_hard,0,6.264
+hardneg_00220_female.wav,output/hardneg_00220_female.wav,하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,3.192
+hardneg_00221_male.wav,output/hardneg_00221_male.wav,잠시 안내드립니다. 오늘은 이공이이년 팔월 이공일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.192
+hardneg_00222_male.wav,output/hardneg_00222_male.wav,송장번호는 오팔공사 칠삼칠팔입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.984
+hardneg_00223_male.wav,output/hardneg_00223_male.wav,오늘은 이공이이년 구월 칠일입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.528
+hardneg_00224_female.wav,output/hardneg_00224_female.wav,가격은 이육육사원입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,2.88
+hardneg_00225_male.wav,output/hardneg_00225_male.wav,고객님께 안내드립니다. 구칠구번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.784
+hardneg_00226_female.wav,output/hardneg_00226_female.wav,안내 말씀드립니다. 삼번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.28
+hardneg_00227_male.wav,output/hardneg_00227_male.wav,총 칠공개가 필요합니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.368
+hardneg_00228_male.wav,output/hardneg_00228_male.wav,사번 창구에서 접수해 주세요. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.328
+hardneg_00229_male.wav,output/hardneg_00229_male.wav,총 팔공개가 필요합니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,5.04
+hardneg_00230_male.wav,output/hardneg_00230_male.wav,확인을 위해 알려드립니다. 삼삼사번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.88
+hardneg_00231_male.wav,output/hardneg_00231_male.wav,오번 창구에서 접수해 주세요. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,4.68
+hardneg_00232_male.wav,output/hardneg_00232_male.wav,가격은 칠이구공원입니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.112
+hardneg_00233_male.wav,output/hardneg_00233_male.wav,확인을 위해 알려드립니다. 오늘은 이공이오년 팔월 이육일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.528
+hardneg_00234_female.wav,output/hardneg_00234_female.wav,우편번호는 사일삼오일입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.304
+hardneg_00235_male.wav,output/hardneg_00235_male.wav,송장번호는 팔육오구 공칠사삼입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,4.152
+hardneg_00236_female.wav,output/hardneg_00236_female.wav,육육삼호로 오시면 됩니다. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,5.256
+hardneg_00237_male.wav,output/hardneg_00237_male.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,6.24
+hardneg_00238_male.wav,output/hardneg_00238_male.wav,잠시 안내드립니다. 육일팔번 버스를 타시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,6.48
+hardneg_00239_male.wav,output/hardneg_00239_male.wav,오늘은 이공이오년 일이월 일구일입니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,5.64
+hardneg_00240_male.wav,output/hardneg_00240_male.wav,고객님께 안내드립니다. 칠사사번 버스를 타시면 됩니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,6.72
+hardneg_00241_female.wav,output/hardneg_00241_female.wav,주문번호는 사사육사일육일일사입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.144
+hardneg_00242_female.wav,output/hardneg_00242_female.wav,확인을 위해 알려드립니다. 구팔육번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.928
+hardneg_00243_male.wav,output/hardneg_00243_male.wav,안내 말씀드립니다. 총 칠개가 필요합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.8
+hardneg_00244_female.wav,output/hardneg_00244_female.wav,고객님께 안내드립니다. 오늘은 이공이일년 오월 칠일입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,6.12
+hardneg_00245_male.wav,output/hardneg_00245_male.wav,잠시 안내드립니다. 우편번호는 육일팔오사입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,5.688
+hardneg_00246_male.wav,output/hardneg_00246_male.wav,송장번호는 육칠오오 사이이공입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,3.792
+hardneg_00247_male.wav,output/hardneg_00247_male.wav,가격은 오이오칠원입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,5.904
+hardneg_00248_male.wav,output/hardneg_00248_male.wav,주문번호는 구삼이사이팔이오칠구팔입니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.296
+hardneg_00249_female.wav,output/hardneg_00249_female.wav,오늘은 이공이이년 일일월 일사일입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,5.904
+hardneg_00250_male.wav,output/hardneg_00250_male.wav,잠시 안내드립니다. 송장번호는 삼구삼칠 칠칠구오입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.888
+hardneg_00251_female.wav,output/hardneg_00251_female.wav,고객님께 안내드립니다. 육육칠번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.88
+hardneg_00252_male.wav,output/hardneg_00252_male.wav,총 팔개가 필요합니다. 확인 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,4.704
+hardneg_00253_female.wav,output/hardneg_00253_female.wav,고객님께 안내드립니다. 가격은 이공삼팔오원입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,5.712
+hardneg_00254_male.wav,output/hardneg_00254_male.wav,삼칠사번 버스를 타시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,bus,negative_hard,0,6.264
+hardneg_00255_female.wav,output/hardneg_00255_female.wav,칠번 창구에서 접수해 주세요. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.304
+hardneg_00256_female.wav,output/hardneg_00256_female.wav,사번 창구에서 접수해 주세요. 참고 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.376
+hardneg_00257_male.wav,output/hardneg_00257_male.wav,안내 말씀드립니다. 칠번 창구에서 접수해 주세요.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,counter,negative_hard,0,6.024
+hardneg_00258_male.wav,output/hardneg_00258_male.wav,주문번호는 칠구팔오사구사공삼팔칠입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,7.224
+hardneg_00259_male.wav,output/hardneg_00259_male.wav,고객님께 안내드립니다. 총 칠육개가 필요합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,5.232
+hardneg_00260_male.wav,output/hardneg_00260_male.wav,확인을 위해 알려드립니다. 우편번호는 칠일오육팔입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,postal,negative_hard,0,6.0
+hardneg_00261_male.wav,output/hardneg_00261_male.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.568
+hardneg_00262_female.wav,output/hardneg_00262_female.wav,안내 말씀드립니다. 구번 창구에서 접수해 주세요.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,counter,negative_hard,0,5.184
+hardneg_00263_female.wav,output/hardneg_00263_female.wav,이구육호로 오시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,room,negative_hard,0,2.808
+hardneg_00264_male.wav,output/hardneg_00264_male.wav,송장번호는 삼공팔오 칠이육오입니다. 양해 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.576
+hardneg_00265_male.wav,output/hardneg_00265_male.wav,잠시 안내드립니다. 칠번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.424
+hardneg_00266_female.wav,output/hardneg_00266_female.wav,송장번호는 이칠오오 공삼공구입니다. 감사합니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,invoice,negative_hard,0,5.808
+hardneg_00267_male.wav,output/hardneg_00267_male.wav,송장번호는 공일칠칠 구일육육입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,6.84
+hardneg_00268_female.wav,output/hardneg_00268_female.wav,고객님께 안내드립니다. 오공공번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.856
+hardneg_00269_male.wav,output/hardneg_00269_male.wav,삼육칠호로 오시면 됩니다. 감사합니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,room,negative_hard,0,5.448
+hardneg_00270_female.wav,output/hardneg_00270_female.wav,구구오번 버스를 타시면 됩니다. 양해 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.424
+hardneg_00271_female.wav,output/hardneg_00271_female.wav,안내 말씀드립니다. 우편번호는 구칠구삼칠입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.4
+hardneg_00272_male.wav,output/hardneg_00272_male.wav,확인을 위해 알려드립니다. 오늘은 이공이이년 일일월 이육일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.648
+hardneg_00273_male.wav,output/hardneg_00273_male.wav,팔번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,2.952
+hardneg_00274_male.wav,output/hardneg_00274_male.wav,고객님께 안내드립니다. 삼번 창구에서 접수해 주세요.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,counter,negative_hard,0,5.712
+hardneg_00275_male.wav,output/hardneg_00275_male.wav,잠시 안내드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,count,negative_hard,0,6.24
+hardneg_00276_female.wav,output/hardneg_00276_female.wav,안내 말씀드립니다. 우편번호는 팔육삼팔사입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,postal,negative_hard,0,5.592
+hardneg_00277_female.wav,output/hardneg_00277_female.wav,확인을 위해 알려드립니다. 오늘은 이공이사년 구월 일칠일입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,6.432
+hardneg_00278_male.wav,output/hardneg_00278_male.wav,오늘은 이공이삼년 일일월 일오일입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,date,negative_hard,0,6.792
+hardneg_00279_male.wav,output/hardneg_00279_male.wav,칠일오호로 오시면 됩니다. 감사합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,room,negative_hard,0,4.32
+hardneg_00280_male.wav,output/hardneg_00280_male.wav,육이공번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,3.192
+hardneg_00281_male.wav,output/hardneg_00281_male.wav,송장번호는 팔공사삼 이팔일이입니다. 양해 부탁드립니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,invoice,negative_hard,0,6.072
+hardneg_00282_male.wav,output/hardneg_00282_male.wav,고객님께 안내드립니다. 칠육오번 버스를 타시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,bus,negative_hard,0,5.784
+hardneg_00283_male.wav,output/hardneg_00283_male.wav,확인을 위해 알려드립니다. 송장번호는 오팔육공 사이오공입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,invoice,negative_hard,0,7.032
+hardneg_00284_male.wav,output/hardneg_00284_male.wav,잠시 안내드립니다. 우편번호는 칠사육일이입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.48
+hardneg_00285_male.wav,output/hardneg_00285_male.wav,잠시 안내드립니다. 우편번호는 이이일사오입니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,postal,negative_hard,0,6.192
+hardneg_00286_female.wav,output/hardneg_00286_female.wav,안내 말씀드립니다. 주문번호는 사오육구육사공이팔구공입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,order,negative_hard,0,6.408
+hardneg_00287_male.wav,output/hardneg_00287_male.wav,육오오호로 오시면 됩니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,room,negative_hard,0,5.904
+hardneg_00288_male.wav,output/hardneg_00288_male.wav,총 사육개가 필요합니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,quantity,negative_hard,0,2.592
+hardneg_00289_male.wav,output/hardneg_00289_male.wav,가격은 육육칠사원입니다. 확인 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,price,negative_hard,0,6.024
+hardneg_00290_female.wav,output/hardneg_00290_female.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,count,negative_hard,0,5.88
+hardneg_00291_male.wav,output/hardneg_00291_male.wav,안내 말씀드립니다. 구공오호로 오시면 됩니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,room,negative_hard,0,5.04
+hardneg_00292_male.wav,output/hardneg_00292_male.wav,확인을 위해 알려드립니다. 가격은 일육공일원입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,price,negative_hard,0,5.544
+hardneg_00293_female.wav,output/hardneg_00293_female.wav,오늘은 이공이오년 일월 일구일입니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,date,negative_hard,0,3.6
+hardneg_00294_male.wav,output/hardneg_00294_male.wav,주문번호는 이일이사공구이칠팔입니다. 참고 부탁드립니다.,,male,ko-KR-InJoonNeural,ko-KR-InJoonNeural,order,negative_hard,0,6.792
+hardneg_00295_male.wav,output/hardneg_00295_male.wav,확인을 위해 알려드립니다. 하나 둘 셋 넷 다섯 여섯 일곱.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,count,negative_hard,0,5.856
+hardneg_00296_female.wav,output/hardneg_00296_female.wav,잠시 안내드립니다. 팔일구번 버스를 타시면 됩니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,bus,negative_hard,0,5.52
+hardneg_00297_female.wav,output/hardneg_00297_female.wav,가격은 팔일칠일사원입니다. 확인 부탁드립니다.,,female,ko-KR-SunHiNeural,ko-KR-SunHiNeural,price,negative_hard,0,5.328
+hardneg_00298_male.wav,output/hardneg_00298_male.wav,고객님께 안내드립니다. 오늘은 이공이오년 일공월 이오일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.72
+hardneg_00299_male.wav,output/hardneg_00299_male.wav,고객님께 안내드립니다. 오늘은 이공이이년 일이월 일이일입니다.,,male,ko-KR-HyunsuMultilingualNeural,ko-KR-HyunsuMultilingualNeural,date,negative_hard,0,6.48

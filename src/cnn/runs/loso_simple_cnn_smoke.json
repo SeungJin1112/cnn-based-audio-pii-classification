@@ -1,0 +1,236 @@
+{
+  "model": "simple_cnn",
+  "seeds": [
+    42
+  ],
+  "smoke": true,
+  "speakers": [
+    "ko-KR-HyunsuMultilingualNeural",
+    "ko-KR-InJoonNeural",
+    "ko-KR-SunHiNeural"
+  ],
+  "folds": [
+    {
+      "held_speaker": "ko-KR-HyunsuMultilingualNeural",
+      "n_train": 94,
+      "n_val": 26,
+      "n_test": 80,
+      "best_val_f1": 0.0,
+      "test_f1": 0.0,
+      "test_recall": 0.0,
+      "test_precision": 0.0,
+      "test_roc_auc": 0.731875,
+      "hard_neg_fpr@0.5": 0.0,
+      "hard_neg_only_f1": 0.0,
+      "hard_neg_only_roc": 0.7285714285714285,
+      "threshold_table": [
+        {
+          "threshold": 0.2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.5,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        },
+        {
+          "threshold": 0.7,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        },
+        {
+          "threshold": 0.8,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        }
+      ],
+      "seed": 42
+    },
+    {
+      "held_speaker": "ko-KR-InJoonNeural",
+      "n_train": 98,
+      "n_val": 22,
+      "n_test": 80,
+      "best_val_f1": 0.7058823529411765,
+      "test_f1": 0.6666666666666666,
+      "test_recall": 1.0,
+      "test_precision": 0.5,
+      "test_roc_auc": 0.639375,
+      "hard_neg_fpr@0.5": 1.0,
+      "hard_neg_only_f1": 0.8791208791208791,
+      "hard_neg_only_roc": 0.46818181818181825,
+      "threshold_table": [
+        {
+          "threshold": 0.2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.5,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.7,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        },
+        {
+          "threshold": 0.8,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        }
+      ],
+      "seed": 42
+    },
+    {
+      "held_speaker": "ko-KR-SunHiNeural",
+      "n_train": 101,
+      "n_val": 19,
+      "n_test": 80,
+      "best_val_f1": 0.6428571428571429,
+      "test_f1": 0.6666666666666666,
+      "test_recall": 1.0,
+      "test_precision": 0.5,
+      "test_roc_auc": 0.559375,
+      "hard_neg_fpr@0.5": 1.0,
+      "hard_neg_only_f1": 0.851063829787234,
+      "hard_neg_only_roc": 0.6696428571428571,
+      "threshold_table": [
+        {
+          "threshold": 0.2,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.3,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.5,
+          "recall": 1.0,
+          "precision": 0.5,
+          "f1": 0.6666666666666666,
+          "stt_call_rate": 1.0,
+          "stt_reduction": 0.0,
+          "hard_neg_fpr": 1.0
+        },
+        {
+          "threshold": 0.7,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        },
+        {
+          "threshold": 0.8,
+          "recall": 0.0,
+          "precision": 0.0,
+          "f1": 0.0,
+          "stt_call_rate": 0.0,
+          "stt_reduction": 1.0,
+          "hard_neg_fpr": 0.0
+        }
+      ],
+      "seed": 42
+    }
+  ],
+  "aggregate": {
+    "test_f1": {
+      "mean": 0.4444444444444444,
+      "std": 0.31426968052735443
+    },
+    "test_recall": {
+      "mean": 0.6666666666666666,
+      "std": 0.4714045207910317
+    },
+    "test_precision": {
+      "mean": 0.3333333333333333,
+      "std": 0.23570226039551584
+    },
+    "test_roc_auc": {
+      "mean": 0.6435416666666667,
+      "std": 0.07048443484596838
+    },
+    "hard_neg_fpr@0.5": {
+      "mean": 0.6666666666666666,
+      "std": 0.4714045207910317
+    }
+  },
+  "by_speaker": {
+    "ko-KR-HyunsuMultilingualNeural": {
+      "test_f1_mean": 0.0,
+      "test_recall_mean": 0.0
+    },
+    "ko-KR-InJoonNeural": {
+      "test_f1_mean": 0.6666666666666666,
+      "test_recall_mean": 1.0
+    },
+    "ko-KR-SunHiNeural": {
+      "test_f1_mean": 0.6666666666666666,
+      "test_recall_mean": 1.0
+    }
+  }
+}

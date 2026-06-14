@@ -1,0 +1,19 @@
+[LOSO] model=simple_cnn seeds=[42, 43, 44] device=cuda smoke=False
+[LOSO] speakers(3): ['ko-KR-HyunsuMultilingualNeural', 'ko-KR-InJoonNeural', 'ko-KR-SunHiNeural']
+  seed42 held=ko-KR-HyunsuMultilingualNeural   test_F1=0.913 recall=1.000 hardFPR=0.179 (val_F1=0.981)
+  seed42 held=ko-KR-InJoonNeural               test_F1=0.128 recall=0.068 hardFPR=0.000 (val_F1=1.000)
+  seed42 held=ko-KR-SunHiNeural                test_F1=0.729 recall=1.000 hardFPR=0.700 (val_F1=0.995)
+  seed43 held=ko-KR-HyunsuMultilingualNeural   test_F1=0.867 recall=1.000 hardFPR=0.463 (val_F1=0.991)
+  seed43 held=ko-KR-InJoonNeural               test_F1=0.276 recall=0.160 hardFPR=0.000 (val_F1=0.985)
+  seed43 held=ko-KR-SunHiNeural                test_F1=0.725 recall=1.000 hardFPR=0.636 (val_F1=0.984)
+  seed44 held=ko-KR-HyunsuMultilingualNeural   test_F1=0.839 recall=1.000 hardFPR=0.474 (val_F1=0.995)
+  seed44 held=ko-KR-InJoonNeural               test_F1=0.298 recall=0.175 hardFPR=0.000 (val_F1=0.990)
+  seed44 held=ko-KR-SunHiNeural                test_F1=0.768 recall=1.000 hardFPR=0.600 (val_F1=0.995)
+
+== LOSO 집계 (speaker-disjoint) ==
+  test F1     : 0.616 ± 0.280
+  test recall : 0.712 ± 0.409
+  test ROC-AUC: 0.992 ± 0.008
+  hard-neg FPR: 0.339 ± 0.277
+  (참고) in-distribution(template-disjoint) simple_cnn F1 = 0.955
+saved -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/loso_simple_cnn.json

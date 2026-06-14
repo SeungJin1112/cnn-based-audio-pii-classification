@@ -1,0 +1,62 @@
+[ALL] start Sat Jun 13 11:52:04 PM KST 2026
+[TRAIN] simple_cnn seed42 23:52:04
+[simple_cnn seed42] best_val_f1=1.000 params=60,706 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/simple_cnn_seed42
+[TRAIN] simple_cnn seed43 23:55:02
+[simple_cnn seed43] best_val_f1=0.997 params=60,706 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/simple_cnn_seed43
+[TRAIN] simple_cnn seed44 23:57:29
+[simple_cnn seed44] best_val_f1=1.000 params=60,706 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/simple_cnn_seed44
+[TRAIN] mobilenet_v3_small seed42 00:00:57
+Downloading: "https://download.pytorch.org/models/mobilenet_v3_small-047dcff4.pth" to /home/hye0n/.cache/torch/hub/checkpoints/mobilenet_v3_small-047dcff4.pth
+  0%|          | 0.00/9.83M [00:00<?, ?B/s] 11%|█▏        | 1.12M/9.83M [00:00<00:00, 11.5MB/s] 24%|██▍       | 2.38M/9.83M [00:00<00:00, 11.7MB/s] 36%|███▌      | 3.50M/9.83M [00:00<00:00, 11.7MB/s] 47%|████▋     | 4.62M/9.83M [00:00<00:00, 11.7MB/s] 58%|█████▊    | 5.75M/9.83M [00:00<00:00, 11.7MB/s] 70%|██████▉   | 6.88M/9.83M [00:00<00:00, 11.7MB/s] 81%|████████▏ | 8.00M/9.83M [00:00<00:00, 11.7MB/s] 93%|█████████▎| 9.12M/9.83M [00:00<00:00, 11.7MB/s]100%|██████████| 9.83M/9.83M [00:00<00:00, 11.7MB/s]
+[mobilenet_v3_small seed42] best_val_f1=0.981 params=1,519,906 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/mobilenet_v3_small_seed42
+[TRAIN] mobilenet_v3_small seed43 00:04:16
+[mobilenet_v3_small seed43] best_val_f1=0.962 params=1,519,906 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/mobilenet_v3_small_seed43
+[TRAIN] mobilenet_v3_small seed44 00:07:39
+[mobilenet_v3_small seed44] best_val_f1=0.991 params=1,519,906 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/mobilenet_v3_small_seed44
+[TRAIN] efficientnet_b0 seed42 00:11:02
+Downloading: "https://download.pytorch.org/models/efficientnet_b0_rwightman-7f5810bc.pth" to /home/hye0n/.cache/torch/hub/checkpoints/efficientnet_b0_rwightman-7f5810bc.pth
+  0%|          | 0.00/20.5M [00:00<?, ?B/s]  6%|▌         | 1.25M/20.5M [00:00<00:01, 11.9MB/s] 12%|█▏        | 2.50M/20.5M [00:00<00:01, 11.8MB/s] 18%|█▊        | 3.62M/20.5M [00:00<00:01, 11.8MB/s] 23%|██▎       | 4.75M/20.5M [00:00<00:01, 11.7MB/s] 29%|██▉       | 6.00M/20.5M [00:00<00:01, 11.8MB/s] 35%|███▍      | 7.12M/20.5M [00:00<00:01, 11.7MB/s] 40%|████      | 8.25M/20.5M [00:00<00:01, 11.7MB/s] 46%|████▌     | 9.38M/20.5M [00:00<00:00, 11.7MB/s] 51%|█████▏    | 10.5M/20.5M [00:00<00:00, 11.7MB/s] 57%|█████▋    | 11.6M/20.5M [00:01<00:00, 11.7MB/s] 62%|██████▏   | 12.8M/20.5M [00:01<00:00, 11.7MB/s] 68%|██████▊   | 13.9M/20.5M [00:01<00:00, 11.7MB/s] 73%|███████▎  | 15.0M/20.5M [00:01<00:00, 11.7MB/s] 79%|███████▉  | 16.2M/20.5M [00:01<00:00, 11.8MB/s] 85%|████████▍ | 17.4M/20.5M [00:01<00:00, 11.7MB/s] 90%|█████████ | 18.5M/20.5M [00:01<00:00, 11.7MB/s] 96%|█████████▌| 19.6M/20.5M [00:01<00:00, 11.7MB/s]100%|██████████| 20.5M/20.5M [00:01<00:00, 11.7MB/s]
+[efficientnet_b0 seed42] best_val_f1=1.000 params=4,010,110 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/efficientnet_b0_seed42
+[TRAIN] efficientnet_b0 seed43 00:13:17
+[efficientnet_b0 seed43] best_val_f1=1.000 params=4,010,110 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/efficientnet_b0_seed43
+[TRAIN] efficientnet_b0 seed44 00:14:58
+[efficientnet_b0 seed44] best_val_f1=1.000 params=4,010,110 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/efficientnet_b0_seed44
+[TRAIN] convnext_tiny seed42 00:17:05
+[convnext_tiny seed42] best_val_f1=1.000 params=27,821,666 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/convnext_tiny_seed42
+[TRAIN] convnext_tiny seed43 00:18:13
+[convnext_tiny seed43] best_val_f1=1.000 params=27,821,666 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/convnext_tiny_seed43
+[TRAIN] convnext_tiny seed44 00:19:28
+[convnext_tiny seed44] best_val_f1=1.000 params=27,821,666 -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/convnext_tiny_seed44
+[EVAL] 00:20:39
+  simple_cnn seed42: controlled F1=0.945
+  simple_cnn seed43: controlled F1=0.968
+/home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/evaluate.py:82: RuntimeWarning: Mean of empty slice
+  agg["sets"][name][met] = {"mean": float(np.nanmean(vals)), "std": float(np.nanstd(vals))}
+/home/hye0n/miniconda3/envs/audio-pii/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+  simple_cnn seed44: controlled F1=0.952
+  mobilenet_v3_small seed42: controlled F1=0.790
+  mobilenet_v3_small seed43: controlled F1=0.775
+/home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/evaluate.py:82: RuntimeWarning: Mean of empty slice
+  agg["sets"][name][met] = {"mean": float(np.nanmean(vals)), "std": float(np.nanstd(vals))}
+/home/hye0n/miniconda3/envs/audio-pii/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+  mobilenet_v3_small seed44: controlled F1=0.763
+  efficientnet_b0 seed42: controlled F1=0.866
+  efficientnet_b0 seed43: controlled F1=0.880
+/home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/evaluate.py:82: RuntimeWarning: Mean of empty slice
+  agg["sets"][name][met] = {"mean": float(np.nanmean(vals)), "std": float(np.nanstd(vals))}
+/home/hye0n/miniconda3/envs/audio-pii/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+  efficientnet_b0 seed44: controlled F1=0.854
+  convnext_tiny seed42: controlled F1=0.819
+  convnext_tiny seed43: controlled F1=0.958
+/home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/evaluate.py:82: RuntimeWarning: Mean of empty slice
+  agg["sets"][name][met] = {"mean": float(np.nanmean(vals)), "std": float(np.nanstd(vals))}
+/home/hye0n/miniconda3/envs/audio-pii/lib/python3.11/site-packages/numpy/lib/_nanfunctions_impl.py:1997: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+  convnext_tiny seed44: controlled F1=0.635
+
+saved -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/runs/evaluation.json
+report -> /home/hye0n/audio/cnn-based-audio-pii-classification/src/cnn/reports/results.md
+[ALL] DONE Sun Jun 14 12:24:24 AM KST 2026
