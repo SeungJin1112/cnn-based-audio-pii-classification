@@ -1,0 +1,442 @@
+% !TEX program = xelatex
+% 컴파일: xelatex main.tex; bibtex main; xelatex main.tex; xelatex main.tex
+% (Overleaf 사용 시 Compiler를 XeLaTeX 로 설정)
+\documentclass[11pt]{article}
+
+\usepackage{kotex}          % 한국어
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cite}
+
+\graphicspath{{figs/}}
+\captionsetup{font=small}
+
+\title{STT 없이 음향 특징만으로 개인정보(PII) 형식 숫자열을\\
+탐지하는 경량 CNN의 타당성 연구}
+\author{김현찬 \quad 박승진 \quad 강진구 \\[2pt]
+\normalsize 숭실대학교 미디어학과}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+음성 데이터에서 개인정보(PII)를 탐지하는 표준 방식은 자동음성인식(ASR)으로 발화를
+텍스트로 전사한 뒤 자연어처리(NLP)로 민감 정보를 찾는 캐스케이드 구조이다. 그러나 이
+방식은 (1) 모든 발화를 전사해야 하는 비용과 지연, (2) 전사 텍스트 자체가 민감정보 유출
+표면이 되는 문제, (3) 전사 오류가 후단으로 전파되는 문제를 안고 있다. 본 연구는 전사
+과정을 건너뛰고, 음성 신호를 멜 스펙트로그램으로 변환한 뒤 경량 합성곱신경망(CNN)이
+``PII 형식 숫자열''의 포함 여부를 직접 판별하는 접근의 \emph{타당성(feasibility)}을
+통제 실험으로 검증한다. 직접 설계한 60{,}706 파라미터 CNN은 음향 통계 기반 로지스틱 회귀
+기준선(ROC 0.878)을 크게 능가했으며($\text{F1}=0.955$, $\text{ROC}=0.997$), 길이 단서와
+단순 ``숫자 존재'' 같은 인공 단서(artifact)에 의존하지 않음을 통제 평가로 확인하였다
+(hard-negative FPR $=0.006$). 또한 학습에 없던 화자에 대한 leave-one-speaker-out(LOSO)
+평가에서 화자 수를 3명에서 14명으로 늘리자 F1이 $0.616\pm0.280$에서 $0.861\pm0.102$로
+안정화되었고, 학습에서 완전히 제외한 세 PII 유형(주민/카드/계좌) 모두 재현율
+$0.88\text{--}0.98$로 탐지되어, 모델이 특정 숫자열을 암기한 것이 아니라 ``PII 형식''을
+유형을 넘어 일반화함을 입증하였다. 동일 데이터에서 Whisper 기반 STT+NLP 정설 경로와
+비교한 결과, 제안 방식은 재현율(0.989 대 0.921)과 처리 속도(약 1{,}000배)에서 우위를
+보였고, 이를 근거로 ``CNN 프리필터 $\rightarrow$ STT+NLP 확정''의 2단계 파이프라인을
+제안한다. 본 결과는 합성 TTS 데이터에 한정되며, 운용 정밀도(precision) 개선과 실통화
+검증을 남은 과제로 명시한다.
+\end{abstract}
+
+\section{서론}\label{sec:intro}
+
+\subsection{배경 및 동기}
+콜센터 상담, 회의 녹취, 음성 메모 등 음성 데이터에는 전화번호, 주민등록번호, 계좌번호,
+카드번호와 같은 개인정보(Personally Identifiable Information, PII)가 빈번하게 포함된다.
+개인정보보호 규제 준수와 데이터 최소화 원칙을 위해 이러한 민감 정보를 자동으로 탐지하고
+마스킹하려는 수요가 크다. 현재 표준적인 접근은 음성을 ASR로 전사한 뒤, 전사 텍스트에
+개체명 인식(NER)이나 정규식 패턴 매칭을 적용하여 PII를 찾는 캐스케이드 파이프라인이며,
+주요 클라우드 서비스가 이 방식을 상용화하고 있다~\cite{azurepii}.
+
+\subsection{문제 제기}
+캐스케이드 파이프라인은 다음 세 가지 구조적 한계를 가진다.
+\begin{itemize}
+  \item \textbf{비용과 지연.} PII 포함 여부와 무관하게 모든 발화를 전사해야 하므로, 대량
+  녹취 처리 시 STT 호출 비용과 지연이 크다. 본 연구에서 측정한 Whisper-large-v3의 전사
+  지연은 클립당 약 360\,ms로, CNN 윈도 추론(0.344\,ms)의 약 1{,}000배에 달한다.
+  \item \textbf{민감 텍스트 중간 산출.} 전사 텍스트 그 자체가 PII를 평문으로 담게 되어
+  로그, 캐시, 저장소 전반에 새로운 유출 표면을 만든다. 탐지 단계에서 텍스트를 만들지
+  않으면 이 표면 자체가 사라진다.
+  \item \textbf{전사 오류 전파.} 구어체 숫자열은 전사 과정에서 오인식되기 쉽고, 특히 긴
+  숫자열(카드 16자리 등)에서 자릿수 누락이 발생한다. 본 연구의 비교 실험에서도, 합성음
+  기준으로 전사 품질이 거의 완벽함에도(일반 발화 WER 중앙값 0) 카드번호에 대한 STT+NLP
+  재현율이 0.852로 떨어지는 현상으로 재현되었다.
+\end{itemize}
+
+\subsection{연구 질문}
+\begin{itemize}
+  \item[\textbf{RQ1}] STT 없이 음향 특징만으로 PII 형식 숫자열을 탐지하는 것이
+  원리적으로 가능한가?
+  \item[\textbf{RQ2}] 모델이 진짜 ``PII 형식''을 학습하는가, 아니면 길이나 단순 숫자
+  존재, 화자 지문 같은 인공 단서로 맞히는가?
+  \item[\textbf{RQ3}] 학습에 없던 화자와 PII 유형으로 일반화되는가?
+  \item[\textbf{RQ4}] 정설 경로(STT+NLP) 대비 어떤 운용 위치가 합리적인가?
+\end{itemize}
+
+\subsection{기여}
+\begin{enumerate}
+  \item STT-free 음향 PII \emph{형식} 탐지 과제를 정식화하고, 인공 단서를 차단한 통제
+  데이터셋과 누수 없는 평가 프로토콜을 설계한다.
+  \item 네 겹의 통제(기준선 초과, 길이 불변, 숫자 존재와 형식의 분리, 출처 지문 통제)로
+  타당성을 방어 가능하게 입증한다.
+  \item 화자(LOSO)와 PII 유형(held-out) 두 축의 일반화를 정량적으로 검증한다.
+  \item STT+NLP 정설 경로와 정면 비교하여 상보성을 규명하고 2단계 파이프라인을 제안한다.
+  \item 60{,}706 파라미터 경량 CNN이 28M ImageNet 백본을 능가함을 보이고 그 원인을
+  분석한다.
+\end{enumerate}
+
+\section{관련 연구}\label{sec:related}
+
+\paragraph{ASR $\rightarrow$ NLP 캐스케이드 PII 레닥션.}
+상용 서비스들은 ASR 전사 후 NER과 패턴 매칭으로 PII를 탐지·레닥션한다~\cite{azurepii}.
+이 방식은 전사 오류에 취약하며, 특히 구어 숫자가 단어로 오인식되거나 여러 발화에 걸쳐
+분절된 PII를 놓치는 문제가 보고된다. 본 연구는 이 캐스케이드를 우회하거나, 최소한 그
+앞단에 경량 선별기를 두는 것을 목표로 한다.
+
+\paragraph{ASR-free / End-to-End SLU.}
+음성에서 의미(intent, slot)를 ASR 없이 직접 추론하는 종단간(end-to-end) 음성언어이해
+(SLU) 연구는 ASR 오류 전파 회피와 시스템 단순화를 동기로 한다~\cite{lugosch2019asrfree,
+serdyuk2019recent, seo2023e2eslu}. 다만 기존 연구는 주로 명령어 데이터셋의 intent/slot
+분류에 초점을 두며, 본 연구는 PII \emph{형식}의 이진 탐지, 프리필터 목적, 그리고
+타당성 통제에 초점을 둔다는 점에서 다르다.
+
+\paragraph{키워드 스포팅과 구어 숫자 인식.}
+멜 스펙트로그램과 경량 신경망으로 특정 키워드나 숫자를 저전력으로 탐지하는 키워드
+스포팅(KWS) 연구가 있다~\cite{berg2021keyword}. 그러나 KWS는 특정 어휘나 개별 숫자를
+인식하는 반면, 본 연구는 개별 숫자가 아니라 ``PII 형식 숫자열의 존재''라는 상위 패턴을
+탐지하며, hard-negative를 통해 ``숫자 존재''와 ``형식''을 명시적으로 분리한다.
+
+\paragraph{음성 콘텐츠 프라이버시.}
+음성 콘텐츠의 프라이버시를 다루는 연구들은 내용을 은닉하면서도 분류 성능을 유지하거나,
+전사 자체를 프라이버시 보존적으로 수행한다~\cite{turner2023content, ahmed2020preech}.
+본 연구는 민감 텍스트를 아예 생성하지 않는 탐지 단계의 프라이버시 이점을 설계 동기로
+삼는다.
+
+\paragraph{연구 공백.}
+선행 연구 어디에도 ``PII 형식을 음향에서 직접, 경량 프리필터로, 인공 단서를 통제한
+타당성으로 입증하고, 화자와 유형의 일반화까지 확인''한 사례는 없다. 본 연구가 이 공백을
+채운다.
+
+\section{과제 정식화 및 데이터셋}\label{sec:data}
+
+\subsection{과제 정의}
+입력은 5초 음향 윈도의 로그 멜 스펙트로그램이며, 출력은 PII 형식 숫자열 포함 여부의
+이진 라벨이다. Positive는 전화/주민/계좌/카드번호를 포함한 발화, negative는 비PII
+숫자열을 포함한 hard-negative와 일반 발화 easy-negative로 구성한다. 본 과제는 ``문맥상
+실제로 민감한가''를 판단하는 것이 아니라 ``PII 형식 숫자열이 음향적으로 존재하는가''를
+판별하는 것으로 한정한다.
+
+\subsection{데이터 생성과 통제 설계}
+버전 1(v1)은 edge-tts 3화자로 전화번호 단일 유형을, 버전 2(v2)는 Qwen3-TTS 14화자로
+4개 PII 유형(총 1{,}800클립)을 생성하였다(표~\ref{tab:dataset}). 타당성 검증을 위해 다음
+통제를 적용한다.
+\begin{itemize}
+  \item \textbf{읽기 방식 통제.} 모든 숫자를 한국어 자릿수 발음(``공일공$\cdots$'')으로
+  읽게 하여, 클래스 간 차이가 ``읽는 방식''이 아니라 ``숫자열 형식''이 되도록 하였다.
+  \item \textbf{출처 지문 통제.} 무음 대신 저진폭 노이즈(레벨 $10^{-3}$)로 패딩하여 길이
+  누수를 막고, v2에서는 모든 클래스를 동일 화자 풀, 동일 TTS, 동일 후처리(ffmpeg
+  16\,kHz mono)로 생성하여 코덱이나 화자 지문 같은 단서로 분류하지 못하게 하였다.
+  \item \textbf{hard-negative.} 날짜, 가격, 좌석번호, 주문번호, 일련번호 등 PII가 아닌
+  숫자열을 positive와 같은 자릿수 발음으로 생성하여, 모델이 ``숫자가 들린다''가 아니라
+  ``형식''을 학습하도록 강제하였다.
+\end{itemize}
+
+\begin{table}[t]
+\centering
+\caption{데이터셋 구성.}
+\label{tab:dataset}
+\small
+\begin{tabular}{lccll}
+\toprule
+버전 & TTS & 화자 & PII 유형 & 규모 \\
+\midrule
+v1 (controlled) & edge-tts & 3 & 전화 & $\sim$2{,}000 \\
+\textbf{v2} & \textbf{Qwen3-TTS} & \textbf{14} & \textbf{전화·주민·계좌·카드} & \textbf{1{,}800} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{화자 일관성 방법론}
+v2의 14화자를 생성할 때, VoiceDesign을 발화마다 직접 호출하면 같은 지시문에도 발화 간
+변동이 커서 화자 내 유사도 분산이 화자 간 분산보다 컸다(within/between 비율 0.61). 이에
+VoiceDesign으로 화자당 참조 음성 1개를 설계한 뒤 Base 모델로 일관 복제(clone)하는 방식을
+채택하여 화자 내 분산을 크게 낮추었다(within $=0.0106 \ll$ between, 비율 2.29). 이로써
+14개의 구별되는 합성 화자 은행(voicebank)을 확보하였다.
+
+\section{방법}\label{sec:method}
+
+\subsection{특징 추출}
+16\,kHz mono 오디오를 로그 멜 스펙트로그램으로 변환한다(멜 채널 64, FFT 1024, hop 512,
+power 2.0). 5초 윈도는 $64 \times 157$ 특징이 된다. 학습 시에는 대칭 random-crop,
+평가 시에는 sliding-window(hop 2.5초)로 얻은 윈도별 점수의 최댓값으로 클립 점수를
+집계하는 하이브리드 윈도 전략을 사용한다. 그림~\ref{fig:melspec}은 positive와
+hard-negative의 멜 스펙트로그램 예시로, PII 형식 숫자열이 규칙적인 세로 줄무늬 텍스처로
+나타남을 보여준다.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.92\linewidth]{melspec_examples.png}
+\caption{멜 스펙트로그램 예시. 자릿수로 낭독되는 PII 형식 숫자열은 규칙적인 시간-주파수
+패턴(세로 줄무늬)으로 나타나며, 경량 CNN이 이 텍스처를 포착한다.}
+\label{fig:melspec}
+\end{figure}
+
+\subsection{모델}
+직접 설계한 \texttt{simple\_cnn}은 $3\times3$ 합성곱-배치정규화-ReLU-맥스풀 4블록
+(채널 $16\to32\to64\to64$) 뒤에 전역 평균 풀링, 드롭아웃(0.3), 선형 분류기를 둔 60{,}706
+파라미터 모델이다. 비교군으로 ImageNet 사전학습된 MobileNetV3-Small, EfficientNet-B0,
+ConvNeXt-Tiny를 사용한다(1채널 멜을 3채널로 복제하여 입력).
+
+\subsection{학습과 기준선}
+AdamW 최적화, 교차엔트로피 손실, cosine 학습률 스케줄, 검증셋 기반 조기 종료로 학습하며
+시드 42/43/44를 반복하여 평균과 표준편차를 보고한다. 기준선으로 (i) 다수 클래스만
+예측하는 majority, (ii) 클립 길이 1개 특징만 쓰는 duration-only, (iii) 수작업 음향 통계
+7개 기반 로지스틱 회귀(acoustic-LR)를 둔다. CNN이 최소한 이들을 능가해야 ``학습했다''고
+말할 수 있다.
+
+\subsection{평가 프로토콜}
+70/15/15 분할을 template-disjoint(같은 문장 템플릿이 학습/평가에 겹치지 않음)와
+length-stratified로 구성하고, test는 학습·모델 선택에 전혀 사용하지 않는다. 지표는 F1,
+재현율, 정밀도, ROC-AUC, PR-AUC, hard-negative FPR, 지연이다. 평가셋은 controlled\_main,
+length\_matched(positive/negative 길이 분포를 맞춘 셋), hard\_negative\_only,
+stress\_5\_5, original의 5종을 사용한다. 정설 경로 비교를 위해 Whisper-large-v3
+\cite{radford2023whisper} 전사와 규칙 기반 NLP(형식만 / 형식+문맥)를 동일 test 분할에
+적용한다.
+
+\section{실험 및 결과}\label{sec:exp}
+
+\subsection{타당성: 기준선 초과 (RQ1)}
+표~\ref{tab:main}에서 \texttt{simple\_cnn}은 $\text{F1}=0.955$, $\text{ROC}=0.997$로
+최고 성능의 기준선 acoustic-LR($0.761$ / $0.878$)을 크게 능가하였다. duration-only가
+ROC 0.701에 그친 점은 길이 단서만으로는 과제가 풀리지 않음을, acoustic-LR가 0.878에
+그친 점은 전역 음향 통계로도 한계가 있음을 보인다. CNN이 이를 능가한다는 것은 전역
+통계로 포착되지 않는 시간-주파수 패턴을 학습했음을 시사한다.
+
+\begin{table}[t]
+\centering
+\caption{메인 성능 (controlled, 시드 3회 평균±표준편차).}
+\label{tab:main}
+\small
+\begin{tabular}{lcccccc}
+\toprule
+모델 & F1 & Recall & Hard-neg FPR & ROC-AUC & PR-AUC \\
+\midrule
+majority (기준선)      & $0.000$ & $0.000$ & $0.000$ & $0.500$ & $0.516$ \\
+duration-only (기준선) & $0.633$ & $0.630$ & $0.812$ & $0.701$ & $0.638$ \\
+acoustic-LR (기준선)   & $0.761$ & $0.703$ & $0.264$ & $0.878$ & $0.884$ \\
+\textbf{simple\_cnn}   & $\mathbf{0.955}$ & $\mathbf{0.927}$ & $\mathbf{0.006}$ & $\mathbf{0.997}$ & $\mathbf{0.998}$ \\
+mobilenet\_v3\_small   & $0.776$ & $0.642$ & $0.021$ & $0.945$ & $0.954$ \\
+efficientnet\_b0       & $0.867$ & $0.771$ & $0.011$ & $0.994$ & $0.994$ \\
+convnext\_tiny         & $0.804$ & $0.703$ & $0.056$ & $0.962$ & $0.960$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{인공 단서 통제 (RQ2)}
+\textbf{길이 단서.} duration-only 기준선은 length-matched 평가셋에서 ROC가
+$0.70 \to 0.53$(우연 수준)으로 붕괴하지만, CNN은 length-matched F1이 controlled와 사실상
+동일하다($0.956$ 대 $0.955$). 즉 길이로 맞히는 것이 아니다.
+\textbf{숫자 존재 대 형식.} 날짜, 주문번호, 가격 등 비PII 숫자열(hard-negative)에 대한
+FPR이 $0.006$으로 매우 낮아, 모델은 ``숫자가 들린다''가 아니라 ``전화번호 형식''을
+구분한다. 이 두 통제가 동시에 성립하므로, 높은 정확도가 인공 단서에 기인한 것이 아니라는
+주장이 방어된다.
+
+\subsection{모델 비교: 경량 모델의 우위}
+그림~\ref{fig:efficiency}와 표~\ref{tab:eff}가 보이듯, 60{,}706 파라미터
+\texttt{simple\_cnn}이 약 460배 큰 27.8M ConvNeXt-Tiny를 성능($0.955$ 대
+$0.804\pm0.13$), 안정성, 속도 모두에서 능가하였다. 원인은 (1) 소량 데이터($\sim$2{,}000)
+에서 대형 모델의 과적합(ConvNeXt만 시드 간 F1 표준편차 $\pm0.13$으로 불안정), (2)
+ImageNet(자연 사진)과 멜 스펙트로그램의 도메인 불일치, (3) 저수준 음향 패턴으로 풀리는
+단순한 과제, (4) 작은 용량에 의한 암묵적 정규화로 정리된다. 이 결론은 소량·도메인
+불일치·단순 과제라는 본 설정에 한정되며, 데이터가 커지고 과제가 복잡해지면 역전될 수
+있다.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.62\linewidth]{efficiency.pdf}
+\caption{파라미터 수(로그) 대 controlled F1. 60K 자작 CNN이 27.8M ImageNet 백본을
+능가한다.}
+\label{fig:efficiency}
+\end{figure}
+
+\begin{table}[t]
+\centering
+\caption{효율성.}
+\label{tab:eff}
+\small
+\begin{tabular}{lccc}
+\toprule
+모델 & 파라미터 & 크기(MB) & GPU ms/window \\
+\midrule
+\textbf{simple\_cnn} & \textbf{60{,}706} & \textbf{0.26} & \textbf{0.34} \\
+mobilenet\_v3\_small & 1{,}519{,}906 & 6.21 & 2.03 \\
+efficientnet\_b0     & 4{,}010{,}110 & 16.34 & 2.92 \\
+convnext\_tiny       & 27{,}821{,}666 & 111.35 & 2.32 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{화자 일반화: LOSO (RQ3)}
+화자 분리(leave-one-speaker-out) 평가에서, 화자를 3명에서 14명으로 늘리자 F1이
+$0.616\pm0.280$에서 $0.861\pm0.102$로 개선되고 표준편차가 3분의 1로 줄었다
+(그림~\ref{fig:loso} 좌). 이는 처음 보는 화자에서도 안정적으로 동작함을 의미하며, 운용
+임계값도 안정화되어 검증셋에서 튜닝한 임계값(평균 0.855)이 고정 임계값 0.5와 유사한
+성능을 낸다. 그림~\ref{fig:loso} 우는 14개 화자 폴드별 F1 분포로, 대부분의 미학습
+화자에서 F1 0.8 이상을 유지하되 소수 화자(S11, S13)에서 재현율이 낮아지는 잔여 변동을
+보인다.
+
+\begin{figure}[t]
+\centering
+\begin{subfigure}{0.46\linewidth}
+  \includegraphics[width=\linewidth]{loso_v1_v2.pdf}
+  \caption{v1(3화자) 대 v2(14화자)}
+\end{subfigure}\hfill
+\begin{subfigure}{0.52\linewidth}
+  \includegraphics[width=\linewidth]{loso_folds.pdf}
+  \caption{v2 화자 폴드별 F1}
+\end{subfigure}
+\caption{화자 분리(LOSO) 일반화. 화자 확장으로 평균 F1이 오르고 분산이 크게 줄어
+운용이 안정화된다.}
+\label{fig:loso}
+\end{figure}
+
+\subsection{PII 유형 일반화: held-out-PII (RQ3)}
+각 PII 유형을 학습에서 완전히 제외하고 그 유형으로만 평가했을 때, 세 유형 모두 학습 없이
+재현율 $0.88\text{--}0.98$을 얻었다(표~\ref{tab:heldout}). 이는 모델이 특정 숫자열을
+암기한 것이 아니라 ``PII 형식''이라는 공통 신호를 유형을 넘어 일반화함을 보여주는 가장
+강한 증거이다. 다만 held-out overall F1이 held-out recall보다 낮은 것은, 후술할 정밀도
+약점(비PII 숫자열 과다검출)이 여기서도 나타남을 반영한다.
+
+\begin{table}[t]
+\centering
+\caption{held-out-PII: 해당 유형을 학습에서 제외한 뒤 그 유형만으로 평가.}
+\label{tab:heldout}
+\small
+\begin{tabular}{lccc}
+\toprule
+제외한 PII & held-out recall@0.5 & overall F1 & ROC-AUC \\
+\midrule
+주민번호 (rrn)     & $0.978$ & $0.720$ & $0.935$ \\
+카드 (card)        & $0.911$ & $0.878$ & $0.968$ \\
+계좌 (account)     & $0.884$ & $0.831$ & $0.938$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{프리필터 가치}
+프리필터로서 목표 재현율을 유지하며 STT 호출을 얼마나 줄이는지를 표~\ref{tab:prefilter}에
+정리하였다. 임계값 0.31에서 재현율 0.995를 유지하면서 STT 호출을 약 16\% 줄일 수 있다.
+(v1의 더 통제된 셋에서는 임계값 0.3에서 재현율 0.994로 STT 호출을 약 45\% 절감하였다.)
+즉, 놓치는 PII를 최소화(고재현율)하면서 비싼 STT 단계를 상당 부분 건너뛸 수 있다.
+
+\begin{table}[t]
+\centering
+\caption{프리필터 운용점 (v2, 목표 재현율별). STT 호출률이 낮을수록 절감이 크다.}
+\label{tab:prefilter}
+\small
+\begin{tabular}{lccccc}
+\toprule
+임계값 & Recall & Precision & Hard-neg FPR & STT 호출률 \\
+\midrule
+0.19 & $1.000$ & $0.663$ & $0.676$ & $0.861$ \\
+0.31 & $0.995$ & $0.679$ & $0.627$ & $0.837$ \\
+0.49 & $0.968$ & $0.723$ & $0.493$ & $0.764$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{CNN 대 STT+NLP (RQ4)}
+동일 test 인스턴스($n=331$)에서 STT+NLP(형식+문맥)가 $\text{F1}=0.935$,
+$\text{precision}=0.951$로 최고 정밀도를 보였으나, CNN은 재현율 0.989와 약 1{,}000배 빠른
+속도로 우위를 보였다(표~\ref{tab:vs}, 그림~\ref{fig:vs}). 문맥 단서(선행 단어 ``주문번호/
+계좌번호'')를 결합하면 STT+NLP의 hard-negative FPR이 $0.218 \to 0.063$으로 크게 줄어,
+CNN이 못 풀던 형식 충돌 문제를 문맥이 해결함을 보인다. 다만 합성 음성에서는 Whisper
+전사가 거의 완벽(일반 발화 WER 중앙값 0, 완전일치 80\%)하여 STT+NLP 성능은 best-case
+상한임을 유의해야 한다. 실통화(잡음·억양·코덱)에서는 WER이 상승하여 이 격차가 좁혀지거나
+역전될 수 있다.
+
+\begin{table}[t]
+\centering
+\caption{CNN 대 STT+NLP (동일 test, $n=331$). 지연은 CNN이 윈도당, STT+NLP가 클립당.}
+\label{tab:vs}
+\small
+\begin{tabular}{lccccc}
+\toprule
+접근 & F1 & Recall & Precision & Hard-neg FPR & 지연 \\
+\midrule
+CNN (음향)            & $0.826$ & $\mathbf{0.989}$ & $0.708$ & $0.542$ & $\mathbf{0.344}$\,ms \\
+STT+NLP (형식만)      & $0.883$ & $0.921$ & $0.849$ & $0.218$ & $\sim$360\,ms \\
+\textbf{STT+NLP (형식+문맥)} & $\mathbf{0.935}$ & $0.921$ & $\mathbf{0.951}$ & $\mathbf{0.063}$ & $\sim$360\,ms \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.58\linewidth]{cnn_vs_sttnlp.pdf}
+\caption{재현율-정밀도 트레이드오프. CNN은 고재현율, STT+NLP(형식+문맥)는 고정밀도로
+상보적이다.}
+\label{fig:vs}
+\end{figure}
+
+\section{논의}\label{sec:discuss}
+
+\subsection{정밀도 약점의 원인 진단}
+v2에서 hard-negative FPR이 $0.25\text{--}0.54$로 높았다. 카테고리별로 분해하면
+(그림~\ref{fig:precision}), 주문번호(9\text{--}11자리)에서 FPR이 0.733으로 집중되는
+반면, 짧은 숫자열인 좌석번호류는 0.156에 그친다. 즉 자릿수로 낭독된 긴 연속 숫자열은
+전화/계좌와 음향 형식이 사실상 동일하여, \emph{형식만으로는 구분할 수 없는 본질적
+상한}이 존재한다. 또한 온도 스케일링($T=2.85$)이나 Platt 스케일링 같은 사후 보정으로는
+ECE가 거의 변하지 않아($0.135 \to 0.142 / 0.112$), 문제는 확률 보정이 아니라 표현/데이터/
+문맥 차원임을 확인하였다. 따라서 정밀도 개선의 레버는 보정이 아니라 (a) 문맥 단서 결합,
+(b) 충돌형 hard-negative 강화 학습이다.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.55\linewidth]{precision_by_category.pdf}
+\caption{hard-negative 카테고리별 FPR. 긴 연속 숫자열(주문번호)이 PII 형식과 충돌하여
+과다검출을 유발한다.}
+\label{fig:precision}
+\end{figure}
+
+\subsection{설계 함의: 2단계 파이프라인}
+실험 결과 CNN은 고재현율·초저비용, STT+NLP(형식+문맥)는 고정밀·문맥 강함으로 상보적이다.
+따라서 CNN으로 1차 선별(고재현율로 후보를 거르고 명백한 비PII는 조기 종료)한 뒤,
+남은 후보에만 STT+NLP를 적용하여 정밀 확정하는 2단계 파이프라인이 두 접근의 장점을
+결합한다. 이는 STT 비용을 크게 줄이면서 정밀도는 정설 경로 수준으로 유지한다.
+
+\subsection{프라이버시 관점}
+CNN 프리필터는 민감 텍스트를 생성하지 않고 이진 신호만 산출하므로, 대부분의 비PII 발화가
+전사 없이 걸러진다. 이는 데이터 최소화와 유출 표면 축소 측면에서 캐스케이드 단독 대비
+이점을 가진다.
+
+\section{한계 및 향후 연구}\label{sec:limit}
+본 결과는 합성 TTS 데이터에 한정되며, 실통화(잡음, 억양, 코덱)에서의 검증이 필요하다.
+STT+NLP 우위 또한 합성음 best-case 기준이므로 실데이터에서의 재평가가 요구된다. 운용
+정밀도 개선을 위해서는 문맥 단서(선행 단어) 결합과 충돌형 hard-negative 강화 학습이
+필요하다. 또한 14화자는 설계 합성 화자로 최근접 쌍의 분리도가 marginal하여 실제 화자
+다양성과는 다르다. 향후 과제로 (i) 실통화 열화 민감도 평가, (ii) 문맥 결합 모델, (iii)
+화자·TTS 다양성 확대를 제시한다.
+
+\section{결론}\label{sec:conclusion}
+STT 없이 멜 스펙트로그램과 경량 CNN만으로, 길이나 숫자 존재 같은 인공 단서에 의존하지
+않고, 화자와 PII 유형을 일반화하여 PII 형식 숫자열을 높은 재현율로 선별할 수 있음을 통제
+실험으로 확인하였다. 60{,}706 파라미터 모델이 28M ImageNet 백본을 능가하여, 프리필터
+목적에 경량 전용 CNN이 부합함도 보였다. 정설 경로와의 비교는 두 접근의 상보성을 드러내며,
+CNN 프리필터와 STT+NLP 확정을 결합한 2단계 파이프라인을 제안한다. 남은 과제는 운용
+정밀도(보정·문맥 결합)와 실데이터 검증이다.
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}
