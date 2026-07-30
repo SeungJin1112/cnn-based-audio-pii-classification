@@ -37,8 +37,8 @@ def fig_loso():
     ax.bar(x - w/2, v1m, w, yerr=v1s, capsize=4, color=C_GREY, label="v1 (3 speakers)")
     ax.bar(x + w/2, v2m, w, yerr=v2s, capsize=4, color=C_MAIN, label="v2 (14 speakers)")
     ax.set_xticks(x); ax.set_xticklabels(labels)
-    ax.set_ylabel("Score"); ax.set_ylim(0, 1.15)
-    ax.legend(frameon=False, loc="upper center", ncol=2)
+    ax.set_ylabel("Score"); ax.set_ylim(0, 1.32)
+    ax.legend(frameon=False, loc="upper center", ncol=2, bbox_to_anchor=(0.5, 1.02))
     for i, (m, s) in enumerate(zip(v1m, v1s)):
         ax.text(i - w/2, m + s + 0.02, f"{m:.2f}", ha="center", fontsize=8)
     for i, (m, s) in enumerate(zip(v2m, v2s)):
@@ -68,16 +68,20 @@ def fig_loso_folds():
 # ---- Fig 3: hard-neg FPR by category (precision diagnosis) ----
 def fig_precision():
     d = load("precision_diagnosis.json")["hard_neg_fpr_by_category"]
-    cats = {"seat": "seat/short", "count": "count 9-11d", "order": "order-no 9-11d"}
+    # 라벨 주의: count 카테고리는 "하나 둘 셋..." 고유어 수사로, 아라비아 숫자가 없다.
+    # (이전 라벨 "count 9-11d" 는 오기였음)
+    cats = {"seat": "seat no.\n(short)", "count": "counting\n(no digits)",
+            "order": "order no.\n(9-11 digits)"}
     ks = ["seat", "count", "order"]
     fpr = [d[k]["fpr"] for k in ks]
-    fig, ax = plt.subplots(figsize=(5.0, 3.2))
+    fig, ax = plt.subplots(figsize=(5.8, 3.4))
     cols = [C_MAIN, C_ALT, C_BAD]
     bars = ax.bar([cats[k] for k in ks], fpr, color=cols)
     ax.set_ylabel("Hard-neg FPR @0.5"); ax.set_ylim(0, 0.85)
+    ax.tick_params(axis="x", labelsize=9)
     for b, v in zip(bars, fpr):
         ax.text(b.get_x() + b.get_width()/2, v + 0.02, f"{v:.2f}", ha="center", fontsize=9)
-    ax.set_title("Long continuous digit strings collide with PII format", fontsize=9)
+    ax.set_title("Hard-negative FPR by category", fontsize=9)
     fig.savefig(os.path.join(FIGS, "precision_by_category.pdf")); plt.close(fig)
 
 
@@ -86,8 +90,8 @@ def fig_vs():
     d = load("stt_nlp_eval.json")
     rows = [
         ("CNN (acoustic)", d["cnn_indist"]["recall"], d["cnn_indist"]["precision"], C_MAIN),
-        ("STT+NLP (format)", d["stt_nlp_format_only"]["recall"], d["stt_nlp_format_only"]["precision"], C_GREY),
-        ("STT+NLP (fmt+ctx)", d["stt_nlp_format_context"]["recall"], d["stt_nlp_format_context"]["precision"], C_ALT),
+        ("STT+NLP (format only)", d["stt_nlp_format_only"]["recall"], d["stt_nlp_format_only"]["precision"], C_GREY),
+        ("STT+NLP (format+context)", d["stt_nlp_format_context"]["recall"], d["stt_nlp_format_context"]["precision"], C_ALT),
     ]
     fig, ax = plt.subplots(figsize=(5.0, 3.6))
     for name, r, p, c in rows:
@@ -95,7 +99,7 @@ def fig_vs():
         ax.annotate(name, (r, p), xytext=(6, 6), textcoords="offset points", fontsize=9)
     ax.set_xlabel("Recall"); ax.set_ylabel("Precision")
     ax.set_xlim(0.85, 1.02); ax.set_ylim(0.65, 1.0)
-    ax.set_title("CNN = high recall; STT+NLP+context = high precision", fontsize=9)
+    ax.set_title("CNN: high recall / STT+NLP+context: high precision", fontsize=9)
     fig.savefig(os.path.join(FIGS, "cnn_vs_sttnlp.pdf")); plt.close(fig)
 
 
@@ -103,7 +107,7 @@ def fig_vs():
 def fig_efficiency():
     models = [
         ("simple_cnn", 60706, 0.955, C_MAIN),
-        ("mobilenet_v3_s", 1519906, 0.776, C_GREY),
+        ("mobilenet_v3_small", 1519906, 0.776, C_GREY),
         ("efficientnet_b0", 4010110, 0.867, C_GREY),
         ("convnext_tiny", 27821666, 0.804, C_GREY),
     ]

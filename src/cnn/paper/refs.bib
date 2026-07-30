@@ -1,56 +1,281 @@
-@article{lugosch2019asrfree,
-  title={End-to-end architectures for {ASR}-free spoken language understanding},
-  author={Lugosch, Loren and Meyer, Brett H. and Nowrouzezahrai, Derek and Ravanelli, Mirco},
-  journal={arXiv preprint arXiv:1910.10599},
-  year={2019}
-}
-
-@article{seo2023e2eslu,
-  title={End-to-end spoken language understanding using joint {CTC} loss and self-supervised, pretrained acoustic encoders},
-  author={Seo, Jinchuan and others},
-  journal={arXiv preprint arXiv:2305.02937},
-  year={2023}
-}
-
-@article{serdyuk2019recent,
-  title={Recent advances in end-to-end spoken language understanding},
-  author={Serdyuk, Dmitriy and others},
-  journal={arXiv preprint arXiv:1909.13332},
-  year={2019}
-}
-
-@article{berg2021keyword,
-  title={Keyword transformer: A self-attention model for keyword spotting},
-  author={Berg, Axel and O'Connor, Mark and Cruz, Miguel Tairum},
-  journal={arXiv preprint arXiv:2104.00769},
-  year={2021}
-}
-
-@article{turner2023content,
-  title={New challenges for content privacy in speech and audio},
-  author={Turner, Jennifer and others},
-  journal={arXiv preprint arXiv:2301.08925},
-  year={2023}
-}
-
-@article{ahmed2020preech,
-  title={{Preech}: A system for privacy-preserving speech transcription},
-  author={Ahmed, Shimaa and Chowdhury, Amrita Roy and Fawaz, Kassem and Ramanathan, Parmesh},
-  journal={arXiv preprint arXiv:1909.04198},
-  year={2020}
-}
-
+% ---------------------------------------------------------------------------
+% 캐스케이드 PII 레닥션 / 비식별화
+% ---------------------------------------------------------------------------
 @misc{azurepii,
-  title={Conversation {PII} redaction overview},
-  author={{Microsoft}},
-  howpublished={Azure AI Language documentation},
-  year={2024},
-  note={\url{https://learn.microsoft.com/azure/ai-services/language-service/personally-identifiable-information/conversation-pii-overview}}
+  title        = {Conversation Personally Identifiable Information ({PII}) redaction overview},
+  howpublished = {Microsoft Azure AI Language documentation},
+  year         = {2026},
+  note         = {Accessed 2026-07-29.
+                  \url{https://learn.microsoft.com/azure/ai-services/language-service/personally-identifiable-information/conversation-pii-overview}}
 }
 
+@inproceedings{cohn2019audiodeid,
+  title     = {Audio De-identification -- a New Entity Recognition Task},
+  author    = {Cohn, Ido and Laish, Itay and Beryozkin, Genady and Li, Gang and
+               Shafran, Izhak and Szpektor, Idan and Hartman, Tzvika and
+               Hassidim, Avinatan and Matias, Yossi},
+  booktitle = {Proceedings of the 2019 Conference of the North American Chapter of the
+               Association for Computational Linguistics: Human Language Technologies
+               (NAACL-HLT), Volume 2 (Industry Papers)},
+  pages     = {197--204},
+  year      = {2019},
+  doi       = {10.18653/v1/N19-2025}
+}
+
+@inproceedings{gouvea2023trustera,
+  title     = {Trustera: A Live Conversation Redaction System},
+  author    = {Gouv{\^e}a, Evandro and Dadgar, Ali and Jalalvand, Shahab and
+               Chengalvarayan, Rathi and Jayakumar, Badrinath and Price, Ryan and
+               Ruiz, Nicholas and McGovern, Jennifer and Bangalore, Srinivas and Stern, Ben},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {1--5},
+  year      = {2023},
+  doi       = {10.1109/ICASSP49357.2023.10096816}
+}
+
+@article{dao2025callcenter,
+  title   = {Real-World En Call Center Transcripts Dataset with {PII} Redaction},
+  author  = {Dao, Ha and Chawla, Gaurav and Banda, Raghu and DeLeeuw, Caleb},
+  journal = {arXiv preprint arXiv:2507.02958},
+  year    = {2025}
+}
+
+% ---------------------------------------------------------------------------
+% ASR-free / 종단간 SLU
+% ---------------------------------------------------------------------------
+@inproceedings{serdyuk2018towards,
+  title     = {Towards End-to-End Spoken Language Understanding},
+  author    = {Serdyuk, Dmitriy and Wang, Yongqiang and Fuegen, Christian and
+               Kumar, Anuj and Liu, Baiyang and Bengio, Yoshua},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {5754--5758},
+  year      = {2018},
+  doi       = {10.1109/ICASSP.2018.8461785}
+}
+
+@inproceedings{lugosch2019pretrain,
+  title     = {Speech Model Pre-training for End-to-End Spoken Language Understanding},
+  author    = {Lugosch, Loren and Ravanelli, Mirco and Ignoto, Patrick and
+               Tomar, Vikrant Singh and Bengio, Yoshua},
+  booktitle = {Proc. Interspeech},
+  pages     = {814--818},
+  year      = {2019},
+  doi       = {10.21437/Interspeech.2019-2396}
+}
+
+@inproceedings{palogiannidi2020asrfree,
+  title     = {End-to-End Architectures for {ASR}-Free Spoken Language Understanding},
+  author    = {Palogiannidi, Elisavet and Gkinis, Ioannis and Mastrapas, George and
+               Mizera, Petr and Stafylakis, Themos},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {7974--7978},
+  year      = {2020},
+  doi       = {10.1109/ICASSP40776.2020.9054314}
+}
+
+@inproceedings{tomashenko2019recent,
+  title     = {Recent Advances in End-to-End Spoken Language Understanding},
+  author    = {Tomashenko, Natalia and Caubri{\`e}re, Antoine and Est{\`e}ve, Yannick and
+               Laurent, Antoine and Morin, Emmanuel},
+  booktitle = {Statistical Language and Speech Processing (SLSP)},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11816},
+  pages     = {44--55},
+  publisher = {Springer},
+  year      = {2019},
+  doi       = {10.1007/978-3-030-31372-2_4}
+}
+
+@inproceedings{wang2023jointctc,
+  title     = {End-to-End Spoken Language Understanding Using Joint {CTC} Loss and
+               Self-Supervised, Pretrained Acoustic Encoders},
+  author    = {Wang, Jixuan and Radfar, Martin and Wei, Kai and Chung, Clement},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {1--5},
+  year      = {2023},
+  doi       = {10.1109/ICASSP49357.2023.10096795}
+}
+
+% ---------------------------------------------------------------------------
+% 키워드 스포팅 / 음향 분류
+% ---------------------------------------------------------------------------
+@inproceedings{sainath2015cnnkws,
+  title     = {Convolutional Neural Networks for Small-Footprint Keyword Spotting},
+  author    = {Sainath, Tara N. and Parada, Carolina},
+  booktitle = {Proc. Interspeech},
+  pages     = {1478--1482},
+  year      = {2015},
+  doi       = {10.21437/Interspeech.2015-352}
+}
+
+@inproceedings{tang2018resnetkws,
+  title     = {Deep Residual Learning for Small-Footprint Keyword Spotting},
+  author    = {Tang, Raphael and Lin, Jimmy},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {5484--5488},
+  year      = {2018}
+}
+
+@inproceedings{berg2021keyword,
+  title     = {Keyword Transformer: A Self-Attention Model for Keyword Spotting},
+  author    = {Berg, Axel and O'Connor, Mark and Cruz, Miguel Tairum},
+  booktitle = {Proc. Interspeech},
+  pages     = {4249--4253},
+  year      = {2021},
+  doi       = {10.21437/Interspeech.2021-1286}
+}
+
+@article{warden2018speech,
+  title   = {Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition},
+  author  = {Warden, Pete},
+  journal = {arXiv preprint arXiv:1804.03209},
+  year    = {2018}
+}
+
+@article{kong2020panns,
+  title   = {{PANNs}: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition},
+  author  = {Kong, Qiuqiang and Cao, Yin and Iqbal, Turab and Wang, Yuxuan and
+             Wang, Wenwu and Plumbley, Mark D.},
+  journal = {IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  volume  = {28},
+  pages   = {2880--2894},
+  year    = {2020},
+  doi     = {10.1109/TASLP.2020.3030497}
+}
+
+@inproceedings{gong2021ast,
+  title     = {{AST}: Audio Spectrogram Transformer},
+  author    = {Gong, Yuan and Chung, Yu-An and Glass, James},
+  booktitle = {Proc. Interspeech},
+  pages     = {571--575},
+  year      = {2021},
+  doi       = {10.21437/Interspeech.2021-698}
+}
+
+% ---------------------------------------------------------------------------
+% 음성 콘텐츠 프라이버시
+% ---------------------------------------------------------------------------
+@inproceedings{williams2022content,
+  title     = {New Challenges for Content Privacy in Speech and Audio},
+  author    = {Williams, Jennifer and Pizzi, Karla and Das, Shuvayanti and No{\'e}, Paul-Gauthier},
+  booktitle = {Proc. 2nd Symposium on Security and Privacy in Speech Communication (SPSC)},
+  pages     = {1--6},
+  year      = {2022},
+  doi       = {10.21437/SPSC.2022-1}
+}
+
+@inproceedings{ahmed2020preech,
+  title     = {{Preech}: A System for Privacy-Preserving Speech Transcription},
+  author    = {Ahmed, Shimaa and Chowdhury, Amrita Roy and Fawaz, Kassem and Ramanathan, Parmesh},
+  booktitle = {29th USENIX Security Symposium},
+  pages     = {2703--2720},
+  year      = {2020}
+}
+
+% ---------------------------------------------------------------------------
+% ASR / TTS / 모델 / 학습 기법
+% ---------------------------------------------------------------------------
 @inproceedings{radford2023whisper,
-  title={Robust speech recognition via large-scale weak supervision},
-  author={Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and McLeavey, Christine and Sutskever, Ilya},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2023}
+  title     = {Robust Speech Recognition via Large-Scale Weak Supervision},
+  author    = {Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and
+               McLeavey, Christine and Sutskever, Ilya},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {202},
+  pages     = {28492--28518},
+  year      = {2023}
+}
+
+@article{hu2026qwen3tts,
+  title   = {Qwen3-{TTS} Technical Report},
+  author  = {Hu, Hangrui and Zhu, Xinfa and He, Ting and Guo, Dake and Zhang, Bin and
+             Wang, Xiong and Guo, Zhifang and Jiang, Ziyue and Hao, Hongkun and
+             Guo, Zishan and Zhang, Xinyu and Zhang, Pei and Yang, Baosong and
+             Xu, Jin and Zhou, Jingren and Lin, Junyang},
+  journal = {arXiv preprint arXiv:2601.15621},
+  year    = {2026}
+}
+
+@inproceedings{snyder2018xvector,
+  title     = {X-Vectors: Robust {DNN} Embeddings for Speaker Recognition},
+  author    = {Snyder, David and Garcia-Romero, Daniel and Sell, Gregory and
+               Povey, Daniel and Khudanpur, Sanjeev},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages     = {5329--5333},
+  year      = {2018}
+}
+
+@inproceedings{park2019specaugment,
+  title     = {{SpecAugment}: A Simple Data Augmentation Method for Automatic Speech Recognition},
+  author    = {Park, Daniel S. and Chan, William and Zhang, Yu and Chiu, Chung-Cheng and
+               Zoph, Barret and Cubuk, Ekin D. and Le, Quoc V.},
+  booktitle = {Proc. Interspeech},
+  pages     = {2613--2617},
+  year      = {2019},
+  doi       = {10.21437/Interspeech.2019-2680}
+}
+
+@inproceedings{howard2019mobilenetv3,
+  title     = {Searching for {MobileNetV3}},
+  author    = {Howard, Andrew and Sandler, Mark and Chu, Grace and Chen, Liang-Chieh and
+               Chen, Bo and Tan, Mingxing and Wang, Weijun and Zhu, Yukun and Pang, Ruoming and
+               Vasudevan, Vijay and Le, Quoc V. and Adam, Hartwig},
+  booktitle = {IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages     = {1314--1324},
+  year      = {2019}
+}
+
+@inproceedings{tan2019efficientnet,
+  title     = {{EfficientNet}: Rethinking Model Scaling for Convolutional Neural Networks},
+  author    = {Tan, Mingxing and Le, Quoc V.},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {97},
+  pages     = {6105--6114},
+  year      = {2019}
+}
+
+@inproceedings{liu2022convnext,
+  title     = {A {ConvNet} for the 2020s},
+  author    = {Liu, Zhuang and Mao, Hanzi and Wu, Chao-Yuan and Feichtenhofer, Christoph and
+               Darrell, Trevor and Xie, Saining},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages     = {11966--11976},
+  year      = {2022}
+}
+
+@inproceedings{loshchilov2019adamw,
+  title     = {Decoupled Weight Decay Regularization},
+  author    = {Loshchilov, Ilya and Hutter, Frank},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2019}
+}
+
+@inproceedings{loshchilov2017sgdr,
+  title     = {{SGDR}: Stochastic Gradient Descent with Warm Restarts},
+  author    = {Loshchilov, Ilya and Hutter, Frank},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2017}
+}
+
+@inproceedings{guo2017calibration,
+  title     = {On Calibration of Modern Neural Networks},
+  author    = {Guo, Chuan and Pleiss, Geoff and Sun, Yu and Weinberger, Kilian Q.},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {70},
+  pages     = {1321--1330},
+  year      = {2017}
+}
+
+@article{geirhos2020shortcut,
+  title   = {Shortcut Learning in Deep Neural Networks},
+  author  = {Geirhos, Robert and Jacobsen, J{\"o}rn-Henrik and Michaelis, Claudio and
+             Zemel, Richard and Brendel, Wieland and Bethge, Matthias and Wichmann, Felix A.},
+  journal = {Nature Machine Intelligence},
+  volume  = {2},
+  number  = {11},
+  pages   = {665--673},
+  year    = {2020},
+  doi     = {10.1038/s42256-020-00257-z}
 }
