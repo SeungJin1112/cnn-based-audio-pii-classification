@@ -25,3 +25,6 @@ src/cnn/paper/*.blg
 src/cnn/paper/*.log
 src/cnn/paper/*.out
 src/cnn/paper/*.toc
+
+# 조판 검증용 스크래치(페이지 PNG·crop 파일) — 재생성 가능
+.typeset_tmp/
