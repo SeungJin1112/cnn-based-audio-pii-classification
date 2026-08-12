@@ -1,4 +1,12 @@
-"""논문 그림 생성 — runs/*.json 실측치 기반. 출력: paper/figs/*.pdf (벡터)."""
+"""논문 그림 생성 — runs/*.json 실측치 기반. 출력: paper/figs/*.pdf (벡터).
+
+주의(2026-08-11): 2차 피드백 반영으로 v2 계열 실험을 재실행했으므로
+`loso_v1_v2.pdf`, `loso_folds.pdf`, `cnn_vs_sttnlp.pdf`는 이 스크립트가 아니라
+`src/cnn/rev2/make_figs2.py`가 생성한 것이 최신이다. `precision_by_category.pdf`는
+카테고리별 미학습 오탐률 그림(`heldcat_fpr.pdf`)으로 대체되어 더 이상 쓰지 않는다.
+이 스크립트를 다시 돌리면 최신 그림을 덮어쓰므로, 재생성이 필요하면 `make_figs2.py`를
+이어서 실행할 것.
+"""
 import json, os
 import numpy as np
 import matplotlib
