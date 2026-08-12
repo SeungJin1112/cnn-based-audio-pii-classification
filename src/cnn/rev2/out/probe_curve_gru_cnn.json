@@ -1,0 +1,334 @@
+{
+  "n": 1280,
+  "model": "gru_cnn",
+  "ckpts": [
+    "out/ckpt_seq_indist_gru_cnn_s42.pt",
+    "out/ckpt_seq_indist_gru_cnn_s43.pt",
+    "out/ckpt_seq_indist_gru_cnn_s44.pt"
+  ],
+  "curves": {
+    "continuous/bare": [
+      {
+        "n_digits": 4,
+        "n": 40,
+        "mean_prob": 0.020448751400302473,
+        "median_prob": 0.010371078581859669,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.01464162142559013
+      },
+      {
+        "n_digits": 6,
+        "n": 40,
+        "mean_prob": 0.0135725445880477,
+        "median_prob": 0.0052419466665014625,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.005549741227117937
+      },
+      {
+        "n_digits": 8,
+        "n": 40,
+        "mean_prob": 0.017635273404691055,
+        "median_prob": 0.008348928454021614,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.011944964360905825
+      },
+      {
+        "n_digits": 10,
+        "n": 40,
+        "mean_prob": 0.038142179754989534,
+        "median_prob": 0.01637213715973,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.025778253601018757
+      },
+      {
+        "n_digits": 12,
+        "n": 40,
+        "mean_prob": 0.1801943716321451,
+        "median_prob": 0.10909688441703716,
+        "rate_ge_0.5": 0.075,
+        "seed_std": 0.07198079527981846
+      },
+      {
+        "n_digits": 14,
+        "n": 40,
+        "mean_prob": 0.39981889989382274,
+        "median_prob": 0.29513161877791083,
+        "rate_ge_0.5": 0.375,
+        "seed_std": 0.08628422706269358
+      },
+      {
+        "n_digits": 16,
+        "n": 40,
+        "mean_prob": 0.6254527419572696,
+        "median_prob": 0.7640752693017323,
+        "rate_ge_0.5": 0.7,
+        "seed_std": 0.07556266751946736
+      }
+    ],
+    "continuous/bare/fit": {
+      "x50": 14.808924918475995,
+      "slope": 0.7799162581574733
+    },
+    "continuous/sentence": [
+      {
+        "n_digits": 4,
+        "n": 100,
+        "mean_prob": 0.0053143846402720855,
+        "median_prob": 0.0038789516547694802,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.002144854394100378
+      },
+      {
+        "n_digits": 6,
+        "n": 100,
+        "mean_prob": 0.015203620372340083,
+        "median_prob": 0.009275900044788916,
+        "rate_ge_0.5": 0.0,
+        "seed_std": 0.007934830024380404
+      },
+      {
+        "n_digits": 8,
+        "n": 100,
+        "mean_prob": 0.10126863658001337,
+        "median_prob": 0.03701703747113545,
+        "rate_ge_0.5": 0.04,
+        "seed_std": 0.04355251666591373
+      },
+      {
+        "n_digits": 10,
+        "n": 100,
+        "mean_prob": 0.3089310281708216,
+        "median_prob": 0.22756892939408618,
+        "rate_ge_0.5": 0.27,
+        "seed_std": 0.09125010940400421
+      },
+      {
+        "n_digits": 12,
+        "n": 100,
+        "mean_prob": 0.6218979199059929,
+        "median_prob": 0.7250598470369976,
+        "rate_ge_0.5": 0.66,
+        "seed_std": 0.08709832932344201
+      },
+      {
+        "n_digits": 14,
+        "n": 100,
+        "mean_prob": 0.8436445181226979,
+        "median_prob": 0.930982897679011,
+        "rate_ge_0.5": 0.91,
+        "seed_std": 0.04835329753955771
+      },
+      {
+        "n_digits": 16,
+        "n": 100,
+        "mean_prob": 0.9244667603323857,
+        "median_prob": 0.97667462627093,
+        "rate_ge_0.5": 0.97,
+        "seed_std": 0.02622951299844878
+      }
+    ],
+    "continuous/sentence/fit": {
+      "x50": 11.222790951375858,
+      "slope": 0.8539155349452308
+    },
+    "grouped4/sentence": [
+      {
+        "n_digits": 8,
+        "n": 100,
+        "mean_prob": 0.1025535447165991,
+        "median_prob": 0.04181753921632965,
+        "rate_ge_0.5": 0.03,
+        "seed_std": 0.04789805672113239
+      },
+      {
+        "n_digits": 12,
+        "n": 100,
+        "mean_prob": 0.608360089911148,
+        "median_prob": 0.6785635153452556,
+        "rate_ge_0.5": 0.67,
+        "seed_std": 0.08424620468914433
+      },
+      {
+        "n_digits": 16,
+        "n": 100,
+        "mean_prob": 0.9531280900537966,
+        "median_prob": 0.9851805071036022,
+        "rate_ge_0.5": 0.99,
+        "seed_std": 0.016207955036120145
+      }
+    ],
+    "grouped4/sentence/fit": {
+      "x50": 11.320229367921957,
+      "slope": 1.0407149321113482
+    }
+  },
+  "grouping_contrast": [
+    {
+      "n_digits": 8,
+      "continuous_rate": 0.04,
+      "grouped4_rate": 0.03,
+      "continuous_mean": 0.10126863658001337,
+      "grouped4_mean": 0.1025535447165991
+    },
+    {
+      "n_digits": 12,
+      "continuous_rate": 0.66,
+      "grouped4_rate": 0.67,
+      "continuous_mean": 0.6218979199059929,
+      "grouped4_mean": 0.608360089911148
+    },
+    {
+      "n_digits": 16,
+      "continuous_rate": 0.97,
+      "grouped4_rate": 0.99,
+      "continuous_mean": 0.9244667603323857,
+      "grouped4_mean": 0.9531280900537966
+    }
+  ],
+  "duration_vs_digits": [
+    {
+      "frame": "bare",
+      "n_digits": 4,
+      "dur": 1.286,
+      "rate": 0.0,
+      "prob": 0.020448751400302476
+    },
+    {
+      "frame": "bare",
+      "n_digits": 6,
+      "dur": 1.536,
+      "rate": 0.0,
+      "prob": 0.0135725445880477
+    },
+    {
+      "frame": "bare",
+      "n_digits": 8,
+      "dur": 1.9260000000000002,
+      "rate": 0.0,
+      "prob": 0.01763527340469106
+    },
+    {
+      "frame": "bare",
+      "n_digits": 10,
+      "dur": 2.402,
+      "rate": 0.0,
+      "prob": 0.03814217975498953
+    },
+    {
+      "frame": "bare",
+      "n_digits": 12,
+      "dur": 2.794,
+      "rate": 0.075,
+      "prob": 0.18019437163214508
+    },
+    {
+      "frame": "bare",
+      "n_digits": 14,
+      "dur": 3.1399999999999997,
+      "rate": 0.375,
+      "prob": 0.39981889989382274
+    },
+    {
+      "frame": "bare",
+      "n_digits": 16,
+      "dur": 3.4200000000000004,
+      "rate": 0.7,
+      "prob": 0.6254527419572696
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 4,
+      "dur": 2.0672,
+      "rate": 0.0,
+      "prob": 0.005314384640272086
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 6,
+      "dur": 2.5256,
+      "rate": 0.0,
+      "prob": 0.015203620372340083
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 8,
+      "dur": 2.8888,
+      "rate": 0.035,
+      "prob": 0.10191109064830622
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 10,
+      "dur": 3.2407999999999997,
+      "rate": 0.27,
+      "prob": 0.3089310281708216
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 12,
+      "dur": 3.5808,
+      "rate": 0.665,
+      "prob": 0.6151290049085705
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 14,
+      "dur": 4.016,
+      "rate": 0.91,
+      "prob": 0.8436445181226979
+    },
+    {
+      "frame": "sentence",
+      "n_digits": 16,
+      "dur": 4.3995999999999995,
+      "rate": 0.98,
+      "prob": 0.9387974251930912
+    }
+  ],
+  "duration_matched_pairs": [
+    {
+      "bare_digits": 8,
+      "bare_dur": 1.9260000000000002,
+      "bare_rate": 0.0,
+      "sent_digits": 4,
+      "sent_dur": 2.0672,
+      "sent_rate": 0.0
+    },
+    {
+      "bare_digits": 10,
+      "bare_dur": 2.402,
+      "bare_rate": 0.0,
+      "sent_digits": 6,
+      "sent_dur": 2.5256,
+      "sent_rate": 0.0
+    },
+    {
+      "bare_digits": 12,
+      "bare_dur": 2.794,
+      "bare_rate": 0.075,
+      "sent_digits": 8,
+      "sent_dur": 2.8888,
+      "sent_rate": 0.035
+    },
+    {
+      "bare_digits": 14,
+      "bare_dur": 3.1399999999999997,
+      "bare_rate": 0.375,
+      "sent_digits": 10,
+      "sent_dur": 3.2407999999999997,
+      "sent_rate": 0.27
+    },
+    {
+      "bare_digits": 16,
+      "bare_dur": 3.4200000000000004,
+      "bare_rate": 0.7,
+      "sent_digits": 12,
+      "sent_dur": 3.5808,
+      "sent_rate": 0.665
+    }
+  ],
+  "logit_coef": {
+    "n_digits": 1.8245569937553643,
+    "duration": 2.759878959984546
+  }
+}

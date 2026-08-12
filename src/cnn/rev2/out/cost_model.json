@@ -1,0 +1,192 @@
+{
+  "inputs": {
+    "recall": 0.9453262786596119,
+    "f_hard": 0.3287981859410431,
+    "f_easy": 0.019521604938271604,
+    "cnn_cost_ratio": 0.005
+  },
+  "grid": [
+    {
+      "p": 0.01,
+      "q": 0.1,
+      "call_rate": 0.059398033194759385,
+      "net_saving_per_utt_in_cstt": 0.9356019668052407,
+      "missed_pii_per_utt": 0.0005467372134038807,
+      "breakeven_cmiss_over_cstt": 1711.2461779953899
+    },
+    {
+      "p": 0.01,
+      "q": 0.3,
+      "call_rate": 0.12063479623330814,
+      "net_saving_per_utt_in_cstt": 0.8743652037666919,
+      "missed_pii_per_utt": 0.0005467372134038807,
+      "breakeven_cmiss_over_cstt": 1599.2421630184315
+    },
+    {
+      "p": 0.01,
+      "q": 1.0,
+      "call_rate": 0.3349634668682288,
+      "net_saving_per_utt_in_cstt": 0.6600365331317711,
+      "missed_pii_per_utt": 0.0005467372134038807,
+      "breakeven_cmiss_over_cstt": 1207.228110599077
+    },
+    {
+      "p": 0.05,
+      "q": 0.1,
+      "call_rate": 0.09519311381960191,
+      "net_saving_per_utt_in_cstt": 0.8998068861803981,
+      "missed_pii_per_utt": 0.002733686067019403,
+      "breakeven_cmiss_over_cstt": 329.15516417050657
+    },
+    {
+      "p": 0.05,
+      "q": 0.3,
+      "call_rate": 0.1539556642101285,
+      "net_saving_per_utt_in_cstt": 0.8410443357898715,
+      "missed_pii_per_utt": 0.002733686067019403,
+      "breakeven_cmiss_over_cstt": 307.65944412442366
+    },
+    {
+      "p": 0.05,
+      "q": 1.0,
+      "call_rate": 0.3596245905769715,
+      "net_saving_per_utt_in_cstt": 0.6353754094230285,
+      "missed_pii_per_utt": 0.002733686067019403,
+      "breakeven_cmiss_over_cstt": 232.42442396313342
+    },
+    {
+      "p": 0.1,
+      "q": 0.1,
+      "call_rate": 0.13993696460065508,
+      "net_saving_per_utt_in_cstt": 0.8550630353993449,
+      "missed_pii_per_utt": 0.005467372134038806,
+      "breakeven_cmiss_over_cstt": 156.39378744239616
+    },
+    {
+      "p": 0.1,
+      "q": 0.3,
+      "call_rate": 0.19560674918115395,
+      "net_saving_per_utt_in_cstt": 0.799393250818846,
+      "missed_pii_per_utt": 0.005467372134038806,
+      "breakeven_cmiss_over_cstt": 146.21160426267267
+    },
+    {
+      "p": 0.1,
+      "q": 1.0,
+      "call_rate": 0.39045099521289994,
+      "net_saving_per_utt_in_cstt": 0.6045490047871,
+      "missed_pii_per_utt": 0.005467372134038806,
+      "breakeven_cmiss_over_cstt": 110.57396313364045
+    },
+    {
+      "p": 0.2,
+      "q": 0.1,
+      "call_rate": 0.22942466616276141,
+      "net_saving_per_utt_in_cstt": 0.7655753338372385,
+      "missed_pii_per_utt": 0.010934744268077612,
+      "breakeven_cmiss_over_cstt": 70.01309907834094
+    },
+    {
+      "p": 0.2,
+      "q": 0.3,
+      "call_rate": 0.2789089191232048,
+      "net_saving_per_utt_in_cstt": 0.7160910808767952,
+      "missed_pii_per_utt": 0.010934744268077612,
+      "breakeven_cmiss_over_cstt": 65.48768433179717
+    },
+    {
+      "p": 0.2,
+      "q": 1.0,
+      "call_rate": 0.4521038044847569,
+      "net_saving_per_utt_in_cstt": 0.542896195515243,
+      "missed_pii_per_utt": 0.010934744268077612,
+      "breakeven_cmiss_over_cstt": 49.64873271889395
+    },
+    {
+      "p": 0.5,
+      "q": 0.1,
+      "call_rate": 0.49788777084908037,
+      "net_saving_per_utt_in_cstt": 0.4971122291509197,
+      "missed_pii_per_utt": 0.02733686067019403,
+      "breakeven_cmiss_over_cstt": 18.18468605990782
+    },
+    {
+      "p": 0.5,
+      "q": 0.3,
+      "call_rate": 0.5288154289493575,
+      "net_saving_per_utt_in_cstt": 0.4661845710506425,
+      "missed_pii_per_utt": 0.02733686067019403,
+      "breakeven_cmiss_over_cstt": 17.053332373271875
+    },
+    {
+      "p": 0.5,
+      "q": 1.0,
+      "call_rate": 0.6370622323003275,
+      "net_saving_per_utt_in_cstt": 0.35793776769967245,
+      "missed_pii_per_utt": 0.02733686067019403,
+      "breakeven_cmiss_over_cstt": 13.09359447004607
+    }
+  ],
+  "operating_points": [
+    {
+      "target_recall": 0.99,
+      "threshold": 0.2139333333333333,
+      "recall": 0.9964726631393298,
+      "hard_fpr": 0.6462585034013606,
+      "p": 0.05,
+      "call_rate": 0.2469891739103049,
+      "saving": 0.748010826089695,
+      "breakeven_cmiss_over_cstt": 4241.2213839285705
+    },
+    {
+      "target_recall": 0.99,
+      "threshold": 0.2139333333333333,
+      "recall": 0.9964726631393298,
+      "hard_fpr": 0.6462585034013606,
+      "p": 0.2,
+      "call_rate": 0.3653286722096246,
+      "saving": 0.6296713277903754,
+      "breakeven_cmiss_over_cstt": 892.559107142857
+    },
+    {
+      "target_recall": 0.95,
+      "threshold": 0.37523333333333336,
+      "recall": 0.980599647266314,
+      "hard_fpr": 0.47165532879818595,
+      "p": 0.05,
+      "call_rate": 0.19643361835474932,
+      "saving": 0.7985663816452507,
+      "breakeven_cmiss_over_cstt": 823.24934253247
+    },
+    {
+      "target_recall": 0.95,
+      "threshold": 0.37523333333333336,
+      "recall": 0.980599647266314,
+      "hard_fpr": 0.47165532879818595,
+      "p": 0.2,
+      "call_rate": 0.32024930713025956,
+      "saving": 0.6747506928697404,
+      "breakeven_cmiss_over_cstt": 173.90165584415632
+    },
+    {
+      "target_recall": 0.9,
+      "threshold": 0.5004666666666667,
+      "recall": 0.9417989417989417,
+      "hard_fpr": 0.30385487528344673,
+      "p": 0.05,
+      "call_rate": 0.14667045382968003,
+      "saving": 0.84832954617032,
+      "breakeven_cmiss_over_cstt": 291.5168804112551
+    },
+    {
+      "target_recall": 0.9,
+      "threshold": 0.5004666666666667,
+      "recall": 0.9417989417989417,
+      "hard_fpr": 0.30385487528344673,
+      "p": 0.2,
+      "call_rate": 0.2722170571932477,
+      "saving": 0.7227829428067524,
+      "breakeven_cmiss_over_cstt": 62.09362554112548
+    }
+  ]
+}

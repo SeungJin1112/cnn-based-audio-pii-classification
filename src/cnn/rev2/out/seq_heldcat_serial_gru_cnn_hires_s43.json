@@ -1,0 +1,10 @@
+{
+  "category": "serial",
+  "model": "gru_cnn_hires",
+  "seed": 43,
+  "n": 50,
+  "held_fpr@0.5": 0.86,
+  "mean_prob": 0.7966592881083489,
+  "best_val_f1": 0.9795918367346939,
+  "epochs_run": 39
+}

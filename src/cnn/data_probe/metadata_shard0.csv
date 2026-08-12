@@ -1,0 +1,321 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration,n_digits,n_groups,max_run,frame,axis
+probe_00000_spk01.wav,output/probe_00000_spk01.wav,번호는 일공사삼입니다.,1043,,female,spk01,probe_cont_4,probe,-1,2.24,4,1,4,sentence,continuous
+probe_00004_spk05.wav,output/probe_00004_spk05.wav,번호는 팔구공팔입니다.,8908,,female,spk05,probe_cont_4,probe,-1,2.0,4,1,4,sentence,continuous
+probe_00008_spk09.wav,output/probe_00008_spk09.wav,번호는 이삼오일입니다.,2351,,female,spk09,probe_cont_4,probe,-1,1.6,4,1,4,sentence,continuous
+probe_00012_spk13.wav,output/probe_00012_spk13.wav,번호는 일팔사구입니다.,1849,,male,spk13,probe_cont_4,probe,-1,1.76,4,1,4,sentence,continuous
+probe_00016_spk03.wav,output/probe_00016_spk03.wav,번호는 칠오이오입니다.,7525,,female,spk03,probe_cont_4,probe,-1,2.0,4,1,4,sentence,continuous
+probe_00020_spk07.wav,output/probe_00020_spk07.wav,번호는 팔삼오공입니다.,8350,,female,spk07,probe_cont_4,probe,-1,1.76,4,1,4,sentence,continuous
+probe_00024_spk11.wav,output/probe_00024_spk11.wav,번호는 칠이사이입니다.,7242,,female,spk11,probe_cont_4,probe,-1,2.96,4,1,4,sentence,continuous
+probe_00028_spk01.wav,output/probe_00028_spk01.wav,번호는 칠일공일입니다.,7101,,female,spk01,probe_cont_4,probe,-1,2.16,4,1,4,sentence,continuous
+probe_00032_spk05.wav,output/probe_00032_spk05.wav,번호는 공일팔사입니다.,0184,,female,spk05,probe_cont_4,probe,-1,1.84,4,1,4,sentence,continuous
+probe_00036_spk09.wav,output/probe_00036_spk09.wav,번호는 사팔구삼입니다.,4893,,female,spk09,probe_cont_4,probe,-1,1.76,4,1,4,sentence,continuous
+probe_00040_spk13.wav,output/probe_00040_spk13.wav,번호는 사삼공삼입니다.,4303,,male,spk13,probe_cont_4,probe,-1,2.16,4,1,4,sentence,continuous
+probe_00044_spk03.wav,output/probe_00044_spk03.wav,번호는 팔구육삼입니다.,8963,,female,spk03,probe_cont_4,probe,-1,3.36,4,1,4,sentence,continuous
+probe_00048_spk07.wav,output/probe_00048_spk07.wav,번호는 오공구팔입니다.,5098,,female,spk07,probe_cont_4,probe,-1,2.48,4,1,4,sentence,continuous
+probe_00052_spk11.wav,output/probe_00052_spk11.wav,번호는 삼사칠삼입니다.,3473,,female,spk11,probe_cont_4,probe,-1,2.0,4,1,4,sentence,continuous
+probe_00056_spk01.wav,output/probe_00056_spk01.wav,번호는 오육육칠입니다.,5667,,female,spk01,probe_cont_4,probe,-1,2.48,4,1,4,sentence,continuous
+probe_00060_spk05.wav,output/probe_00060_spk05.wav,번호는 육이사칠입니다.,6247,,female,spk05,probe_cont_4,probe,-1,1.76,4,1,4,sentence,continuous
+probe_00064_spk09.wav,output/probe_00064_spk09.wav,번호는 칠칠삼육입니다.,7736,,female,spk09,probe_cont_4,probe,-1,1.84,4,1,4,sentence,continuous
+probe_00068_spk13.wav,output/probe_00068_spk13.wav,번호는 삼사삼공입니다.,3430,,male,spk13,probe_cont_4,probe,-1,1.92,4,1,4,sentence,continuous
+probe_00072_spk03.wav,output/probe_00072_spk03.wav,번호는 팔일이일입니다.,8121,,female,spk03,probe_cont_4,probe,-1,2.88,4,1,4,sentence,continuous
+probe_00076_spk07.wav,output/probe_00076_spk07.wav,번호는 육구구팔입니다.,6998,,female,spk07,probe_cont_4,probe,-1,1.92,4,1,4,sentence,continuous
+probe_00080_spk11.wav,output/probe_00080_spk11.wav,번호는 공칠구구입니다.,0799,,female,spk11,probe_cont_4,probe,-1,2.4,4,1,4,sentence,continuous
+probe_00084_spk01.wav,output/probe_00084_spk01.wav,번호는 이칠팔사입니다.,2784,,female,spk01,probe_cont_4,probe,-1,2.4,4,1,4,sentence,continuous
+probe_00088_spk05.wav,output/probe_00088_spk05.wav,번호는 사사구삼입니다.,4493,,female,spk05,probe_cont_4,probe,-1,1.68,4,1,4,sentence,continuous
+probe_00092_spk09.wav,output/probe_00092_spk09.wav,번호는 오이사이입니다.,5242,,female,spk09,probe_cont_4,probe,-1,1.92,4,1,4,sentence,continuous
+probe_00096_spk13.wav,output/probe_00096_spk13.wav,번호는 팔이육이입니다.,8262,,male,spk13,probe_cont_4,probe,-1,2.16,4,1,4,sentence,continuous
+probe_00100_spk03.wav,output/probe_00100_spk03.wav,번호는 이삼이이육공입니다.,232260,,female,spk03,probe_cont_6,probe,-1,2.64,6,1,6,sentence,continuous
+probe_00104_spk07.wav,output/probe_00104_spk07.wav,번호는 삼육오사일사입니다.,365414,,female,spk07,probe_cont_6,probe,-1,2.24,6,1,6,sentence,continuous
+probe_00108_spk11.wav,output/probe_00108_spk11.wav,번호는 구팔일육구삼입니다.,981693,,female,spk11,probe_cont_6,probe,-1,2.56,6,1,6,sentence,continuous
+probe_00112_spk01.wav,output/probe_00112_spk01.wav,번호는 오육사팔이삼입니다.,564823,,female,spk01,probe_cont_6,probe,-1,2.4,6,1,6,sentence,continuous
+probe_00116_spk05.wav,output/probe_00116_spk05.wav,번호는 칠삼팔칠이일입니다.,738721,,female,spk05,probe_cont_6,probe,-1,2.16,6,1,6,sentence,continuous
+probe_00120_spk09.wav,output/probe_00120_spk09.wav,번호는 구삼육칠육삼입니다.,936763,,female,spk09,probe_cont_6,probe,-1,2.56,6,1,6,sentence,continuous
+probe_00124_spk13.wav,output/probe_00124_spk13.wav,번호는 오칠구팔육팔입니다.,579868,,male,spk13,probe_cont_6,probe,-1,2.56,6,1,6,sentence,continuous
+probe_00128_spk03.wav,output/probe_00128_spk03.wav,번호는 팔일이이삼육입니다.,812236,,female,spk03,probe_cont_6,probe,-1,2.64,6,1,6,sentence,continuous
+probe_00132_spk07.wav,output/probe_00132_spk07.wav,번호는 공오사육육팔입니다.,054668,,female,spk07,probe_cont_6,probe,-1,2.96,6,1,6,sentence,continuous
+probe_00136_spk11.wav,output/probe_00136_spk11.wav,번호는 육구구공일육입니다.,699016,,female,spk11,probe_cont_6,probe,-1,2.88,6,1,6,sentence,continuous
+probe_00140_spk01.wav,output/probe_00140_spk01.wav,번호는 팔공오삼일공입니다.,805310,,female,spk01,probe_cont_6,probe,-1,2.8,6,1,6,sentence,continuous
+probe_00144_spk05.wav,output/probe_00144_spk05.wav,번호는 일이사일구공입니다.,124190,,female,spk05,probe_cont_6,probe,-1,3.04,6,1,6,sentence,continuous
+probe_00148_spk09.wav,output/probe_00148_spk09.wav,번호는 일팔오공육칠입니다.,185067,,female,spk09,probe_cont_6,probe,-1,2.4,6,1,6,sentence,continuous
+probe_00152_spk13.wav,output/probe_00152_spk13.wav,번호는 일사칠삼칠구입니다.,147379,,male,spk13,probe_cont_6,probe,-1,1.92,6,1,6,sentence,continuous
+probe_00156_spk03.wav,output/probe_00156_spk03.wav,번호는 삼일삼육칠팔입니다.,313678,,female,spk03,probe_cont_6,probe,-1,3.28,6,1,6,sentence,continuous
+probe_00160_spk07.wav,output/probe_00160_spk07.wav,번호는 팔오오칠사사입니다.,855744,,female,spk07,probe_cont_6,probe,-1,2.48,6,1,6,sentence,continuous
+probe_00164_spk11.wav,output/probe_00164_spk11.wav,번호는 사삼오이사공입니다.,435240,,female,spk11,probe_cont_6,probe,-1,2.56,6,1,6,sentence,continuous
+probe_00168_spk01.wav,output/probe_00168_spk01.wav,번호는 공사칠일일육입니다.,047116,,female,spk01,probe_cont_6,probe,-1,3.12,6,1,6,sentence,continuous
+probe_00172_spk05.wav,output/probe_00172_spk05.wav,번호는 육칠칠사구육입니다.,677496,,female,spk05,probe_cont_6,probe,-1,3.12,6,1,6,sentence,continuous
+probe_00176_spk09.wav,output/probe_00176_spk09.wav,번호는 칠구칠사공삼입니다.,797403,,female,spk09,probe_cont_6,probe,-1,2.56,6,1,6,sentence,continuous
+probe_00180_spk13.wav,output/probe_00180_spk13.wav,번호는 사구구사칠일입니다.,499471,,male,spk13,probe_cont_6,probe,-1,1.92,6,1,6,sentence,continuous
+probe_00184_spk03.wav,output/probe_00184_spk03.wav,번호는 구구공사구공입니다.,990490,,female,spk03,probe_cont_6,probe,-1,3.12,6,1,6,sentence,continuous
+probe_00188_spk07.wav,output/probe_00188_spk07.wav,번호는 육칠사육팔공입니다.,674680,,female,spk07,probe_cont_6,probe,-1,3.76,6,1,6,sentence,continuous
+probe_00192_spk11.wav,output/probe_00192_spk11.wav,번호는 칠공삼사팔이입니다.,703482,,female,spk11,probe_cont_6,probe,-1,2.96,6,1,6,sentence,continuous
+probe_00196_spk01.wav,output/probe_00196_spk01.wav,번호는 이칠사팔사육입니다.,274846,,female,spk01,probe_cont_6,probe,-1,2.72,6,1,6,sentence,continuous
+probe_00200_spk05.wav,output/probe_00200_spk05.wav,번호는 사사구구칠이칠팔입니다.,44997278,,female,spk05,probe_cont_8,probe,-1,2.8,8,1,8,sentence,continuous
+probe_00204_spk09.wav,output/probe_00204_spk09.wav,번호는 구오일칠일팔칠공입니다.,95171870,,female,spk09,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00208_spk13.wav,output/probe_00208_spk13.wav,번호는 일일칠이사공공오입니다.,11724005,,male,spk13,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00212_spk03.wav,output/probe_00212_spk03.wav,번호는 칠사공칠사팔이일입니다.,74074821,,female,spk03,probe_cont_8,probe,-1,2.56,8,1,8,sentence,continuous
+probe_00216_spk07.wav,output/probe_00216_spk07.wav,번호는 공구칠사삼구오삼입니다.,09743953,,female,spk07,probe_cont_8,probe,-1,3.2,8,1,8,sentence,continuous
+probe_00220_spk11.wav,output/probe_00220_spk11.wav,번호는 이사칠사오일칠일입니다.,24745171,,female,spk11,probe_cont_8,probe,-1,2.8,8,1,8,sentence,continuous
+probe_00224_spk01.wav,output/probe_00224_spk01.wav,번호는 구삼일칠사육일이입니다.,93174612,,female,spk01,probe_cont_8,probe,-1,2.72,8,1,8,sentence,continuous
+probe_00228_spk05.wav,output/probe_00228_spk05.wav,번호는 삼칠칠삼오일오팔입니다.,37735158,,female,spk05,probe_cont_8,probe,-1,2.72,8,1,8,sentence,continuous
+probe_00232_spk09.wav,output/probe_00232_spk09.wav,번호는 이구공사이이팔사입니다.,29042284,,female,spk09,probe_cont_8,probe,-1,2.72,8,1,8,sentence,continuous
+probe_00236_spk13.wav,output/probe_00236_spk13.wav,번호는 칠팔삼구공팔사칠입니다.,78390847,,male,spk13,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00240_spk03.wav,output/probe_00240_spk03.wav,번호는 칠팔구육일일팔삼입니다.,78961183,,female,spk03,probe_cont_8,probe,-1,3.6,8,1,8,sentence,continuous
+probe_00244_spk07.wav,output/probe_00244_spk07.wav,번호는 팔공구팔팔오일육입니다.,80988516,,female,spk07,probe_cont_8,probe,-1,2.96,8,1,8,sentence,continuous
+probe_00248_spk11.wav,output/probe_00248_spk11.wav,번호는 구구팔공구사공이입니다.,99809402,,female,spk11,probe_cont_8,probe,-1,3.44,8,1,8,sentence,continuous
+probe_00252_spk01.wav,output/probe_00252_spk01.wav,번호는 구일공이이구공일입니다.,91022901,,female,spk01,probe_cont_8,probe,-1,2.88,8,1,8,sentence,continuous
+probe_00256_spk05.wav,output/probe_00256_spk05.wav,번호는 공삼사삼이사사오입니다.,03432445,,female,spk05,probe_cont_8,probe,-1,3.36,8,1,8,sentence,continuous
+probe_00260_spk09.wav,output/probe_00260_spk09.wav,번호는 육사일육공오이구입니다.,64160529,,female,spk09,probe_cont_8,probe,-1,2.88,8,1,8,sentence,continuous
+probe_00264_spk13.wav,output/probe_00264_spk13.wav,번호는 오이삼일이사삼이입니다.,52312432,,male,spk13,probe_cont_8,probe,-1,2.32,8,1,8,sentence,continuous
+probe_00268_spk03.wav,output/probe_00268_spk03.wav,번호는 일사칠칠공공오사입니다.,14770054,,female,spk03,probe_cont_8,probe,-1,2.56,8,1,8,sentence,continuous
+probe_00272_spk07.wav,output/probe_00272_spk07.wav,번호는 이공삼칠칠팔팔구입니다.,20377889,,female,spk07,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00276_spk11.wav,output/probe_00276_spk11.wav,번호는 사육이구일사팔육입니다.,46291486,,female,spk11,probe_cont_8,probe,-1,3.28,8,1,8,sentence,continuous
+probe_00280_spk01.wav,output/probe_00280_spk01.wav,번호는 공오구이구육이이입니다.,05929622,,female,spk01,probe_cont_8,probe,-1,2.96,8,1,8,sentence,continuous
+probe_00284_spk05.wav,output/probe_00284_spk05.wav,번호는 팔팔육이삼구이사입니다.,88623924,,female,spk05,probe_cont_8,probe,-1,3.04,8,1,8,sentence,continuous
+probe_00288_spk09.wav,output/probe_00288_spk09.wav,번호는 오삼육일오삼공오입니다.,53615305,,female,spk09,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00292_spk13.wav,output/probe_00292_spk13.wav,번호는 사일공삼육구칠일입니다.,41036971,,male,spk13,probe_cont_8,probe,-1,2.48,8,1,8,sentence,continuous
+probe_00296_spk03.wav,output/probe_00296_spk03.wav,번호는 팔팔팔공육칠공육입니다.,88806706,,female,spk03,probe_cont_8,probe,-1,2.96,8,1,8,sentence,continuous
+probe_00300_spk07.wav,output/probe_00300_spk07.wav,번호는 삼공삼공오사팔육팔칠입니다.,3030548687,,female,spk07,probe_cont_10,probe,-1,3.04,10,1,10,sentence,continuous
+probe_00304_spk11.wav,output/probe_00304_spk11.wav,번호는 일일오사사칠구육이칠입니다.,1154479627,,female,spk11,probe_cont_10,probe,-1,3.36,10,1,10,sentence,continuous
+probe_00308_spk01.wav,output/probe_00308_spk01.wav,번호는 오칠일구이팔오육오사입니다.,5719285654,,female,spk01,probe_cont_10,probe,-1,3.2,10,1,10,sentence,continuous
+probe_00312_spk05.wav,output/probe_00312_spk05.wav,번호는 사이이오팔삼일삼이삼입니다.,4225831323,,female,spk05,probe_cont_10,probe,-1,3.04,10,1,10,sentence,continuous
+probe_00316_spk09.wav,output/probe_00316_spk09.wav,번호는 이이육팔공일팔이사이입니다.,2268018242,,female,spk09,probe_cont_10,probe,-1,2.96,10,1,10,sentence,continuous
+probe_00320_spk13.wav,output/probe_00320_spk13.wav,번호는 구사삼구육구공칠팔사입니다.,9439690784,,male,spk13,probe_cont_10,probe,-1,3.76,10,1,10,sentence,continuous
+probe_00324_spk03.wav,output/probe_00324_spk03.wav,번호는 사칠삼이일공사육구육입니다.,4732104696,,female,spk03,probe_cont_10,probe,-1,3.68,10,1,10,sentence,continuous
+probe_00328_spk07.wav,output/probe_00328_spk07.wav,번호는 공일육이사오육오공육입니다.,0162456506,,female,spk07,probe_cont_10,probe,-1,4.0,10,1,10,sentence,continuous
+probe_00332_spk11.wav,output/probe_00332_spk11.wav,번호는 공공이오칠팔칠이구팔입니다.,0025787298,,female,spk11,probe_cont_10,probe,-1,3.52,10,1,10,sentence,continuous
+probe_00336_spk01.wav,output/probe_00336_spk01.wav,번호는 삼공구칠이팔구육이삼입니다.,3097289623,,female,spk01,probe_cont_10,probe,-1,3.12,10,1,10,sentence,continuous
+probe_00340_spk05.wav,output/probe_00340_spk05.wav,번호는 오사구칠삼삼사팔사삼입니다.,5497334843,,female,spk05,probe_cont_10,probe,-1,3.2,10,1,10,sentence,continuous
+probe_00344_spk09.wav,output/probe_00344_spk09.wav,번호는 사이일구구삼삼공팔삼입니다.,4219933083,,female,spk09,probe_cont_10,probe,-1,3.2,10,1,10,sentence,continuous
+probe_00348_spk13.wav,output/probe_00348_spk13.wav,번호는 이사공공사구구일오사입니다.,2400499154,,male,spk13,probe_cont_10,probe,-1,2.88,10,1,10,sentence,continuous
+probe_00352_spk03.wav,output/probe_00352_spk03.wav,번호는 이칠오삼공사육삼칠사입니다.,2753046374,,female,spk03,probe_cont_10,probe,-1,3.52,10,1,10,sentence,continuous
+probe_00356_spk07.wav,output/probe_00356_spk07.wav,번호는 칠팔삼삼구일팔칠팔오입니다.,7833918785,,female,spk07,probe_cont_10,probe,-1,3.04,10,1,10,sentence,continuous
+probe_00360_spk11.wav,output/probe_00360_spk11.wav,번호는 칠사공육사공삼구일공입니다.,7406403910,,female,spk11,probe_cont_10,probe,-1,4.0,10,1,10,sentence,continuous
+probe_00364_spk01.wav,output/probe_00364_spk01.wav,번호는 공사칠팔육팔육삼삼칠입니다.,0478686337,,female,spk01,probe_cont_10,probe,-1,3.84,10,1,10,sentence,continuous
+probe_00368_spk05.wav,output/probe_00368_spk05.wav,번호는 구오구구오삼사이팔삼입니다.,9599534283,,female,spk05,probe_cont_10,probe,-1,3.12,10,1,10,sentence,continuous
+probe_00372_spk09.wav,output/probe_00372_spk09.wav,번호는 육육팔팔이육삼사삼오입니다.,6688263435,,female,spk09,probe_cont_10,probe,-1,2.8,10,1,10,sentence,continuous
+probe_00376_spk13.wav,output/probe_00376_spk13.wav,번호는 삼팔오사육칠팔오사사입니다.,3854678544,,male,spk13,probe_cont_10,probe,-1,2.72,10,1,10,sentence,continuous
+probe_00380_spk03.wav,output/probe_00380_spk03.wav,번호는 팔오사칠칠칠이오이이입니다.,8547772522,,female,spk03,probe_cont_10,probe,-1,3.44,10,1,10,sentence,continuous
+probe_00384_spk07.wav,output/probe_00384_spk07.wav,번호는 공공팔사팔사공팔육이입니다.,0084840862,,female,spk07,probe_cont_10,probe,-1,3.52,10,1,10,sentence,continuous
+probe_00388_spk11.wav,output/probe_00388_spk11.wav,번호는 이일칠육오구일팔공삼입니다.,2176591803,,female,spk11,probe_cont_10,probe,-1,2.88,10,1,10,sentence,continuous
+probe_00392_spk01.wav,output/probe_00392_spk01.wav,번호는 오공일육삼일오구구구입니다.,5016315999,,female,spk01,probe_cont_10,probe,-1,3.44,10,1,10,sentence,continuous
+probe_00396_spk05.wav,output/probe_00396_spk05.wav,번호는 사칠오사일이일이육칠입니다.,4754121267,,female,spk05,probe_cont_10,probe,-1,2.72,10,1,10,sentence,continuous
+probe_00400_spk09.wav,output/probe_00400_spk09.wav,번호는 칠이일이육사육사칠일오사입니다.,721264647154,,female,spk09,probe_cont_12,probe,-1,3.6,12,1,12,sentence,continuous
+probe_00404_spk13.wav,output/probe_00404_spk13.wav,번호는 육오일구삼구팔이팔공칠삼입니다.,651939828073,,male,spk13,probe_cont_12,probe,-1,3.52,12,1,12,sentence,continuous
+probe_00408_spk03.wav,output/probe_00408_spk03.wav,번호는 육일공일사삼팔팔팔구구삼입니다.,610143888993,,female,spk03,probe_cont_12,probe,-1,3.92,12,1,12,sentence,continuous
+probe_00412_spk07.wav,output/probe_00412_spk07.wav,번호는 이삼팔이팔이오팔육칠삼육입니다.,238282586736,,female,spk07,probe_cont_12,probe,-1,3.52,12,1,12,sentence,continuous
+probe_00416_spk11.wav,output/probe_00416_spk11.wav,번호는 오칠구이사구구일이오일삼입니다.,579249912513,,female,spk11,probe_cont_12,probe,-1,3.12,12,1,12,sentence,continuous
+probe_00420_spk01.wav,output/probe_00420_spk01.wav,번호는 육칠육칠칠이일구공삼사공입니다.,676772190340,,female,spk01,probe_cont_12,probe,-1,3.84,12,1,12,sentence,continuous
+probe_00424_spk05.wav,output/probe_00424_spk05.wav,번호는 구육이구이삼삼공구오팔사입니다.,962923309584,,female,spk05,probe_cont_12,probe,-1,3.2,12,1,12,sentence,continuous
+probe_00428_spk09.wav,output/probe_00428_spk09.wav,번호는 오구공일칠오일팔육삼육삼입니다.,590175186363,,female,spk09,probe_cont_12,probe,-1,3.76,12,1,12,sentence,continuous
+probe_00432_spk13.wav,output/probe_00432_spk13.wav,번호는 삼육일일공삼칠일이구삼팔입니다.,361103712938,,male,spk13,probe_cont_12,probe,-1,3.12,12,1,12,sentence,continuous
+probe_00436_spk03.wav,output/probe_00436_spk03.wav,번호는 일이일구육오육오이삼사일입니다.,121965652341,,female,spk03,probe_cont_12,probe,-1,3.92,12,1,12,sentence,continuous
+probe_00440_spk07.wav,output/probe_00440_spk07.wav,번호는 일공구일공사삼공공육팔사입니다.,109104300684,,female,spk07,probe_cont_12,probe,-1,3.28,12,1,12,sentence,continuous
+probe_00444_spk11.wav,output/probe_00444_spk11.wav,번호는 공이공이칠오팔팔사이오이입니다.,020275884252,,female,spk11,probe_cont_12,probe,-1,3.68,12,1,12,sentence,continuous
+probe_00448_spk01.wav,output/probe_00448_spk01.wav,번호는 이공팔육삼오삼육오사일구입니다.,208635365419,,female,spk01,probe_cont_12,probe,-1,3.76,12,1,12,sentence,continuous
+probe_00452_spk05.wav,output/probe_00452_spk05.wav,번호는 삼팔오공오공육사일삼팔삼입니다.,385050641383,,female,spk05,probe_cont_12,probe,-1,4.08,12,1,12,sentence,continuous
+probe_00456_spk09.wav,output/probe_00456_spk09.wav,번호는 이구일이일이칠칠오육일팔입니다.,291212775618,,female,spk09,probe_cont_12,probe,-1,3.92,12,1,12,sentence,continuous
+probe_00460_spk13.wav,output/probe_00460_spk13.wav,번호는 공삼이삼육오일구구사일공입니다.,032365199410,,male,spk13,probe_cont_12,probe,-1,3.36,12,1,12,sentence,continuous
+probe_00464_spk03.wav,output/probe_00464_spk03.wav,번호는 공일사육이육삼팔삼팔공육입니다.,014626383806,,female,spk03,probe_cont_12,probe,-1,4.0,12,1,12,sentence,continuous
+probe_00468_spk07.wav,output/probe_00468_spk07.wav,번호는 삼구오오구공오구구이구삼입니다.,395590599293,,female,spk07,probe_cont_12,probe,-1,3.04,12,1,12,sentence,continuous
+probe_00472_spk11.wav,output/probe_00472_spk11.wav,번호는 사오이이육칠오이팔구오삼입니다.,452267528953,,female,spk11,probe_cont_12,probe,-1,3.92,12,1,12,sentence,continuous
+probe_00476_spk01.wav,output/probe_00476_spk01.wav,번호는 사일공공육칠육이육칠육오입니다.,410067626765,,female,spk01,probe_cont_12,probe,-1,4.32,12,1,12,sentence,continuous
+probe_00480_spk05.wav,output/probe_00480_spk05.wav,번호는 삼삼육팔팔사사사삼일공육입니다.,336884443106,,female,spk05,probe_cont_12,probe,-1,4.0,12,1,12,sentence,continuous
+probe_00484_spk09.wav,output/probe_00484_spk09.wav,번호는 사칠칠사삼사구공이일일오입니다.,477434902115,,female,spk09,probe_cont_12,probe,-1,3.44,12,1,12,sentence,continuous
+probe_00488_spk13.wav,output/probe_00488_spk13.wav,번호는 이구사오일일육팔육팔오사입니다.,294511686854,,male,spk13,probe_cont_12,probe,-1,3.36,12,1,12,sentence,continuous
+probe_00492_spk03.wav,output/probe_00492_spk03.wav,번호는 공육오삼공칠사오공오사사입니다.,065307450544,,female,spk03,probe_cont_12,probe,-1,3.76,12,1,12,sentence,continuous
+probe_00496_spk07.wav,output/probe_00496_spk07.wav,번호는 칠공오삼사오칠팔육일공삼입니다.,705345786103,,female,spk07,probe_cont_12,probe,-1,3.28,12,1,12,sentence,continuous
+probe_00500_spk11.wav,output/probe_00500_spk11.wav,번호는 사사육육오칠사삼칠사팔구육구입니다.,44665743748969,,female,spk11,probe_cont_14,probe,-1,5.44,14,1,14,sentence,continuous
+probe_00504_spk01.wav,output/probe_00504_spk01.wav,번호는 오팔사이팔이사일칠이사팔이오입니다.,58428241724825,,female,spk01,probe_cont_14,probe,-1,3.6,14,1,14,sentence,continuous
+probe_00508_spk05.wav,output/probe_00508_spk05.wav,번호는 오공공칠사삼이구이칠일이구육입니다.,50074329271296,,female,spk05,probe_cont_14,probe,-1,3.76,14,1,14,sentence,continuous
+probe_00512_spk09.wav,output/probe_00512_spk09.wav,번호는 이육공삼삼이삼공구팔이일오공입니다.,26033230982150,,female,spk09,probe_cont_14,probe,-1,4.16,14,1,14,sentence,continuous
+probe_00516_spk13.wav,output/probe_00516_spk13.wav,번호는 팔삼오육사이공팔칠삼칠오삼공입니다.,83564208737530,,male,spk13,probe_cont_14,probe,-1,4.16,14,1,14,sentence,continuous
+probe_00520_spk03.wav,output/probe_00520_spk03.wav,번호는 칠사육칠육이일이공이일육구칠입니다.,74676212021697,,female,spk03,probe_cont_14,probe,-1,4.64,14,1,14,sentence,continuous
+probe_00524_spk07.wav,output/probe_00524_spk07.wav,번호는 이일칠오삼오사공팔삼팔육육삼입니다.,21753540838663,,female,spk07,probe_cont_14,probe,-1,4.56,14,1,14,sentence,continuous
+probe_00528_spk11.wav,output/probe_00528_spk11.wav,번호는 공오오사팔팔오일공이칠이육일입니다.,05548851027261,,female,spk11,probe_cont_14,probe,-1,3.92,14,1,14,sentence,continuous
+probe_00532_spk01.wav,output/probe_00532_spk01.wav,번호는 삼사육오사칠이이육구팔사팔오입니다.,34654722698485,,female,spk01,probe_cont_14,probe,-1,4.08,14,1,14,sentence,continuous
+probe_00536_spk05.wav,output/probe_00536_spk05.wav,번호는 칠일구팔삼팔육삼팔사공육육육입니다.,71983863840666,,female,spk05,probe_cont_14,probe,-1,5.28,14,1,14,sentence,continuous
+probe_00540_spk09.wav,output/probe_00540_spk09.wav,번호는 구사칠구팔오일오팔삼이팔일팔입니다.,94798515832818,,female,spk09,probe_cont_14,probe,-1,4.0,14,1,14,sentence,continuous
+probe_00544_spk13.wav,output/probe_00544_spk13.wav,번호는 사삼오팔일일이팔팔공일삼삼육입니다.,43581128801336,,male,spk13,probe_cont_14,probe,-1,4.56,14,1,14,sentence,continuous
+probe_00548_spk03.wav,output/probe_00548_spk03.wav,번호는 일사칠육육공칠이팔삼이육팔사입니다.,14766072832684,,female,spk03,probe_cont_14,probe,-1,4.72,14,1,14,sentence,continuous
+probe_00552_spk07.wav,output/probe_00552_spk07.wav,번호는 구칠오오이삼일사구일삼오칠칠입니다.,97552314913577,,female,spk07,probe_cont_14,probe,-1,4.64,14,1,14,sentence,continuous
+probe_00556_spk11.wav,output/probe_00556_spk11.wav,번호는 구육구삼공팔사팔팔칠이오육삼입니다.,96930848872563,,female,spk11,probe_cont_14,probe,-1,3.92,14,1,14,sentence,continuous
+probe_00560_spk01.wav,output/probe_00560_spk01.wav,번호는 일팔사사구팔구이육육오구일팔입니다.,18449892665918,,female,spk01,probe_cont_14,probe,-1,4.16,14,1,14,sentence,continuous
+probe_00564_spk05.wav,output/probe_00564_spk05.wav,번호는 구이이팔공구이공이사이팔육구입니다.,92280920242869,,female,spk05,probe_cont_14,probe,-1,4.24,14,1,14,sentence,continuous
+probe_00568_spk09.wav,output/probe_00568_spk09.wav,번호는 공팔팔일일칠이구팔공육팔육오입니다.,08811729806865,,female,spk09,probe_cont_14,probe,-1,3.76,14,1,14,sentence,continuous
+probe_00572_spk13.wav,output/probe_00572_spk13.wav,번호는 구오구사육삼육팔팔칠이오팔팔입니다.,95946368872588,,male,spk13,probe_cont_14,probe,-1,4.32,14,1,14,sentence,continuous
+probe_00576_spk03.wav,output/probe_00576_spk03.wav,번호는 이칠칠공삼팔사삼공구팔팔삼구입니다.,27703843098839,,female,spk03,probe_cont_14,probe,-1,4.24,14,1,14,sentence,continuous
+probe_00580_spk07.wav,output/probe_00580_spk07.wav,번호는 일팔사팔구사칠육구칠삼오칠칠입니다.,18489476973577,,female,spk07,probe_cont_14,probe,-1,4.0,14,1,14,sentence,continuous
+probe_00584_spk11.wav,output/probe_00584_spk11.wav,번호는 오이일일일칠구공팔공칠오구오입니다.,52111790807595,,female,spk11,probe_cont_14,probe,-1,4.08,14,1,14,sentence,continuous
+probe_00588_spk01.wav,output/probe_00588_spk01.wav,번호는 구오오이칠육삼육오오육사칠이입니다.,95527636556472,,female,spk01,probe_cont_14,probe,-1,4.32,14,1,14,sentence,continuous
+probe_00592_spk05.wav,output/probe_00592_spk05.wav,번호는 팔사오공육일오구삼구구팔이사입니다.,84506159399824,,female,spk05,probe_cont_14,probe,-1,3.52,14,1,14,sentence,continuous
+probe_00596_spk09.wav,output/probe_00596_spk09.wav,번호는 삼이육일일일칠팔공공육팔일일입니다.,32611178006811,,female,spk09,probe_cont_14,probe,-1,3.76,14,1,14,sentence,continuous
+probe_00600_spk13.wav,output/probe_00600_spk13.wav,번호는 오육사이사공공팔이오사칠팔공칠칠입니다.,5642400825478077,,male,spk13,probe_cont_16,probe,-1,3.76,16,1,16,sentence,continuous
+probe_00604_spk03.wav,output/probe_00604_spk03.wav,번호는 공이일사사이칠공삼일이공칠삼오육입니다.,0214427031207356,,female,spk03,probe_cont_16,probe,-1,4.48,16,1,16,sentence,continuous
+probe_00608_spk07.wav,output/probe_00608_spk07.wav,번호는 육오공이사구일육삼공공구칠구이오입니다.,6502491630097925,,female,spk07,probe_cont_16,probe,-1,4.32,16,1,16,sentence,continuous
+probe_00612_spk11.wav,output/probe_00612_spk11.wav,번호는 사사팔오칠공팔육이공구오구삼오일입니다.,4485708620959351,,female,spk11,probe_cont_16,probe,-1,3.92,16,1,16,sentence,continuous
+probe_00616_spk01.wav,output/probe_00616_spk01.wav,번호는 공구사팔공일사일삼팔일일삼팔육삼입니다.,0948014138113863,,female,spk01,probe_cont_16,probe,-1,5.04,16,1,16,sentence,continuous
+probe_00620_spk05.wav,output/probe_00620_spk05.wav,번호는 공팔이사공사삼삼오공사팔팔팔구구입니다.,0824043350488899,,female,spk05,probe_cont_16,probe,-1,4.0,16,1,16,sentence,continuous
+probe_00624_spk09.wav,output/probe_00624_spk09.wav,번호는 구이오팔삼이공육칠구구팔일삼육사입니다.,9258320679981364,,female,spk09,probe_cont_16,probe,-1,4.32,16,1,16,sentence,continuous
+probe_00628_spk13.wav,output/probe_00628_spk13.wav,번호는 구칠구이칠공삼삼오이일일공삼구이입니다.,9792703352110392,,male,spk13,probe_cont_16,probe,-1,4.4,16,1,16,sentence,continuous
+probe_00632_spk03.wav,output/probe_00632_spk03.wav,번호는 칠구팔일이삼팔칠팔공공삼팔사오칠입니다.,7981238780038457,,female,spk03,probe_cont_16,probe,-1,4.88,16,1,16,sentence,continuous
+probe_00636_spk07.wav,output/probe_00636_spk07.wav,번호는 구이오일팔팔일이오이공오육육사칠입니다.,9251881252056647,,female,spk07,probe_cont_16,probe,-1,4.24,16,1,16,sentence,continuous
+probe_00640_spk11.wav,output/probe_00640_spk11.wav,번호는 칠삼육육공구육오육구구구팔팔공팔입니다.,7366096569998808,,female,spk11,probe_cont_16,probe,-1,4.96,16,1,16,sentence,continuous
+probe_00644_spk01.wav,output/probe_00644_spk01.wav,번호는 오이일일일칠오일팔육팔구이육팔육입니다.,5211175186892686,,female,spk01,probe_cont_16,probe,-1,4.08,16,1,16,sentence,continuous
+probe_00648_spk05.wav,output/probe_00648_spk05.wav,번호는 이공오공이공구구사오일공일육이이입니다.,2050209945101622,,female,spk05,probe_cont_16,probe,-1,4.88,16,1,16,sentence,continuous
+probe_00652_spk09.wav,output/probe_00652_spk09.wav,번호는 구구칠팔칠칠이구삼사삼공일공칠일입니다.,9978772934301071,,female,spk09,probe_cont_16,probe,-1,4.96,16,1,16,sentence,continuous
+probe_00656_spk13.wav,output/probe_00656_spk13.wav,번호는 팔공삼구오오일이사공오육팔이구구입니다.,8039551240568299,,male,spk13,probe_cont_16,probe,-1,3.6,16,1,16,sentence,continuous
+probe_00660_spk03.wav,output/probe_00660_spk03.wav,번호는 공구일오칠공일팔사공구사삼오삼삼입니다.,0915701840943533,,female,spk03,probe_cont_16,probe,-1,5.68,16,1,16,sentence,continuous
+probe_00664_spk07.wav,output/probe_00664_spk07.wav,번호는 구오사오삼팔일칠구이일칠일칠사칠입니다.,9545381792171747,,female,spk07,probe_cont_16,probe,-1,4.72,16,1,16,sentence,continuous
+probe_00668_spk11.wav,output/probe_00668_spk11.wav,번호는 삼구육육구오팔삼이일구칠일구구칠입니다.,3966958321971997,,female,spk11,probe_cont_16,probe,-1,4.48,16,1,16,sentence,continuous
+probe_00672_spk01.wav,output/probe_00672_spk01.wav,번호는 공공팔오일사공삼육구육오육육육육입니다.,0085140369656666,,female,spk01,probe_cont_16,probe,-1,5.44,16,1,16,sentence,continuous
+probe_00676_spk05.wav,output/probe_00676_spk05.wav,번호는 구오공공구칠오일구칠일이팔사칠팔입니다.,9500975197128478,,female,spk05,probe_cont_16,probe,-1,4.0,16,1,16,sentence,continuous
+probe_00680_spk09.wav,output/probe_00680_spk09.wav,번호는 이구사사사공일구이구이칠오이사삼입니다.,2944401929275243,,female,spk09,probe_cont_16,probe,-1,3.84,16,1,16,sentence,continuous
+probe_00684_spk13.wav,output/probe_00684_spk13.wav,번호는 구사오사사일사구육칠삼구삼팔오이입니다.,9454414967393852,,male,spk13,probe_cont_16,probe,-1,4.16,16,1,16,sentence,continuous
+probe_00688_spk03.wav,output/probe_00688_spk03.wav,번호는 육오공사사이칠일칠삼구육이칠일이입니다.,6504427173962712,,female,spk03,probe_cont_16,probe,-1,4.16,16,1,16,sentence,continuous
+probe_00692_spk07.wav,output/probe_00692_spk07.wav,번호는 오일칠사삼이팔공육삼사육일오칠일입니다.,5174328063461571,,female,spk07,probe_cont_16,probe,-1,4.48,16,1,16,sentence,continuous
+probe_00696_spk11.wav,output/probe_00696_spk11.wav,번호는 이구일일일칠구구삼일삼육오육오일입니다.,2911179931365651,,female,spk11,probe_cont_16,probe,-1,5.36,16,1,16,sentence,continuous
+probe_00700_spk01.wav,output/probe_00700_spk01.wav,번호는 공구이칠 구일사오입니다.,0927-9145,,female,spk01,probe_grp4x2,probe,-1,2.96,8,2,4,sentence,grouped4
+probe_00704_spk05.wav,output/probe_00704_spk05.wav,번호는 공공오사 삼육사오입니다.,0054-3645,,female,spk05,probe_grp4x2,probe,-1,2.48,8,2,4,sentence,grouped4
+probe_00708_spk09.wav,output/probe_00708_spk09.wav,번호는 삼일삼육 삼육삼일입니다.,3136-3631,,female,spk09,probe_grp4x2,probe,-1,3.28,8,2,4,sentence,grouped4
+probe_00712_spk13.wav,output/probe_00712_spk13.wav,번호는 이일칠칠 육이오삼입니다.,2177-6253,,male,spk13,probe_grp4x2,probe,-1,2.32,8,2,4,sentence,grouped4
+probe_00716_spk03.wav,output/probe_00716_spk03.wav,번호는 삼구이구 공육공공입니다.,3929-0600,,female,spk03,probe_grp4x2,probe,-1,3.12,8,2,4,sentence,grouped4
+probe_00720_spk07.wav,output/probe_00720_spk07.wav,번호는 이칠구구 공칠칠이입니다.,2799-0772,,female,spk07,probe_grp4x2,probe,-1,2.56,8,2,4,sentence,grouped4
+probe_00724_spk11.wav,output/probe_00724_spk11.wav,번호는 일육오칠 구공오오입니다.,1657-9055,,female,spk11,probe_grp4x2,probe,-1,3.84,8,2,4,sentence,grouped4
+probe_00728_spk01.wav,output/probe_00728_spk01.wav,번호는 칠칠팔팔 일칠팔팔입니다.,7788-1788,,female,spk01,probe_grp4x2,probe,-1,3.36,8,2,4,sentence,grouped4
+probe_00732_spk05.wav,output/probe_00732_spk05.wav,번호는 육팔이칠 오육칠공입니다.,6827-5670,,female,spk05,probe_grp4x2,probe,-1,3.44,8,2,4,sentence,grouped4
+probe_00736_spk09.wav,output/probe_00736_spk09.wav,번호는 칠오사공 이오사칠입니다.,7540-2547,,female,spk09,probe_grp4x2,probe,-1,2.48,8,2,4,sentence,grouped4
+probe_00740_spk13.wav,output/probe_00740_spk13.wav,번호는 이오칠팔 이팔사일입니다.,2578-2841,,male,spk13,probe_grp4x2,probe,-1,2.4,8,2,4,sentence,grouped4
+probe_00744_spk03.wav,output/probe_00744_spk03.wav,번호는 일사공육 구삼칠오입니다.,1406-9375,,female,spk03,probe_grp4x2,probe,-1,3.04,8,2,4,sentence,grouped4
+probe_00748_spk07.wav,output/probe_00748_spk07.wav,번호는 오육이육 오육오공입니다.,5626-5650,,female,spk07,probe_grp4x2,probe,-1,2.96,8,2,4,sentence,grouped4
+probe_00752_spk11.wav,output/probe_00752_spk11.wav,번호는 오일구육 일공육사입니다.,5196-1064,,female,spk11,probe_grp4x2,probe,-1,3.36,8,2,4,sentence,grouped4
+probe_00756_spk01.wav,output/probe_00756_spk01.wav,번호는 사칠일사 육이칠삼입니다.,4714-6273,,female,spk01,probe_grp4x2,probe,-1,3.52,8,2,4,sentence,grouped4
+probe_00760_spk05.wav,output/probe_00760_spk05.wav,번호는 칠이오이 공사오육입니다.,7252-0456,,female,spk05,probe_grp4x2,probe,-1,2.56,8,2,4,sentence,grouped4
+probe_00764_spk09.wav,output/probe_00764_spk09.wav,번호는 이팔사오 칠육오이입니다.,2845-7652,,female,spk09,probe_grp4x2,probe,-1,2.88,8,2,4,sentence,grouped4
+probe_00768_spk13.wav,output/probe_00768_spk13.wav,번호는 구팔오이 사공일삼입니다.,9852-4013,,male,spk13,probe_grp4x2,probe,-1,2.4,8,2,4,sentence,grouped4
+probe_00772_spk03.wav,output/probe_00772_spk03.wav,번호는 공일사공 일일구삼입니다.,0140-1193,,female,spk03,probe_grp4x2,probe,-1,2.72,8,2,4,sentence,grouped4
+probe_00776_spk07.wav,output/probe_00776_spk07.wav,번호는 사이팔공 일삼팔칠입니다.,4280-1387,,female,spk07,probe_grp4x2,probe,-1,2.8,8,2,4,sentence,grouped4
+probe_00780_spk11.wav,output/probe_00780_spk11.wav,번호는 공일오칠 일육사칠입니다.,0157-1647,,female,spk11,probe_grp4x2,probe,-1,2.88,8,2,4,sentence,grouped4
+probe_00784_spk01.wav,output/probe_00784_spk01.wav,번호는 구일이일 오삼오삼입니다.,9121-5353,,female,spk01,probe_grp4x2,probe,-1,3.04,8,2,4,sentence,grouped4
+probe_00788_spk05.wav,output/probe_00788_spk05.wav,번호는 칠삼이공 일공일칠입니다.,7320-1017,,female,spk05,probe_grp4x2,probe,-1,3.28,8,2,4,sentence,grouped4
+probe_00792_spk09.wav,output/probe_00792_spk09.wav,번호는 공공육일 육칠오육입니다.,0061-6756,,female,spk09,probe_grp4x2,probe,-1,2.64,8,2,4,sentence,grouped4
+probe_00796_spk13.wav,output/probe_00796_spk13.wav,번호는 팔공육사 칠구육구입니다.,8064-7969,,male,spk13,probe_grp4x2,probe,-1,2.48,8,2,4,sentence,grouped4
+probe_00800_spk03.wav,output/probe_00800_spk03.wav,번호는 사구일일 사일오이 공팔오공입니다.,4911-4152-0850,,female,spk03,probe_grp4x3,probe,-1,3.76,12,3,4,sentence,grouped4
+probe_00804_spk07.wav,output/probe_00804_spk07.wav,번호는 공사구육 삼구일구 일구오사입니다.,0496-3919-1954,,female,spk07,probe_grp4x3,probe,-1,3.44,12,3,4,sentence,grouped4
+probe_00808_spk11.wav,output/probe_00808_spk11.wav,번호는 팔삼오칠 이삼이사 육육오일입니다.,8357-2324-6651,,female,spk11,probe_grp4x3,probe,-1,3.36,12,3,4,sentence,grouped4
+probe_00812_spk01.wav,output/probe_00812_spk01.wav,번호는 오구사일 육오일육 이삼일구입니다.,5941-6516-2319,,female,spk01,probe_grp4x3,probe,-1,3.68,12,3,4,sentence,grouped4
+probe_00816_spk05.wav,output/probe_00816_spk05.wav,번호는 삼사이오 칠오사공 구공공삼입니다.,3425-7540-9003,,female,spk05,probe_grp4x3,probe,-1,3.6,12,3,4,sentence,grouped4
+probe_00820_spk09.wav,output/probe_00820_spk09.wav,번호는 육구팔오 칠공공이 칠이공육입니다.,6985-7002-7206,,female,spk09,probe_grp4x3,probe,-1,3.2,12,3,4,sentence,grouped4
+probe_00824_spk13.wav,output/probe_00824_spk13.wav,번호는 칠삼사이 공육구육 구사이일입니다.,7342-0696-9421,,male,spk13,probe_grp4x3,probe,-1,3.44,12,3,4,sentence,grouped4
+probe_00828_spk03.wav,output/probe_00828_spk03.wav,번호는 구칠일공 칠이오육 삼육육구입니다.,9710-7256-3669,,female,spk03,probe_grp4x3,probe,-1,3.6,12,3,4,sentence,grouped4
+probe_00832_spk07.wav,output/probe_00832_spk07.wav,번호는 육이사일 오공이칠 사오육사입니다.,6241-5027-4564,,female,spk07,probe_grp4x3,probe,-1,3.6,12,3,4,sentence,grouped4
+probe_00836_spk11.wav,output/probe_00836_spk11.wav,번호는 오일삼사 이이팔사 구구삼구입니다.,5134-2284-9939,,female,spk11,probe_grp4x3,probe,-1,4.08,12,3,4,sentence,grouped4
+probe_00840_spk01.wav,output/probe_00840_spk01.wav,번호는 사오공일 팔구육일 육사이삼입니다.,4501-8961-6423,,female,spk01,probe_grp4x3,probe,-1,3.68,12,3,4,sentence,grouped4
+probe_00844_spk05.wav,output/probe_00844_spk05.wav,번호는 일공팔오 칠삼이칠 팔팔일사입니다.,1085-7327-8814,,female,spk05,probe_grp4x3,probe,-1,3.52,12,3,4,sentence,grouped4
+probe_00848_spk09.wav,output/probe_00848_spk09.wav,번호는 육공일육 사오구칠 칠구사오입니다.,6016-4597-7945,,female,spk09,probe_grp4x3,probe,-1,3.28,12,3,4,sentence,grouped4
+probe_00852_spk13.wav,output/probe_00852_spk13.wav,번호는 칠이삼육 팔삼일사 칠이칠육입니다.,7236-8314-7276,,male,spk13,probe_grp4x3,probe,-1,2.88,12,3,4,sentence,grouped4
+probe_00856_spk03.wav,output/probe_00856_spk03.wav,번호는 팔공육구 오팔일사 육칠일칠입니다.,8069-5814-6717,,female,spk03,probe_grp4x3,probe,-1,3.92,12,3,4,sentence,grouped4
+probe_00860_spk07.wav,output/probe_00860_spk07.wav,번호는 일육칠사 삼삼팔공 공오사오입니다.,1674-3380-0545,,female,spk07,probe_grp4x3,probe,-1,3.44,12,3,4,sentence,grouped4
+probe_00864_spk11.wav,output/probe_00864_spk11.wav,번호는 이일삼오 이사칠팔 칠일이오입니다.,2135-2478-7125,,female,spk11,probe_grp4x3,probe,-1,3.04,12,3,4,sentence,grouped4
+probe_00868_spk01.wav,output/probe_00868_spk01.wav,번호는 일오오육 이육공육 공이구공입니다.,1556-2606-0290,,female,spk01,probe_grp4x3,probe,-1,3.36,12,3,4,sentence,grouped4
+probe_00872_spk05.wav,output/probe_00872_spk05.wav,번호는 팔사팔오 이공공팔 구사삼사입니다.,8485-2008-9434,,female,spk05,probe_grp4x3,probe,-1,3.92,12,3,4,sentence,grouped4
+probe_00876_spk09.wav,output/probe_00876_spk09.wav,번호는 오칠일이 육육일일 공육이칠입니다.,5712-6611-0627,,female,spk09,probe_grp4x3,probe,-1,3.28,12,3,4,sentence,grouped4
+probe_00880_spk13.wav,output/probe_00880_spk13.wav,번호는 육일일오 구사공팔 이일오사입니다.,6115-9408-2154,,male,spk13,probe_grp4x3,probe,-1,3.12,12,3,4,sentence,grouped4
+probe_00884_spk03.wav,output/probe_00884_spk03.wav,번호는 칠이오일 구구육육 삼육오팔입니다.,7251-9966-3658,,female,spk03,probe_grp4x3,probe,-1,3.6,12,3,4,sentence,grouped4
+probe_00888_spk07.wav,output/probe_00888_spk07.wav,번호는 육구공칠 공오육이 육공팔오입니다.,6907-0562-6085,,female,spk07,probe_grp4x3,probe,-1,3.6,12,3,4,sentence,grouped4
+probe_00892_spk11.wav,output/probe_00892_spk11.wav,번호는 구삼칠팔 팔육일사 공오칠팔입니다.,9378-8614-0578,,female,spk11,probe_grp4x3,probe,-1,3.28,12,3,4,sentence,grouped4
+probe_00896_spk01.wav,output/probe_00896_spk01.wav,번호는 공공칠사 구사육오 삼구팔사입니다.,0074-9465-3984,,female,spk01,probe_grp4x3,probe,-1,4.64,12,3,4,sentence,grouped4
+probe_00900_spk05.wav,output/probe_00900_spk05.wav,번호는 육팔칠육 팔일일팔 공칠일오 육구오육입니다.,6876-8118-0715-6956,,female,spk05,probe_grp4x4,probe,-1,4.72,16,4,4,sentence,grouped4
+probe_00904_spk09.wav,output/probe_00904_spk09.wav,번호는 팔사삼공 팔구사팔 칠공육공 오육육사입니다.,8430-8948-7060-5664,,female,spk09,probe_grp4x4,probe,-1,5.44,16,4,4,sentence,grouped4
+probe_00908_spk13.wav,output/probe_00908_spk13.wav,번호는 구구칠일 칠구일일 공공육오 일이공칠입니다.,9971-7911-0065-1207,,male,spk13,probe_grp4x4,probe,-1,4.08,16,4,4,sentence,grouped4
+probe_00912_spk03.wav,output/probe_00912_spk03.wav,번호는 칠이삼이 공공이사 구육팔오 사구팔이입니다.,7232-0024-9685-4982,,female,spk03,probe_grp4x4,probe,-1,3.92,16,4,4,sentence,grouped4
+probe_00916_spk07.wav,output/probe_00916_spk07.wav,번호는 칠오육삼 육이공오 공일오공 팔일이사입니다.,7563-6205-0150-8124,,female,spk07,probe_grp4x4,probe,-1,4.16,16,4,4,sentence,grouped4
+probe_00920_spk11.wav,output/probe_00920_spk11.wav,번호는 육삼공구 구삼팔사 이오삼공 사이팔구입니다.,6309-9384-2530-4289,,female,spk11,probe_grp4x4,probe,-1,5.68,16,4,4,sentence,grouped4
+probe_00924_spk01.wav,output/probe_00924_spk01.wav,번호는 삼구공칠 팔구오육 칠칠육육 오칠오사입니다.,3907-8956-7766-5754,,female,spk01,probe_grp4x4,probe,-1,5.68,16,4,4,sentence,grouped4
+probe_00928_spk05.wav,output/probe_00928_spk05.wav,번호는 삼칠삼팔 구팔칠칠 오일오삼 육육삼칠입니다.,3738-9877-5153-6637,,female,spk05,probe_grp4x4,probe,-1,4.32,16,4,4,sentence,grouped4
+probe_00932_spk09.wav,output/probe_00932_spk09.wav,번호는 이공구칠 공이삼일 육사삼삼 사팔일칠입니다.,2097-0231-6433-4817,,female,spk09,probe_grp4x4,probe,-1,4.32,16,4,4,sentence,grouped4
+probe_00936_spk13.wav,output/probe_00936_spk13.wav,번호는 사칠오사 육구이육 삼이구육 칠육이구입니다.,4754-6926-3296-7629,,male,spk13,probe_grp4x4,probe,-1,3.6,16,4,4,sentence,grouped4
+probe_00940_spk03.wav,output/probe_00940_spk03.wav,번호는 칠이칠사 이이공구 일이사일 팔육이일입니다.,7274-2209-1241-8621,,female,spk03,probe_grp4x4,probe,-1,4.8,16,4,4,sentence,grouped4
+probe_00944_spk07.wav,output/probe_00944_spk07.wav,번호는 삼팔육육 일삼삼일 오오이공 육오공육입니다.,3866-1331-5520-6506,,female,spk07,probe_grp4x4,probe,-1,4.4,16,4,4,sentence,grouped4
+probe_00948_spk11.wav,output/probe_00948_spk11.wav,번호는 구일공이 오칠사삼 이육삼공 삼구칠오입니다.,9102-5743-2630-3975,,female,spk11,probe_grp4x4,probe,-1,4.72,16,4,4,sentence,grouped4
+probe_00952_spk01.wav,output/probe_00952_spk01.wav,번호는 구삼사사 구칠삼사 칠일오육 육이칠칠입니다.,9344-9734-7156-6277,,female,spk01,probe_grp4x4,probe,-1,5.92,16,4,4,sentence,grouped4
+probe_00956_spk05.wav,output/probe_00956_spk05.wav,번호는 공일육구 이삼육사 오팔칠오 공육육삼입니다.,0169-2364-5875-0663,,female,spk05,probe_grp4x4,probe,-1,4.32,16,4,4,sentence,grouped4
+probe_00960_spk09.wav,output/probe_00960_spk09.wav,번호는 일일육팔 육사육이 이오이이 삼칠이팔입니다.,1168-6462-2522-3728,,female,spk09,probe_grp4x4,probe,-1,4.16,16,4,4,sentence,grouped4
+probe_00964_spk13.wav,output/probe_00964_spk13.wav,번호는 오오오오 삼오육육 구공오오 일공칠육입니다.,5555-3566-9055-1076,,male,spk13,probe_grp4x4,probe,-1,3.84,16,4,4,sentence,grouped4
+probe_00968_spk03.wav,output/probe_00968_spk03.wav,번호는 일칠팔삼 삼삼이일 일육공이 오육사삼입니다.,1783-3321-1602-5643,,female,spk03,probe_grp4x4,probe,-1,4.88,16,4,4,sentence,grouped4
+probe_00972_spk07.wav,output/probe_00972_spk07.wav,번호는 구삼일육 공팔칠오 이사삼칠 칠이구사입니다.,9316-0875-2437-7294,,female,spk07,probe_grp4x4,probe,-1,4.72,16,4,4,sentence,grouped4
+probe_00976_spk11.wav,output/probe_00976_spk11.wav,번호는 이구이칠 칠사이삼 삼삼공오 구일이육입니다.,2927-7423-3305-9126,,female,spk11,probe_grp4x4,probe,-1,4.0,16,4,4,sentence,grouped4
+probe_00980_spk01.wav,output/probe_00980_spk01.wav,번호는 육칠육사 구이일오 일팔이육 공육팔팔입니다.,6764-9215-1826-0688,,female,spk01,probe_grp4x4,probe,-1,4.56,16,4,4,sentence,grouped4
+probe_00984_spk05.wav,output/probe_00984_spk05.wav,번호는 구팔팔삼 일공삼공 삼이사삼 이구팔삼입니다.,9883-1030-3243-2983,,female,spk05,probe_grp4x4,probe,-1,4.4,16,4,4,sentence,grouped4
+probe_00988_spk09.wav,output/probe_00988_spk09.wav,번호는 사이삼사 공일육삼 육일일이 팔사구칠입니다.,4234-0163-6112-8497,,female,spk09,probe_grp4x4,probe,-1,4.0,16,4,4,sentence,grouped4
+probe_00992_spk13.wav,output/probe_00992_spk13.wav,번호는 일사육오 일일일삼 일이구공 일사팔칠입니다.,1465-1113-1290-1487,,male,spk13,probe_grp4x4,probe,-1,3.76,16,4,4,sentence,grouped4
+probe_00996_spk03.wav,output/probe_00996_spk03.wav,번호는 삼공구육 삼사팔공 칠구칠공 오공구칠입니다.,3096-3480-7970-5097,,female,spk03,probe_grp4x4,probe,-1,4.8,16,4,4,sentence,grouped4
+probe_01000_spk07.wav,output/probe_01000_spk07.wav,이육육오.,2665,,female,spk07,probe_bare_4,probe,-1,1.28,4,1,4,bare,continuous
+probe_01004_spk11.wav,output/probe_01004_spk11.wav,육팔육이.,6862,,female,spk11,probe_bare_4,probe,-1,1.44,4,1,4,bare,continuous
+probe_01008_spk01.wav,output/probe_01008_spk01.wav,구공육칠.,9067,,female,spk01,probe_bare_4,probe,-1,1.36,4,1,4,bare,continuous
+probe_01012_spk05.wav,output/probe_01012_spk05.wav,일사삼육.,1436,,female,spk05,probe_bare_4,probe,-1,1.12,4,1,4,bare,continuous
+probe_01016_spk09.wav,output/probe_01016_spk09.wav,육공사삼.,6043,,female,spk09,probe_bare_4,probe,-1,0.96,4,1,4,bare,continuous
+probe_01020_spk13.wav,output/probe_01020_spk13.wav,삼오육칠.,3567,,male,spk13,probe_bare_4,probe,-1,1.28,4,1,4,bare,continuous
+probe_01024_spk03.wav,output/probe_01024_spk03.wav,오공이공.,5020,,female,spk03,probe_bare_4,probe,-1,1.04,4,1,4,bare,continuous
+probe_01028_spk07.wav,output/probe_01028_spk07.wav,칠오오사.,7554,,female,spk07,probe_bare_4,probe,-1,0.96,4,1,4,bare,continuous
+probe_01032_spk11.wav,output/probe_01032_spk11.wav,삼사삼구.,3439,,female,spk11,probe_bare_4,probe,-1,1.36,4,1,4,bare,continuous
+probe_01036_spk01.wav,output/probe_01036_spk01.wav,일팔구오.,1895,,female,spk01,probe_bare_4,probe,-1,1.2,4,1,4,bare,continuous
+probe_01040_spk05.wav,output/probe_01040_spk05.wav,오오칠일육일.,557161,,female,spk05,probe_bare_6,probe,-1,1.76,6,1,6,bare,continuous
+probe_01044_spk09.wav,output/probe_01044_spk09.wav,일이칠팔육팔.,127868,,female,spk09,probe_bare_6,probe,-1,1.44,6,1,6,bare,continuous
+probe_01048_spk13.wav,output/probe_01048_spk13.wav,삼사사팔일이.,344812,,male,spk13,probe_bare_6,probe,-1,1.76,6,1,6,bare,continuous
+probe_01052_spk03.wav,output/probe_01052_spk03.wav,오오일팔사이.,551842,,female,spk03,probe_bare_6,probe,-1,1.44,6,1,6,bare,continuous
+probe_01056_spk07.wav,output/probe_01056_spk07.wav,팔삼칠삼오사.,837354,,female,spk07,probe_bare_6,probe,-1,1.6,6,1,6,bare,continuous
+probe_01060_spk11.wav,output/probe_01060_spk11.wav,칠이사공사이.,724042,,female,spk11,probe_bare_6,probe,-1,1.92,6,1,6,bare,continuous
+probe_01064_spk01.wav,output/probe_01064_spk01.wav,육공일공공이.,601002,,female,spk01,probe_bare_6,probe,-1,1.84,6,1,6,bare,continuous
+probe_01068_spk05.wav,output/probe_01068_spk05.wav,오칠이삼공팔.,572308,,female,spk05,probe_bare_6,probe,-1,1.6,6,1,6,bare,continuous
+probe_01072_spk09.wav,output/probe_01072_spk09.wav,이오사삼육일.,254361,,female,spk09,probe_bare_6,probe,-1,1.36,6,1,6,bare,continuous
+probe_01076_spk13.wav,output/probe_01076_spk13.wav,팔오구이육이.,859262,,male,spk13,probe_bare_6,probe,-1,2.0,6,1,6,bare,continuous
+probe_01080_spk03.wav,output/probe_01080_spk03.wav,일일구육사이일오.,11964215,,female,spk03,probe_bare_8,probe,-1,1.84,8,1,8,bare,continuous
+probe_01084_spk07.wav,output/probe_01084_spk07.wav,일구육팔구삼일삼.,19689313,,female,spk07,probe_bare_8,probe,-1,2.32,8,1,8,bare,continuous
+probe_01088_spk11.wav,output/probe_01088_spk11.wav,이육공육오공일구.,26065019,,female,spk11,probe_bare_8,probe,-1,2.32,8,1,8,bare,continuous
+probe_01092_spk01.wav,output/probe_01092_spk01.wav,공사일이공공구이.,04120092,,female,spk01,probe_bare_8,probe,-1,1.84,8,1,8,bare,continuous
+probe_01096_spk05.wav,output/probe_01096_spk05.wav,육이팔구일칠칠오.,62891775,,female,spk05,probe_bare_8,probe,-1,1.68,8,1,8,bare,continuous
+probe_01100_spk09.wav,output/probe_01100_spk09.wav,사삼팔삼공삼사일.,43830341,,female,spk09,probe_bare_8,probe,-1,2.08,8,1,8,bare,continuous
+probe_01104_spk13.wav,output/probe_01104_spk13.wav,일팔이공구육칠구.,18209679,,male,spk13,probe_bare_8,probe,-1,2.16,8,1,8,bare,continuous
+probe_01108_spk03.wav,output/probe_01108_spk03.wav,육삼삼구구일이구.,63399129,,female,spk03,probe_bare_8,probe,-1,1.92,8,1,8,bare,continuous
+probe_01112_spk07.wav,output/probe_01112_spk07.wav,칠사칠이일구칠공.,74721970,,female,spk07,probe_bare_8,probe,-1,1.92,8,1,8,bare,continuous
+probe_01116_spk11.wav,output/probe_01116_spk11.wav,일사육이구육일삼.,14629613,,female,spk11,probe_bare_8,probe,-1,2.08,8,1,8,bare,continuous
+probe_01120_spk01.wav,output/probe_01120_spk01.wav,일사칠공팔이칠이삼오.,1470827235,,female,spk01,probe_bare_10,probe,-1,2.32,10,1,10,bare,continuous
+probe_01124_spk05.wav,output/probe_01124_spk05.wav,일육오사이삼오육칠칠.,1654235677,,female,spk05,probe_bare_10,probe,-1,2.08,10,1,10,bare,continuous
+probe_01128_spk09.wav,output/probe_01128_spk09.wav,구일공삼삼육팔이구육.,9103368296,,female,spk09,probe_bare_10,probe,-1,2.32,10,1,10,bare,continuous
+probe_01132_spk13.wav,output/probe_01132_spk13.wav,구이팔육육사육사구일.,9286646491,,male,spk13,probe_bare_10,probe,-1,2.32,10,1,10,bare,continuous
+probe_01136_spk03.wav,output/probe_01136_spk03.wav,공오삼팔사사사사육삼.,0538444463,,female,spk03,probe_bare_10,probe,-1,2.56,10,1,10,bare,continuous
+probe_01140_spk07.wav,output/probe_01140_spk07.wav,육삼일이팔일구육사팔.,6312819648,,female,spk07,probe_bare_10,probe,-1,2.16,10,1,10,bare,continuous
+probe_01144_spk11.wav,output/probe_01144_spk11.wav,사일이공구일일칠구일.,4120911791,,female,spk11,probe_bare_10,probe,-1,2.8,10,1,10,bare,continuous
+probe_01148_spk01.wav,output/probe_01148_spk01.wav,공일오오칠구구팔공이.,0155799802,,female,spk01,probe_bare_10,probe,-1,2.8,10,1,10,bare,continuous
+probe_01152_spk05.wav,output/probe_01152_spk05.wav,칠육팔육삼사이삼사육.,7686342346,,female,spk05,probe_bare_10,probe,-1,2.0,10,1,10,bare,continuous
+probe_01156_spk09.wav,output/probe_01156_spk09.wav,사구팔오육공일이오육.,4985601256,,female,spk09,probe_bare_10,probe,-1,1.68,10,1,10,bare,continuous
+probe_01160_spk13.wav,output/probe_01160_spk13.wav,구일구육육오오삼삼공칠칠.,919665533077,,male,spk13,probe_bare_12,probe,-1,2.8,12,1,12,bare,continuous
+probe_01164_spk03.wav,output/probe_01164_spk03.wav,육일팔오칠구공육사칠칠일.,618579064771,,female,spk03,probe_bare_12,probe,-1,2.72,12,1,12,bare,continuous
+probe_01168_spk07.wav,output/probe_01168_spk07.wav,오이구육칠일팔팔삼구칠칠.,529671883977,,female,spk07,probe_bare_12,probe,-1,2.48,12,1,12,bare,continuous
+probe_01172_spk11.wav,output/probe_01172_spk11.wav,삼오육칠구팔삼육삼일사육.,356798363146,,female,spk11,probe_bare_12,probe,-1,3.6,12,1,12,bare,continuous
+probe_01176_spk01.wav,output/probe_01176_spk01.wav,공육육삼사삼육이구사팔구.,066343629489,,female,spk01,probe_bare_12,probe,-1,3.04,12,1,12,bare,continuous
+probe_01180_spk05.wav,output/probe_01180_spk05.wav,이팔구칠사삼이오일이이오.,289743251225,,female,spk05,probe_bare_12,probe,-1,2.0,12,1,12,bare,continuous
+probe_01184_spk09.wav,output/probe_01184_spk09.wav,오팔사칠사오칠공오사오팔.,584745705458,,female,spk09,probe_bare_12,probe,-1,2.72,12,1,12,bare,continuous
+probe_01188_spk13.wav,output/probe_01188_spk13.wav,공구팔오구일육칠구오사일.,098591679541,,male,spk13,probe_bare_12,probe,-1,2.48,12,1,12,bare,continuous
+probe_01192_spk03.wav,output/probe_01192_spk03.wav,이일사이삼육구일사삼공칠.,214236914307,,female,spk03,probe_bare_12,probe,-1,2.56,12,1,12,bare,continuous
+probe_01196_spk07.wav,output/probe_01196_spk07.wav,오팔오칠오육칠육육칠공팔.,585756766708,,female,spk07,probe_bare_12,probe,-1,2.56,12,1,12,bare,continuous
+probe_01200_spk11.wav,output/probe_01200_spk11.wav,일구팔공삼팔이팔칠이삼이사사.,19803828723244,,female,spk11,probe_bare_14,probe,-1,2.96,14,1,14,bare,continuous
+probe_01204_spk01.wav,output/probe_01204_spk01.wav,삼칠칠사사일구칠오사육육일칠.,37744197546617,,female,spk01,probe_bare_14,probe,-1,4.24,14,1,14,bare,continuous
+probe_01208_spk05.wav,output/probe_01208_spk05.wav,일칠육칠구이구팔팔사이오구구.,17679298842599,,female,spk05,probe_bare_14,probe,-1,3.2,14,1,14,bare,continuous
+probe_01212_spk09.wav,output/probe_01212_spk09.wav,칠칠사삼삼이육팔삼일구공일삼.,77433268319013,,female,spk09,probe_bare_14,probe,-1,2.88,14,1,14,bare,continuous
+probe_01216_spk13.wav,output/probe_01216_spk13.wav,사사육오일이사일팔구삼팔구팔.,44651241893898,,male,spk13,probe_bare_14,probe,-1,2.72,14,1,14,bare,continuous
+probe_01220_spk03.wav,output/probe_01220_spk03.wav,팔삼오육칠사삼공공공삼팔구육.,83567430003896,,female,spk03,probe_bare_14,probe,-1,3.84,14,1,14,bare,continuous
+probe_01224_spk07.wav,output/probe_01224_spk07.wav,오구삼사이구육칠일일일사팔삼.,59342967111483,,female,spk07,probe_bare_14,probe,-1,2.48,14,1,14,bare,continuous
+probe_01228_spk11.wav,output/probe_01228_spk11.wav,구육사일공사구육칠공육육칠공.,96410496706670,,female,spk11,probe_bare_14,probe,-1,3.84,14,1,14,bare,continuous
+probe_01232_spk01.wav,output/probe_01232_spk01.wav,일삼팔사오구육공구사오사사구.,13845960945449,,female,spk01,probe_bare_14,probe,-1,3.44,14,1,14,bare,continuous
+probe_01236_spk05.wav,output/probe_01236_spk05.wav,이팔칠구오공팔삼공사사공오팔.,28795083044058,,female,spk05,probe_bare_14,probe,-1,3.04,14,1,14,bare,continuous
+probe_01240_spk09.wav,output/probe_01240_spk09.wav,오팔팔구오삼육구공이육일일삼구팔.,5889536902611398,,female,spk09,probe_bare_16,probe,-1,3.28,16,1,16,bare,continuous
+probe_01244_spk13.wav,output/probe_01244_spk13.wav,구사사오오일일육육팔이구칠삼이칠.,9445511668297327,,male,spk13,probe_bare_16,probe,-1,4.0,16,1,16,bare,continuous
+probe_01248_spk03.wav,output/probe_01248_spk03.wav,구구오칠육오칠이팔구사일삼사칠오.,9957657289413475,,female,spk03,probe_bare_16,probe,-1,3.36,16,1,16,bare,continuous
+probe_01252_spk07.wav,output/probe_01252_spk07.wav,팔삼공칠공오삼사구육칠팔이칠사일.,8307053496782741,,female,spk07,probe_bare_16,probe,-1,4.16,16,1,16,bare,continuous
+probe_01256_spk11.wav,output/probe_01256_spk11.wav,삼공육일칠팔구삼이공육사구육구삼.,3061789320649693,,female,spk11,probe_bare_16,probe,-1,3.84,16,1,16,bare,continuous
+probe_01260_spk01.wav,output/probe_01260_spk01.wav,육육칠육육사공사칠삼오공사칠육삼.,6676640473504763,,female,spk01,probe_bare_16,probe,-1,3.92,16,1,16,bare,continuous
+probe_01264_spk05.wav,output/probe_01264_spk05.wav,사공삼삼공사일육육이사일일일팔육.,4033041662411186,,female,spk05,probe_bare_16,probe,-1,3.44,16,1,16,bare,continuous
+probe_01268_spk09.wav,output/probe_01268_spk09.wav,삼칠오칠구일사오이일일팔이삼칠구.,3757914521182379,,female,spk09,probe_bare_16,probe,-1,3.2,16,1,16,bare,continuous
+probe_01272_spk13.wav,output/probe_01272_spk13.wav,일공육칠이팔칠이팔육육공사일육사.,1067287286604164,,male,spk13,probe_bare_16,probe,-1,2.88,16,1,16,bare,continuous
+probe_01276_spk03.wav,output/probe_01276_spk03.wav,삼오공삼사사육구사오구육사팔팔삼.,3503446945964883,,female,spk03,probe_bare_16,probe,-1,3.84,16,1,16,bare,continuous

@@ -28,3 +28,18 @@ src/cnn/paper/*.toc
 
 # 조판 검증용 스크래치(페이지 PNG·crop 파일) — 재생성 가능
 .typeset_tmp/
+
+# 2차 피드백 실험(rev2) 산출물 — 재생성 가능
+src/cnn/rev2/out/*.pt
+src/cnn/rev2/out/degraded/
+src/cnn/rev2/logs/
+# 신규 합성 음성(대용량) — 생성 스크립트는 rev2/gen_tts.py 로 추적
+src/cnn/data_probe/output/
+src/cnn/data_qwen_v3/positive/output/
+
+# 지도교수 피드백 원문 — 저장소가 공개이므로 추적하지 않는다(개인 서신).
+feedback.txt
+feedback2.txt
+
+# 스크래치 LaTeX 로그
+src/cnn/rev2/texput.log

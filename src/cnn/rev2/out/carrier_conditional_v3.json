@@ -1,0 +1,118 @@
+{
+  "per_seed": [
+    {
+      "seed": "42",
+      "group": "hard_carrier",
+      "n": 130,
+      "rate_ge_0.5": 0.007692307692307693,
+      "mean_prob": 0.11498770264622107
+    },
+    {
+      "seed": "42",
+      "group": "hard_no_carrier",
+      "n": 17,
+      "rate_ge_0.5": 0.0,
+      "mean_prob": 0.01040933385957027
+    },
+    {
+      "seed": "42",
+      "group": "pos_carrier",
+      "n": 153,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.984047940353942
+    },
+    {
+      "seed": "42",
+      "group": "pos_no_carrier",
+      "n": 19,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.9493755447237116
+    },
+    {
+      "seed": "43",
+      "group": "hard_carrier",
+      "n": 130,
+      "rate_ge_0.5": 0.0,
+      "mean_prob": 0.07244584675018602
+    },
+    {
+      "seed": "43",
+      "group": "hard_no_carrier",
+      "n": 17,
+      "rate_ge_0.5": 0.0,
+      "mean_prob": 0.0064764421960502765
+    },
+    {
+      "seed": "43",
+      "group": "pos_carrier",
+      "n": 153,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.9616022593055675
+    },
+    {
+      "seed": "43",
+      "group": "pos_no_carrier",
+      "n": 19,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.8873356172913
+    },
+    {
+      "seed": "44",
+      "group": "hard_carrier",
+      "n": 130,
+      "rate_ge_0.5": 0.0,
+      "mean_prob": 0.0620622118720068
+    },
+    {
+      "seed": "44",
+      "group": "hard_no_carrier",
+      "n": 17,
+      "rate_ge_0.5": 0.0,
+      "mean_prob": 0.004838118487147241
+    },
+    {
+      "seed": "44",
+      "group": "pos_carrier",
+      "n": 153,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.9602644186393887
+    },
+    {
+      "seed": "44",
+      "group": "pos_no_carrier",
+      "n": 19,
+      "rate_ge_0.5": 1.0,
+      "mean_prob": 0.874932725178568
+    }
+  ],
+  "summary": [
+    {
+      "group": "hard_carrier",
+      "n": 130,
+      "rate_mean": 0.002564102564102564,
+      "rate_std": 0.004441155916843275,
+      "prob_mean": 0.08316525375613797
+    },
+    {
+      "group": "hard_no_carrier",
+      "n": 17,
+      "rate_mean": 0.0,
+      "rate_std": 0.0,
+      "prob_mean": 0.0072412981809225965
+    },
+    {
+      "group": "pos_carrier",
+      "n": 153,
+      "rate_mean": 1.0,
+      "rate_std": 0.0,
+      "prob_mean": 0.9686382060996328
+    },
+    {
+      "group": "pos_no_carrier",
+      "n": 19,
+      "rate_mean": 1.0,
+      "rate_std": 0.0,
+      "prob_mean": 0.9038812957311931
+    }
+  ]
+}

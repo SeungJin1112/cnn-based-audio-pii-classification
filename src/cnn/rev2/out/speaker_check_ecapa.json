@@ -1,0 +1,15 @@
+{
+  "encoder": "speechbrain/spkrec-ecapa-voxceleb",
+  "n_speakers": 14,
+  "per_speaker": 30,
+  "within_mean": 0.24204455183938217,
+  "between_mean": 0.5058642476797104,
+  "between_min": 0.17884230613708496,
+  "between_over_within": 2.089963371765524,
+  "closest_pair": {
+    "a": "spk05",
+    "b": "spk07",
+    "distance": 0.17884230613708496
+  },
+  "note": "논문 §3.4 의 2.29 는 Base 모델 자체 임베딩 기준. 여기 값은 독립 검증 모델 기준."
+}

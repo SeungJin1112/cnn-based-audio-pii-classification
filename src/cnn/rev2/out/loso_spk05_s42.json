@@ -1,0 +1,21 @@
+{
+  "speaker": "spk05",
+  "n_test": 128,
+  "thr_tuned": 0.39999999999999997,
+  "f1@0.5": 0.8925619834710744,
+  "recall@0.5": 0.84375,
+  "precision@0.5": 0.9473684210526315,
+  "roc_auc": 0.97216796875,
+  "f1@tuned": 0.9022556390977443,
+  "recall@tuned": 0.9375,
+  "hard_neg_fpr@0.5": 0.0,
+  "_meta": {
+    "mode": "loso",
+    "seed": 42,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

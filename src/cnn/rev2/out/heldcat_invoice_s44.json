@@ -1,0 +1,17 @@
+{
+  "category": "invoice",
+  "n": 39,
+  "held_fpr@0.5": 0.5384615384615384,
+  "mean_prob": 0.5126161298308617,
+  "best_val_f1": 0.9212827988338192,
+  "epochs_run": 30,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 44,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "category": "serial",
+  "n": 50,
+  "held_fpr@0.5": 1.0,
+  "mean_prob": 0.9010479915142059,
+  "best_val_f1": 0.9303621169916435,
+  "epochs_run": 33,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 43,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

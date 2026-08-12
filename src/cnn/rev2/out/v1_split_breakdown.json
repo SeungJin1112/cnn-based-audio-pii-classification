@@ -1,0 +1,62 @@
+{
+  "42": {
+    "train": {
+      "n": 1343,
+      "positive": 665,
+      "hard": 180,
+      "easy": 498
+    },
+    "val": {
+      "n": 326,
+      "positive": 162,
+      "hard": 58,
+      "easy": 106
+    },
+    "test": {
+      "n": 331,
+      "positive": 173,
+      "hard": 62,
+      "easy": 96
+    }
+  },
+  "43": {
+    "train": {
+      "n": 1350,
+      "positive": 665,
+      "hard": 194,
+      "easy": 491
+    },
+    "val": {
+      "n": 311,
+      "positive": 162,
+      "hard": 48,
+      "easy": 101
+    },
+    "test": {
+      "n": 339,
+      "positive": 173,
+      "hard": 58,
+      "easy": 108
+    }
+  },
+  "44": {
+    "train": {
+      "n": 1339,
+      "positive": 665,
+      "hard": 170,
+      "easy": 504
+    },
+    "val": {
+      "n": 326,
+      "positive": 162,
+      "hard": 58,
+      "easy": 106
+    },
+    "test": {
+      "n": 335,
+      "positive": 173,
+      "hard": 72,
+      "easy": 90
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "n": 331,
+  "accuracy": 0.7371601208459214,
+  "precision": 0.6961538461538461,
+  "recall": 0.9576719576719577,
+  "f1": 0.8062360801781737,
+  "tp": 181,
+  "fp": 79,
+  "tn": 63,
+  "fn": 8,
+  "roc_auc": 0.8770772784857291,
+  "pr_auc": 0.900757247032641,
+  "hard_neg_fpr@0.5": 0.5563380281690141,
+  "per_pii_recall@0.5": {
+    "rrn": {
+      "n": 52,
+      "recall": 0.8461538461538461
+    },
+    "account": {
+      "n": 56,
+      "recall": 1.0
+    },
+    "card": {
+      "n": 81,
+      "recall": 1.0
+    }
+  },
+  "per_category_fpr@0.5": {
+    "count": {
+      "n": 52,
+      "fpr": 0.5961538461538461
+    },
+    "order": {
+      "n": 45,
+      "fpr": 0.8888888888888888
+    },
+    "seat": {
+      "n": 45,
+      "fpr": 0.17777777777777778
+    }
+  },
+  "prefilter": [
+    {
+      "target_recall": 0.99,
+      "threshold": 0.254,
+      "recall": 1.0,
+      "precision": 0.6585365853658537,
+      "f1": 0.7941176470588235,
+      "hard_neg_fpr": 0.6901408450704225,
+      "stt_call_rate": 0.8670694864048338
+    },
+    {
+      "target_recall": 0.95,
+      "threshold": 0.3559,
+      "recall": 0.9947089947089947,
+      "precision": 0.6861313868613139,
+      "f1": 0.8120950323974082,
+      "hard_neg_fpr": 0.6056338028169014,
+      "stt_call_rate": 0.8277945619335347
+    },
+    {
+      "target_recall": 0.9,
+      "threshold": 0.5925,
+      "recall": 0.9365079365079365,
+      "precision": 0.7108433734939759,
+      "f1": 0.8082191780821918,
+      "hard_neg_fpr": 0.5070422535211268,
+      "stt_call_rate": 0.7522658610271903
+    }
+  ],
+  "calibration": {
+    "ece_raw": 0.17793081660285104,
+    "temperature": 1.8000000000000012,
+    "ece_temp": 0.12203440961613386,
+    "ece_platt": 0.06648235930639772
+  },
+  "split": {
+    "train": {
+      "n": 1165,
+      "positive": 539,
+      "hard": 176,
+      "easy": 450
+    },
+    "val": {
+      "n": 304,
+      "positive": 172,
+      "hard": 132,
+      "easy": 0
+    },
+    "test": {
+      "n": 331,
+      "positive": 189,
+      "hard": 142,
+      "easy": 0
+    }
+  },
+  "train_info": {
+    "best_val_f1": 0.7718446601941747,
+    "epochs_run": 30
+  },
+  "_meta": {
+    "mode": "indist",
+    "seed": 44,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": true,
+    "n_manifest": 1800
+  }
+}

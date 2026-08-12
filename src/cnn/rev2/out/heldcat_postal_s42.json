@@ -1,0 +1,17 @@
+{
+  "category": "postal",
+  "n": 41,
+  "held_fpr@0.5": 0.12195121951219512,
+  "mean_prob": 0.22855309872865315,
+  "best_val_f1": 0.9244186046511628,
+  "epochs_run": 39,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 42,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

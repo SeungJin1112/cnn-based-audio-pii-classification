@@ -1,0 +1,17 @@
+{
+  "category": "count",
+  "n": 52,
+  "held_fpr@0.5": 0.34615384615384615,
+  "mean_prob": 0.40892313470920694,
+  "best_val_f1": 0.9470588235294117,
+  "epochs_run": 37,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 43,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

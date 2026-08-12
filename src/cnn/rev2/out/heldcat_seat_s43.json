@@ -1,0 +1,17 @@
+{
+  "category": "seat",
+  "n": 44,
+  "held_fpr@0.5": 0.06818181818181818,
+  "mean_prob": 0.12184395663577809,
+  "best_val_f1": 0.8788732394366198,
+  "epochs_run": 40,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 43,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

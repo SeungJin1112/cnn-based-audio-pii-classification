@@ -1,0 +1,226 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+positive_00002_spk03.wav,output/positive_00002_spk03.wav,육일칠 육이육 공이칠팔이사 으로 입금해 주세요. 감사합니다.,617-626-027824,account,female,spk03,account_1,positive,1,5.52
+positive_00006_spk07.wav,output/positive_00006_spk07.wav,확인을 위해 알려드립니다. 환불 계좌는 육사구 일삼칠 구육칠공구육입니다.,649-137-967096,account,female,spk07,account_3,positive,1,6.08
+positive_00010_spk11.wav,output/positive_00010_spk11.wav,잠시 안내드립니다. 칠이삼 육육공 일칠구사오일 으로 입금해 주세요.,723-660-179451,account,female,spk11,account_1,positive,1,7.04
+positive_00014_spk01.wav,output/positive_00014_spk01.wav,육구칠 사일팔 삼칠구오팔공 으로 입금해 주세요.,697-418-379580,account,female,spk01,account_1,positive,1,4.96
+positive_00018_spk05.wav,output/positive_00018_spk05.wav,안내 말씀드립니다. 제 계좌번호는 팔팔칠 육육육 삼오육육구구입니다.,887-666-356699,account,female,spk05,account_0,positive,1,6.08
+positive_00022_spk09.wav,output/positive_00022_spk09.wav,안내 말씀드립니다. 제 계좌번호는 삼사오 육구 이오이오칠이입니다.,345-69-252572,account,female,spk09,account_0,positive,1,5.84
+positive_00026_spk13.wav,output/positive_00026_spk13.wav,안내 말씀드립니다. 제 계좌번호는 칠공이 이삼오 공공칠오사공입니다.,702-235-007540,account,male,spk13,account_0,positive,1,5.36
+positive_00030_spk03.wav,output/positive_00030_spk03.wav,제 계좌번호는 칠팔구 육칠구 육칠칠오육팔입니다. 확인 부탁드립니다.,789-679-677568,account,female,spk03,account_0,positive,1,5.92
+positive_00034_spk07.wav,output/positive_00034_spk07.wav,고객님께 안내드립니다. 제 계좌번호는 구팔오 사이공 구사육이칠구입니다.,985-420-946279,account,female,spk07,account_0,positive,1,6.24
+positive_00038_spk11.wav,output/positive_00038_spk11.wav,제 계좌번호는 일오팔 구구삼 오삼이사구육입니다.,158-993-532496,account,female,spk11,account_0,positive,1,5.52
+positive_00042_spk01.wav,output/positive_00042_spk01.wav,제 계좌번호는 오육팔 삼삼삼 구칠사일사육입니다. 확인 부탁드립니다.,568-333-974146,account,female,spk01,account_0,positive,1,6.0
+positive_00046_spk05.wav,output/positive_00046_spk05.wav,이공육 구칠일 구이공칠팔이 으로 입금해 주세요. 참고 부탁드립니다.,206-971-920782,account,female,spk05,account_1,positive,1,5.36
+positive_00050_spk09.wav,output/positive_00050_spk09.wav,안내 말씀드립니다. 환불 계좌는 칠오이 이칠팔 일육구사삼공입니다.,752-278-169430,account,female,spk09,account_3,positive,1,5.12
+positive_00054_spk13.wav,output/positive_00054_spk13.wav,칠삼오 칠칠칠 일육이공육공 으로 입금해 주세요.,735-777-162060,account,male,spk13,account_1,positive,1,4.16
+positive_00058_spk03.wav,output/positive_00058_spk03.wav,안내 말씀드립니다. 삼이팔 삼사 육구이공구사 으로 입금해 주세요.,328-34-692094,account,female,spk03,account_1,positive,1,6.32
+positive_00062_spk07.wav,output/positive_00062_spk07.wav,환불 계좌는 칠이공 오삼삼 일이일이육삼입니다.,720-533-121263,account,female,spk07,account_3,positive,1,4.08
+positive_00066_spk11.wav,output/positive_00066_spk11.wav,오일이 칠이삼 삼일공공일육 으로 입금해 주세요. 감사합니다.,512-723-310016,account,female,spk11,account_1,positive,1,4.8
+positive_00070_spk01.wav,output/positive_00070_spk01.wav,잠시 안내드립니다. 일구오 팔사팔 구구팔이사삼 으로 입금해 주세요.,195-848-998243,account,female,spk01,account_1,positive,1,6.48
+positive_00074_spk05.wav,output/positive_00074_spk05.wav,제 계좌번호는 일오일 오팔공 이육일삼공삼입니다. 양해 부탁드립니다.,151-580-261303,account,female,spk05,account_0,positive,1,6.96
+positive_00078_spk09.wav,output/positive_00078_spk09.wav,잠시 안내드립니다. 제 계좌번호는 사사삼 삼삼칠 구삼육사공육입니다.,443-337-936406,account,female,spk09,account_0,positive,1,6.4
+positive_00082_spk13.wav,output/positive_00082_spk13.wav,고객님께 안내드립니다. 육오일 칠칠오 칠칠공삼일구 으로 입금해 주세요.,651-775-770319,account,male,spk13,account_1,positive,1,5.6
+positive_00086_spk03.wav,output/positive_00086_spk03.wav,환불 계좌는 사삼사 삼오오 칠구팔이공칠입니다. 감사합니다.,434-355-798207,account,female,spk03,account_3,positive,1,6.24
+positive_00090_spk07.wav,output/positive_00090_spk07.wav,입금하실 계좌는 오칠육 칠이육 이육팔육구공이에요. 확인 부탁드립니다.,576-726-268690,account,female,spk07,account_2,positive,1,6.16
+positive_00094_spk11.wav,output/positive_00094_spk11.wav,확인을 위해 알려드립니다. 제 계좌번호는 칠일사 팔삼사 일이육구삼오입니다.,714-834-126935,account,female,spk11,account_0,positive,1,6.88
+positive_00098_spk01.wav,output/positive_00098_spk01.wav,고객님께 안내드립니다. 제 계좌번호는 구칠이 이육일 팔칠일공팔사입니다.,972-261-871084,account,female,spk01,account_0,positive,1,6.72
+positive_00102_spk05.wav,output/positive_00102_spk05.wav,확인을 위해 알려드립니다. 환불 계좌는 팔공칠 사구칠 육칠칠이칠팔입니다.,807-497-677278,account,female,spk05,account_3,positive,1,7.28
+positive_00106_spk09.wav,output/positive_00106_spk09.wav,환불 계좌는 이구육 이삼일 칠칠사사팔삼입니다. 양해 부탁드립니다.,296-231-774483,account,female,spk09,account_3,positive,1,6.16
+positive_00110_spk13.wav,output/positive_00110_spk13.wav,고객님께 안내드립니다. 환불 계좌는 일오이 이육팔 구팔육칠칠육입니다.,152-268-986776,account,male,spk13,account_3,positive,1,5.28
+positive_00114_spk03.wav,output/positive_00114_spk03.wav,제 계좌번호는 사일이 오구이 육오일일구사입니다. 참고 부탁드립니다.,412-592-651194,account,female,spk03,account_0,positive,1,5.28
+positive_00118_spk07.wav,output/positive_00118_spk07.wav,구공육 팔이공 육오오사이공 으로 입금해 주세요. 참고 부탁드립니다.,906-820-655420,account,female,spk07,account_1,positive,1,5.2
+positive_00122_spk11.wav,output/positive_00122_spk11.wav,안내 말씀드립니다. 입금하실 계좌는 팔오이 삼사공 육삼삼공삼구이에요.,852-340-633039,account,female,spk11,account_2,positive,1,6.72
+positive_00126_spk01.wav,output/positive_00126_spk01.wav,환불 계좌는 사삼칠 사삼일 칠이칠삼육구입니다. 확인 부탁드립니다.,437-431-727369,account,female,spk01,account_3,positive,1,6.48
+positive_00130_spk05.wav,output/positive_00130_spk05.wav,제 계좌번호는 팔일오 오공육 일이칠삼이사입니다.,815-506-127324,account,female,spk05,account_0,positive,1,3.92
+positive_00134_spk09.wav,output/positive_00134_spk09.wav,삼사구 사칠칠 오칠팔공사삼 으로 입금해 주세요. 참고 부탁드립니다.,349-477-578043,account,female,spk09,account_1,positive,1,5.36
+positive_00138_spk13.wav,output/positive_00138_spk13.wav,환불 계좌는 팔일사 이오사 오구구오칠삼입니다. 확인 부탁드립니다.,814-254-599573,account,male,spk13,account_3,positive,1,5.84
+positive_00142_spk03.wav,output/positive_00142_spk03.wav,입금하실 계좌는 일칠육 사구공 팔일구사팔팔이에요. 확인 부탁드립니다.,176-490-819488,account,female,spk03,account_2,positive,1,6.64
+positive_00146_spk07.wav,output/positive_00146_spk07.wav,잠시 안내드립니다. 제 계좌번호는 일사칠 삼사이 팔삼사팔일육입니다.,147-342-834816,account,female,spk07,account_0,positive,1,6.8
+positive_00150_spk11.wav,output/positive_00150_spk11.wav,삼구사 칠공삼 오칠삼일사구 으로 입금해 주세요. 양해 부탁드립니다.,394-703-573149,account,female,spk11,account_1,positive,1,6.32
+positive_00154_spk01.wav,output/positive_00154_spk01.wav,확인을 위해 알려드립니다. 입금하실 계좌는 칠이공 칠칠삼 오이공팔오육이에요.,720-773-520856,account,female,spk01,account_2,positive,1,6.96
+positive_00158_spk05.wav,output/positive_00158_spk05.wav,고객님께 안내드립니다. 입금하실 계좌는 육사삼 오이삼 구오칠팔육공이에요.,643-523-957860,account,female,spk05,account_2,positive,1,7.2
+positive_00162_spk09.wav,output/positive_00162_spk09.wav,제 계좌번호는 칠구일 이사구 사구사삼칠구입니다. 양해 부탁드립니다.,791-249-494379,account,female,spk09,account_0,positive,1,6.16
+positive_00166_spk13.wav,output/positive_00166_spk13.wav,칠공일 칠칠공 칠육일팔구사 으로 입금해 주세요.,701-770-761894,account,male,spk13,account_1,positive,1,3.84
+positive_00170_spk03.wav,output/positive_00170_spk03.wav,잠시 안내드립니다. 제 계좌번호는 일구삼 육팔팔 이이이사공구입니다.,193-688-222409,account,female,spk03,account_0,positive,1,5.6
+positive_00174_spk07.wav,output/positive_00174_spk07.wav,고객님께 안내드립니다. 칠공이 삼사일 공일육오사칠 으로 입금해 주세요.,702-341-016547,account,female,spk07,account_1,positive,1,6.48
+positive_00178_spk11.wav,output/positive_00178_spk11.wav,안내 말씀드립니다. 환불 계좌는 오삼육 칠일이 일일삼이공육입니다.,536-712-113206,account,female,spk11,account_3,positive,1,5.92
+positive_00182_spk01.wav,output/positive_00182_spk01.wav,환불 계좌는 오이삼 삼오칠 팔육칠육일일입니다. 양해 부탁드립니다.,523-357-867611,account,female,spk01,account_3,positive,1,6.32
+positive_00186_spk05.wav,output/positive_00186_spk05.wav,제 계좌번호는 구팔팔 구사칠 칠오육공팔육입니다.,988-947-756086,account,female,spk05,account_0,positive,1,4.08
+positive_00190_spk09.wav,output/positive_00190_spk09.wav,입금하실 계좌는 일이구 일구사 이팔육오사사이에요.,129-194-286544,account,female,spk09,account_2,positive,1,3.84
+positive_00194_spk13.wav,output/positive_00194_spk13.wav,고객님께 안내드립니다. 제 계좌번호는 이오구 일칠일 칠구일공팔삼입니다.,259-171-791083,account,male,spk13,account_0,positive,1,5.36
+positive_00198_spk03.wav,output/positive_00198_spk03.wav,고객님께 안내드립니다. 입금하실 계좌는 팔팔이 이칠일 삼공삼오공칠이에요.,882-271-303507,account,female,spk03,account_2,positive,1,6.32
+positive_00202_spk07.wav,output/positive_00202_spk07.wav,환불 계좌는 이칠오 팔삼공 구구삼육사오입니다. 확인 부탁드립니다.,275-830-993645,account,female,spk07,account_3,positive,1,5.84
+positive_00206_spk11.wav,output/positive_00206_spk11.wav,제 계좌번호는 이칠칠 육이육 일육공이구오입니다. 감사합니다.,277-626-160295,account,female,spk11,account_0,positive,1,5.76
+positive_00210_spk01.wav,output/positive_00210_spk01.wav,안내 말씀드립니다. 입금하실 계좌는 오육이 사팔 공오구육오삼이에요.,562-48-059653,account,female,spk01,account_2,positive,1,6.16
+positive_00214_spk05.wav,output/positive_00214_spk05.wav,팔이사 사오팔 사육공칠육칠 으로 입금해 주세요. 감사합니다.,824-458-460767,account,female,spk05,account_1,positive,1,6.0
+positive_00218_spk09.wav,output/positive_00218_spk09.wav,확인을 위해 알려드립니다. 제 계좌번호는 이삼이 육일구 칠사삼이육육입니다.,232-619-743266,account,female,spk09,account_0,positive,1,6.16
+positive_00222_spk13.wav,output/positive_00222_spk13.wav,칠일일 삼구오 일육일칠사오 으로 입금해 주세요. 참고 부탁드립니다.,711-395-161745,account,male,spk13,account_1,positive,1,6.08
+positive_00226_spk03.wav,output/positive_00226_spk03.wav,이육오 팔사육 이공구삼구팔 으로 입금해 주세요.,265-846-209398,account,female,spk03,account_1,positive,1,4.08
+positive_00230_spk07.wav,output/positive_00230_spk07.wav,입금하실 계좌는 오이사 육사 사일오칠일이이에요. 양해 부탁드립니다.,524-64-415712,account,female,spk07,account_2,positive,1,5.76
+positive_00234_spk11.wav,output/positive_00234_spk11.wav,고객님께 안내드립니다. 이일삼 팔공사 삼공이공구육 으로 입금해 주세요.,213-804-302096,account,female,spk11,account_1,positive,1,6.72
+positive_00238_spk01.wav,output/positive_00238_spk01.wav,제 계좌번호는 사구구 구공사 사구이구칠이입니다. 양해 부탁드립니다.,499-904-492972,account,female,spk01,account_0,positive,1,6.24
+positive_00242_spk05.wav,output/positive_00242_spk05.wav,제 계좌번호는 일삼칠 삼일공 이일일삼팔삼입니다. 양해 부탁드립니다.,137-310-211383,account,female,spk05,account_0,positive,1,6.8
+positive_00246_spk09.wav,output/positive_00246_spk09.wav,환불 계좌는 사사칠 이공일 오이공삼공육입니다. 양해 부탁드립니다.,447-201-520306,account,female,spk09,account_3,positive,1,6.08
+positive_00250_spk13.wav,output/positive_00250_spk13.wav,제 계좌번호는 칠이구 사오오 이팔칠팔구이입니다. 양해 부탁드립니다.,729-455-287892,account,male,spk13,account_0,positive,1,5.04
+positive_00254_spk03.wav,output/positive_00254_spk03.wav,안내 말씀드립니다. 입금하실 계좌는 육사이 삼팔오 사일칠삼육팔이에요.,642-385-417368,account,female,spk03,account_2,positive,1,6.64
+positive_00258_spk07.wav,output/positive_00258_spk07.wav,입금하실 계좌는 일팔구 팔삼구 칠일오공오사이에요. 양해 부탁드립니다.,189-839-715054,account,female,spk07,account_2,positive,1,5.92
+positive_00262_spk11.wav,output/positive_00262_spk11.wav,확인을 위해 알려드립니다. 환불 계좌는 육삼팔 사삼공 팔공육오이칠입니다.,638-430-806527,account,female,spk11,account_3,positive,1,7.44
+positive_00266_spk01.wav,output/positive_00266_spk01.wav,확인을 위해 알려드립니다. 입금하실 계좌는 사오사 구팔공 구팔육육공구이에요.,454-980-986609,account,female,spk01,account_2,positive,1,6.88
+positive_00270_spk05.wav,output/positive_00270_spk05.wav,잠시 안내드립니다. 입금하실 계좌는 육공구 구이공 육오칠육이구이에요.,609-920-657629,account,female,spk05,account_2,positive,1,7.12
+positive_00274_spk09.wav,output/positive_00274_spk09.wav,확인을 위해 알려드립니다. 환불 계좌는 오칠칠 일삼오 이팔공사육사입니다.,577-135-280464,account,female,spk09,account_3,positive,1,6.96
+positive_00278_spk13.wav,output/positive_00278_spk13.wav,제 계좌번호는 육구칠 삼칠일 공오일공이일입니다. 감사합니다.,697-371-051021,account,male,spk13,account_0,positive,1,4.4
+positive_00282_spk03.wav,output/positive_00282_spk03.wav,확인을 위해 알려드립니다. 입금하실 계좌는 이삼일 일공구 사일삼공삼칠이에요.,231-109-413037,account,female,spk03,account_2,positive,1,6.72
+positive_00286_spk07.wav,output/positive_00286_spk07.wav,안내 말씀드립니다. 환불 계좌는 팔이오 오팔육 삼일사삼오삼입니다.,825-586-314353,account,female,spk07,account_3,positive,1,5.76
+positive_00290_spk11.wav,output/positive_00290_spk11.wav,이오오 사삼이 칠이사공사이 으로 입금해 주세요. 감사합니다.,255-432-724042,account,female,spk11,account_1,positive,1,5.36
+positive_00294_spk01.wav,output/positive_00294_spk01.wav,입금하실 계좌는 삼삼공 구칠사 삼일이공칠일이에요. 감사합니다.,330-974-312071,account,female,spk01,account_2,positive,1,6.08
+positive_00298_spk05.wav,output/positive_00298_spk05.wav,육칠오 칠이이 이팔사팔일오 으로 입금해 주세요. 참고 부탁드립니다.,675-722-284815,account,female,spk05,account_1,positive,1,5.2
+positive_00302_spk09.wav,output/positive_00302_spk09.wav,안내 말씀드립니다. 제 계좌번호는 칠육일 칠공 구오이공사공입니다.,761-70-952040,account,female,spk09,account_0,positive,1,5.52
+positive_00306_spk13.wav,output/positive_00306_spk13.wav,제 계좌번호는 오칠구 이팔구 이공이일칠칠입니다. 양해 부탁드립니다.,579-289-202177,account,male,spk13,account_0,positive,1,6.0
+positive_00310_spk03.wav,output/positive_00310_spk03.wav,잠시 안내드립니다. 제 계좌번호는 사삼칠 삼일구 육일공칠오사입니다.,437-319-610754,account,female,spk03,account_0,positive,1,7.2
+positive_00314_spk07.wav,output/positive_00314_spk07.wav,제 계좌번호는 팔팔공 이육삼 칠일삼삼구공입니다. 양해 부탁드립니다.,880-263-713390,account,female,spk07,account_0,positive,1,6.56
+positive_00318_spk11.wav,output/positive_00318_spk11.wav,안내 말씀드립니다. 환불 계좌는 오육칠 오팔칠 공육공오사일입니다.,567-587-060541,account,female,spk11,account_3,positive,1,5.84
+positive_00322_spk01.wav,output/positive_00322_spk01.wav,환불 계좌는 사팔삼 구이이 사공일공오팔입니다.,483-922-401058,account,female,spk01,account_3,positive,1,4.0
+positive_00326_spk05.wav,output/positive_00326_spk05.wav,입금하실 계좌는 오칠일 삼육사 일육이육오육이에요. 확인 부탁드립니다.,571-364-162656,account,female,spk05,account_2,positive,1,7.12
+positive_00330_spk09.wav,output/positive_00330_spk09.wav,입금하실 계좌는 육구일 육이이 팔일공공육오이에요. 참고 부탁드립니다.,691-622-810065,account,female,spk09,account_2,positive,1,5.68
+positive_00334_spk13.wav,output/positive_00334_spk13.wav,입금하실 계좌는 삼사육 팔칠구 이삼육이구공이에요.,346-879-236290,account,male,spk13,account_2,positive,1,4.08
+positive_00338_spk03.wav,output/positive_00338_spk03.wav,구구사 팔사 일구칠삼공삼 으로 입금해 주세요. 양해 부탁드립니다.,994-84-197303,account,female,spk03,account_1,positive,1,5.36
+positive_00342_spk07.wav,output/positive_00342_spk07.wav,잠시 안내드립니다. 환불 계좌는 오칠칠 일일공 팔사일팔일사입니다.,577-110-841814,account,female,spk07,account_3,positive,1,5.52
+positive_00346_spk11.wav,output/positive_00346_spk11.wav,환불 계좌는 삼육삼 칠구일 팔육일오공일입니다.,363-791-861501,account,female,spk11,account_3,positive,1,4.08
+positive_00350_spk01.wav,output/positive_00350_spk01.wav,제 계좌번호는 육일칠 사칠육 삼구일삼이구입니다. 감사합니다.,617-476-391329,account,female,spk01,account_0,positive,1,5.68
+positive_00354_spk05.wav,output/positive_00354_spk05.wav,잠시 안내드립니다. 제 계좌번호는 삼칠삼 팔이사 사일육일칠육입니다.,373-824-416176,account,female,spk05,account_0,positive,1,7.28
+positive_00358_spk09.wav,output/positive_00358_spk09.wav,환불 계좌는 팔공팔 구일팔 오구사삼일육입니다. 양해 부탁드립니다.,808-918-594316,account,female,spk09,account_3,positive,1,6.08
+positive_00362_spk13.wav,output/positive_00362_spk13.wav,안내 말씀드립니다. 제 계좌번호는 육일이 칠칠삼 삼육이육오구입니다.,612-773-362659,account,male,spk13,account_0,positive,1,5.52
+positive_00366_spk03.wav,output/positive_00366_spk03.wav,안내 말씀드립니다. 삼칠사 일육칠 삼구팔사오팔 으로 입금해 주세요.,374-167-398458,account,female,spk03,account_1,positive,1,5.6
+positive_00370_spk07.wav,output/positive_00370_spk07.wav,환불 계좌는 일일이 삼공팔 사삼삼구일일입니다. 참고 부탁드립니다.,112-308-433911,account,female,spk07,account_3,positive,1,5.76
+positive_00374_spk11.wav,output/positive_00374_spk11.wav,환불 계좌는 이삼팔 삼이일 공공칠공구육입니다. 양해 부탁드립니다.,238-321-007096,account,female,spk11,account_3,positive,1,6.16
+positive_00378_spk01.wav,output/positive_00378_spk01.wav,사칠삼 일이육 구칠칠삼사삼 으로 입금해 주세요. 확인 부탁드립니다.,473-126-977343,account,female,spk01,account_1,positive,1,5.6
+positive_00382_spk05.wav,output/positive_00382_spk05.wav,입금하실 계좌는 육오육 사칠 팔이구일삼공이에요. 확인 부탁드립니다.,656-47-829130,account,female,spk05,account_2,positive,1,6.24
+positive_00386_spk09.wav,output/positive_00386_spk09.wav,제 계좌번호는 사공이 사삼오 구육오이육사입니다. 참고 부탁드립니다.,402-435-965264,account,female,spk09,account_0,positive,1,6.16
+positive_00390_spk13.wav,output/positive_00390_spk13.wav,고객님께 안내드립니다. 팔오팔 이오구 오사일공오팔 으로 입금해 주세요.,858-259-541058,account,male,spk13,account_1,positive,1,5.04
+positive_00394_spk03.wav,output/positive_00394_spk03.wav,제 계좌번호는 사삼삼 이일일 사칠구칠칠육입니다. 양해 부탁드립니다.,433-211-479776,account,female,spk03,account_0,positive,1,6.4
+positive_00398_spk07.wav,output/positive_00398_spk07.wav,육팔팔 사공이 사사삼오팔팔 으로 입금해 주세요. 참고 부탁드립니다.,688-402-443588,account,female,spk07,account_1,positive,1,5.76
+positive_00402_spk11.wav,output/positive_00402_spk11.wav,확인을 위해 알려드립니다. 입금하실 계좌는 구일사 칠팔구 이삼일이사일이에요.,914-789-231241,account,female,spk11,account_2,positive,1,7.12
+positive_00406_spk01.wav,output/positive_00406_spk01.wav,제 계좌번호는 삼육구 삼육육 구공사공팔일입니다. 참고 부탁드립니다.,369-366-904081,account,female,spk01,account_0,positive,1,7.12
+positive_00410_spk05.wav,output/positive_00410_spk05.wav,제 계좌번호는 육이육 구삼일 칠일이이구육입니다. 감사합니다.,626-931-712296,account,female,spk05,account_0,positive,1,5.68
+positive_00414_spk09.wav,output/positive_00414_spk09.wav,제 계좌번호는 오구구 삼사오 육일공이이사입니다.,599-345-610224,account,female,spk09,account_0,positive,1,3.68
+positive_00418_spk13.wav,output/positive_00418_spk13.wav,고객님께 안내드립니다. 일일육 일삼칠 구칠사오팔일 으로 입금해 주세요.,116-137-974581,account,male,spk13,account_1,positive,1,5.68
+positive_00422_spk03.wav,output/positive_00422_spk03.wav,안내 말씀드립니다. 제 계좌번호는 육삼일 칠공육 사육육육팔육입니다.,631-706-466686,account,female,spk03,account_0,positive,1,6.4
+positive_00426_spk07.wav,output/positive_00426_spk07.wav,고객님께 안내드립니다. 오오공 삼육구 칠오칠오이사 으로 입금해 주세요.,550-369-757524,account,female,spk07,account_1,positive,1,6.08
+positive_00430_spk11.wav,output/positive_00430_spk11.wav,안내 말씀드립니다. 삼일공 오사공 육삼육사공팔 으로 입금해 주세요.,310-540-636408,account,female,spk11,account_1,positive,1,6.88
+positive_00434_spk01.wav,output/positive_00434_spk01.wav,안내 말씀드립니다. 제 계좌번호는 팔팔팔 팔사 공일칠오공공입니다.,888-84-017500,account,female,spk01,account_0,positive,1,6.08
+positive_00438_spk05.wav,output/positive_00438_spk05.wav,환불 계좌는 삼오공 구팔 구육구오사이입니다. 확인 부탁드립니다.,350-98-969542,account,female,spk05,account_3,positive,1,6.24
+positive_00442_spk09.wav,output/positive_00442_spk09.wav,입금하실 계좌는 삼칠팔 오사육 공육육구칠사이에요. 확인 부탁드립니다.,378-546-066974,account,female,spk09,account_2,positive,1,6.0
+positive_00446_spk13.wav,output/positive_00446_spk13.wav,환불 계좌는 일사칠 사구삼 삼팔일육오칠입니다.,147-493-381657,account,male,spk13,account_3,positive,1,3.84
+positive_00450_spk03.wav,output/positive_00450_spk03.wav,입금하실 계좌는 구팔육 이구구 팔일일일공이이에요. 확인 부탁드립니다.,986-299-811102,account,female,spk03,account_2,positive,1,6.08
+positive_00454_spk07.wav,output/positive_00454_spk07.wav,환불 계좌는 사사삼 일일 칠구오칠구사입니다. 확인 부탁드립니다.,443-11-795794,account,female,spk07,account_3,positive,1,5.6
+positive_00458_spk11.wav,output/positive_00458_spk11.wav,제 계좌번호는 일칠육 육일육 오구오사공삼입니다. 참고 부탁드립니다.,176-616-595403,account,female,spk11,account_0,positive,1,7.04
+positive_00462_spk01.wav,output/positive_00462_spk01.wav,안내 말씀드립니다. 육사팔 삼칠육 팔공칠칠오육 으로 입금해 주세요.,648-376-807756,account,female,spk01,account_1,positive,1,6.32
+positive_00466_spk05.wav,output/positive_00466_spk05.wav,잠시 안내드립니다. 오칠삼 일일사 팔사이구사육 으로 입금해 주세요.,573-114-842946,account,female,spk05,account_1,positive,1,5.6
+positive_00470_spk09.wav,output/positive_00470_spk09.wav,환불 계좌는 구사일 칠오일 사일사일팔육입니다. 참고 부탁드립니다.,941-751-414186,account,female,spk09,account_3,positive,1,5.76
+positive_00474_spk13.wav,output/positive_00474_spk13.wav,제 계좌번호는 칠사오 팔삼일 오칠공공육오입니다.,745-831-570065,account,male,spk13,account_0,positive,1,3.68
+positive_00478_spk03.wav,output/positive_00478_spk03.wav,이공이 이육삼 육팔팔칠칠이 으로 입금해 주세요. 확인 부탁드립니다.,202-263-688772,account,female,spk03,account_1,positive,1,5.76
+positive_00482_spk07.wav,output/positive_00482_spk07.wav,확인을 위해 알려드립니다. 일구이 육칠 이사삼구이삼 으로 입금해 주세요.,192-67-243923,account,female,spk07,account_1,positive,1,5.52
+positive_00486_spk11.wav,output/positive_00486_spk11.wav,확인을 위해 알려드립니다. 환불 계좌는 팔사구 구팔일 사오팔공팔구입니다.,849-981-458089,account,female,spk11,account_3,positive,1,6.96
+positive_00490_spk01.wav,output/positive_00490_spk01.wav,제 계좌번호는 칠이육 이삼육 육칠공칠일팔입니다.,726-236-670718,account,female,spk01,account_0,positive,1,4.8
+positive_00494_spk05.wav,output/positive_00494_spk05.wav,고객님께 안내드립니다. 환불 계좌는 팔오공 사삼구 일칠사사일팔입니다.,850-439-174418,account,female,spk05,account_3,positive,1,7.36
+positive_00498_spk09.wav,output/positive_00498_spk09.wav,안내 말씀드립니다. 팔이일 사일 사오이이칠오 으로 입금해 주세요.,821-41-452275,account,female,spk09,account_1,positive,1,5.04
+positive_00502_spk13.wav,output/positive_00502_spk13.wav,안내 말씀드립니다. 삼공사 일공구 공이육구팔오 으로 입금해 주세요.,304-109-026985,account,male,spk13,account_1,positive,1,5.04
+positive_00506_spk03.wav,output/positive_00506_spk03.wav,고객님께 안내드립니다. 제 계좌번호는 이오사 칠팔공 칠삼공삼공이입니다.,254-780-730302,account,female,spk03,account_0,positive,1,7.12
+positive_00510_spk07.wav,output/positive_00510_spk07.wav,제 계좌번호는 구이칠 이공칠 일삼이삼일오입니다. 감사합니다.,927-207-132315,account,female,spk07,account_0,positive,1,5.36
+positive_00514_spk11.wav,output/positive_00514_spk11.wav,제 계좌번호는 이공팔 오팔육 팔일칠사일일입니다. 양해 부탁드립니다.,208-586-817411,account,female,spk11,account_0,positive,1,7.2
+positive_00518_spk01.wav,output/positive_00518_spk01.wav,입금하실 계좌는 사팔일 삼공 삼오사이칠팔이에요. 확인 부탁드립니다.,481-30-354278,account,female,spk01,account_2,positive,1,7.28
+positive_00522_spk05.wav,output/positive_00522_spk05.wav,팔이육 오이팔 사이이구칠구 으로 입금해 주세요. 확인 부탁드립니다.,826-528-422979,account,female,spk05,account_1,positive,1,5.52
+positive_00526_spk09.wav,output/positive_00526_spk09.wav,입금하실 계좌는 사오이 일칠칠 팔칠팔삼사삼이에요. 양해 부탁드립니다.,452-177-878343,account,female,spk09,account_2,positive,1,5.84
+positive_00530_spk13.wav,output/positive_00530_spk13.wav,확인을 위해 알려드립니다. 입금하실 계좌는 팔이구 칠삼육 육칠삼구육이이에요.,829-736-673962,account,male,spk13,account_2,positive,1,7.36
+positive_00534_spk03.wav,output/positive_00534_spk03.wav,입금하실 계좌는 칠오오 삼사이 구공삼삼삼구이에요. 양해 부탁드립니다.,755-342-903339,account,female,spk03,account_2,positive,1,6.4
+positive_00538_spk07.wav,output/positive_00538_spk07.wav,입금하실 계좌는 칠팔칠 삼칠칠 오삼일구오팔이에요. 참고 부탁드립니다.,787-377-531958,account,female,spk07,account_2,positive,1,6.0
+positive_00542_spk11.wav,output/positive_00542_spk11.wav,안내 말씀드립니다. 제 계좌번호는 구팔칠 육오구 육일일구이이입니다.,987-659-611922,account,female,spk11,account_0,positive,1,7.12
+positive_00546_spk01.wav,output/positive_00546_spk01.wav,잠시 안내드립니다. 제 계좌번호는 사이공 육오구 공육공팔삼일입니다.,420-659-060831,account,female,spk01,account_0,positive,1,6.64
+positive_00550_spk05.wav,output/positive_00550_spk05.wav,안내 말씀드립니다. 환불 계좌는 사일구 일사이 일공칠육구칠입니다.,419-142-107697,account,female,spk05,account_3,positive,1,6.8
+positive_00554_spk09.wav,output/positive_00554_spk09.wav,제 계좌번호는 팔이팔 육칠육 팔삼공육공오입니다. 확인 부탁드립니다.,828-676-830605,account,female,spk09,account_0,positive,1,6.08
+positive_00558_spk13.wav,output/positive_00558_spk13.wav,제 계좌번호는 구오공 구삼공 일일공공일공입니다. 감사합니다.,950-930-110010,account,male,spk13,account_0,positive,1,5.44
+positive_00562_spk03.wav,output/positive_00562_spk03.wav,확인을 위해 알려드립니다. 제 계좌번호는 이오이 구팔이 공구사사오팔입니다.,252-982-094458,account,female,spk03,account_0,positive,1,5.44
+positive_00566_spk07.wav,output/positive_00566_spk07.wav,안내 말씀드립니다. 제 계좌번호는 칠삼육 이팔사 구이일일사팔입니다.,736-284-921148,account,female,spk07,account_0,positive,1,6.48
+positive_00570_spk11.wav,output/positive_00570_spk11.wav,고객님께 안내드립니다. 칠이육 삼구 구공사사칠육 으로 입금해 주세요.,726-39-904476,account,female,spk11,account_1,positive,1,6.88
+positive_00574_spk01.wav,output/positive_00574_spk01.wav,고객님께 안내드립니다. 일일일 육육팔 구칠구칠오구 으로 입금해 주세요.,111-668-979759,account,female,spk01,account_1,positive,1,7.2
+positive_00578_spk05.wav,output/positive_00578_spk05.wav,안내 말씀드립니다. 제 계좌번호는 이공오 사이삼 사삼이삼육팔입니다.,205-423-432368,account,female,spk05,account_0,positive,1,6.48
+positive_00582_spk09.wav,output/positive_00582_spk09.wav,안내 말씀드립니다. 입금하실 계좌는 사육삼 팔오구 육육사사사일이에요.,463-859-664441,account,female,spk09,account_2,positive,1,6.16
+positive_00586_spk13.wav,output/positive_00586_spk13.wav,환불 계좌는 팔구공 구이삼 사칠이삼팔팔입니다. 참고 부탁드립니다.,890-923-472388,account,male,spk13,account_3,positive,1,5.04
+positive_00590_spk03.wav,output/positive_00590_spk03.wav,고객님께 안내드립니다. 입금하실 계좌는 삼팔공 사일칠 삼오구오일삼이에요.,380-417-359513,account,female,spk03,account_2,positive,1,6.32
+positive_00594_spk07.wav,output/positive_00594_spk07.wav,입금하실 계좌는 칠구공 칠칠오 구삼칠이팔육이에요.,790-775-937286,account,female,spk07,account_2,positive,1,4.32
+positive_00598_spk11.wav,output/positive_00598_spk11.wav,구삼삼 사칠삼 일공칠사오팔 으로 입금해 주세요. 참고 부탁드립니다.,933-473-107458,account,female,spk11,account_1,positive,1,7.84
+positive_00602_spk01.wav,output/positive_00602_spk01.wav,안내 말씀드립니다. 제 계좌번호는 오오구 일구일 칠일오팔일구입니다.,559-191-715819,account,female,spk01,account_0,positive,1,6.24
+positive_00606_spk05.wav,output/positive_00606_spk05.wav,이팔팔 오사삼 공칠일사팔팔 으로 입금해 주세요. 확인 부탁드립니다.,288-543-071488,account,female,spk05,account_1,positive,1,5.84
+positive_00610_spk09.wav,output/positive_00610_spk09.wav,입금하실 계좌는 일이오 구사삼 오사일구칠오이에요. 감사합니다.,125-943-541975,account,female,spk09,account_2,positive,1,5.04
+positive_00614_spk13.wav,output/positive_00614_spk13.wav,확인을 위해 알려드립니다. 제 계좌번호는 팔삼사 삼사구 공삼구칠이육입니다.,834-349-039726,account,male,spk13,account_0,positive,1,5.28
+positive_00618_spk03.wav,output/positive_00618_spk03.wav,고객님께 안내드립니다. 입금하실 계좌는 삼구육 팔일오 칠일구일구오이에요.,396-815-719195,account,female,spk03,account_2,positive,1,6.0
+positive_00622_spk07.wav,output/positive_00622_spk07.wav,입금하실 계좌는 사일이 이이오 칠팔사육사오이에요. 참고 부탁드립니다.,412-225-784645,account,female,spk07,account_2,positive,1,6.08
+positive_00626_spk11.wav,output/positive_00626_spk11.wav,제 계좌번호는 이공이 삼공일 육사구육공구입니다.,202-301-649609,account,female,spk11,account_0,positive,1,4.72
+positive_00630_spk01.wav,output/positive_00630_spk01.wav,안내 말씀드립니다. 환불 계좌는 구구팔 오공일 사팔오삼삼일입니다.,998-501-485331,account,female,spk01,account_3,positive,1,6.64
+positive_00634_spk05.wav,output/positive_00634_spk05.wav,입금하실 계좌는 칠육구 팔공삼 일오오팔오이이에요. 양해 부탁드립니다.,769-803-155852,account,female,spk05,account_2,positive,1,6.24
+positive_00638_spk09.wav,output/positive_00638_spk09.wav,사칠팔 이사구 공사사팔팔칠 으로 입금해 주세요. 감사합니다.,478-249-044887,account,female,spk09,account_1,positive,1,5.12
+positive_00642_spk13.wav,output/positive_00642_spk13.wav,안내 말씀드립니다. 입금하실 계좌는 사육일 팔사육 구공구팔육구이에요.,461-846-909869,account,male,spk13,account_2,positive,1,6.0
+positive_00646_spk03.wav,output/positive_00646_spk03.wav,잠시 안내드립니다. 환불 계좌는 칠공사 일칠오 육칠팔칠공공입니다.,704-175-678700,account,female,spk03,account_3,positive,1,6.64
+positive_00650_spk07.wav,output/positive_00650_spk07.wav,구팔팔 오공삼 일칠팔팔오이 으로 입금해 주세요. 참고 부탁드립니다.,988-503-178852,account,female,spk07,account_1,positive,1,5.52
+positive_00654_spk11.wav,output/positive_00654_spk11.wav,제 계좌번호는 육사사 오이오 칠팔팔구삼공입니다. 확인 부탁드립니다.,644-525-788930,account,female,spk11,account_0,positive,1,6.96
+positive_00658_spk01.wav,output/positive_00658_spk01.wav,안내 말씀드립니다. 환불 계좌는 일팔오 삼공공 육이칠삼오사입니다.,185-300-627354,account,female,spk01,account_3,positive,1,5.36
+positive_00662_spk05.wav,output/positive_00662_spk05.wav,환불 계좌는 오공육 칠팔삼 이일삼오팔팔입니다. 참고 부탁드립니다.,506-783-213588,account,female,spk05,account_3,positive,1,5.84
+positive_00666_spk09.wav,output/positive_00666_spk09.wav,제 계좌번호는 이육사 사공팔 육육육칠육사입니다. 감사합니다.,264-408-666764,account,female,spk09,account_0,positive,1,5.52
+positive_00670_spk13.wav,output/positive_00670_spk13.wav,이구구 사사 팔이이공사일 으로 입금해 주세요. 양해 부탁드립니다.,299-44-822041,account,male,spk13,account_1,positive,1,4.64
+positive_00674_spk03.wav,output/positive_00674_spk03.wav,입금하실 계좌는 오일삼 오구팔 공공사팔칠칠이에요. 확인 부탁드립니다.,513-598-004877,account,female,spk03,account_2,positive,1,6.0
+positive_00678_spk07.wav,output/positive_00678_spk07.wav,제 계좌번호는 오구삼 일이구 이칠공삼사삼입니다. 참고 부탁드립니다.,593-129-270343,account,female,spk07,account_0,positive,1,5.92
+positive_00682_spk11.wav,output/positive_00682_spk11.wav,잠시 안내드립니다. 팔육사 칠공구 구칠오사사삼 으로 입금해 주세요.,864-709-975443,account,female,spk11,account_1,positive,1,6.08
+positive_00686_spk01.wav,output/positive_00686_spk01.wav,오공칠 이삼칠 칠팔육육공구 으로 입금해 주세요. 감사합니다.,507-237-786609,account,female,spk01,account_1,positive,1,5.84
+positive_00690_spk05.wav,output/positive_00690_spk05.wav,이구일 오칠일 이칠오육일칠 으로 입금해 주세요. 양해 부탁드립니다.,291-571-275617,account,female,spk05,account_1,positive,1,5.76
+positive_00694_spk09.wav,output/positive_00694_spk09.wav,고객님께 안내드립니다. 삼공공 일오구 팔삼팔구공공 으로 입금해 주세요.,300-159-838900,account,female,spk09,account_1,positive,1,5.84
+positive_00698_spk13.wav,output/positive_00698_spk13.wav,제 계좌번호는 사오이 삼공 사삼일칠육이입니다. 참고 부탁드립니다.,452-30-431762,account,male,spk13,account_0,positive,1,5.68
+positive_00702_spk03.wav,output/positive_00702_spk03.wav,입금하실 계좌는 사오일 이사삼 삼이팔칠공구이에요. 감사합니다.,451-243-328709,account,female,spk03,account_2,positive,1,5.6
+positive_00706_spk07.wav,output/positive_00706_spk07.wav,고객님께 안내드립니다. 환불 계좌는 일육오 구육구 구이일삼칠사입니다.,165-969-921374,account,female,spk07,account_3,positive,1,6.64
+positive_00710_spk11.wav,output/positive_00710_spk11.wav,잠시 안내드립니다. 입금하실 계좌는 구팔사 사구칠 사팔구팔팔칠이에요.,984-497-489887,account,female,spk11,account_2,positive,1,6.88
+positive_00714_spk01.wav,output/positive_00714_spk01.wav,고객님께 안내드립니다. 제 계좌번호는 사오이 삼공삼 사구일구팔구입니다.,452-303-491989,account,female,spk01,account_0,positive,1,7.28
+positive_00718_spk05.wav,output/positive_00718_spk05.wav,입금하실 계좌는 삼구일 육칠사 칠칠구공일오이에요. 참고 부탁드립니다.,391-674-779015,account,female,spk05,account_2,positive,1,6.32
+positive_00722_spk09.wav,output/positive_00722_spk09.wav,입금하실 계좌는 일일오 오일오 이이칠칠삼팔이에요. 감사합니다.,115-515-227738,account,female,spk09,account_2,positive,1,5.76
+positive_00726_spk13.wav,output/positive_00726_spk13.wav,제 계좌번호는 오칠일 칠육이 팔공팔사사칠입니다. 감사합니다.,571-762-808447,account,male,spk13,account_0,positive,1,4.64
+positive_00730_spk03.wav,output/positive_00730_spk03.wav,제 계좌번호는 오공오 팔일팔 이오사팔구칠입니다.,505-818-254897,account,female,spk03,account_0,positive,1,5.04
+positive_00734_spk07.wav,output/positive_00734_spk07.wav,안내 말씀드립니다. 입금하실 계좌는 일이일 칠일오 삼구육일일구이에요.,121-715-396119,account,female,spk07,account_2,positive,1,6.64
+positive_00738_spk11.wav,output/positive_00738_spk11.wav,잠시 안내드립니다. 제 계좌번호는 팔오일 일구구 구이오팔이일입니다.,851-199-925821,account,female,spk11,account_0,positive,1,6.8
+positive_00742_spk01.wav,output/positive_00742_spk01.wav,안내 말씀드립니다. 입금하실 계좌는 칠칠삼 오일일 오오일삼육삼이에요.,773-511-551363,account,female,spk01,account_2,positive,1,6.64
+positive_00746_spk05.wav,output/positive_00746_spk05.wav,육팔삼 육오공 구구삼오이구 으로 입금해 주세요. 확인 부탁드립니다.,683-650-993529,account,female,spk05,account_1,positive,1,5.68
+positive_00750_spk09.wav,output/positive_00750_spk09.wav,환불 계좌는 육칠육 오육팔 이이사삼일구입니다. 양해 부탁드립니다.,676-568-224319,account,female,spk09,account_3,positive,1,5.92
+positive_00754_spk13.wav,output/positive_00754_spk13.wav,이사일 이팔일 삼팔사구일사 으로 입금해 주세요. 확인 부탁드립니다.,241-281-384914,account,male,spk13,account_1,positive,1,4.88
+positive_00758_spk03.wav,output/positive_00758_spk03.wav,환불 계좌는 사사이 삼육육 구이이오이구입니다. 참고 부탁드립니다.,442-366-922529,account,female,spk03,account_3,positive,1,5.92
+positive_00762_spk07.wav,output/positive_00762_spk07.wav,고객님께 안내드립니다. 제 계좌번호는 사사사 구사 사구팔구육구입니다.,444-94-498969,account,female,spk07,account_0,positive,1,6.32
+positive_00766_spk11.wav,output/positive_00766_spk11.wav,확인을 위해 알려드립니다. 제 계좌번호는 사오이 육일팔 육팔칠이사칠입니다.,452-618-687247,account,female,spk11,account_0,positive,1,7.28
+positive_00770_spk01.wav,output/positive_00770_spk01.wav,삼일사 칠육칠 오육사일삼구 으로 입금해 주세요. 양해 부탁드립니다.,314-767-564139,account,female,spk01,account_1,positive,1,5.76
+positive_00774_spk05.wav,output/positive_00774_spk05.wav,입금하실 계좌는 구팔오 일이공 공이공공공오이에요.,985-120-020005,account,female,spk05,account_2,positive,1,3.92
+positive_00778_spk09.wav,output/positive_00778_spk09.wav,확인을 위해 알려드립니다. 입금하실 계좌는 일일팔 삼육오 칠일칠오오이이에요.,118-365-717552,account,female,spk09,account_2,positive,1,7.28
+positive_00782_spk13.wav,output/positive_00782_spk13.wav,잠시 안내드립니다. 입금하실 계좌는 사일구 구사일 육삼사칠칠오이에요.,419-941-634775,account,male,spk13,account_2,positive,1,5.76
+positive_00786_spk03.wav,output/positive_00786_spk03.wav,환불 계좌는 팔팔삼 삼삼육 구이이팔팔오입니다.,883-336-922885,account,female,spk03,account_3,positive,1,4.72
+positive_00790_spk07.wav,output/positive_00790_spk07.wav,안내 말씀드립니다. 육공삼 사구오 일사사일구이 으로 입금해 주세요.,603-495-144192,account,female,spk07,account_1,positive,1,5.92
+positive_00794_spk11.wav,output/positive_00794_spk11.wav,잠시 안내드립니다. 환불 계좌는 육삼삼 일이일 사칠삼오사육입니다.,633-121-473546,account,female,spk11,account_3,positive,1,6.16
+positive_00798_spk01.wav,output/positive_00798_spk01.wav,잠시 안내드립니다. 제 계좌번호는 구사구 육칠일 사칠삼육삼구입니다.,949-671-473639,account,female,spk01,account_0,positive,1,6.64
+positive_00802_spk05.wav,output/positive_00802_spk05.wav,잠시 안내드립니다. 팔사사 팔이공 오삼육오이일 으로 입금해 주세요.,844-820-536521,account,female,spk05,account_1,positive,1,6.16
+positive_00806_spk09.wav,output/positive_00806_spk09.wav,칠이이 구일삼 오일칠사삼칠 으로 입금해 주세요. 감사합니다.,722-913-517437,account,female,spk09,account_1,positive,1,5.36
+positive_00810_spk13.wav,output/positive_00810_spk13.wav,입금하실 계좌는 오이육 일구이 일육구일칠이이에요. 참고 부탁드립니다.,526-192-169172,account,male,spk13,account_2,positive,1,4.96
+positive_00814_spk03.wav,output/positive_00814_spk03.wav,제 계좌번호는 육팔오 칠오칠 육오구오삼일입니다. 양해 부탁드립니다.,685-757-659531,account,female,spk03,account_0,positive,1,5.76
+positive_00818_spk07.wav,output/positive_00818_spk07.wav,잠시 안내드립니다. 환불 계좌는 팔오오 팔칠팔 이일칠사공이입니다.,855-878-217402,account,female,spk07,account_3,positive,1,6.48
+positive_00822_spk11.wav,output/positive_00822_spk11.wav,구일육 사육 육칠칠공일오 으로 입금해 주세요. 양해 부탁드립니다.,916-46-677015,account,female,spk11,account_1,positive,1,5.68
+positive_00826_spk01.wav,output/positive_00826_spk01.wav,안내 말씀드립니다. 입금하실 계좌는 이구일 육일구 일이이오이공이에요.,291-619-122520,account,female,spk01,account_2,positive,1,6.0
+positive_00830_spk05.wav,output/positive_00830_spk05.wav,환불 계좌는 이구사 삼오팔 구육팔오공삼입니다. 양해 부탁드립니다.,294-358-968503,account,female,spk05,account_3,positive,1,5.68
+positive_00834_spk09.wav,output/positive_00834_spk09.wav,고객님께 안내드립니다. 입금하실 계좌는 사이팔 이일오 이공일팔구팔이에요.,428-215-201898,account,female,spk09,account_2,positive,1,6.8
+positive_00838_spk13.wav,output/positive_00838_spk13.wav,고객님께 안내드립니다. 제 계좌번호는 오팔이 구삼사 칠공팔삼공팔입니다.,582-934-708308,account,male,spk13,account_0,positive,1,5.84
+positive_00842_spk03.wav,output/positive_00842_spk03.wav,오팔일 이사칠 구구삼사칠일 으로 입금해 주세요. 양해 부탁드립니다.,581-247-993471,account,female,spk03,account_1,positive,1,5.12
+positive_00846_spk07.wav,output/positive_00846_spk07.wav,잠시 안내드립니다. 환불 계좌는 육사오 사팔이 사이공이팔육입니다.,645-482-420286,account,female,spk07,account_3,positive,1,5.6
+positive_00850_spk11.wav,output/positive_00850_spk11.wav,제 계좌번호는 이팔공 삼이오 사이오오공오입니다. 감사합니다.,280-325-425505,account,female,spk11,account_0,positive,1,5.52
+positive_00854_spk01.wav,output/positive_00854_spk01.wav,입금하실 계좌는 오사오 칠사오 구오구오칠공이에요.,545-745-959570,account,female,spk01,account_2,positive,1,5.28
+positive_00858_spk05.wav,output/positive_00858_spk05.wav,환불 계좌는 삼사공 사오이 칠삼육삼삼삼입니다. 감사합니다.,340-452-736333,account,female,spk05,account_3,positive,1,5.76
+positive_00862_spk09.wav,output/positive_00862_spk09.wav,환불 계좌는 일팔육 일오공 육칠삼사사공입니다.,186-150-673440,account,female,spk09,account_3,positive,1,4.0
+positive_00866_spk13.wav,output/positive_00866_spk13.wav,환불 계좌는 팔이일 삼팔칠 일일팔육육일입니다.,821-387-118661,account,male,spk13,account_3,positive,1,3.44
+positive_00870_spk03.wav,output/positive_00870_spk03.wav,확인을 위해 알려드립니다. 입금하실 계좌는 오삼일 삼칠일 팔삼육구구칠이에요.,531-371-836997,account,female,spk03,account_2,positive,1,7.2
+positive_00874_spk07.wav,output/positive_00874_spk07.wav,잠시 안내드립니다. 환불 계좌는 칠공오 칠육육 일오팔사칠칠입니다.,705-766-158477,account,female,spk07,account_3,positive,1,6.32
+positive_00878_spk11.wav,output/positive_00878_spk11.wav,고객님께 안내드립니다. 제 계좌번호는 일오오 육육칠 이칠칠이삼팔입니다.,155-667-277238,account,female,spk11,account_0,positive,1,6.8
+positive_00882_spk01.wav,output/positive_00882_spk01.wav,안내 말씀드립니다. 입금하실 계좌는 오사이 육삼오 구육이육삼육이에요.,542-635-962636,account,female,spk01,account_2,positive,1,6.88
+positive_00886_spk05.wav,output/positive_00886_spk05.wav,잠시 안내드립니다. 제 계좌번호는 삼오칠 이공칠 공삼오육구오입니다.,357-207-035695,account,female,spk05,account_0,positive,1,6.0
+positive_00890_spk09.wav,output/positive_00890_spk09.wav,확인을 위해 알려드립니다. 환불 계좌는 팔구오 칠삼 사공일삼구삼입니다.,895-73-401393,account,female,spk09,account_3,positive,1,6.56
+positive_00894_spk13.wav,output/positive_00894_spk13.wav,안내 말씀드립니다. 일일구 구이팔 오이일팔칠칠 으로 입금해 주세요.,119-928-521877,account,male,spk13,account_1,positive,1,5.12
+positive_00898_spk03.wav,output/positive_00898_spk03.wav,환불 계좌는 사사일 칠공팔 삼일칠오삼팔입니다. 확인 부탁드립니다.,441-708-317538,account,female,spk03,account_3,positive,1,6.16

@@ -1,0 +1,17 @@
+{
+  "category": "bus",
+  "n": 45,
+  "held_fpr@0.5": 0.022222222222222223,
+  "mean_prob": 0.16924223848101166,
+  "best_val_f1": 0.927536231884058,
+  "epochs_run": 31,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 44,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

@@ -1,0 +1,337 @@
+﻿filepath,transcript
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00005_spk06.wav,확인을 위해 알려드립니다. 생일은 2월 1공일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00009_spk10.wav,"생일은 5월 3일이에요, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00018_spk05.wav,잠시 안내드립니다 생일은 9월 28일이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00028_spk01.wav,생일은 5월 9일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00032_spk05.wav,생일은 6월 1일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00067_spk12.wav,"생일은 4월 2, 3일이에요, 확인 부탁 드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00087_spk04.wav,"생일은 1공월 18일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00104_spk07.wav,잠시 안내드립니다. 생일은 8월 1일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00107_spk10.wav,안내 말씀드립니다. 생일은 8월 1일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00114_spk03.wav,안내 말씀드립니다 생일은 6월 2일이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00120_spk09.wav,"생일은 8월 20일이에요, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00128_spk03.wav,"잠시 안내드립니다, 생일은 1공월19일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00148_spk09.wav,생일은 1 1월 1 5일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00152_spk13.wav,확인을 위해 알려드립니다 생일은 1 2월 7일이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00154_spk01.wav,"생일은 1 0 월 1 1 이에요, 확인 부탁 드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00155_spk02.wav,"생일은 6월 20일이에요, 양해 부탁 드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00156_spk03.wav,"생일은 3월 2, 5일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00165_spk12.wav,"생일은 3월 28일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00166_spk13.wav,생일은 5월 9일이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00176_spk09.wav,고객님께 안내드립니다. 생일은 8월 28일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00178_spk11.wav,확인을 위해 알려드립니다. 생일은 9월 8일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00192_spk11.wav,"잠시 안내드립니다. 생일은 1, 2월 7일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00214_spk05.wav,확인을 위해 알려드립니다. 생일은 10월 19일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00246_spk09.wav,생일은 1 1월 1일이에요. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00249_spk12.wav,"생일은 8월 18일이에요, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00255_spk04.wav,"확인을 위해 알려드립니다, 생일은 1 2월 19일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00259_spk08.wav,생일은 1 2월 2 3일이에요. 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00267_spk02.wav,"생일은 7월 24일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00281_spk02.wav,고객님께 안내드립니다. 생일은 1 1월 2일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00285_spk06.wav,"생일은 8월 28일이에요, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00288_spk09.wav,생일은 7월 3일이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00296_spk03.wav,"생일은 3월 7일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00305_spk12.wav,생일은 8월 17일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00312_spk05.wav,"생일은 6월 26일이에요, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00313_spk06.wav,안내 말씀드립니다 생일은 3월 26일이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00318_spk11.wav,생일은 1 1월 24일이에요. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00328_spk07.wav,생일은 1월 26일이에요. 확인 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00332_spk11.wav,안내 말씀 드립니다. 생일은 2월 2일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00338_spk03.wav,잠시 안내드립니다. 생일은 1공월 26일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00346_spk11.wav,확인을 위해 알려드립니다 생일은 3월 6일이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00358_spk09.wav,"생일은 8월 2, 5일이에요, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00368_spk05.wav,"생일은 6월 14일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00370_spk07.wav,생일은 1 0 월 2 2 일이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00371_spk08.wav,"생일은 5월 19일이에요, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00378_spk01.wav,"생일은 6월 5일이에요, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00385_spk08.wav,생일은 9월 1일 일이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00389_spk12.wav,잠시 안내드립니다. 생일은 2월 2일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00390_spk13.wav,"확인을 위해 알려드립니다. 생일은 1, 2월 2일 일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00391_spk14.wav,생일은 2월 2 0 1이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00401_spk10.wav,안내 말씀드립니다. 생일은 2월 9일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00408_spk03.wav,생일은 1 1월 1 2일이에요. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00414_spk09.wav,확인을 위해 알려드립니다. 생일은 4월 1 0 1이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00418_spk13.wav,확인을 위해 알려드립니다. 생일은 9월 28일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00419_spk14.wav,확인을 위해 알려드립니다. 생일은 1 0월 13일이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00446_spk13.wav,"생일은 8월 24일이에요, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00448_spk01.wav,"확인을 위해 알려드립니다, 생일은 1 1월 5일이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00007_spk08.wav,"1, 2, 3, 4, 5, 6, 7, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00012_spk13.wav,"1234567, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00021_spk08.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00022_spk09.wav,"확인을 위해 알려드립니다, 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00034_spk07.wav,안내 말씀드립니다. 1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00042_spk01.wav,"1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00047_spk06.wav,안나 둘 셋 넷 다섯 여섯 일곱
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00052_spk11.wav,1234567 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00068_spk13.wav,"1, 2, 3, 4, 5, 6, 7, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00069_spk14.wav,1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00079_spk10.wav,1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00097_spk14.wav,"1, 2, 3, 4, 5, 6, 7 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00105_spk08.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00109_spk12.wav,"1, 2, 3, 4, 5, 6, 7, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00124_spk13.wav,"잠시 안내드립니다. 1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00127_spk02.wav,"확인을 위해 알려드립니다. 1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00130_spk05.wav,"1234567, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00134_spk09.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00135_spk10.wav,"고객님께 안내드립니다. 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00139_spk14.wav,"안내 말씀드립니다. 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00141_spk02.wav,"잠시 안내드립니다. 1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00147_spk08.wav,"확인을 위해 알려드립니다. 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱"
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00163_spk10.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00173_spk06.wav,"4, 4, 5, 6, 7, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00183_spk02.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00196_spk01.wav,"1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00197_spk02.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00204_spk09.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00212_spk03.wav,"1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00237_spk14.wav,"1, 2, 3, 4, 5, 6, 7 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00242_spk05.wav,"1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00244_spk07.wav,"1, 2, 3, 4, 5, 6, 7,"
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00251_spk14.wav,"1, 2, 3, 4, 5, 6, 7, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00253_spk02.wav,안내 말씀드립니다. 1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00258_spk07.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00261_spk10.wav,잠시 안내드립니다. 1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00263_spk12.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00293_spk14.wav,"1, 2, 3, 4, 5, 6, 7, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00298_spk05.wav,"1, 2, 3, 4, 5, 6, 7."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00299_spk06.wav,"네, 5, 6, 7. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00301_spk08.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱. 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00306_spk13.wav,"확인을 위해 알려드립니다. 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00308_spk01.wav,"하나 둘 셋 넷 다섯 여섯 일곱, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00322_spk01.wav,"하나 둘 셋 넷 다섯 여섯 일곱, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00337_spk02.wav,"1, 2, 3, 4, 5, 6, 7 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00352_spk03.wav,"1, 2, 3, 4, 5, 6, 7, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00353_spk04.wav,1 2 3 4 5 6 7
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00373_spk10.wav,"1, 2, 3, 4, 5, 6, 7,"
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00406_spk01.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00430_spk11.wav,"하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 감사합니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00439_spk06.wav,"한 해, 둘, 넷, 셋, 낙석, 낙석, 넷, 낙쇼, 낙석, 낙쇼, 낙석, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙쇼, 낙�"
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00440_spk07.wav,"1, 2, 3, 4, 5, 6, 7 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00001_spk02.wav,송장번호는 18159970입니다. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00002_spk03.wav,"잠시 안내드립니다, 송장번호는 0153-3688입니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00011_spk12.wav,송장번호는 23320626입니다. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00014_spk01.wav,송장번호는 2999-1191입니다. 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00035_spk08.wav,확인을 위해 알려드립니다. 송장번호는 9666 6760입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00056_spk01.wav,잠시 안내드립니다. 송장번호는 77167014입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00070_spk01.wav,송장번호는 7080-8697입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00071_spk02.wav,잠시 안내드립니다. 송장번호는 921-6995입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00075_spk06.wav,송장번호는 8851-5879입니다. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00084_spk01.wav,"송장번호는 81606484입니다, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00095_spk12.wav,송장번호는 88013361입니다. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00100_spk03.wav,"송장번호는 45088210입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00106_spk09.wav,고객님께 안내드립니다. 송장번호는 05336452입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00108_spk11.wav,"송장번호는 914-8341입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00112_spk01.wav,"송장번호는 7881-6580입니다, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00121_spk10.wav,"송장번호는 3184-3222입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00140_spk01.wav,송장번호는 77038430입니다. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00161_spk08.wav,고객님께 안내드립니다. 송장번호는 84347955입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00177_spk10.wav,"송장번호는 8 2 9 9 7 9 6 8입니다, 양해 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00209_spk14.wav,잠시 안내드립니다. 송장번호는 2459 3344입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00216_spk07.wav,송장번호는 7837-6938입니다. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00219_spk10.wav,안내 말씀드립니다. 송장번호는 5979 2703입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00230_spk07.wav,"송장번호는 48262925입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00231_spk08.wav,송장번호는 5205-6647입니다. 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00232_spk09.wav,송장번호는 31220994입니다. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00234_spk11.wav,송장번호는 육칠칠이 이삼삼공입니다 양해 부탁드립니다
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00280_spk01.wav,"안내 말씀드립니다, 송장 번호는 4932-1495입니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00290_spk11.wav,"송장번호는 46191965입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00294_spk01.wav,"안내 말씀드립니다, 송장 번호는 40580085입니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00314_spk07.wav,송장번호는 9276-6372입니다. 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00350_spk01.wav,"안내 말씀드립니다, 송장번호는 65273543입니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00367_spk04.wav,"송장번호는 41272 380입니다, 참고 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00375_spk12.wav,안내 말씀드립니다 송장번호는 31059274입니다
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00393_spk02.wav,송장번호는 57252045입니다. 양해 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00395_spk04.wav,"송장번호는 19285544입니다, 확인 부탁드립니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00400_spk09.wav,"안내 말씀드립니다, 송장번호는 26110760입니다."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00413_spk08.wav,송장번호는 6952-4991입니다. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00417_spk12.wav,송장번호는 76246719입니다. 감사합니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/negative_hard/output/negative_hard_00443_spk10.wav,송장번호는 5754-0900입니다. 참고 부탁드립니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00013_spk14.wav,주민번호는 4610071048050이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00069_spk14.wav,주민번호는 2302201708011이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00081_spk12.wav,주민번호는 850910-1984539이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00109_spk12.wav,주민번호는 24 0502 4001 773이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00161_spk08.wav,주민번호는 50120726208592예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00177_spk10.wav,주민번호는 100424 4512311이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00185_spk04.wav,주민번호는 400224-22008452에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00197_spk02.wav,주민번호는 100404 4635770이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00201_spk06.wav,주민번호는 940225265500이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00205_spk10.wav,주민번호는 8810163034252예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00233_spk10.wav,주민번호는 3909014097736이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00237_spk14.wav,주민번호는 6004152402192예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00241_spk04.wav,주민번호는 9205274907291이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00249_spk12.wav,주민번호는 1208044016093이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00261_spk10.wav,주민번호는 210303 4649813이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00277_spk12.wav,주민번호는 11051-4184-171이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00281_spk02.wav,주민번호는 140803 2790785예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00389_spk12.wav,주민번호는 481-126-3852-686이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00393_spk02.wav,주민번호는 4308072144247이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00397_spk06.wav,주민번호는 4803062871728이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00401_spk10.wav,주민번호는 3005264947885예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00421_spk02.wav,주민번호는 6310181662652예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00453_spk06.wav,주민번호는 470615-2601800이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00497_spk08.wav,주민번호는 110717425242 이예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00541_spk10.wav,주민번호는 5206234105428이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00553_spk08.wav,주민번호는 930821-375350 사이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00565_spk06.wav,주민번호는 81051이 222977이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00581_spk08.wav,주민번호는 040514 2806 3252에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00589_spk02.wav,주민번호는 480408 4362974 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00609_spk08.wav,주민번호는 82021530969552에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00621_spk06.wav,주민번호는 0510282777259이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00637_spk08.wav,주민번호는 3601174845328이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00641_spk12.wav,주민번호는 470715 2731105 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00661_spk04.wav,주민번호는 840703 383682에 1이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00677_spk06.wav,주민번호는 3204244622651이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00681_spk10.wav,주민번호는 8310053336241이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00685_spk14.wav,주민번호는 5006042620995예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00689_spk04.wav,주민번호는 17110-22645-52예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00709_spk10.wav,주민번호는 700311-4484-498이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00725_spk12.wav,주민번호는 4907064666371이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00737_spk10.wav,주민번호는 690125 4572892예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00757_spk02.wav,주민번호는 6305123354161이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00761_spk06.wav,주민번호는 580-114-272-2040이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00773_spk04.wav,주민번호는 1707252672741이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00793_spk10.wav,주민번호는 980714 408643이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00797_spk14.wav,주민번호는 3912142060718이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00829_spk04.wav,주민번호는 1812091046032예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00833_spk08.wav,주민번호는 7510024694622에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00837_spk12.wav,주민번호는 171004-2110790이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00857_spk04.wav,주민번호는 3508052643937이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00865_spk12.wav,주민번호는 34030136261이 1이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00873_spk06.wav,주민번호는 031223-3993587이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00002_spk03.wav,제 계좌번호는 704442033326입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00006_spk07.wav,제 계좌번호는 703294848749입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00010_spk11.wav,제 계좌번호는 718280-846335입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00034_spk07.wav,제 계좌번호는 612790187330입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00058_spk03.wav,제 계좌번호는 553-837-903189입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00066_spk11.wav,제 계좌번호는 865 331 05 9942입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00082_spk13.wav,제 계좌번호는 370-128-932-931입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00086_spk03.wav,제 계좌번호는 357-937-952273입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00094_spk11.wav,제 계좌번호는 315708261650입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00122_spk11.wav,제 계좌번호는 147260498216입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00154_spk01.wav,제 계좌번호는 329 675 0719 515입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00158_spk05.wav,제 계좌번호는 885 387 175939입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00170_spk03.wav,제 계좌번호는 430882257420입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00210_spk01.wav,제 계좌번호는 946155074878입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00226_spk03.wav,제 계좌번호는 891423906924입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00254_spk03.wav,제 계좌번호는 993-564-037642입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00306_spk13.wav,제 계좌번호는 917-188-115266입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00322_spk01.wav,제 계좌번호는 508 435 765054입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00326_spk05.wav,제 계좌번호는 931-143-583397입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00334_spk13.wav,제 계좌번호는 965-584-804711입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00338_spk03.wav,제 계좌번호는 171155776962입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00342_spk07.wav,제 계좌번호는 153169165056입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00350_spk01.wav,제 계좌번호는 396345125812입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00374_spk11.wav,제 계좌번호는 951 303 080 458입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00390_spk13.wav,제 계좌번호는 786729-8692-26입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00394_spk03.wav,제 계좌번호는 179312885447입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00406_spk01.wav,제 계좌번호는 995 390 5814 78입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00414_spk09.wav,제 계좌번호는 910159144283입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00490_spk01.wav,제 계좌번호는 426-257-4891-31입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00498_spk09.wav,제 계좌번호는 697371051021입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00502_spk13.wav,제 계좌번호는 사칠사오육사이공공사공입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00558_spk13.wav,제 계좌번호는 431968260096입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00562_spk03.wav,제 계좌번호는 8092510651 사이입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00578_spk05.wav,제 계좌번호는 863-233-606403입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00590_spk03.wav,제 계좌번호는 382203-982946입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00610_spk09.wav,제 계좌번호는 152-284-39-5489입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00630_spk01.wav,제 계좌번호는 937-694-050871입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00634_spk05.wav,제 계좌번호는 77550901649입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00642_spk13.wav,제 계좌번호는 407-710-868286입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00674_spk03.wav,제 계좌번호는 374-514-153023입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00686_spk01.wav,제 계좌번호는 798-796-576820입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00694_spk09.wav,제 계좌번호는 818-926-851755입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00706_spk07.wav,제 계좌번호는 407 55 84 95 41입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00714_spk01.wav,제 계좌번호는 870730848014입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00746_spk05.wav,제 계좌번호는 978-536-943-881입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00754_spk13.wav,제 계좌번호는 435-605-002593입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00770_spk01.wav,제 계좌번호는 810145500905입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00774_spk05.wav,제 계좌번호는 일칠공 오오삼 오구 공육 오삼입니다
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00786_spk03.wav,제 계좌번호는 753-618-074461입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00790_spk07.wav,제 계좌번호는 117611070813입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00794_spk11.wav,제 계좌번호는 38495-324060입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00798_spk01.wav,제 계좌번호는 18895645589입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00810_spk13.wav,제 계좌번호는 145-889-904846입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00850_spk11.wav,제 계좌번호는 696610271393입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00890_spk09.wav,제 계좌번호는 928636231625입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00894_spk13.wav,제 계좌번호는 371-224-261662입니다.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00003_spk04.wav,제 카드번호는 15353582381182792에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00015_spk02.wav,제 카드번호는 1654 6227 4554 7428이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00019_spk06.wav,제 카드번호는 이육칠칠칠오칠삼육이일육사사이이에요
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00047_spk06.wav,제 카드번호는 9641-3608-0117-1163이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00055_spk14.wav,제 카드번호는 1790 4073 3139 3116이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00063_spk08.wav,제 카드번호는 435-7454-4673-6930이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00079_spk10.wav,제 카드번호는 사육육구이호팔사칠일칠구팔구공공이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00083_spk14.wav,제 카드번호는 9064254644624616이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00091_spk08.wav,제 카드번호는 8938 0590 6049 9543이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00103_spk06.wav,제 카드번호는 4564-1137-4573-5753이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00107_spk10.wav,제 카드번호는 5663 5139 7149 9932예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00119_spk08.wav,제 카드번호는 2780-1389-4649-8445이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00123_spk12.wav,제 카드번호는 7461-6790-9431-3185예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00147_spk08.wav,제 카드번호는 2091875104416455예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00155_spk02.wav,제 카드번호는 0508 4051 3266 0333이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00171_spk04.wav,제 카드번호는 4569-7385-3995-7613이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00175_spk08.wav,제 카드번호는 55764581 97674526이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00207_spk12.wav,제 카드번호는 1166 3824 4334 9663이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00215_spk06.wav,제 카드번호는 1317 9798 0653 7078이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00223_spk14.wav,제 카드번호는 5403 6744 8117 4722예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00235_spk12.wav,제 카드번호는 1924252281654781이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00239_spk02.wav,제 카드번호는 1143 4526 6798 5568이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00251_spk14.wav,"제 카드번호는 12257692, 43425546이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00259_spk08.wav,제 카드번호는 6141 7056 2385 4000 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00271_spk06.wav,제 카드번호는 사사구칠공일삼이구이치리공팔공삼이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00287_spk08.wav,제 카드번호는 1775 3830 7724 0410이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00307_spk14.wav,제 카드번호는 2159 0243 5869 3898이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00327_spk06.wav,제 카드번호는 9608-9201-9202-5400이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00355_spk06.wav,제 카드번호는 0307 753이 1275 5129이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00363_spk14.wav,제 카드번호는 2754-1251-8363-1868이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00367_spk04.wav,제 카드번호는 9869-2504-1234-2902예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00375_spk12.wav,제 카드번호는 9733-8307-6299-7581이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00379_spk02.wav,제 카드번호는 2695 5626 13818266 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00387_spk10.wav,제 카드번호는 5082642121129749예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00395_spk04.wav,제 카드번호는 8317 8843 8626 0618이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00399_spk08.wav,제 카드번호는 5968-3891-7277-4668이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00403_spk12.wav,제 카드번호는 7564-4616-6256-8239예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00431_spk12.wav,제 카드번호는 7840-2986-2209-1033이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00435_spk02.wav,제 카드번호는 8897-7756-4150-0599예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00443_spk10.wav,제 카드번호는 5262-2680-1311-5372예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00447_spk14.wav,제 카드번호는 7126-4498-0939-1229예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00455_spk08.wav,제 카드번호는 4566 4089 1858 0424 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00463_spk02.wav,제 카드번호는 491425802852-5922예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00471_spk10.wav,제 카드번호는 8476-5644-2102-9032예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00475_spk14.wav,제 카드번호는 2653-5286-3694-5669예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00479_spk04.wav,제 카드번호는 966-9513-2526-2804예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00483_spk08.wav,제 카드번호는 0496815989384745이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00503_spk14.wav,제 카드번호는 9343 9204 3189 5939 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00519_spk02.wav,제 카드번호는 0841556078712793이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00523_spk06.wav,제 카드번호는 6765-3340-6723-821이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00531_spk14.wav,제 카드번호는 801151947861571 사이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00539_spk08.wav,제 카드번호는 3972083187003697이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00547_spk02.wav,제 카드번호는 055 650 481 16 3052예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00563_spk04.wav,제 카드번호는 7625502626166642예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00567_spk08.wav,제 카드번호는 6813-8998-7714-8806이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00579_spk06.wav,제 카드번호는 0742 6941 5644 1044 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00587_spk14.wav,제 카드번호는 0056037이 48887585이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00599_spk12.wav,제 카드번호는 육칠칠오 사구이 삼 사오공팔 공구구팔이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00615_spk14.wav,제 카드번호는 990233506498321이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00631_spk02.wav,제 카드번호는 6756 2252 3791 1113이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00651_spk08.wav,제 카드번호는 0256 3394 9617 2362에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00667_spk10.wav,제 카드번호는 7061735391259088이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00687_spk02.wav,제 카드번호는 7563 3434 7183 4773이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00691_spk06.wav,제 카드번호는 121-7357-9796-7851이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00695_spk10.wav,제 카드번호는 1791 4067 5816 2725 이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00699_spk14.wav,제 카드번호는 7303 6129 6408 7586이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00707_spk08.wav,제 카드번호는 0 3 7 0 5 6 2 0 1 7 9 1 2 6 9 2 2에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00711_spk12.wav,제 카드번호는 3053 7080 6481 0478이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00727_spk14.wav,제 카드번호는 2298306551547389예요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00731_spk04.wav,제 카드번호는 727-8006-2740-1354에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00743_spk02.wav,제 카드번호는 3390 0972 9340 5747이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00747_spk06.wav,"제 카드번호는 2216743, 09714543이에요."
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00751_spk10.wav,제 카드번호는 6786-6146-7405-1237이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00775_spk06.wav,제 카드번호는 9999-2688-7210-5753이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00787_spk04.wav,제 카드번호는 5916518521626337이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00799_spk02.wav,제 카드번호는 74289975 09015067이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00803_spk06.wav,개 카브 번호는 2735-6092-2079-4403이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00831_spk06.wav,제 카드번호는 7511 13919515 1565이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00863_spk10.wav,제 카드번호는 7859-8921-7940-5636이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00867_spk14.wav,제 카드번호는 0959 7728 8674 5856이에요.
+/home/hye0n/projects/cnn-based-audio-pii-classification/src/cnn/data_qwen/positive/output/positive_00871_spk04.wav,제 카드번호는 5813284628853875이에요.

@@ -1,0 +1,226 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+positive_00001_spk02.wav,output/positive_00001_spk02.wav,잠시 안내드립니다. 팔육일이일팔 일육일구일칠육 가 제 주민등록번호입니다.,861218-1619176,rrn,male,spk02,rrn_3,positive,1,7.28
+positive_00005_spk06.wav,output/positive_00005_spk06.wav,본인 확인을 위해 일일공칠공사 삼팔팔팔육육이 불러드릴게요. 감사합니다.,110704-3888662,rrn,male,spk06,rrn_2,positive,1,5.28
+positive_00009_spk10.wav,output/positive_00009_spk10.wav,본인 확인을 위해 이공공육일이 이칠공이칠이구 불러드릴게요. 확인 부탁드립니다.,200612-2702729,rrn,male,spk10,rrn_2,positive,1,5.6
+positive_00013_spk14.wav,output/positive_00013_spk14.wav,주민번호는 팔이공팔공오 삼일사육사일삼이에요. 감사합니다.,820805-3146413,rrn,female,spk14,rrn_1,positive,1,5.52
+positive_00017_spk04.wav,output/positive_00017_spk04.wav,제 주민등록번호는 육칠공오일팔 일칠일삼삼이팔입니다. 양해 부탁드립니다.,670518-1713328,rrn,male,spk04,rrn_0,positive,1,6.4
+positive_00021_spk08.wav,output/positive_00021_spk08.wav,확인을 위해 알려드립니다. 제 주민등록번호는 육구공구공일 삼오일이삼사공입니다.,690901-3512340,rrn,male,spk08,rrn_0,positive,1,7.28
+positive_00025_spk12.wav,output/positive_00025_spk12.wav,잠시 안내드립니다. 주민번호는 오육공구일오 일이오구구사칠이에요.,560915-1259947,rrn,male,spk12,rrn_1,positive,1,5.68
+positive_00029_spk02.wav,output/positive_00029_spk02.wav,이사공이공사 사삼칠일오공칠 가 제 주민등록번호입니다. 확인 부탁드립니다.,240204-4371507,rrn,male,spk02,rrn_3,positive,1,6.08
+positive_00033_spk06.wav,output/positive_00033_spk06.wav,잠시 안내드립니다. 주민번호는 공육일일일팔 일공구칠칠구삼이에요.,061118-1097793,rrn,male,spk06,rrn_1,positive,1,5.28
+positive_00037_spk10.wav,output/positive_00037_spk10.wav,본인 확인을 위해 칠사일이일팔 일칠팔사삼공구 불러드릴게요. 참고 부탁드립니다.,741218-1784309,rrn,male,spk10,rrn_2,positive,1,6.56
+positive_00041_spk14.wav,output/positive_00041_spk14.wav,본인 확인을 위해 삼삼공사이이 삼이오공이팔공 불러드릴게요. 양해 부탁드립니다.,330422-3250280,rrn,female,spk14,rrn_2,positive,1,6.48
+positive_00045_spk04.wav,output/positive_00045_spk04.wav,본인 확인을 위해 칠팔일일일칠 일칠공공삼공오 불러드릴게요.,781117-1700305,rrn,male,spk04,rrn_2,positive,1,5.52
+positive_00049_spk08.wav,output/positive_00049_spk08.wav,잠시 안내드립니다. 본인 확인을 위해 공육공이이일 사팔육구육삼사 불러드릴게요.,060221-4869634,rrn,male,spk08,rrn_2,positive,1,7.36
+positive_00053_spk12.wav,output/positive_00053_spk12.wav,제 주민등록번호는 사오공사이이 이육구구삼삼공입니다. 감사합니다.,450422-2699330,rrn,male,spk12,rrn_0,positive,1,5.2
+positive_00057_spk02.wav,output/positive_00057_spk02.wav,공사공팔공팔 이팔오육이오삼 가 제 주민등록번호입니다. 참고 부탁드립니다.,040808-2856253,rrn,male,spk02,rrn_3,positive,1,6.8
+positive_00061_spk06.wav,output/positive_00061_spk06.wav,칠사공오공이 일육이오오오공 가 제 주민등록번호입니다. 감사합니다.,740502-1625550,rrn,male,spk06,rrn_3,positive,1,5.84
+positive_00065_spk10.wav,output/positive_00065_spk10.wav,본인 확인을 위해 사이일공일일 일칠오사칠일칠 불러드릴게요. 양해 부탁드립니다.,421011-1754717,rrn,male,spk10,rrn_2,positive,1,6.16
+positive_00069_spk14.wav,output/positive_00069_spk14.wav,확인을 위해 알려드립니다. 주민번호는 팔육공사일칠 사팔삼이이구일이에요.,860417-4832291,rrn,female,spk14,rrn_1,positive,1,6.72
+positive_00073_spk04.wav,output/positive_00073_spk04.wav,고객님께 안내드립니다. 제 주민등록번호는 삼일공삼이일 일구삼육공이일입니다.,310321-1936021,rrn,male,spk04,rrn_0,positive,1,7.12
+positive_00077_spk08.wav,output/positive_00077_spk08.wav,확인을 위해 알려드립니다. 구팔공구일육 이이팔칠구삼육 가 제 주민등록번호입니다.,980916-2287936,rrn,male,spk08,rrn_3,positive,1,7.2
+positive_00081_spk12.wav,output/positive_00081_spk12.wav,고객님께 안내드립니다. 본인 확인을 위해 공이일공일삼 사공공육일팔이 불러드릴게요.,021013-4006182,rrn,male,spk12,rrn_2,positive,1,7.36
+positive_00085_spk02.wav,output/positive_00085_spk02.wav,고객님께 안내드립니다. 제 주민등록번호는 팔이공칠공오 사일구공오오육입니다.,820705-4190556,rrn,male,spk02,rrn_0,positive,1,8.64
+positive_00089_spk06.wav,output/positive_00089_spk06.wav,공이일공공오 이일삼이삼오이 가 제 주민등록번호입니다. 참고 부탁드립니다.,021005-2132352,rrn,male,spk06,rrn_3,positive,1,6.0
+positive_00093_spk10.wav,output/positive_00093_spk10.wav,본인 확인을 위해 이오공이일구 이일공육팔오일 불러드릴게요.,250219-2106851,rrn,male,spk10,rrn_2,positive,1,4.24
+positive_00097_spk14.wav,output/positive_00097_spk14.wav,칠팔공구이오 사사팔칠사오오 가 제 주민등록번호입니다. 양해 부탁드립니다.,780925-4487455,rrn,female,spk14,rrn_3,positive,1,6.16
+positive_00101_spk04.wav,output/positive_00101_spk04.wav,잠시 안내드립니다. 주민번호는 칠일공일일칠 이공팔구칠칠일이에요.,710117-2089771,rrn,male,spk04,rrn_1,positive,1,5.84
+positive_00105_spk08.wav,output/positive_00105_spk08.wav,제 주민등록번호는 삼이공사공사 이삼삼공팔칠육입니다. 참고 부탁드립니다.,320404-2330876,rrn,male,spk08,rrn_0,positive,1,6.88
+positive_00109_spk12.wav,output/positive_00109_spk12.wav,잠시 안내드립니다. 본인 확인을 위해 팔일공팔공사 일육공일구사구 불러드릴게요.,810804-1601949,rrn,male,spk12,rrn_2,positive,1,5.92
+positive_00113_spk02.wav,output/positive_00113_spk02.wav,구구공구일삼 사구오이육삼오 가 제 주민등록번호입니다. 감사합니다.,990913-4952635,rrn,male,spk02,rrn_3,positive,1,6.08
+positive_00117_spk06.wav,output/positive_00117_spk06.wav,주민번호는 구공공오이삼 사공칠사육삼칠이에요.,900523-4074637,rrn,male,spk06,rrn_1,positive,1,3.68
+positive_00121_spk10.wav,output/positive_00121_spk10.wav,제 주민등록번호는 육사공구일육 사공팔사삼사구입니다.,640916-4084349,rrn,male,spk10,rrn_0,positive,1,5.04
+positive_00125_spk14.wav,output/positive_00125_spk14.wav,제 주민등록번호는 육공공육일사 삼삼삼육육오삼입니다.,600614-3336653,rrn,female,spk14,rrn_0,positive,1,4.72
+positive_00129_spk04.wav,output/positive_00129_spk04.wav,본인 확인을 위해 팔공공팔이오 일이일삼사사육 불러드릴게요. 감사합니다.,800825-1213446,rrn,male,spk04,rrn_2,positive,1,5.68
+positive_00133_spk08.wav,output/positive_00133_spk08.wav,육오일이공구 사팔칠오이칠일 가 제 주민등록번호입니다.,651209-4875271,rrn,male,spk08,rrn_3,positive,1,5.12
+positive_00137_spk12.wav,output/positive_00137_spk12.wav,잠시 안내드립니다. 오칠공구일육 삼삼사팔오팔팔 가 제 주민등록번호입니다.,570916-3348588,rrn,male,spk12,rrn_3,positive,1,6.24
+positive_00141_spk02.wav,output/positive_00141_spk02.wav,주민번호는 오육공이일칠 사공일육공구삼이에요. 참고 부탁드립니다.,560217-4016093,rrn,male,spk02,rrn_1,positive,1,6.72
+positive_00145_spk06.wav,output/positive_00145_spk06.wav,제 주민등록번호는 구오공이일사 일칠구칠삼공오입니다. 확인 부탁드립니다.,950214-1797305,rrn,male,spk06,rrn_0,positive,1,6.32
+positive_00149_spk10.wav,output/positive_00149_spk10.wav,본인 확인을 위해 이구공팔이일 삼사팔일팔구사 불러드릴게요. 감사합니다.,290821-3481894,rrn,male,spk10,rrn_2,positive,1,6.48
+positive_00153_spk14.wav,output/positive_00153_spk14.wav,제 주민등록번호는 팔구공오공일 사이팔칠팔일삼입니다. 확인 부탁드립니다.,890501-4287813,rrn,female,spk14,rrn_0,positive,1,6.64
+positive_00157_spk04.wav,output/positive_00157_spk04.wav,주민번호는 삼칠공육이사 사일팔사일칠일이에요. 양해 부탁드립니다.,370624-4184171,rrn,male,spk04,rrn_1,positive,1,5.84
+positive_00161_spk08.wav,output/positive_00161_spk08.wav,오팔공육이이 삼육일이구오오 가 제 주민등록번호입니다. 확인 부탁드립니다.,580622-3612955,rrn,male,spk08,rrn_3,positive,1,7.12
+positive_00165_spk12.wav,output/positive_00165_spk12.wav,일사공이공팔 이사공칠오이사 가 제 주민등록번호입니다. 감사합니다.,140208-2407524,rrn,male,spk12,rrn_3,positive,1,5.28
+positive_00169_spk02.wav,output/positive_00169_spk02.wav,사칠공구이일 삼공육삼사구일 가 제 주민등록번호입니다. 감사합니다.,470921-3063491,rrn,male,spk02,rrn_3,positive,1,6.16
+positive_00173_spk06.wav,output/positive_00173_spk06.wav,잠시 안내드립니다. 제 주민등록번호는 일육공구공구 이일일오이육육입니다.,160909-2115266,rrn,male,spk06,rrn_0,positive,1,7.2
+positive_00177_spk10.wav,output/positive_00177_spk10.wav,고객님께 안내드립니다. 제 주민등록번호는 공오일이이육 삼사팔공이구이입니다.,051226-3480292,rrn,male,spk10,rrn_0,positive,1,6.24
+positive_00181_spk14.wav,output/positive_00181_spk14.wav,일이일이공사 이사오공구육일 가 제 주민등록번호입니다.,121204-2450961,rrn,female,spk14,rrn_3,positive,1,4.64
+positive_00185_spk04.wav,output/positive_00185_spk04.wav,제 주민등록번호는 칠일공일일구 삼칠공이오오구입니다. 감사합니다.,710119-3702559,rrn,male,spk04,rrn_0,positive,1,6.56
+positive_00189_spk08.wav,output/positive_00189_spk08.wav,제 주민등록번호는 칠삼공사이육 사팔팔육이공구입니다. 양해 부탁드립니다.,730426-4886209,rrn,male,spk08,rrn_0,positive,1,8.08
+positive_00193_spk12.wav,output/positive_00193_spk12.wav,제 주민등록번호는 사칠공오이사 삼팔일사오칠일입니다.,470524-3814571,rrn,male,spk12,rrn_0,positive,1,4.16
+positive_00197_spk02.wav,output/positive_00197_spk02.wav,잠시 안내드립니다. 주민번호는 공오공사일삼 일공공팔공육공이에요.,050413-1008060,rrn,male,spk02,rrn_1,positive,1,6.08
+positive_00201_spk06.wav,output/positive_00201_spk06.wav,확인을 위해 알려드립니다. 사공일공일사 사칠사삼구육삼 가 제 주민등록번호입니다.,401014-4743963,rrn,male,spk06,rrn_3,positive,1,6.8
+positive_00205_spk10.wav,output/positive_00205_spk10.wav,잠시 안내드립니다. 주민번호는 육칠공구공칠 삼삼육팔일오사이에요.,670907-3368154,rrn,male,spk10,rrn_1,positive,1,5.68
+positive_00209_spk14.wav,output/positive_00209_spk14.wav,고객님께 안내드립니다. 제 주민등록번호는 팔공공오이육 삼육이공일사팔입니다.,800526-3620148,rrn,female,spk14,rrn_0,positive,1,7.12
+positive_00213_spk04.wav,output/positive_00213_spk04.wav,잠시 안내드립니다. 제 주민등록번호는 공칠공팔공사 삼칠사구공일사입니다.,070804-3749014,rrn,male,spk04,rrn_0,positive,1,7.12
+positive_00217_spk08.wav,output/positive_00217_spk08.wav,본인 확인을 위해 사이공이일구 이구육일이칠팔 불러드릴게요. 감사합니다.,420219-2961278,rrn,male,spk08,rrn_2,positive,1,5.6
+positive_00221_spk12.wav,output/positive_00221_spk12.wav,제 주민등록번호는 공구공오이팔 일오삼이삼오일입니다. 참고 부탁드립니다.,090528-1532351,rrn,male,spk12,rrn_0,positive,1,5.68
+positive_00225_spk02.wav,output/positive_00225_spk02.wav,본인 확인을 위해 이사공육이이 사사팔사일공육 불러드릴게요. 감사합니다.,240622-4484106,rrn,male,spk02,rrn_2,positive,1,5.92
+positive_00229_spk06.wav,output/positive_00229_spk06.wav,본인 확인을 위해 오오공이공팔 사구이칠육공일 불러드릴게요.,550208-4927601,rrn,male,spk06,rrn_2,positive,1,4.8
+positive_00233_spk10.wav,output/positive_00233_spk10.wav,고객님께 안내드립니다. 본인 확인을 위해 오칠일공공일 일공일구구이칠 불러드릴게요.,571001-1019927,rrn,male,spk10,rrn_2,positive,1,6.72
+positive_00237_spk14.wav,output/positive_00237_spk14.wav,본인 확인을 위해 이삼일일이이 일오사팔구일삼 불러드릴게요. 확인 부탁드립니다.,231122-1548913,rrn,female,spk14,rrn_2,positive,1,6.32
+positive_00241_spk04.wav,output/positive_00241_spk04.wav,고객님께 안내드립니다. 주민번호는 구구일일일오 사육육이사이삼이에요.,991115-4662423,rrn,male,spk04,rrn_1,positive,1,6.16
+positive_00245_spk08.wav,output/positive_00245_spk08.wav,사이공오공사 삼사오팔일칠육 가 제 주민등록번호입니다. 감사합니다.,420504-3458176,rrn,male,spk08,rrn_3,positive,1,6.16
+positive_00249_spk12.wav,output/positive_00249_spk12.wav,확인을 위해 알려드립니다. 삼구공팔이공 사일칠사칠삼구 가 제 주민등록번호입니다.,390820-4174739,rrn,male,spk12,rrn_3,positive,1,6.0
+positive_00253_spk02.wav,output/positive_00253_spk02.wav,본인 확인을 위해 칠칠공삼이이 사구구사구일삼 불러드릴게요. 참고 부탁드립니다.,770322-4994913,rrn,male,spk02,rrn_2,positive,1,7.76
+positive_00257_spk06.wav,output/positive_00257_spk06.wav,제 주민등록번호는 팔팔공팔공칠 일일사이삼이일입니다. 감사합니다.,880807-1142321,rrn,male,spk06,rrn_0,positive,1,7.04
+positive_00261_spk10.wav,output/positive_00261_spk10.wav,본인 확인을 위해 칠공공삼이공 일공육팔구사일 불러드릴게요. 감사합니다.,700320-1068941,rrn,male,spk10,rrn_2,positive,1,5.44
+positive_00265_spk14.wav,output/positive_00265_spk14.wav,주민번호는 공칠공이일칠 이삼일팔팔구칠이에요. 참고 부탁드립니다.,070217-2318897,rrn,female,spk14,rrn_1,positive,1,6.24
+positive_00269_spk04.wav,output/positive_00269_spk04.wav,안내 말씀드립니다. 주민번호는 일공공일이일 삼육팔이칠오구이에요.,100121-3682759,rrn,male,spk04,rrn_1,positive,1,6.0
+positive_00273_spk08.wav,output/positive_00273_spk08.wav,잠시 안내드립니다. 본인 확인을 위해 구삼공육일삼 이칠구칠육일오 불러드릴게요.,930613-2797615,rrn,male,spk08,rrn_2,positive,1,8.24
+positive_00277_spk12.wav,output/positive_00277_spk12.wav,삼구공팔공일 일구구일일사팔 가 제 주민등록번호입니다. 참고 부탁드립니다.,390801-1991148,rrn,male,spk12,rrn_3,positive,1,5.76
+positive_00281_spk02.wav,output/positive_00281_spk02.wav,안내 말씀드립니다. 사육공구일공 일사공오일일육 가 제 주민등록번호입니다.,460910-1405116,rrn,male,spk02,rrn_3,positive,1,7.04
+positive_00285_spk06.wav,output/positive_00285_spk06.wav,본인 확인을 위해 사일일공일일 이사일이공사이 불러드릴게요. 감사합니다.,411011-2412042,rrn,male,spk06,rrn_2,positive,1,5.12
+positive_00289_spk10.wav,output/positive_00289_spk10.wav,고객님께 안내드립니다. 제 주민등록번호는 일팔일일공팔 일육공공삼팔삼입니다.,181108-1600383,rrn,male,spk10,rrn_0,positive,1,7.12
+positive_00293_spk14.wav,output/positive_00293_spk14.wav,확인을 위해 알려드립니다. 사삼공구일이 삼육삼구칠일일 가 제 주민등록번호입니다.,430912-3639711,rrn,female,spk14,rrn_3,positive,1,6.8
+positive_00297_spk04.wav,output/positive_00297_spk04.wav,사사공팔이일 삼칠팔삼육사일 가 제 주민등록번호입니다. 양해 부탁드립니다.,440821-3783641,rrn,male,spk04,rrn_3,positive,1,6.64
+positive_00301_spk08.wav,output/positive_00301_spk08.wav,확인을 위해 알려드립니다. 주민번호는 오이일일일육 사육팔이일삼구이에요.,521116-4682139,rrn,male,spk08,rrn_1,positive,1,6.4
+positive_00305_spk12.wav,output/positive_00305_spk12.wav,주민번호는 삼육공팔이일 사구삼이사오육이에요.,360821-4932456,rrn,male,spk12,rrn_1,positive,1,4.88
+positive_00309_spk02.wav,output/positive_00309_spk02.wav,확인을 위해 알려드립니다. 본인 확인을 위해 일칠공팔일일 이공공칠일육일 불러드릴게요.,170811-2007161,rrn,male,spk02,rrn_2,positive,1,8.0
+positive_00313_spk06.wav,output/positive_00313_spk06.wav,육일공삼일오 삼사삼육공사오 가 제 주민등록번호입니다. 참고 부탁드립니다.,610315-3436045,rrn,male,spk06,rrn_3,positive,1,6.4
+positive_00317_spk10.wav,output/positive_00317_spk10.wav,고객님께 안내드립니다. 일사일일공칠 사공구오삼오구 가 제 주민등록번호입니다.,141107-4095359,rrn,male,spk10,rrn_3,positive,1,6.64
+positive_00321_spk14.wav,output/positive_00321_spk14.wav,주민번호는 육공공일일공 사일팔팔칠이사이에요. 감사합니다.,600110-4188724,rrn,female,spk14,rrn_1,positive,1,5.36
+positive_00325_spk04.wav,output/positive_00325_spk04.wav,구육공일일공 사칠공육이일오 가 제 주민등록번호입니다. 참고 부탁드립니다.,960110-4706215,rrn,male,spk04,rrn_3,positive,1,6.8
+positive_00329_spk08.wav,output/positive_00329_spk08.wav,본인 확인을 위해 육구공사이오 일일사육구사이 불러드릴게요. 양해 부탁드립니다.,690425-1146942,rrn,male,spk08,rrn_2,positive,1,7.52
+positive_00333_spk12.wav,output/positive_00333_spk12.wav,고객님께 안내드립니다. 주민번호는 육칠공육이삼 사사이팔공구공이에요.,670623-4428090,rrn,male,spk12,rrn_1,positive,1,5.36
+positive_00337_spk02.wav,output/positive_00337_spk02.wav,안내 말씀드립니다. 주민번호는 팔이공이일오 삼공구육구오오이에요.,820215-3096955,rrn,male,spk02,rrn_1,positive,1,5.44
+positive_00341_spk06.wav,output/positive_00341_spk06.wav,고객님께 안내드립니다. 본인 확인을 위해 구구공오일삼 사오오구오칠이 불러드릴게요.,990513-4559572,rrn,male,spk06,rrn_2,positive,1,6.4
+positive_00345_spk10.wav,output/positive_00345_spk10.wav,확인을 위해 알려드립니다. 삼칠공삼공칠 삼이사일일구이 가 제 주민등록번호입니다.,370307-3241192,rrn,male,spk10,rrn_3,positive,1,6.88
+positive_00349_spk14.wav,output/positive_00349_spk14.wav,잠시 안내드립니다. 주민번호는 구칠공일일사 이팔팔삼사칠이이에요.,970114-2883472,rrn,female,spk14,rrn_1,positive,1,5.76
+positive_00353_spk04.wav,output/positive_00353_spk04.wav,확인을 위해 알려드립니다. 주민번호는 이이공이공사 이이오이육칠사이에요.,220204-2252674,rrn,male,spk04,rrn_1,positive,1,6.48
+positive_00357_spk08.wav,output/positive_00357_spk08.wav,주민번호는 칠이공이일칠 일이사공구이칠이에요.,720217-1240927,rrn,male,spk08,rrn_1,positive,1,4.24
+positive_00361_spk12.wav,output/positive_00361_spk12.wav,주민번호는 팔육공구일일 사칠구이삼일삼이에요. 확인 부탁드립니다.,860911-4792313,rrn,male,spk12,rrn_1,positive,1,5.28
+positive_00365_spk02.wav,output/positive_00365_spk02.wav,본인 확인을 위해 팔칠일공이이 사공팔구팔오육 불러드릴게요. 확인 부탁드립니다.,871022-4089856,rrn,male,spk02,rrn_2,positive,1,6.16
+positive_00369_spk06.wav,output/positive_00369_spk06.wav,본인 확인을 위해 공삼공이일이 일육이오구이공 불러드릴게요.,030212-1625920,rrn,male,spk06,rrn_2,positive,1,4.48
+positive_00373_spk10.wav,output/positive_00373_spk10.wav,안내 말씀드립니다. 공구공육공구 이칠오오구일칠 가 제 주민등록번호입니다.,090609-2755917,rrn,male,spk10,rrn_3,positive,1,5.68
+positive_00377_spk14.wav,output/positive_00377_spk14.wav,고객님께 안내드립니다. 주민번호는 사공공오이사 사육공삼팔오삼이에요.,400524-4603853,rrn,female,spk14,rrn_1,positive,1,6.0
+positive_00381_spk04.wav,output/positive_00381_spk04.wav,사팔공이일오 사육일공오이칠 가 제 주민등록번호입니다. 감사합니다.,480215-4610527,rrn,male,spk04,rrn_3,positive,1,7.52
+positive_00385_spk08.wav,output/positive_00385_spk08.wav,안내 말씀드립니다. 주민번호는 오칠공육일삼 사팔공구팔오구이에요.,570613-4809859,rrn,male,spk08,rrn_1,positive,1,6.72
+positive_00389_spk12.wav,output/positive_00389_spk12.wav,주민번호는 공이공육이일 일칠일공공삼이이에요.,020621-1710032,rrn,male,spk12,rrn_1,positive,1,3.84
+positive_00393_spk02.wav,output/positive_00393_spk02.wav,제 주민등록번호는 이육공오이오 일육공오삼구삼입니다. 양해 부탁드립니다.,260525-1605393,rrn,male,spk02,rrn_0,positive,1,6.56
+positive_00397_spk06.wav,output/positive_00397_spk06.wav,잠시 안내드립니다. 주민번호는 삼구공이공육 삼칠이칠일이공이에요.,390206-3727120,rrn,male,spk06,rrn_1,positive,1,5.76
+positive_00401_spk10.wav,output/positive_00401_spk10.wav,안내 말씀드립니다. 오이일일일육 사칠사사육삼팔 가 제 주민등록번호입니다.,521116-4744638,rrn,male,spk10,rrn_3,positive,1,6.56
+positive_00405_spk14.wav,output/positive_00405_spk14.wav,주민번호는 육구공사일사 일칠칠일칠사공이에요. 감사합니다.,690414-1771740,rrn,female,spk14,rrn_1,positive,1,5.2
+positive_00409_spk04.wav,output/positive_00409_spk04.wav,본인 확인을 위해 사일일이일공 삼육공공오오육 불러드릴게요.,411210-3600556,rrn,male,spk04,rrn_2,positive,1,4.56
+positive_00413_spk08.wav,output/positive_00413_spk08.wav,본인 확인을 위해 사팔공팔공삼 일사이이사일구 불러드릴게요. 감사합니다.,480803-1422419,rrn,male,spk08,rrn_2,positive,1,6.48
+positive_00417_spk12.wav,output/positive_00417_spk12.wav,제 주민등록번호는 칠이공팔이육 삼구삼칠오팔구입니다. 감사합니다.,720826-3937589,rrn,male,spk12,rrn_0,positive,1,5.44
+positive_00421_spk02.wav,output/positive_00421_spk02.wav,잠시 안내드립니다. 주민번호는 오사일일공삼 일공공일일삼구이에요.,541103-1001139,rrn,male,spk02,rrn_1,positive,1,6.88
+positive_00425_spk06.wav,output/positive_00425_spk06.wav,주민번호는 일칠공칠이오 이육칠이칠사일이에요. 참고 부탁드립니다.,170725-2672741,rrn,male,spk06,rrn_1,positive,1,6.0
+positive_00429_spk10.wav,output/positive_00429_spk10.wav,제 주민등록번호는 삼일공구이공 삼팔일육팔공팔입니다. 양해 부탁드립니다.,310920-3816808,rrn,male,spk10,rrn_0,positive,1,6.8
+positive_00433_spk14.wav,output/positive_00433_spk14.wav,사육공구이이 이칠구구칠칠육 가 제 주민등록번호입니다.,460922-2799776,rrn,female,spk14,rrn_3,positive,1,5.2
+positive_00437_spk04.wav,output/positive_00437_spk04.wav,육팔공육일삼 일삼이오이삼육 가 제 주민등록번호입니다. 확인 부탁드립니다.,680613-1325236,rrn,male,spk04,rrn_3,positive,1,6.32
+positive_00441_spk08.wav,output/positive_00441_spk08.wav,고객님께 안내드립니다. 제 주민등록번호는 사칠공삼이사 삼칠육팔오삼팔입니다.,470324-3768538,rrn,male,spk08,rrn_0,positive,1,7.36
+positive_00445_spk12.wav,output/positive_00445_spk12.wav,제 주민등록번호는 팔육일이공사 이칠칠육칠육사입니다. 참고 부탁드립니다.,861204-2776764,rrn,male,spk12,rrn_0,positive,1,6.32
+positive_00449_spk02.wav,output/positive_00449_spk02.wav,제 주민등록번호는 이이공사이육 일사이공사공공입니다.,220426-1420400,rrn,male,spk02,rrn_0,positive,1,4.4
+positive_00453_spk06.wav,output/positive_00453_spk06.wav,본인 확인을 위해 일구공일일사 일이사사삼일오 불러드릴게요. 확인 부탁드립니다.,190114-1244315,rrn,male,spk06,rrn_2,positive,1,6.4
+positive_00457_spk10.wav,output/positive_00457_spk10.wav,제 주민등록번호는 팔구공육일오 일육공팔구팔이입니다. 감사합니다.,890615-1608982,rrn,male,spk10,rrn_0,positive,1,5.92
+positive_00461_spk14.wav,output/positive_00461_spk14.wav,안내 말씀드립니다. 주민번호는 일칠일공공사 이일일공칠구공이에요.,171004-2110790,rrn,female,spk14,rrn_1,positive,1,6.08
+positive_00465_spk04.wav,output/positive_00465_spk04.wav,삼삼공삼공일 사팔구육일일사 가 제 주민등록번호입니다. 확인 부탁드립니다.,330301-4896114,rrn,male,spk04,rrn_3,positive,1,6.48
+positive_00469_spk08.wav,output/positive_00469_spk08.wav,일일공육공사 일구팔팔공오이 가 제 주민등록번호입니다. 감사합니다.,110604-1988052,rrn,male,spk08,rrn_3,positive,1,7.2
+positive_00473_spk12.wav,output/positive_00473_spk12.wav,주민번호는 육일공일공삼 삼사공일육이공이에요. 참고 부탁드립니다.,610103-3401620,rrn,male,spk12,rrn_1,positive,1,5.28
+positive_00477_spk02.wav,output/positive_00477_spk02.wav,본인 확인을 위해 공삼공오공이 사오오오일사구 불러드릴게요. 참고 부탁드립니다.,030502-4555149,rrn,male,spk02,rrn_2,positive,1,7.28
+positive_00481_spk06.wav,output/positive_00481_spk06.wav,안내 말씀드립니다. 칠이공삼일구 이팔칠칠삼사공 가 제 주민등록번호입니다.,720319-2877340,rrn,male,spk06,rrn_3,positive,1,7.28
+positive_00485_spk10.wav,output/positive_00485_spk10.wav,잠시 안내드립니다. 제 주민등록번호는 사칠일이이이 사육일사사팔삼입니다.,471222-4614483,rrn,male,spk10,rrn_0,positive,1,5.84
+positive_00489_spk14.wav,output/positive_00489_spk14.wav,본인 확인을 위해 구팔일공공이 이육삼일육오공 불러드릴게요.,981002-2631650,rrn,female,spk14,rrn_2,positive,1,4.96
+positive_00493_spk04.wav,output/positive_00493_spk04.wav,고객님께 안내드립니다. 제 주민등록번호는 팔팔공이일이 삼팔이오이오공입니다.,880212-3825250,rrn,male,spk04,rrn_0,positive,1,6.48
+positive_00497_spk08.wav,output/positive_00497_spk08.wav,제 주민등록번호는 이일공칠공육 일오칠삼육일구입니다. 감사합니다.,210706-1573619,rrn,male,spk08,rrn_0,positive,1,7.04
+positive_00501_spk12.wav,output/positive_00501_spk12.wav,제 주민등록번호는 일구공일일이 일사사팔삼칠칠입니다. 감사합니다.,190112-1448377,rrn,male,spk12,rrn_0,positive,1,5.28
+positive_00505_spk02.wav,output/positive_00505_spk02.wav,안내 말씀드립니다. 본인 확인을 위해 오칠공일공구 사사팔칠육사팔 불러드릴게요.,570109-4487648,rrn,male,spk02,rrn_2,positive,1,6.88
+positive_00509_spk06.wav,output/positive_00509_spk06.wav,육사일공일칠 이일이육일이사 가 제 주민등록번호입니다. 참고 부탁드립니다.,641017-2126124,rrn,male,spk06,rrn_3,positive,1,6.4
+positive_00513_spk10.wav,output/positive_00513_spk10.wav,안내 말씀드립니다. 육육공팔이팔 일팔이사칠오팔 가 제 주민등록번호입니다.,660828-1824758,rrn,male,spk10,rrn_3,positive,1,6.56
+positive_00517_spk14.wav,output/positive_00517_spk14.wav,오공공육이삼 이공오일육팔오 가 제 주민등록번호입니다.,500623-2051685,rrn,female,spk14,rrn_3,positive,1,4.64
+positive_00521_spk04.wav,output/positive_00521_spk04.wav,확인을 위해 알려드립니다. 제 주민등록번호는 오이일이일육 삼팔육공팔구구입니다.,521216-3860899,rrn,male,spk04,rrn_0,positive,1,7.76
+positive_00525_spk08.wav,output/positive_00525_spk08.wav,팔칠공일공팔 삼오일이오삼공 가 제 주민등록번호입니다. 양해 부탁드립니다.,870108-3512530,rrn,male,spk08,rrn_3,positive,1,7.12
+positive_00529_spk12.wav,output/positive_00529_spk12.wav,제 주민등록번호는 육공공삼이일 이육삼공삼사삼입니다. 양해 부탁드립니다.,600321-2630343,rrn,male,spk12,rrn_0,positive,1,6.64
+positive_00533_spk02.wav,output/positive_00533_spk02.wav,확인을 위해 알려드립니다. 제 주민등록번호는 칠일일일이공 삼삼일이구칠사입니다.,711120-3312974,rrn,male,spk02,rrn_0,positive,1,7.2
+positive_00537_spk06.wav,output/positive_00537_spk06.wav,주민번호는 오삼공칠일삼 일육일일삼사사이에요. 감사합니다.,530713-1611344,rrn,male,spk06,rrn_1,positive,1,5.28
+positive_00541_spk10.wav,output/positive_00541_spk10.wav,안내 말씀드립니다. 본인 확인을 위해 오삼공육일이 삼육일사공일오 불러드릴게요.,530612-3614015,rrn,male,spk10,rrn_2,positive,1,6.72
+positive_00545_spk14.wav,output/positive_00545_spk14.wav,제 주민등록번호는 일팔공육이팔 이팔일육칠칠구입니다. 참고 부탁드립니다.,180628-2816779,rrn,female,spk14,rrn_0,positive,1,6.72
+positive_00549_spk04.wav,output/positive_00549_spk04.wav,확인을 위해 알려드립니다. 제 주민등록번호는 공일공육이오 이공일팔칠팔육입니다.,010625-2018786,rrn,male,spk04,rrn_0,positive,1,7.2
+positive_00553_spk08.wav,output/positive_00553_spk08.wav,확인을 위해 알려드립니다. 제 주민등록번호는 공이공사공팔 이이이일사사구입니다.,020408-2221449,rrn,male,spk08,rrn_0,positive,1,8.16
+positive_00557_spk12.wav,output/positive_00557_spk12.wav,본인 확인을 위해 삼팔공칠이이 일육구사육육삼 불러드릴게요. 감사합니다.,380722-1694663,rrn,male,spk12,rrn_2,positive,1,5.68
+positive_00561_spk02.wav,output/positive_00561_spk02.wav,제 주민등록번호는 팔팔공팔일일 이공공이팔칠일입니다. 감사합니다.,880811-2002871,rrn,male,spk02,rrn_0,positive,1,6.72
+positive_00565_spk06.wav,output/positive_00565_spk06.wav,본인 확인을 위해 공일공삼이이 이삼사사육이오 불러드릴게요.,010322-2344625,rrn,male,spk06,rrn_2,positive,1,5.28
+positive_00569_spk10.wav,output/positive_00569_spk10.wav,확인을 위해 알려드립니다. 일삼공칠일구 사팔사일이삼오 가 제 주민등록번호입니다.,130719-4841235,rrn,male,spk10,rrn_3,positive,1,6.32
+positive_00573_spk14.wav,output/positive_00573_spk14.wav,팔사일이공팔 사삼육이오사사 가 제 주민등록번호입니다. 확인 부탁드립니다.,841208-4362544,rrn,female,spk14,rrn_3,positive,1,6.96
+positive_00577_spk04.wav,output/positive_00577_spk04.wav,안내 말씀드립니다. 본인 확인을 위해 칠삼공팔공삼 사사육팔칠팔사 불러드릴게요.,730803-4468784,rrn,male,spk04,rrn_2,positive,1,7.36
+positive_00581_spk08.wav,output/positive_00581_spk08.wav,확인을 위해 알려드립니다. 제 주민등록번호는 구일일일일이 사일일구오육이입니다.,911112-4119562,rrn,male,spk08,rrn_0,positive,1,7.04
+positive_00585_spk12.wav,output/positive_00585_spk12.wav,안내 말씀드립니다. 본인 확인을 위해 오공공사일오 이칠오일육공육 불러드릴게요.,500415-2751606,rrn,male,spk12,rrn_2,positive,1,5.84
+positive_00589_spk02.wav,output/positive_00589_spk02.wav,잠시 안내드립니다. 본인 확인을 위해 구삼공삼공사 사육팔구사육일 불러드릴게요.,930304-4689461,rrn,male,spk02,rrn_2,positive,1,6.88
+positive_00593_spk06.wav,output/positive_00593_spk06.wav,제 주민등록번호는 구공일일공육 삼칠사사팔오팔입니다. 감사합니다.,901106-3744858,rrn,male,spk06,rrn_0,positive,1,5.68
+positive_00597_spk10.wav,output/positive_00597_spk10.wav,본인 확인을 위해 팔칠공오공오 일칠이사일사일 불러드릴게요. 양해 부탁드립니다.,870505-1724141,rrn,male,spk10,rrn_2,positive,1,6.72
+positive_00601_spk14.wav,output/positive_00601_spk14.wav,주민번호는 이팔일일이삼 삼칠구일칠팔칠이에요. 양해 부탁드립니다.,281123-3791787,rrn,female,spk14,rrn_1,positive,1,6.08
+positive_00605_spk04.wav,output/positive_00605_spk04.wav,본인 확인을 위해 사일일공공이 삼오일사삼칠구 불러드릴게요. 참고 부탁드립니다.,411002-3514379,rrn,male,spk04,rrn_2,positive,1,5.76
+positive_00609_spk08.wav,output/positive_00609_spk08.wav,제 주민등록번호는 공오일일일일 사구육공사이사입니다. 양해 부탁드립니다.,051111-4960424,rrn,male,spk08,rrn_0,positive,1,6.16
+positive_00613_spk12.wav,output/positive_00613_spk12.wav,고객님께 안내드립니다. 제 주민등록번호는 오사공이공칠 사육칠칠구육팔입니다.,540207-4677968,rrn,male,spk12,rrn_0,positive,1,6.88
+positive_00617_spk02.wav,output/positive_00617_spk02.wav,안내 말씀드립니다. 제 주민등록번호는 팔이일이이공 일칠구이육팔이입니다.,821220-1792682,rrn,male,spk02,rrn_0,positive,1,5.84
+positive_00621_spk06.wav,output/positive_00621_spk06.wav,제 주민등록번호는 공일공구이팔 이일이구이이일입니다. 확인 부탁드립니다.,010928-2129221,rrn,male,spk06,rrn_0,positive,1,6.64
+positive_00625_spk10.wav,output/positive_00625_spk10.wav,본인 확인을 위해 일이공사이사 사구구칠칠육일 불러드릴게요. 참고 부탁드립니다.,120424-4997761,rrn,male,spk10,rrn_2,positive,1,6.0
+positive_00629_spk14.wav,output/positive_00629_spk14.wav,확인을 위해 알려드립니다. 공공공육공팔 이칠사육칠구사 가 제 주민등록번호입니다.,000608-2746794,rrn,female,spk14,rrn_3,positive,1,6.4
+positive_00633_spk04.wav,output/positive_00633_spk04.wav,제 주민등록번호는 칠사일공일삼 이구오공삼이팔입니다. 감사합니다.,741013-2950328,rrn,male,spk04,rrn_0,positive,1,5.84
+positive_00637_spk08.wav,output/positive_00637_spk08.wav,확인을 위해 알려드립니다. 주민번호는 구사일이일육 삼공사이삼팔삼이에요.,941216-3042383,rrn,male,spk08,rrn_1,positive,1,6.24
+positive_00641_spk12.wav,output/positive_00641_spk12.wav,본인 확인을 위해 사육일공이일 일오사일칠육공 불러드릴게요. 감사합니다.,461021-1541760,rrn,male,spk12,rrn_2,positive,1,5.04
+positive_00645_spk02.wav,output/positive_00645_spk02.wav,잠시 안내드립니다. 제 주민등록번호는 팔사공사일사 삼칠오오이사이입니다.,840414-3755242,rrn,male,spk02,rrn_0,positive,1,7.36
+positive_00649_spk06.wav,output/positive_00649_spk06.wav,제 주민등록번호는 팔일공일이사 삼구구삼이육칠입니다. 감사합니다.,810124-3993267,rrn,male,spk06,rrn_0,positive,1,6.0
+positive_00653_spk10.wav,output/positive_00653_spk10.wav,제 주민등록번호는 일구일공공사 이사구팔구팔오입니다.,191004-2498985,rrn,male,spk10,rrn_0,positive,1,4.56
+positive_00657_spk14.wav,output/positive_00657_spk14.wav,주민번호는 오사공삼공구 사팔공삼공육일이에요.,540309-4803061,rrn,female,spk14,rrn_1,positive,1,4.24
+positive_00661_spk04.wav,output/positive_00661_spk04.wav,본인 확인을 위해 삼삼공구일사 삼육사일육공삼 불러드릴게요.,330914-3641603,rrn,male,spk04,rrn_2,positive,1,5.2
+positive_00665_spk08.wav,output/positive_00665_spk08.wav,주민번호는 구오공사일오 이일공오일사구이에요. 확인 부탁드립니다.,950415-2105149,rrn,male,spk08,rrn_1,positive,1,6.08
+positive_00669_spk12.wav,output/positive_00669_spk12.wav,제 주민등록번호는 구구공삼이일 사사육공이구오입니다. 양해 부탁드립니다.,990321-4460295,rrn,male,spk12,rrn_0,positive,1,5.12
+positive_00673_spk02.wav,output/positive_00673_spk02.wav,본인 확인을 위해 일일공구일공 삼삼육사삼오사 불러드릴게요. 감사합니다.,110910-3364354,rrn,male,spk02,rrn_2,positive,1,6.56
+positive_00677_spk06.wav,output/positive_00677_spk06.wav,구팔공사이오 삼팔일삼이칠사 가 제 주민등록번호입니다. 확인 부탁드립니다.,980425-3813274,rrn,male,spk06,rrn_3,positive,1,6.0
+positive_00681_spk10.wav,output/positive_00681_spk10.wav,본인 확인을 위해 공구공구공육 사삼이구일일구 불러드릴게요. 참고 부탁드립니다.,090906-4329119,rrn,male,spk10,rrn_2,positive,1,7.12
+positive_00685_spk14.wav,output/positive_00685_spk14.wav,본인 확인을 위해 육일공육이공 삼오일육이오육 불러드릴게요. 양해 부탁드립니다.,610620-3516256,rrn,female,spk14,rrn_2,positive,1,6.96
+positive_00689_spk04.wav,output/positive_00689_spk04.wav,제 주민등록번호는 공일일일공칠 사육공구이삼일입니다. 양해 부탁드립니다.,011107-4609231,rrn,male,spk04,rrn_0,positive,1,6.16
+positive_00693_spk08.wav,output/positive_00693_spk08.wav,일이일이공구 이오팔이삼일육 가 제 주민등록번호입니다.,121209-2582316,rrn,male,spk08,rrn_3,positive,1,5.44
+positive_00697_spk12.wav,output/positive_00697_spk12.wav,확인을 위해 알려드립니다. 본인 확인을 위해 이칠공오일육 일사칠일칠공육 불러드릴게요.,270516-1471706,rrn,male,spk12,rrn_2,positive,1,6.72
+positive_00701_spk02.wav,output/positive_00701_spk02.wav,잠시 안내드립니다. 이일일일이육 삼사사이삼공육 가 제 주민등록번호입니다.,211126-3442306,rrn,male,spk02,rrn_3,positive,1,6.08
+positive_00705_spk06.wav,output/positive_00705_spk06.wav,안내 말씀드립니다. 제 주민등록번호는 일육일이공팔 삼구팔육일이공입니다.,161208-3986120,rrn,male,spk06,rrn_0,positive,1,5.76
+positive_00709_spk10.wav,output/positive_00709_spk10.wav,제 주민등록번호는 일육공구이칠 이공이구구오구입니다. 양해 부탁드립니다.,160927-2029959,rrn,male,spk10,rrn_0,positive,1,6.4
+positive_00713_spk14.wav,output/positive_00713_spk14.wav,제 주민등록번호는 사육공칠공구 이삼일팔삼일구입니다. 참고 부탁드립니다.,460709-2318319,rrn,female,spk14,rrn_0,positive,1,6.32
+positive_00717_spk04.wav,output/positive_00717_spk04.wav,주민번호는 사팔공사공구 일사사이칠오공이에요. 양해 부탁드립니다.,480409-1442750,rrn,male,spk04,rrn_1,positive,1,6.32
+positive_00721_spk08.wav,output/positive_00721_spk08.wav,잠시 안내드립니다. 이삼공이일공 삼일삼일일일삼 가 제 주민등록번호입니다.,230210-3131113,rrn,male,spk08,rrn_3,positive,1,6.96
+positive_00725_spk12.wav,output/positive_00725_spk12.wav,사팔공일공사 이사공삼사팔구 가 제 주민등록번호입니다. 참고 부탁드립니다.,480104-2403489,rrn,male,spk12,rrn_3,positive,1,7.52
+positive_00729_spk02.wav,output/positive_00729_spk02.wav,안내 말씀드립니다. 제 주민등록번호는 일사공사이일 사삼사공이칠칠입니다.,140421-4340277,rrn,male,spk02,rrn_0,positive,1,6.24
+positive_00733_spk06.wav,output/positive_00733_spk06.wav,잠시 안내드립니다. 본인 확인을 위해 일육공팔공팔 삼오팔오사칠이 불러드릴게요.,160808-3585472,rrn,male,spk06,rrn_2,positive,1,6.4
+positive_00737_spk10.wav,output/positive_00737_spk10.wav,고객님께 안내드립니다. 본인 확인을 위해 공팔공구공오 사삼일공공삼오 불러드릴게요.,080905-4310035,rrn,male,spk10,rrn_2,positive,1,6.8
+positive_00741_spk14.wav,output/positive_00741_spk14.wav,고객님께 안내드립니다. 제 주민등록번호는 공오공삼공육 일이일일팔구오입니다.,050306-1211895,rrn,female,spk14,rrn_0,positive,1,7.04
+positive_00745_spk04.wav,output/positive_00745_spk04.wav,잠시 안내드립니다. 주민번호는 삼팔공이공칠 일일공육일사이이에요.,380207-1106142,rrn,male,spk04,rrn_1,positive,1,5.84
+positive_00749_spk08.wav,output/positive_00749_spk08.wav,잠시 안내드립니다. 사공공구일일 삼사삼이삼칠삼 가 제 주민등록번호입니다.,400911-3432373,rrn,male,spk08,rrn_3,positive,1,7.68
+positive_00753_spk12.wav,output/positive_00753_spk12.wav,잠시 안내드립니다. 주민번호는 사공공일이오 삼구육삼칠오팔이에요.,400125-3963758,rrn,male,spk12,rrn_1,positive,1,5.44
+positive_00757_spk02.wav,output/positive_00757_spk02.wav,제 주민등록번호는 공사일이이육 사공팔이이팔구입니다.,041226-4082289,rrn,male,spk02,rrn_0,positive,1,4.32
+positive_00761_spk06.wav,output/positive_00761_spk06.wav,잠시 안내드립니다. 오칠일공일구 일이삼이팔칠삼 가 제 주민등록번호입니다.,571019-1232873,rrn,male,spk06,rrn_3,positive,1,6.88
+positive_00765_spk10.wav,output/positive_00765_spk10.wav,확인을 위해 알려드립니다. 사일일일일구 일일일칠구구육 가 제 주민등록번호입니다.,411119-1117996,rrn,male,spk10,rrn_3,positive,1,6.64
+positive_00769_spk14.wav,output/positive_00769_spk14.wav,확인을 위해 알려드립니다. 제 주민등록번호는 일팔공오공일 삼칠이칠사구칠입니다.,180501-3727497,rrn,female,spk14,rrn_0,positive,1,6.56
+positive_00773_spk04.wav,output/positive_00773_spk04.wav,공육공팔이일 일공육구팔삼이 가 제 주민등록번호입니다. 양해 부탁드립니다.,060821-1069832,rrn,male,spk04,rrn_3,positive,1,7.52
+positive_00777_spk08.wav,output/positive_00777_spk08.wav,잠시 안내드립니다. 본인 확인을 위해 칠일일이공일 일이오구사공구 불러드릴게요.,711201-1259409,rrn,male,spk08,rrn_2,positive,1,7.44
+positive_00781_spk12.wav,output/positive_00781_spk12.wav,주민번호는 팔사공삼공삼 사오사육공일이이에요. 감사합니다.,840303-4546012,rrn,male,spk12,rrn_1,positive,1,5.2
+positive_00785_spk02.wav,output/positive_00785_spk02.wav,안내 말씀드립니다. 본인 확인을 위해 사공공이일팔 일일구삼공칠구 불러드릴게요.,400218-1193079,rrn,male,spk02,rrn_2,positive,1,6.48
+positive_00789_spk06.wav,output/positive_00789_spk06.wav,고객님께 안내드립니다. 사오공이이삼 사일사공육공공 가 제 주민등록번호입니다.,450223-4140600,rrn,male,spk06,rrn_3,positive,1,7.2
+positive_00793_spk10.wav,output/positive_00793_spk10.wav,안내 말씀드립니다. 오사공칠이오 일육삼칠사육공 가 제 주민등록번호입니다.,540725-1637460,rrn,male,spk10,rrn_3,positive,1,6.48
+positive_00797_spk14.wav,output/positive_00797_spk14.wav,제 주민등록번호는 오구공삼일사 삼육사이구일칠입니다. 감사합니다.,590314-3642917,rrn,female,spk14,rrn_0,positive,1,5.92
+positive_00801_spk04.wav,output/positive_00801_spk04.wav,고객님께 안내드립니다. 구일일이공사 일일일구칠일공 가 제 주민등록번호입니다.,911204-1119710,rrn,male,spk04,rrn_3,positive,1,7.92
+positive_00805_spk08.wav,output/positive_00805_spk08.wav,안내 말씀드립니다. 이오공일이공 삼공일이팔공공 가 제 주민등록번호입니다.,250120-3012800,rrn,male,spk08,rrn_3,positive,1,7.44
+positive_00809_spk12.wav,output/positive_00809_spk12.wav,안내 말씀드립니다. 본인 확인을 위해 공사공삼이팔 일육구구삼구육 불러드릴게요.,040328-1699396,rrn,male,spk12,rrn_2,positive,1,6.88
+positive_00813_spk02.wav,output/positive_00813_spk02.wav,주민번호는 팔팔공오일일 사오오공일삼일이에요. 확인 부탁드립니다.,880511-4550131,rrn,male,spk02,rrn_1,positive,1,5.28
+positive_00817_spk06.wav,output/positive_00817_spk06.wav,안내 말씀드립니다. 제 주민등록번호는 칠팔공사이삼 삼이공이구오칠입니다.,780423-3202957,rrn,male,spk06,rrn_0,positive,1,6.0
+positive_00821_spk10.wav,output/positive_00821_spk10.wav,이이공사일일 삼구육칠공팔공 가 제 주민등록번호입니다.,220411-3967080,rrn,male,spk10,rrn_3,positive,1,4.8
+positive_00825_spk14.wav,output/positive_00825_spk14.wav,공팔공삼공구 일삼오오육이칠 가 제 주민등록번호입니다. 감사합니다.,080309-1355627,rrn,female,spk14,rrn_3,positive,1,5.6
+positive_00829_spk04.wav,output/positive_00829_spk04.wav,제 주민등록번호는 구구공사공삼 사오삼공오칠삼입니다. 참고 부탁드립니다.,990403-4530573,rrn,male,spk04,rrn_0,positive,1,6.8
+positive_00833_spk08.wav,output/positive_00833_spk08.wav,본인 확인을 위해 사이공팔공이 일오사오팔육오 불러드릴게요. 참고 부탁드립니다.,420802-1545865,rrn,male,spk08,rrn_2,positive,1,6.96
+positive_00837_spk12.wav,output/positive_00837_spk12.wav,안내 말씀드립니다. 본인 확인을 위해 칠삼공사공육 일삼이육오공삼 불러드릴게요.,730406-1326503,rrn,male,spk12,rrn_2,positive,1,6.16
+positive_00841_spk02.wav,output/positive_00841_spk02.wav,고객님께 안내드립니다. 구육공팔일구 이공구칠사이구 가 제 주민등록번호입니다.,960819-2097429,rrn,male,spk02,rrn_3,positive,1,7.68
+positive_00845_spk06.wav,output/positive_00845_spk06.wav,제 주민등록번호는 칠칠일공공오 일사이오삼구이입니다. 양해 부탁드립니다.,771005-1425392,rrn,male,spk06,rrn_0,positive,1,7.04
+positive_00849_spk10.wav,output/positive_00849_spk10.wav,고객님께 안내드립니다. 구사일이일구 사일일구팔칠육 가 제 주민등록번호입니다.,941219-4119876,rrn,male,spk10,rrn_3,positive,1,7.44
+positive_00853_spk14.wav,output/positive_00853_spk14.wav,본인 확인을 위해 이오공사이이 삼삼일사이구오 불러드릴게요.,250422-3314295,rrn,female,spk14,rrn_2,positive,1,4.8
+positive_00857_spk04.wav,output/positive_00857_spk04.wav,본인 확인을 위해 공공일이일팔 삼일일오공이칠 불러드릴게요.,001218-3115027,rrn,male,spk04,rrn_2,positive,1,4.88
+positive_00861_spk08.wav,output/positive_00861_spk08.wav,일칠공일공삼 일일오공구구공 가 제 주민등록번호입니다. 참고 부탁드립니다.,170103-1150990,rrn,male,spk08,rrn_3,positive,1,8.16
+positive_00865_spk12.wav,output/positive_00865_spk12.wav,고객님께 안내드립니다. 본인 확인을 위해 구삼공사이삼 삼사삼공칠구사 불러드릴게요.,930423-3430794,rrn,male,spk12,rrn_2,positive,1,6.32
+positive_00869_spk02.wav,output/positive_00869_spk02.wav,확인을 위해 알려드립니다. 칠팔공일일일 일사구일육사사 가 제 주민등록번호입니다.,780111-1491644,rrn,male,spk02,rrn_3,positive,1,6.96
+positive_00873_spk06.wav,output/positive_00873_spk06.wav,잠시 안내드립니다. 본인 확인을 위해 삼이공삼이공 삼이팔팔오팔육 불러드릴게요.,320320-3288586,rrn,male,spk06,rrn_2,positive,1,16.24
+positive_00877_spk10.wav,output/positive_00877_spk10.wav,주민번호는 구팔공칠공팔 사칠육일이육오이에요. 양해 부탁드립니다.,980708-4761265,rrn,male,spk10,rrn_1,positive,1,5.44
+positive_00881_spk14.wav,output/positive_00881_spk14.wav,본인 확인을 위해 사팔일일일일 일일공이공구삼 불러드릴게요.,481111-1102093,rrn,female,spk14,rrn_2,positive,1,4.88
+positive_00885_spk04.wav,output/positive_00885_spk04.wav,확인을 위해 알려드립니다. 제 주민등록번호는 공팔공일일사 일오오공칠칠구입니다.,080114-1550779,rrn,male,spk04,rrn_0,positive,1,7.36
+positive_00889_spk08.wav,output/positive_00889_spk08.wav,본인 확인을 위해 팔일공팔공구 사칠이오팔사육 불러드릴게요. 양해 부탁드립니다.,810809-4725846,rrn,male,spk08,rrn_2,positive,1,7.44
+positive_00893_spk12.wav,output/positive_00893_spk12.wav,제 주민등록번호는 오육일이공구 일공삼육오오사입니다. 감사합니다.,561209-1036554,rrn,male,spk12,rrn_0,positive,1,5.04
+positive_00897_spk02.wav,output/positive_00897_spk02.wav,육구공사공일 사칠이이칠사이 가 제 주민등록번호입니다. 양해 부탁드립니다.,690401-4722742,rrn,male,spk02,rrn_3,positive,1,6.64

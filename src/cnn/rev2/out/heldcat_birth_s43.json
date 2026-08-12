@@ -1,0 +1,17 @@
+{
+  "category": "birth",
+  "n": 56,
+  "held_fpr@0.5": 0.17857142857142858,
+  "mean_prob": 0.2538253549220307,
+  "best_val_f1": 0.9313432835820895,
+  "epochs_run": 37,
+  "_meta": {
+    "mode": "heldcat",
+    "seed": 43,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

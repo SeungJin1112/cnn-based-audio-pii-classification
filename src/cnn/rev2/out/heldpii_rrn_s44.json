@@ -1,0 +1,16 @@
+{
+  "held": "rrn",
+  "n": 225,
+  "held_recall@0.5": 0.9155555555555556,
+  "best_val_f1": 0.8962264150943396,
+  "epochs_run": 28,
+  "_meta": {
+    "mode": "heldpii",
+    "seed": 44,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

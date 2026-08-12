@@ -1,0 +1,16 @@
+{
+  "held": "card",
+  "n": 225,
+  "held_recall@0.5": 0.8888888888888888,
+  "best_val_f1": 0.8756756756756757,
+  "epochs_run": 32,
+  "_meta": {
+    "mode": "heldpii",
+    "seed": 44,
+    "split_seed": 42,
+    "epochs": 40,
+    "data": "data_qwen",
+    "keep_outliers": false,
+    "n_manifest": 1798
+  }
+}

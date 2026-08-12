@@ -1,0 +1,873 @@
+{
+  "n_test": 336,
+  "model": "openai/whisper-large-v3",
+  "conditions": {
+    "clean": {
+      "default": {
+        "format_only": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9642857142857143
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8641975308641975
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9642857142857143
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8641975308641975
+            }
+          }
+        },
+        "latency_sec_per_clip": NaN
+      },
+      "prompt": {
+        "format_only": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "latency_sec_per_clip": NaN
+      },
+      "beam5": {
+        "format_only": {
+          "f1": 0.9586776859504132,
+          "recall": 0.9206349206349206,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9464285714285714
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9586776859504132,
+          "recall": 0.9206349206349206,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9464285714285714
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.5411642073165803
+      },
+      "beam5_prompt": {
+        "format_only": {
+          "f1": 0.9586776859504132,
+          "recall": 0.9206349206349206,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8148148148148148
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9586776859504132,
+          "recall": 0.9206349206349206,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8148148148148148
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.6735109693947292
+      }
+    },
+    "nb8k": {
+      "default": {
+        "format_only": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9615384615384616
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9615384615384616
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.14536296044077193
+      },
+      "prompt": {
+        "format_only": {
+          "f1": 0.9502762430939227,
+          "recall": 0.91005291005291,
+          "precision": 0.9942196531791907,
+          "hard_neg_fpr": 0.006802721088435374,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7901234567901234
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9502762430939227,
+          "recall": 0.91005291005291,
+          "precision": 0.9942196531791907,
+          "hard_neg_fpr": 0.006802721088435374,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7901234567901234
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.1418936210019248
+      },
+      "beam5": {
+        "format_only": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9230769230769231
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8271604938271605
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9230769230769231
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8271604938271605
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.7077458295084181
+      },
+      "beam5_prompt": {
+        "format_only": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.8081967468772616
+      }
+    },
+    "g711": {
+      "default": {
+        "format_only": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8271604938271605
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9558011049723757,
+          "recall": 0.9153439153439153,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8271604938271605
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.16603389524278186
+      },
+      "prompt": {
+        "format_only": {
+          "f1": 0.9473684210526315,
+          "recall": 0.9047619047619048,
+          "precision": 0.9941860465116279,
+          "hard_neg_fpr": 0.006802721088435374,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7777777777777778
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9473684210526315,
+          "recall": 0.9047619047619048,
+          "precision": 0.9941860465116279,
+          "hard_neg_fpr": 0.006802721088435374,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7777777777777778
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.16359312335650125
+      },
+      "beam5": {
+        "format_only": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9642857142857143
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.947075208913649,
+          "recall": 0.8994708994708994,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9642857142857143
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.8164384698583966
+      },
+      "beam5_prompt": {
+        "format_only": {
+          "f1": 0.9672131147540983,
+          "recall": 0.9365079365079365,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9672131147540983,
+          "recall": 0.9365079365079365,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.888426939646403
+      }
+    },
+    "snr20": {
+      "default": {
+        "format_only": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.1038948077531088
+      }
+    },
+    "snr10": {
+      "default": {
+        "format_only": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9643835616438357,
+          "recall": 0.9312169312169312,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.10128571093082428
+      }
+    },
+    "g711_snr20": {
+      "default": {
+        "format_only": {
+          "f1": 0.9672131147540983,
+          "recall": 0.9365079365079365,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9672131147540983,
+          "recall": 0.9365079365079365,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8518518518518519
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.10022712037676856
+      }
+    },
+    "g711_snr10": {
+      "default": {
+        "format_only": {
+          "f1": 0.9529085872576177,
+          "recall": 0.91005291005291,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9529085872576177,
+          "recall": 0.91005291005291,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9807692307692307
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8024691358024691
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.10059625407059987
+      }
+    },
+    "g711_bp20": {
+      "default": {
+        "format_only": {
+          "f1": 0.9615384615384616,
+          "recall": 0.9259259259259259,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9615384615384616,
+          "recall": 0.9259259259259259,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.8395061728395061
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.10600084066390991
+      }
+    },
+    "g711_bp10": {
+      "default": {
+        "format_only": {
+          "f1": 0.95,
+          "recall": 0.9047619047619048,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7901234567901234
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.95,
+          "recall": 0.9047619047619048,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 1.0
+            },
+            "account": {
+              "n": 56,
+              "recall": 0.9821428571428571
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7901234567901234
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.10237266761916024
+      }
+    },
+    "g711_bp05": {
+      "default": {
+        "format_only": {
+          "f1": 0.9322033898305084,
+          "recall": 0.873015873015873,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9615384615384616
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7283950617283951
+            }
+          }
+        },
+        "format_context": {
+          "f1": 0.9322033898305084,
+          "recall": 0.873015873015873,
+          "precision": 1.0,
+          "hard_neg_fpr": 0.0,
+          "per_pii_recall": {
+            "rrn": {
+              "n": 52,
+              "recall": 0.9615384615384616
+            },
+            "account": {
+              "n": 56,
+              "recall": 1.0
+            },
+            "card": {
+              "n": 81,
+              "recall": 0.7283950617283951
+            }
+          }
+        },
+        "latency_sec_per_clip": 0.1018820610784349
+      }
+    }
+  },
+  "wer": {
+    "default": {
+      "n": 449,
+      "median": 0.0,
+      "mean": 0.07869339272457312,
+      "exact_match": 0.8084632516703786,
+      "hallucination_gt2": 0
+    },
+    "prompt": {
+      "n": 449,
+      "median": 0.0,
+      "mean": 0.09005196733481813,
+      "exact_match": 0.7572383073496659,
+      "hallucination_gt2": 0
+    },
+    "beam5": {
+      "n": 449,
+      "median": 0.0,
+      "mean": 0.08210838901262064,
+      "exact_match": 0.8040089086859689,
+      "hallucination_gt2": 0
+    },
+    "beam5_prompt": {
+      "n": 449,
+      "median": 0.0,
+      "mean": 0.09517446176688939,
+      "exact_match": 0.7461024498886414,
+      "hallucination_gt2": 0
+    }
+  }
+}

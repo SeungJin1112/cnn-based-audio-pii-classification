@@ -1,0 +1,226 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+positive_00000_spk01.wav,output/positive_00000_spk01.wav,안내 말씀드립니다. 공일공 일팔이사 공사공구 으로 연락 주세요.,010-1824-0409,phone,female,spk01,phone_2,positive,1,5.84
+positive_00004_spk05.wav,output/positive_00004_spk05.wav,연락처는 공일공 오오칠사 사오오이이에요. 확인 부탁드립니다.,010-5574-4552,phone,female,spk05,phone_1,positive,1,5.6
+positive_00008_spk09.wav,output/positive_00008_spk09.wav,급하시면 공일공 삼팔일사 일육오사 으로 바로 전화 주세요. 양해 부탁드립니다.,010-3814-1654,phone,female,spk09,phone_3,positive,1,5.84
+positive_00012_spk13.wav,output/positive_00012_spk13.wav,급하시면 공일공 삼사팔삼 팔일칠구 으로 바로 전화 주세요.,010-3483-8179,phone,male,spk13,phone_3,positive,1,5.2
+positive_00016_spk03.wav,output/positive_00016_spk03.wav,고객님께 안내드립니다. 급하시면 공일공 이오공사 이육이일 으로 바로 전화 주세요.,010-2504-2621,phone,female,spk03,phone_3,positive,1,6.72
+positive_00020_spk07.wav,output/positive_00020_spk07.wav,잠시 안내드립니다. 문자는 공일공 사팔팔구 팔삼일칠 으로 보내주세요.,010-4889-8317,phone,female,spk07,phone_4,positive,1,6.0
+positive_00024_spk11.wav,output/positive_00024_spk11.wav,확인을 위해 알려드립니다. 연락처는 공일공 삼사칠공 팔팔삼오이에요.,010-3470-8835,phone,female,spk11,phone_1,positive,1,7.12
+positive_00028_spk01.wav,output/positive_00028_spk01.wav,고객님께 안내드립니다. 급하시면 공일공 구삼오오 구사사공 으로 바로 전화 주세요.,010-9355-9440,phone,female,spk01,phone_3,positive,1,7.52
+positive_00032_spk05.wav,output/positive_00032_spk05.wav,급하시면 공일공 사공구이 일이삼오 으로 바로 전화 주세요. 확인 부탁드립니다.,010-4092-1235,phone,female,spk05,phone_3,positive,1,6.72
+positive_00036_spk09.wav,output/positive_00036_spk09.wav,안내 말씀드립니다. 연락처는 공일공 구일공오 칠구칠삼이에요.,010-9105-7973,phone,female,spk09,phone_1,positive,1,5.76
+positive_00040_spk13.wav,output/positive_00040_spk13.wav,확인을 위해 알려드립니다. 제 전화번호는 공일공 구사팔오 구칠사공입니다.,010-9485-9740,phone,male,spk13,phone_0,positive,1,5.2
+positive_00044_spk03.wav,output/positive_00044_spk03.wav,공일공 사공공이 육공오사 으로 연락 주세요. 양해 부탁드립니다.,010-4002-6054,phone,female,spk03,phone_2,positive,1,5.44
+positive_00048_spk07.wav,output/positive_00048_spk07.wav,공일공 팔이팔공 팔공공사 으로 연락 주세요.,010-8280-8004,phone,female,spk07,phone_2,positive,1,3.84
+positive_00052_spk11.wav,output/positive_00052_spk11.wav,제 전화번호는 공일공 칠공사일 이공팔팔입니다. 확인 부탁드립니다.,010-7041-2088,phone,female,spk11,phone_0,positive,1,6.24
+positive_00056_spk01.wav,output/positive_00056_spk01.wav,공일공 육칠사오 사공육오 으로 연락 주세요. 감사합니다.,010-6745-4065,phone,female,spk01,phone_2,positive,1,5.12
+positive_00060_spk05.wav,output/positive_00060_spk05.wav,제 전화번호는 공일공 팔칠팔오 오사이오입니다. 참고 부탁드립니다.,010-8785-5425,phone,female,spk05,phone_0,positive,1,6.16
+positive_00064_spk09.wav,output/positive_00064_spk09.wav,제 전화번호는 공일공 오구육칠 칠공육육입니다.,010-5967-7066,phone,female,spk09,phone_0,positive,1,4.32
+positive_00068_spk13.wav,output/positive_00068_spk13.wav,고객님께 안내드립니다. 문자는 공일공 칠공사삼 구오공이 으로 보내주세요.,010-7043-9502,phone,male,spk13,phone_4,positive,1,6.0
+positive_00072_spk03.wav,output/positive_00072_spk03.wav,고객님께 안내드립니다. 연락처는 공일공 육칠구공 구사삼일이에요.,010-6790-9431,phone,female,spk03,phone_1,positive,1,6.08
+positive_00076_spk07.wav,output/positive_00076_spk07.wav,공일공 칠칠칠칠 칠삼칠삼 으로 연락 주세요. 양해 부탁드립니다.,010-7777-7373,phone,female,spk07,phone_2,positive,1,5.52
+positive_00080_spk11.wav,output/positive_00080_spk11.wav,문자는 공일공 육팔팔삼 육삼팔일 으로 보내주세요.,010-6883-6381,phone,female,spk11,phone_4,positive,1,5.36
+positive_00084_spk01.wav,output/positive_00084_spk01.wav,급하시면 공일공 팔칠오일 공사사일 으로 바로 전화 주세요. 확인 부탁드립니다.,010-8751-0441,phone,female,spk01,phone_3,positive,1,7.28
+positive_00088_spk05.wav,output/positive_00088_spk05.wav,제 전화번호는 공일공 삼육칠삼 일일이사입니다. 참고 부탁드립니다.,010-3673-1124,phone,female,spk05,phone_0,positive,1,6.64
+positive_00092_spk09.wav,output/positive_00092_spk09.wav,급하시면 공일공 구사삼삼 육일사구 으로 바로 전화 주세요.,010-9433-6149,phone,female,spk09,phone_3,positive,1,4.8
+positive_00096_spk13.wav,output/positive_00096_spk13.wav,급하시면 공일공 칠오삼이 이오공육 으로 바로 전화 주세요. 양해 부탁드립니다.,010-7532-2506,phone,male,spk13,phone_3,positive,1,5.2
+positive_00100_spk03.wav,output/positive_00100_spk03.wav,공일공 삼사칠오 오팔일삼 으로 연락 주세요. 양해 부탁드립니다.,010-3475-5813,phone,female,spk03,phone_2,positive,1,5.2
+positive_00104_spk07.wav,output/positive_00104_spk07.wav,확인을 위해 알려드립니다. 공일공 육구칠일 구공일칠 으로 연락 주세요.,010-6971-9017,phone,female,spk07,phone_2,positive,1,6.24
+positive_00108_spk11.wav,output/positive_00108_spk11.wav,제 전화번호는 공일공 사사구사 공칠사오입니다. 참고 부탁드립니다.,010-4494-0745,phone,female,spk11,phone_0,positive,1,6.16
+positive_00112_spk01.wav,output/positive_00112_spk01.wav,문자는 공일공 사공육육 일구사공 으로 보내주세요. 참고 부탁드립니다.,010-4066-1940,phone,female,spk01,phone_4,positive,1,6.4
+positive_00116_spk05.wav,output/positive_00116_spk05.wav,확인을 위해 알려드립니다. 문자는 공일공 육육구삼 칠삼팔일 으로 보내주세요.,010-6693-7381,phone,female,spk05,phone_4,positive,1,6.88
+positive_00120_spk09.wav,output/positive_00120_spk09.wav,급하시면 공일공 칠일구오 이공삼칠 으로 바로 전화 주세요. 양해 부탁드립니다.,010-7195-2037,phone,female,spk09,phone_3,positive,1,6.72
+positive_00124_spk13.wav,output/positive_00124_spk13.wav,안내 말씀드립니다. 급하시면 공일공 이구칠삼 구오구공 으로 바로 전화 주세요.,010-2973-9590,phone,male,spk13,phone_3,positive,1,6.24
+positive_00128_spk03.wav,output/positive_00128_spk03.wav,급하시면 공일공 팔팔팔구 칠오육구 으로 바로 전화 주세요. 감사합니다.,010-8889-7569,phone,female,spk03,phone_3,positive,1,5.84
+positive_00132_spk07.wav,output/positive_00132_spk07.wav,확인을 위해 알려드립니다. 제 전화번호는 공일공 일팔오팔 칠오육공입니다.,010-1858-7560,phone,female,spk07,phone_0,positive,1,6.48
+positive_00136_spk11.wav,output/positive_00136_spk11.wav,급하시면 공일공 구육일육 구오공일 으로 바로 전화 주세요.,010-9616-9501,phone,female,spk11,phone_3,positive,1,4.56
+positive_00140_spk01.wav,output/positive_00140_spk01.wav,연락처는 공일공 팔일일오 공육공육이에요. 확인 부탁드립니다.,010-8115-0606,phone,female,spk01,phone_1,positive,1,5.6
+positive_00144_spk05.wav,output/positive_00144_spk05.wav,공일공 일일이일 삼팔사육 으로 연락 주세요.,010-1121-3846,phone,female,spk05,phone_2,positive,1,3.52
+positive_00148_spk09.wav,output/positive_00148_spk09.wav,잠시 안내드립니다. 문자는 공일공 구구팔오 육이육칠 으로 보내주세요.,010-9985-6267,phone,female,spk09,phone_4,positive,1,5.52
+positive_00152_spk13.wav,output/positive_00152_spk13.wav,확인을 위해 알려드립니다. 연락처는 공일공 칠구일육 일칠사칠이에요.,010-7916-1747,phone,male,spk13,phone_1,positive,1,5.52
+positive_00156_spk03.wav,output/positive_00156_spk03.wav,제 전화번호는 공일공 오공육일 칠이이이입니다. 확인 부탁드립니다.,010-5061-7222,phone,female,spk03,phone_0,positive,1,5.6
+positive_00160_spk07.wav,output/positive_00160_spk07.wav,안내 말씀드립니다. 제 전화번호는 공일공 구일삼일 오구구이입니다.,010-9131-5992,phone,female,spk07,phone_0,positive,1,5.68
+positive_00164_spk11.wav,output/positive_00164_spk11.wav,공일공 공칠사이 공육공구 으로 연락 주세요.,010-0742-0609,phone,female,spk11,phone_2,positive,1,4.0
+positive_00168_spk01.wav,output/positive_00168_spk01.wav,제 전화번호는 공일공 삼팔육팔 오구사이입니다.,010-3868-5942,phone,female,spk01,phone_0,positive,1,4.8
+positive_00172_spk05.wav,output/positive_00172_spk05.wav,문자는 공일공 오삼팔삼 이사일칠 으로 보내주세요. 참고 부탁드립니다.,010-5383-2417,phone,female,spk05,phone_4,positive,1,6.08
+positive_00176_spk09.wav,output/positive_00176_spk09.wav,연락처는 공일공 칠사공오 팔이오사이에요.,010-7405-8254,phone,female,spk09,phone_1,positive,1,3.36
+positive_00180_spk13.wav,output/positive_00180_spk13.wav,문자는 공일공 육이사공 구칠팔칠 으로 보내주세요. 감사합니다.,010-6240-9787,phone,male,spk13,phone_4,positive,1,4.8
+positive_00184_spk03.wav,output/positive_00184_spk03.wav,급하시면 공일공 일삼구팔 일오이칠 으로 바로 전화 주세요. 참고 부탁드립니다.,010-1398-1527,phone,female,spk03,phone_3,positive,1,7.44
+positive_00188_spk07.wav,output/positive_00188_spk07.wav,확인을 위해 알려드립니다. 공일공 삼육칠사 일칠칠삼 으로 연락 주세요.,010-3674-1773,phone,female,spk07,phone_2,positive,1,6.08
+positive_00192_spk11.wav,output/positive_00192_spk11.wav,잠시 안내드립니다. 연락처는 공일공 일오공삼 팔육구일이에요.,010-1503-8691,phone,female,spk11,phone_1,positive,1,5.68
+positive_00196_spk01.wav,output/positive_00196_spk01.wav,공일공 칠공사삼 일팔일육 으로 연락 주세요. 양해 부탁드립니다.,010-7043-1816,phone,female,spk01,phone_2,positive,1,6.0
+positive_00200_spk05.wav,output/positive_00200_spk05.wav,안내 말씀드립니다. 제 전화번호는 공일공 일일팔공 육오공오입니다.,010-1180-6505,phone,female,spk05,phone_0,positive,1,6.32
+positive_00204_spk09.wav,output/positive_00204_spk09.wav,안내 말씀드립니다. 공일공 오오육이 삼육삼공 으로 연락 주세요.,010-5562-3630,phone,female,spk09,phone_2,positive,1,5.52
+positive_00208_spk13.wav,output/positive_00208_spk13.wav,고객님께 안내드립니다. 공일공 구이사팔 오이구오 으로 연락 주세요.,010-9248-5295,phone,male,spk13,phone_2,positive,1,5.36
+positive_00212_spk03.wav,output/positive_00212_spk03.wav,잠시 안내드립니다. 연락처는 공일공 칠삼육팔 구삼육육이에요.,010-7368-9366,phone,female,spk03,phone_1,positive,1,6.8
+positive_00216_spk07.wav,output/positive_00216_spk07.wav,공일공 구일사일 육삼삼삼 으로 연락 주세요. 참고 부탁드립니다.,010-9141-6333,phone,female,spk07,phone_2,positive,1,5.44
+positive_00220_spk11.wav,output/positive_00220_spk11.wav,급하시면 공일공 삼오공구 오오구팔 으로 바로 전화 주세요. 참고 부탁드립니다.,010-3509-5598,phone,female,spk11,phone_3,positive,1,6.4
+positive_00224_spk01.wav,output/positive_00224_spk01.wav,문자는 공일공 칠삼오오 삼팔삼삼 으로 보내주세요. 감사합니다.,010-7355-3833,phone,female,spk01,phone_4,positive,1,6.4
+positive_00228_spk05.wav,output/positive_00228_spk05.wav,연락처는 공일공 사육칠공 일삼칠사이에요. 참고 부탁드립니다.,010-4670-1374,phone,female,spk05,phone_1,positive,1,5.76
+positive_00232_spk09.wav,output/positive_00232_spk09.wav,고객님께 안내드립니다. 급하시면 공일공 공육이칠 사칠공공 으로 바로 전화 주세요.,010-0627-4700,phone,female,spk09,phone_3,positive,1,6.0
+positive_00236_spk13.wav,output/positive_00236_spk13.wav,고객님께 안내드립니다. 급하시면 공일공 이삼오이 사칠칠이 으로 바로 전화 주세요.,010-2352-4772,phone,male,spk13,phone_3,positive,1,6.56
+positive_00240_spk03.wav,output/positive_00240_spk03.wav,공일공 이일팔오 공칠이육 으로 연락 주세요. 참고 부탁드립니다.,010-2185-0726,phone,female,spk03,phone_2,positive,1,5.12
+positive_00244_spk07.wav,output/positive_00244_spk07.wav,제 전화번호는 공일공 사육팔칠 오팔사팔입니다.,010-4687-5848,phone,female,spk07,phone_0,positive,1,4.08
+positive_00248_spk11.wav,output/positive_00248_spk11.wav,확인을 위해 알려드립니다. 공일공 이구오육 팔구삼칠 으로 연락 주세요.,010-2956-8937,phone,female,spk11,phone_2,positive,1,6.4
+positive_00252_spk01.wav,output/positive_00252_spk01.wav,공일공 일일공일 삼팔육육 으로 연락 주세요. 확인 부탁드립니다.,010-1101-3866,phone,female,spk01,phone_2,positive,1,6.16
+positive_00256_spk05.wav,output/positive_00256_spk05.wav,확인을 위해 알려드립니다. 공일공 일구이구 사이팔팔 으로 연락 주세요.,010-1929-4288,phone,female,spk05,phone_2,positive,1,6.08
+positive_00260_spk09.wav,output/positive_00260_spk09.wav,제 전화번호는 공일공 삼팔칠팔 팔공구사입니다. 감사합니다.,010-3878-8094,phone,female,spk09,phone_0,positive,1,4.8
+positive_00264_spk13.wav,output/positive_00264_spk13.wav,문자는 공일공 이일일사 칠공팔팔 으로 보내주세요.,010-2114-7088,phone,male,spk13,phone_4,positive,1,3.68
+positive_00268_spk03.wav,output/positive_00268_spk03.wav,공일공 이팔공사 구구일사 으로 연락 주세요. 확인 부탁드립니다.,010-2804-9914,phone,female,spk03,phone_2,positive,1,5.28
+positive_00272_spk07.wav,output/positive_00272_spk07.wav,확인을 위해 알려드립니다. 공일공 칠육공구 삼삼사이 으로 연락 주세요.,010-7609-3342,phone,female,spk07,phone_2,positive,1,5.92
+positive_00276_spk11.wav,output/positive_00276_spk11.wav,연락처는 공일공 오일이삼 삼일일공이에요. 감사합니다.,010-5123-3110,phone,female,spk11,phone_1,positive,1,5.04
+positive_00280_spk01.wav,output/positive_00280_spk01.wav,제 전화번호는 공일공 육육공육 오구구오입니다. 참고 부탁드립니다.,010-6606-5995,phone,female,spk01,phone_0,positive,1,5.68
+positive_00284_spk05.wav,output/positive_00284_spk05.wav,문자는 공일공 오사오육 칠칠육일 으로 보내주세요. 참고 부탁드립니다.,010-5456-7761,phone,female,spk05,phone_4,positive,1,6.72
+positive_00288_spk09.wav,output/positive_00288_spk09.wav,급하시면 공일공 공팔사일 구오육공 으로 바로 전화 주세요. 감사합니다.,010-0841-9560,phone,female,spk09,phone_3,positive,1,6.0
+positive_00292_spk13.wav,output/positive_00292_spk13.wav,급하시면 공일공 오일사공 이팔삼칠 으로 바로 전화 주세요.,010-5140-2837,phone,male,spk13,phone_3,positive,1,4.56
+positive_00296_spk03.wav,output/positive_00296_spk03.wav,안내 말씀드립니다. 연락처는 공일공 육사육사 오육오사이에요.,010-6464-5654,phone,female,spk03,phone_1,positive,1,6.0
+positive_00300_spk07.wav,output/positive_00300_spk07.wav,연락처는 공일공 칠칠삼구 일육사칠이에요. 참고 부탁드립니다.,010-7739-1647,phone,female,spk07,phone_1,positive,1,5.2
+positive_00304_spk11.wav,output/positive_00304_spk11.wav,확인을 위해 알려드립니다. 공일공 공육일삼 공일오일 으로 연락 주세요.,010-0613-0151,phone,female,spk11,phone_2,positive,1,6.16
+positive_00308_spk01.wav,output/positive_00308_spk01.wav,공일공 칠공공칠 팔사사이 으로 연락 주세요. 참고 부탁드립니다.,010-7007-8442,phone,female,spk01,phone_2,positive,1,5.6
+positive_00312_spk05.wav,output/positive_00312_spk05.wav,잠시 안내드립니다. 공일공 일구이삼 사팔삼삼 으로 연락 주세요.,010-1923-4833,phone,female,spk05,phone_2,positive,1,6.16
+positive_00316_spk09.wav,output/positive_00316_spk09.wav,고객님께 안내드립니다. 문자는 공일공 삼삼일이 구삼팔삼 으로 보내주세요.,010-3312-9383,phone,female,spk09,phone_4,positive,1,5.36
+positive_00320_spk13.wav,output/positive_00320_spk13.wav,제 전화번호는 공일공 팔팔육육 공구팔칠입니다.,010-8866-0987,phone,male,spk13,phone_0,positive,1,3.76
+positive_00324_spk03.wav,output/positive_00324_spk03.wav,문자는 공일공 팔팔공이 육사삼구 으로 보내주세요. 확인 부탁드립니다.,010-8802-6439,phone,female,spk03,phone_4,positive,1,5.52
+positive_00328_spk07.wav,output/positive_00328_spk07.wav,잠시 안내드립니다. 연락처는 공일공 구칠구사 공칠구칠이에요.,010-9794-0797,phone,female,spk07,phone_1,positive,1,5.92
+positive_00332_spk11.wav,output/positive_00332_spk11.wav,문자는 공일공 이팔육구 육구구구 으로 보내주세요. 감사합니다.,010-2869-6999,phone,female,spk11,phone_4,positive,1,5.6
+positive_00336_spk01.wav,output/positive_00336_spk01.wav,확인을 위해 알려드립니다. 연락처는 공일공 구일삼공 팔육팔삼이에요.,010-9130-8683,phone,female,spk01,phone_1,positive,1,6.4
+positive_00340_spk05.wav,output/positive_00340_spk05.wav,확인을 위해 알려드립니다. 연락처는 공일공 삼구칠사 구구공이이에요.,010-3974-9902,phone,female,spk05,phone_1,positive,1,5.76
+positive_00344_spk09.wav,output/positive_00344_spk09.wav,공일공 이삼구공 공이육오 으로 연락 주세요. 감사합니다.,010-2390-0265,phone,female,spk09,phone_2,positive,1,4.72
+positive_00348_spk13.wav,output/positive_00348_spk13.wav,문자는 공일공 팔팔팔이 공구육이 으로 보내주세요. 확인 부탁드립니다.,010-8882-0962,phone,male,spk13,phone_4,positive,1,6.08
+positive_00352_spk03.wav,output/positive_00352_spk03.wav,제 전화번호는 공일공 팔칠칠칠 사육구칠입니다. 감사합니다.,010-8777-4697,phone,female,spk03,phone_0,positive,1,5.92
+positive_00356_spk07.wav,output/positive_00356_spk07.wav,연락처는 공일공 공구일구 공일오사이에요. 양해 부탁드립니다.,010-0919-0154,phone,female,spk07,phone_1,positive,1,5.28
+positive_00360_spk11.wav,output/positive_00360_spk11.wav,고객님께 안내드립니다. 공일공 육오이오 일이육공 으로 연락 주세요.,010-6525-1260,phone,female,spk11,phone_2,positive,1,6.16
+positive_00364_spk01.wav,output/positive_00364_spk01.wav,잠시 안내드립니다. 공일공 팔공삼팔 삼칠삼칠 으로 연락 주세요.,010-8038-3737,phone,female,spk01,phone_2,positive,1,5.92
+positive_00368_spk05.wav,output/positive_00368_spk05.wav,급하시면 공일공 삼공칠공 칠공육일 으로 바로 전화 주세요. 확인 부탁드립니다.,010-3070-7061,phone,female,spk05,phone_3,positive,1,6.72
+positive_00372_spk09.wav,output/positive_00372_spk09.wav,고객님께 안내드립니다. 연락처는 공일공 이삼구공 일공삼육이에요.,010-2390-1036,phone,female,spk09,phone_1,positive,1,5.28
+positive_00376_spk13.wav,output/positive_00376_spk13.wav,연락처는 공일공 칠팔사팔 오일사칠이에요.,010-7848-5147,phone,male,spk13,phone_1,positive,1,3.68
+positive_00380_spk03.wav,output/positive_00380_spk03.wav,공일공 팔일팔공 이이팔공 으로 연락 주세요. 감사합니다.,010-8180-2280,phone,female,spk03,phone_2,positive,1,5.04
+positive_00384_spk07.wav,output/positive_00384_spk07.wav,잠시 안내드립니다. 제 전화번호는 공일공 오사삼이 칠공오이입니다.,010-5432-7052,phone,female,spk07,phone_0,positive,1,6.08
+positive_00388_spk11.wav,output/positive_00388_spk11.wav,안내 말씀드립니다. 공일공 칠일칠팔 칠사일이 으로 연락 주세요.,010-7178-7412,phone,female,spk11,phone_2,positive,1,6.56
+positive_00392_spk01.wav,output/positive_00392_spk01.wav,잠시 안내드립니다. 문자는 공일공 삼이삼이 칠삼육오 으로 보내주세요.,010-3232-7365,phone,female,spk01,phone_4,positive,1,6.4
+positive_00396_spk05.wav,output/positive_00396_spk05.wav,잠시 안내드립니다. 제 전화번호는 공일공 사팔칠삼 구육육구입니다.,010-4873-9669,phone,female,spk05,phone_0,positive,1,6.72
+positive_00400_spk09.wav,output/positive_00400_spk09.wav,급하시면 공일공 오팔팔이 공일오칠 으로 바로 전화 주세요. 감사합니다.,010-5882-0157,phone,female,spk09,phone_3,positive,1,5.76
+positive_00404_spk13.wav,output/positive_00404_spk13.wav,고객님께 안내드립니다. 문자는 공일공 팔팔구팔 육공일공 으로 보내주세요.,010-8898-6010,phone,male,spk13,phone_4,positive,1,5.92
+positive_00408_spk03.wav,output/positive_00408_spk03.wav,잠시 안내드립니다. 문자는 공일공 삼삼구공 공구칠이 으로 보내주세요.,010-3390-0972,phone,female,spk03,phone_4,positive,1,6.96
+positive_00412_spk07.wav,output/positive_00412_spk07.wav,고객님께 안내드립니다. 연락처는 공일공 육사삼사 팔공일구이에요.,010-6434-8019,phone,female,spk07,phone_1,positive,1,6.4
+positive_00416_spk11.wav,output/positive_00416_spk11.wav,잠시 안내드립니다. 공일공 팔일공오 사삼구구 으로 연락 주세요.,010-8105-4399,phone,female,spk11,phone_2,positive,1,5.6
+positive_00420_spk01.wav,output/positive_00420_spk01.wav,잠시 안내드립니다. 제 전화번호는 공일공 육공구이 이칠일일입니다.,010-6092-2711,phone,female,spk01,phone_0,positive,1,6.64
+positive_00424_spk05.wav,output/positive_00424_spk05.wav,공일공 일육구공 오일삼삼 으로 연락 주세요.,010-1690-5133,phone,female,spk05,phone_2,positive,1,3.52
+positive_00428_spk09.wav,output/positive_00428_spk09.wav,안내 말씀드립니다. 공일공 오칠오구 칠공삼오 으로 연락 주세요.,010-5759-7035,phone,female,spk09,phone_2,positive,1,5.12
+positive_00432_spk13.wav,output/positive_00432_spk13.wav,연락처는 공일공 오구일육 오일팔오이에요. 감사합니다.,010-5916-5185,phone,male,spk13,phone_1,positive,1,4.64
+positive_00436_spk03.wav,output/positive_00436_spk03.wav,공일공 사오사육 일삼육구 으로 연락 주세요. 참고 부탁드립니다.,010-4546-1369,phone,female,spk03,phone_2,positive,1,5.84
+positive_00440_spk07.wav,output/positive_00440_spk07.wav,문자는 공일공 오육팔공 팔오육팔 으로 보내주세요. 참고 부탁드립니다.,010-5680-8568,phone,female,spk07,phone_4,positive,1,6.24
+positive_00444_spk11.wav,output/positive_00444_spk11.wav,제 전화번호는 공일공 이오칠칠 사일칠구입니다.,010-2577-4179,phone,female,spk11,phone_0,positive,1,4.24
+positive_00448_spk01.wav,output/positive_00448_spk01.wav,문자는 공일공 사사사사 일이칠육 으로 보내주세요. 확인 부탁드립니다.,010-4444-1276,phone,female,spk01,phone_4,positive,1,5.28
+positive_00452_spk05.wav,output/positive_00452_spk05.wav,연락처는 공일공 구육구사 팔공팔삼이에요. 참고 부탁드립니다.,010-9694-8083,phone,female,spk05,phone_1,positive,1,5.76
+positive_00456_spk09.wav,output/positive_00456_spk09.wav,고객님께 안내드립니다. 제 전화번호는 공일공 이삼삼이 사오팔사입니다.,010-2332-4584,phone,female,spk09,phone_0,positive,1,5.68
+positive_00460_spk13.wav,output/positive_00460_spk13.wav,제 전화번호는 공일공 사사오오 삼팔이칠입니다.,010-4455-3827,phone,male,spk13,phone_0,positive,1,3.2
+positive_00464_spk03.wav,output/positive_00464_spk03.wav,확인을 위해 알려드립니다. 공일공 일사구사 사공육육 으로 연락 주세요.,010-1494-4066,phone,female,spk03,phone_2,positive,1,6.24
+positive_00468_spk07.wav,output/positive_00468_spk07.wav,제 전화번호는 공일공 일이이팔 공삼오칠입니다. 참고 부탁드립니다.,010-1228-0357,phone,female,spk07,phone_0,positive,1,5.68
+positive_00472_spk11.wav,output/positive_00472_spk11.wav,급하시면 공일공 사팔삼오 팔일칠삼 으로 바로 전화 주세요.,010-4835-8173,phone,female,spk11,phone_3,positive,1,5.2
+positive_00476_spk01.wav,output/positive_00476_spk01.wav,잠시 안내드립니다. 급하시면 공일공 팔이삼일 오이육구 으로 바로 전화 주세요.,010-8231-5269,phone,female,spk01,phone_3,positive,1,6.8
+positive_00480_spk05.wav,output/positive_00480_spk05.wav,공일공 구육구이 공사육이 으로 연락 주세요.,010-9692-0462,phone,female,spk05,phone_2,positive,1,3.92
+positive_00484_spk09.wav,output/positive_00484_spk09.wav,공일공 일팔일칠 팔육이이 으로 연락 주세요.,010-1817-8622,phone,female,spk09,phone_2,positive,1,3.2
+positive_00488_spk13.wav,output/positive_00488_spk13.wav,급하시면 공일공 공공이구 구삼팔오 으로 바로 전화 주세요.,010-0029-9385,phone,male,spk13,phone_3,positive,1,4.4
+positive_00492_spk03.wav,output/positive_00492_spk03.wav,잠시 안내드립니다. 공일공 이칠오공 일사오삼 으로 연락 주세요.,010-2750-1453,phone,female,spk03,phone_2,positive,1,5.6
+positive_00496_spk07.wav,output/positive_00496_spk07.wav,확인을 위해 알려드립니다. 공일공 사팔삼일 공삼이팔 으로 연락 주세요.,010-4831-0328,phone,female,spk07,phone_2,positive,1,6.32
+positive_00500_spk11.wav,output/positive_00500_spk11.wav,고객님께 안내드립니다. 연락처는 공일공 사육일이 사팔칠이이에요.,010-4612-4872,phone,female,spk11,phone_1,positive,1,6.24
+positive_00504_spk01.wav,output/positive_00504_spk01.wav,잠시 안내드립니다. 연락처는 공일공 팔구일사 육삼사구이에요.,010-8914-6349,phone,female,spk01,phone_1,positive,1,5.76
+positive_00508_spk05.wav,output/positive_00508_spk05.wav,안내 말씀드립니다. 급하시면 공일공 구삼팔삼 삼팔육공 으로 바로 전화 주세요.,010-9383-3860,phone,female,spk05,phone_3,positive,1,7.6
+positive_00512_spk09.wav,output/positive_00512_spk09.wav,급하시면 공일공 일공구칠 일사이오 으로 바로 전화 주세요. 양해 부탁드립니다.,010-1097-1425,phone,female,spk09,phone_3,positive,1,6.32
+positive_00516_spk13.wav,output/positive_00516_spk13.wav,문자는 공일공 육육공이 이삼오육 으로 보내주세요. 확인 부탁드립니다.,010-6602-2356,phone,male,spk13,phone_4,positive,1,5.68
+positive_00520_spk03.wav,output/positive_00520_spk03.wav,연락처는 공일공 삼공칠구 칠이삼칠이에요.,010-3079-7237,phone,female,spk03,phone_1,positive,1,4.32
+positive_00524_spk07.wav,output/positive_00524_spk07.wav,공일공 삼이육이 사사팔팔 으로 연락 주세요. 확인 부탁드립니다.,010-3262-4488,phone,female,spk07,phone_2,positive,1,5.36
+positive_00528_spk11.wav,output/positive_00528_spk11.wav,공일공 삼육팔팔 삼삼팔칠 으로 연락 주세요. 확인 부탁드립니다.,010-3688-3387,phone,female,spk11,phone_2,positive,1,6.24
+positive_00532_spk01.wav,output/positive_00532_spk01.wav,제 전화번호는 공일공 구오칠육 일육칠육입니다. 양해 부탁드립니다.,010-9576-1676,phone,female,spk01,phone_0,positive,1,6.32
+positive_00536_spk05.wav,output/positive_00536_spk05.wav,제 전화번호는 공일공 오이삼육 이이구이입니다. 양해 부탁드립니다.,010-5236-2292,phone,female,spk05,phone_0,positive,1,5.84
+positive_00540_spk09.wav,output/positive_00540_spk09.wav,연락처는 공일공 오사구구 일사육삼이에요. 양해 부탁드립니다.,010-5499-1463,phone,female,spk09,phone_1,positive,1,5.6
+positive_00544_spk13.wav,output/positive_00544_spk13.wav,연락처는 공일공 이사칠공 이이오공이에요. 감사합니다.,010-2470-2250,phone,male,spk13,phone_1,positive,1,4.32
+positive_00548_spk03.wav,output/positive_00548_spk03.wav,급하시면 공일공 칠공이구 칠팔이일 으로 바로 전화 주세요. 양해 부탁드립니다.,010-7029-7821,phone,female,spk03,phone_3,positive,1,7.2
+positive_00552_spk07.wav,output/positive_00552_spk07.wav,고객님께 안내드립니다. 급하시면 공일공 이일구이 오육일오 으로 바로 전화 주세요.,010-2192-5615,phone,female,spk07,phone_3,positive,1,6.48
+positive_00556_spk11.wav,output/positive_00556_spk11.wav,안내 말씀드립니다. 공일공 이공이사 팔구육육 으로 연락 주세요.,010-2024-8966,phone,female,spk11,phone_2,positive,1,5.76
+positive_00560_spk01.wav,output/positive_00560_spk01.wav,공일공 오팔육사 육칠일삼 으로 연락 주세요. 참고 부탁드립니다.,010-5864-6713,phone,female,spk01,phone_2,positive,1,5.68
+positive_00564_spk05.wav,output/positive_00564_spk05.wav,안내 말씀드립니다. 공일공 사칠육공 오구공일 으로 연락 주세요.,010-4760-5901,phone,female,spk05,phone_2,positive,1,5.52
+positive_00568_spk09.wav,output/positive_00568_spk09.wav,잠시 안내드립니다. 연락처는 공일공 이칠삼이 일팔오이이에요.,010-2732-1852,phone,female,spk09,phone_1,positive,1,5.44
+positive_00572_spk13.wav,output/positive_00572_spk13.wav,문자는 공일공 오오사이 팔오공사 으로 보내주세요. 감사합니다.,010-5542-8504,phone,male,spk13,phone_4,positive,1,4.32
+positive_00576_spk03.wav,output/positive_00576_spk03.wav,고객님께 안내드립니다. 급하시면 공일공 구공일구 육이공삼 으로 바로 전화 주세요.,010-9019-6203,phone,female,spk03,phone_3,positive,1,6.56
+positive_00580_spk07.wav,output/positive_00580_spk07.wav,고객님께 안내드립니다. 연락처는 공일공 오구오삼 공팔팔구이에요.,010-5953-0889,phone,female,spk07,phone_1,positive,1,6.0
+positive_00584_spk11.wav,output/positive_00584_spk11.wav,제 전화번호는 공일공 삼이공구 삼공칠이입니다.,010-3209-3072,phone,female,spk11,phone_0,positive,1,4.48
+positive_00588_spk01.wav,output/positive_00588_spk01.wav,문자는 공일공 구오팔육 칠구일이 으로 보내주세요. 참고 부탁드립니다.,010-9586-7912,phone,female,spk01,phone_4,positive,1,6.0
+positive_00592_spk05.wav,output/positive_00592_spk05.wav,문자는 공일공 삼이구일 삼사삼오 으로 보내주세요. 참고 부탁드립니다.,010-3291-3435,phone,female,spk05,phone_4,positive,1,5.68
+positive_00596_spk09.wav,output/positive_00596_spk09.wav,연락처는 공일공 삼이칠오 사삼칠사이에요.,010-3275-4374,phone,female,spk09,phone_1,positive,1,4.16
+positive_00600_spk13.wav,output/positive_00600_spk13.wav,고객님께 안내드립니다. 제 전화번호는 공일공 구공사육 공팔팔일입니다.,010-9046-0881,phone,male,spk13,phone_0,positive,1,6.16
+positive_00604_spk03.wav,output/positive_00604_spk03.wav,잠시 안내드립니다. 급하시면 공일공 공공구이 오사일오 으로 바로 전화 주세요.,010-0092-5415,phone,female,spk03,phone_3,positive,1,5.68
+positive_00608_spk07.wav,output/positive_00608_spk07.wav,잠시 안내드립니다. 제 전화번호는 공일공 구일구육 공일사사입니다.,010-9196-0144,phone,female,spk07,phone_0,positive,1,6.24
+positive_00612_spk11.wav,output/positive_00612_spk11.wav,연락처는 공일공 일공칠이 삼사오삼이에요.,010-1072-3453,phone,female,spk11,phone_1,positive,1,5.04
+positive_00616_spk01.wav,output/positive_00616_spk01.wav,안내 말씀드립니다. 제 전화번호는 공일공 칠공구사 오일팔삼입니다.,010-7094-5183,phone,female,spk01,phone_0,positive,1,6.56
+positive_00620_spk05.wav,output/positive_00620_spk05.wav,연락처는 공일공 팔구사일 사팔삼이이에요. 양해 부탁드립니다.,010-8941-4832,phone,female,spk05,phone_1,positive,1,5.68
+positive_00624_spk09.wav,output/positive_00624_spk09.wav,문자는 공일공 팔구구이 칠오오칠 으로 보내주세요. 양해 부탁드립니다.,010-8992-7557,phone,female,spk09,phone_4,positive,1,5.84
+positive_00628_spk13.wav,output/positive_00628_spk13.wav,공일공 구이육육 구이팔칠 으로 연락 주세요. 참고 부탁드립니다.,010-9266-9287,phone,male,spk13,phone_2,positive,1,5.76
+positive_00632_spk03.wav,output/positive_00632_spk03.wav,제 전화번호는 공일공 삼이일팔 사삼일이입니다. 확인 부탁드립니다.,010-3218-4312,phone,female,spk03,phone_0,positive,1,5.36
+positive_00636_spk07.wav,output/positive_00636_spk07.wav,잠시 안내드립니다. 연락처는 공일공 이칠일칠 팔사이삼이에요.,010-2717-8423,phone,female,spk07,phone_1,positive,1,6.08
+positive_00640_spk11.wav,output/positive_00640_spk11.wav,고객님께 안내드립니다. 문자는 공일공 사삼일사 구사팔공 으로 보내주세요.,010-4314-9480,phone,female,spk11,phone_4,positive,1,6.88
+positive_00644_spk01.wav,output/positive_00644_spk01.wav,연락처는 공일공 이사육일 삼공육이이에요. 확인 부탁드립니다.,010-2461-3062,phone,female,spk01,phone_1,positive,1,6.16
+positive_00648_spk05.wav,output/positive_00648_spk05.wav,문자는 공일공 팔사육사 육육사이 으로 보내주세요.,010-8464-6642,phone,female,spk05,phone_4,positive,1,4.72
+positive_00652_spk09.wav,output/positive_00652_spk09.wav,제 전화번호는 공일공 육삼일오 이일육육입니다. 감사합니다.,010-6315-2166,phone,female,spk09,phone_0,positive,1,4.64
+positive_00656_spk13.wav,output/positive_00656_spk13.wav,문자는 공일공 육이사육 오칠사이 으로 보내주세요. 확인 부탁드립니다.,010-6246-5742,phone,male,spk13,phone_4,positive,1,5.84
+positive_00660_spk03.wav,output/positive_00660_spk03.wav,제 전화번호는 공일공 육육구팔 오구삼오입니다. 양해 부탁드립니다.,010-6698-5935,phone,female,spk03,phone_0,positive,1,6.08
+positive_00664_spk07.wav,output/positive_00664_spk07.wav,급하시면 공일공 구사육사 오육사일 으로 바로 전화 주세요. 확인 부탁드립니다.,010-9464-5641,phone,female,spk07,phone_3,positive,1,5.68
+positive_00668_spk11.wav,output/positive_00668_spk11.wav,안내 말씀드립니다. 문자는 공일공 육이구육 육오육사 으로 보내주세요.,010-6296-6564,phone,female,spk11,phone_4,positive,1,5.76
+positive_00672_spk01.wav,output/positive_00672_spk01.wav,연락처는 공일공 육육사이 구육공이이에요. 확인 부탁드립니다.,010-6642-9602,phone,female,spk01,phone_1,positive,1,5.68
+positive_00676_spk05.wav,output/positive_00676_spk05.wav,공일공 팔팔일삼 구사일구 으로 연락 주세요. 감사합니다.,010-8813-9419,phone,female,spk05,phone_2,positive,1,5.2
+positive_00680_spk09.wav,output/positive_00680_spk09.wav,제 전화번호는 공일공 사공육칠 사칠공육입니다. 양해 부탁드립니다.,010-4067-4706,phone,female,spk09,phone_0,positive,1,6.24
+positive_00684_spk13.wav,output/positive_00684_spk13.wav,급하시면 공일공 일구육사 일이팔오 으로 바로 전화 주세요. 확인 부탁드립니다.,010-1964-1285,phone,male,spk13,phone_3,positive,1,5.52
+positive_00688_spk03.wav,output/positive_00688_spk03.wav,안내 말씀드립니다. 제 전화번호는 공일공 이팔육삼 칠사구공입니다.,010-2863-7490,phone,female,spk03,phone_0,positive,1,7.2
+positive_00692_spk07.wav,output/positive_00692_spk07.wav,잠시 안내드립니다. 급하시면 공일공 육오육삼 사오팔일 으로 바로 전화 주세요.,010-6563-4581,phone,female,spk07,phone_3,positive,1,6.48
+positive_00696_spk11.wav,output/positive_00696_spk11.wav,제 전화번호는 공일공 구이일공 구삼공삼입니다. 확인 부탁드립니다.,010-9210-9303,phone,female,spk11,phone_0,positive,1,6.64
+positive_00700_spk01.wav,output/positive_00700_spk01.wav,잠시 안내드립니다. 급하시면 공일공 칠삼이이 일이팔사 으로 바로 전화 주세요.,010-7322-1284,phone,female,spk01,phone_3,positive,1,6.72
+positive_00704_spk05.wav,output/positive_00704_spk05.wav,연락처는 공일공 육칠팔이 이칠사일이에요.,010-6782-2741,phone,female,spk05,phone_1,positive,1,3.2
+positive_00708_spk09.wav,output/positive_00708_spk09.wav,잠시 안내드립니다. 연락처는 공일공 오공육팔 삼칠오칠이에요.,010-5068-3757,phone,female,spk09,phone_1,positive,1,5.68
+positive_00712_spk13.wav,output/positive_00712_spk13.wav,확인을 위해 알려드립니다. 문자는 공일공 오육팔팔 칠팔구일 으로 보내주세요.,010-5688-7891,phone,male,spk13,phone_4,positive,1,6.0
+positive_00716_spk03.wav,output/positive_00716_spk03.wav,고객님께 안내드립니다. 문자는 공일공 삼공팔구 육칠사오 으로 보내주세요.,010-3089-6745,phone,female,spk03,phone_4,positive,1,6.48
+positive_00720_spk07.wav,output/positive_00720_spk07.wav,제 전화번호는 공일공 삼공칠육 오이오삼입니다. 확인 부탁드립니다.,010-3076-5253,phone,female,spk07,phone_0,positive,1,6.08
+positive_00724_spk11.wav,output/positive_00724_spk11.wav,확인을 위해 알려드립니다. 제 전화번호는 공일공 사삼육육 육사이구입니다.,010-4366-6429,phone,female,spk11,phone_0,positive,1,5.92
+positive_00728_spk01.wav,output/positive_00728_spk01.wav,공일공 사일오공 칠팔팔사 으로 연락 주세요. 참고 부탁드립니다.,010-4150-7884,phone,female,spk01,phone_2,positive,1,5.52
+positive_00732_spk05.wav,output/positive_00732_spk05.wav,제 전화번호는 공일공 일사구칠 오오사사입니다. 확인 부탁드립니다.,010-1497-5544,phone,female,spk05,phone_0,positive,1,6.08
+positive_00736_spk09.wav,output/positive_00736_spk09.wav,잠시 안내드립니다. 공일공 팔구공육 오육구육 으로 연락 주세요.,010-8906-5696,phone,female,spk09,phone_2,positive,1,5.6
+positive_00740_spk13.wav,output/positive_00740_spk13.wav,안내 말씀드립니다. 급하시면 공일공 사육삼팔 오이팔오 으로 바로 전화 주세요.,010-4638-5285,phone,male,spk13,phone_3,positive,1,5.52
+positive_00744_spk03.wav,output/positive_00744_spk03.wav,안내 말씀드립니다. 문자는 공일공 육공사육 공구오오 으로 보내주세요.,010-6046-0955,phone,female,spk03,phone_4,positive,1,6.64
+positive_00748_spk07.wav,output/positive_00748_spk07.wav,연락처는 공일공 팔이육팔 오오이구이에요. 양해 부탁드립니다.,010-8268-5529,phone,female,spk07,phone_1,positive,1,6.16
+positive_00752_spk11.wav,output/positive_00752_spk11.wav,공일공 팔사팔공 이이일삼 으로 연락 주세요. 참고 부탁드립니다.,010-8480-2213,phone,female,spk11,phone_2,positive,1,5.28
+positive_00756_spk01.wav,output/positive_00756_spk01.wav,확인을 위해 알려드립니다. 문자는 공일공 이팔삼이 칠구구구 으로 보내주세요.,010-2832-7999,phone,female,spk01,phone_4,positive,1,6.08
+positive_00760_spk05.wav,output/positive_00760_spk05.wav,연락처는 공일공 오삼오사 팔이삼일이에요. 감사합니다.,010-5354-8231,phone,female,spk05,phone_1,positive,1,4.88
+positive_00764_spk09.wav,output/positive_00764_spk09.wav,고객님께 안내드립니다. 연락처는 공일공 구일구사 팔오팔구이에요.,010-9194-8589,phone,female,spk09,phone_1,positive,1,5.84
+positive_00768_spk13.wav,output/positive_00768_spk13.wav,연락처는 공일공 일팔사일 공팔구삼이에요.,010-1841-0893,phone,male,spk13,phone_1,positive,1,3.44
+positive_00772_spk03.wav,output/positive_00772_spk03.wav,제 전화번호는 공일공 사일팔오 이칠구공입니다. 양해 부탁드립니다.,010-4185-2790,phone,female,spk03,phone_0,positive,1,6.32
+positive_00776_spk07.wav,output/positive_00776_spk07.wav,문자는 공일공 삼공오사 삼이오팔 으로 보내주세요.,010-3054-3258,phone,female,spk07,phone_4,positive,1,4.24
+positive_00780_spk11.wav,output/positive_00780_spk11.wav,공일공 삼육구오 이사팔오 으로 연락 주세요.,010-3695-2485,phone,female,spk11,phone_2,positive,1,4.24
+positive_00784_spk01.wav,output/positive_00784_spk01.wav,문자는 공일공 칠공사육 이삼칠팔 으로 보내주세요.,010-7046-2378,phone,female,spk01,phone_4,positive,1,4.16
+positive_00788_spk05.wav,output/positive_00788_spk05.wav,안내 말씀드립니다. 문자는 공일공 구구이이 구이구공 으로 보내주세요.,010-9922-9290,phone,female,spk05,phone_4,positive,1,6.64
+positive_00792_spk09.wav,output/positive_00792_spk09.wav,급하시면 공일공 팔공이칠 오삼이삼 으로 바로 전화 주세요.,010-8027-5323,phone,female,spk09,phone_3,positive,1,4.4
+positive_00796_spk13.wav,output/positive_00796_spk13.wav,확인을 위해 알려드립니다. 급하시면 공일공 삼일일공 사칠칠공 으로 바로 전화 주세요.,010-3110-4770,phone,male,spk13,phone_3,positive,1,6.16
+positive_00800_spk03.wav,output/positive_00800_spk03.wav,공일공 칠사사구 일사칠칠 으로 연락 주세요. 참고 부탁드립니다.,010-7449-1477,phone,female,spk03,phone_2,positive,1,6.48
+positive_00804_spk07.wav,output/positive_00804_spk07.wav,잠시 안내드립니다. 급하시면 공일공 오공사칠 오공칠일 으로 바로 전화 주세요.,010-5047-5071,phone,female,spk07,phone_3,positive,1,7.2
+positive_00808_spk11.wav,output/positive_00808_spk11.wav,확인을 위해 알려드립니다. 제 전화번호는 공일공 구일삼사 삼사공일입니다.,010-9134-3401,phone,female,spk11,phone_0,positive,1,6.24
+positive_00812_spk01.wav,output/positive_00812_spk01.wav,안내 말씀드립니다. 문자는 공일공 일일공팔 칠공공일 으로 보내주세요.,010-1108-7001,phone,female,spk01,phone_4,positive,1,5.92
+positive_00816_spk05.wav,output/positive_00816_spk05.wav,잠시 안내드립니다. 문자는 공일공 구이일팔 팔일삼이 으로 보내주세요.,010-9218-8132,phone,female,spk05,phone_4,positive,1,6.0
+positive_00820_spk09.wav,output/positive_00820_spk09.wav,공일공 공일공공 일팔육오 으로 연락 주세요. 확인 부탁드립니다.,010-0100-1865,phone,female,spk09,phone_2,positive,1,5.04
+positive_00824_spk13.wav,output/positive_00824_spk13.wav,공일공 삼사일이 구사육공 으로 연락 주세요. 양해 부탁드립니다.,010-3412-9460,phone,male,spk13,phone_2,positive,1,5.68
+positive_00828_spk03.wav,output/positive_00828_spk03.wav,안내 말씀드립니다. 공일공 삼오사일 팔육공삼 으로 연락 주세요.,010-3541-8603,phone,female,spk03,phone_2,positive,1,6.4
+positive_00832_spk07.wav,output/positive_00832_spk07.wav,제 전화번호는 공일공 공공육칠 오공구오입니다. 확인 부탁드립니다.,010-0067-5095,phone,female,spk07,phone_0,positive,1,6.0
+positive_00836_spk11.wav,output/positive_00836_spk11.wav,확인을 위해 알려드립니다. 공일공 삼삼팔사 팔팔팔팔 으로 연락 주세요.,010-3384-8888,phone,female,spk11,phone_2,positive,1,7.04
+positive_00840_spk01.wav,output/positive_00840_spk01.wav,연락처는 공일공 오일일구 오사사사이에요. 확인 부탁드립니다.,010-5119-5444,phone,female,spk01,phone_1,positive,1,6.16
+positive_00844_spk05.wav,output/positive_00844_spk05.wav,확인을 위해 알려드립니다. 급하시면 공일공 일팔사구 오칠오팔 으로 바로 전화 주세요.,010-1849-5758,phone,female,spk05,phone_3,positive,1,6.96
+positive_00848_spk09.wav,output/positive_00848_spk09.wav,안내 말씀드립니다. 문자는 공일공 구이구삼 오육공육 으로 보내주세요.,010-9293-5606,phone,female,spk09,phone_4,positive,1,5.84
+positive_00852_spk13.wav,output/positive_00852_spk13.wav,고객님께 안내드립니다. 급하시면 공일공 이사공삼 이사사사 으로 바로 전화 주세요.,010-2403-2444,phone,male,spk13,phone_3,positive,1,6.96
+positive_00856_spk03.wav,output/positive_00856_spk03.wav,문자는 공일공 일공이이 육공사구 으로 보내주세요.,010-1022-6049,phone,female,spk03,phone_4,positive,1,4.08
+positive_00860_spk07.wav,output/positive_00860_spk07.wav,연락처는 공일공 오구공이 육팔삼오이에요. 참고 부탁드립니다.,010-5902-6835,phone,female,spk07,phone_1,positive,1,4.88
+positive_00864_spk11.wav,output/positive_00864_spk11.wav,고객님께 안내드립니다. 연락처는 공일공 오팔이일 삼육구팔이에요.,010-5821-3698,phone,female,spk11,phone_1,positive,1,6.08
+positive_00868_spk01.wav,output/positive_00868_spk01.wav,제 전화번호는 공일공 사공일칠 칠칠사공입니다. 양해 부탁드립니다.,010-4017-7740,phone,female,spk01,phone_0,positive,1,6.56
+positive_00872_spk05.wav,output/positive_00872_spk05.wav,급하시면 공일공 공사사칠 사육구구 으로 바로 전화 주세요. 양해 부탁드립니다.,010-0447-4699,phone,female,spk05,phone_3,positive,1,6.48
+positive_00876_spk09.wav,output/positive_00876_spk09.wav,연락처는 공일공 이삼칠육 구칠오칠이에요. 감사합니다.,010-2376-9757,phone,female,spk09,phone_1,positive,1,4.56
+positive_00880_spk13.wav,output/positive_00880_spk13.wav,급하시면 공일공 이삼칠팔 팔육구공 으로 바로 전화 주세요. 감사합니다.,010-2378-8690,phone,male,spk13,phone_3,positive,1,5.52
+positive_00884_spk03.wav,output/positive_00884_spk03.wav,안내 말씀드립니다. 연락처는 공일공 팔오일팔 오오이팔이에요.,010-8518-5528,phone,female,spk03,phone_1,positive,1,6.24
+positive_00888_spk07.wav,output/positive_00888_spk07.wav,공일공 일팔일육 삼공일팔 으로 연락 주세요. 확인 부탁드립니다.,010-1816-3018,phone,female,spk07,phone_2,positive,1,5.68
+positive_00892_spk11.wav,output/positive_00892_spk11.wav,안내 말씀드립니다. 문자는 공일공 일칠칠육 이삼오칠 으로 보내주세요.,010-1776-2357,phone,female,spk11,phone_4,positive,1,6.8
+positive_00896_spk01.wav,output/positive_00896_spk01.wav,급하시면 공일공 칠팔삼삼 칠일사사 으로 바로 전화 주세요. 확인 부탁드립니다.,010-7833-7144,phone,female,spk01,phone_3,positive,1,7.2

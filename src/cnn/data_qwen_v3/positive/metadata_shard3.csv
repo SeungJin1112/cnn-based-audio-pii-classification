@@ -1,0 +1,226 @@
+﻿filename,filepath,text,value,pii_type,gender,speaker_id,template_id,source_type,label,duration
+positive_00003_spk04.wav,output/positive_00003_spk04.wav,고객님께 안내드립니다. 카드번호는 삼육일일 칠삼오구 구육오사 사오오칠입니다.,3611-7359-9654-4557,card,male,spk04,card_0,positive,1,6.48
+positive_00007_spk08.wav,output/positive_00007_spk08.wav,안내 말씀드립니다. 제 카드번호는 구사오구 삼일오공 일일삼구 공칠오공이에요.,9459-3150-1139-0750,card,male,spk08,card_2,positive,1,7.12
+positive_00011_spk12.wav,output/positive_00011_spk12.wav,확인을 위해 알려드립니다. 오삼일삼 공구일육 삼칠오이 공오이오 로 결제 부탁드립니다.,5313-0916-3752-0525,card,male,spk12,card_1,positive,1,6.24
+positive_00015_spk02.wav,output/positive_00015_spk02.wav,카드번호는 이이육육 팔삼사팔 팔공팔오 일사팔구입니다.,2266-8348-8085-1489,card,male,spk02,card_0,positive,1,5.52
+positive_00019_spk06.wav,output/positive_00019_spk06.wav,카드번호는 사삼일오 팔이공일 이구이칠 팔삼일칠입니다.,4315-8201-2927-8317,card,male,spk06,card_0,positive,1,4.48
+positive_00023_spk10.wav,output/positive_00023_spk10.wav,제 카드번호는 팔칠이칠 이공육공 이일공삼 칠칠팔칠이에요. 감사합니다.,8727-2060-2103-7787,card,male,spk10,card_2,positive,1,6.0
+positive_00027_spk14.wav,output/positive_00027_spk14.wav,잠시 안내드립니다. 카드번호는 공오일사 오사일삼 일일육공 팔사이삼입니다.,0514-5413-1160-8423,card,female,spk14,card_0,positive,1,7.36
+positive_00031_spk04.wav,output/positive_00031_spk04.wav,고객님께 안내드립니다. 사공칠삼 삼일삼구 삼일일육 팔칠팔육 로 결제 부탁드립니다.,4073-3139-3116-8786,card,male,spk04,card_1,positive,1,7.36
+positive_00035_spk08.wav,output/positive_00035_spk08.wav,제 카드번호는 사삼사오 칠사오사 사육칠삼 육구삼공이에요.,4345-7454-4673-6930,card,male,spk08,card_2,positive,1,6.08
+positive_00039_spk12.wav,output/positive_00039_spk12.wav,일일이이 구칠사구 일일일삼 삼팔오삼 로 결제 부탁드립니다. 참고 부탁드립니다.,1122-9749-1113-3853,card,male,spk12,card_1,positive,1,6.24
+positive_00043_spk02.wav,output/positive_00043_spk02.wav,안내 말씀드립니다. 일이공공 팔팔공팔 삼사구이 팔이팔팔 로 결제 부탁드립니다.,1200-8808-3492-8288,card,male,spk02,card_1,positive,1,6.32
+positive_00047_spk06.wav,output/positive_00047_spk06.wav,제 카드번호는 사사육이 사육일육 구구공구 삼사오공이에요. 양해 부탁드립니다.,4462-4616-9909-3450,card,male,spk06,card_2,positive,1,6.72
+positive_00051_spk10.wav,output/positive_00051_spk10.wav,카드번호는 일팔삼이 일이삼이 이사사이 팔구삼팔입니다. 참고 부탁드립니다.,1832-1232-2442-8938,card,male,spk10,card_0,positive,1,5.76
+positive_00055_spk14.wav,output/positive_00055_spk14.wav,제 카드번호는 이구공공 육칠오오 공사공육 이구삼팔이에요.,2900-6755-0406-2938,card,female,spk14,card_2,positive,1,5.2
+positive_00059_spk04.wav,output/positive_00059_spk04.wav,제 카드번호는 사오칠삼 오칠오삼 팔삼사육 육오사팔이에요.,4573-5753-8346-6548,card,male,spk04,card_2,positive,1,4.88
+positive_00063_spk08.wav,output/positive_00063_spk08.wav,카드번호는 삼일일사 사일칠삼 공칠이칠 칠일사사입니다. 참고 부탁드립니다.,3114-4173-0727-7144,card,male,spk08,card_0,positive,1,7.12
+positive_00067_spk12.wav,output/positive_00067_spk12.wav,잠시 안내드립니다. 제 카드번호는 이팔오일 구삼이사 사구삼공 육육오삼이에요.,2851-9324-4930-6653,card,male,spk12,card_2,positive,1,7.04
+positive_00071_spk02.wav,output/positive_00071_spk02.wav,이사일사 공사공공 공칠오칠 사공일일 로 결제 부탁드립니다. 감사합니다.,2414-0400-0757-4011,card,male,spk02,card_1,positive,1,5.92
+positive_00075_spk06.wav,output/positive_00075_spk06.wav,칠이오일 팔이칠공 육구구일 팔구칠육 로 결제 부탁드립니다.,7251-8270-6991-8976,card,male,spk06,card_1,positive,1,4.8
+positive_00079_spk10.wav,output/positive_00079_spk10.wav,잠시 안내드립니다. 삼오공오 일공오이 육칠구칠 육육칠팔 로 결제 부탁드립니다.,3505-1052-6797-6678,card,male,spk10,card_1,positive,1,5.92
+positive_00083_spk14.wav,output/positive_00083_spk14.wav,잠시 안내드립니다. 제 카드번호는 공사칠오 육삼칠일 오오공칠 육육이사이에요.,0475-6371-5507-6624,card,female,spk14,card_2,positive,1,6.8
+positive_00087_spk04.wav,output/positive_00087_spk04.wav,제 카드번호는 사일삼삼 일삼사일 칠칠공오 공삼일칠이에요. 양해 부탁드립니다.,4133-1341-7705-0317,card,male,spk04,card_2,positive,1,6.72
+positive_00091_spk08.wav,output/positive_00091_spk08.wav,카드번호는 이육팔삼 오공구육 일칠칠일 구사팔일입니다.,2683-5096-1771-9481,card,male,spk08,card_0,positive,1,6.08
+positive_00095_spk12.wav,output/positive_00095_spk12.wav,확인을 위해 알려드립니다. 일일이구 팔이팔구 오오구공 공이공칠 로 결제 부탁드립니다.,1129-8289-5590-0207,card,male,spk12,card_1,positive,1,6.56
+positive_00099_spk02.wav,output/positive_00099_spk02.wav,고객님께 안내드립니다. 카드번호는 구삼삼육 구구구구 육이공구 오오일일입니다.,9336-9999-6209-5511,card,male,spk02,card_0,positive,1,8.4
+positive_00103_spk06.wav,output/positive_00103_spk06.wav,확인을 위해 알려드립니다. 제 카드번호는 삼육삼공 육육이오 삼구팔육 오공일육이에요.,3630-6625-3986-5016,card,male,spk06,card_2,positive,1,6.64
+positive_00107_spk10.wav,output/positive_00107_spk10.wav,잠시 안내드립니다. 일육사칠 삼일팔공 사팔오삼 삼칠이칠 로 결제 부탁드립니다.,1647-3180-4853-3727,card,male,spk10,card_1,positive,1,5.04
+positive_00111_spk14.wav,output/positive_00111_spk14.wav,카드번호는 일이일삼 구사오삼 공팔칠팔 이사팔오입니다. 확인 부탁드립니다.,1213-9453-0878-2485,card,female,spk14,card_0,positive,1,6.4
+positive_00115_spk04.wav,output/positive_00115_spk04.wav,안내 말씀드립니다. 카드번호는 삼사오칠 사삼삼오 일삼삼공 이오칠삼입니다.,3457-4335-1330-2573,card,male,spk04,card_0,positive,1,6.4
+positive_00119_spk08.wav,output/positive_00119_spk08.wav,카드번호는 사삼오이 이삼삼공 일일육구 공구칠칠입니다. 양해 부탁드립니다.,4352-2330-1169-0977,card,male,spk08,card_0,positive,1,6.96
+positive_00123_spk12.wav,output/positive_00123_spk12.wav,확인을 위해 알려드립니다. 사사일오 구사사일 공육오구 이팔칠공 로 결제 부탁드립니다.,4415-9441-0659-2870,card,male,spk12,card_1,positive,1,6.0
+positive_00127_spk02.wav,output/positive_00127_spk02.wav,칠사오일 일사사이 오일오삼 사일삼오 로 결제 부탁드립니다. 확인 부탁드립니다.,7451-1442-5153-4135,card,male,spk02,card_1,positive,1,6.56
+positive_00131_spk06.wav,output/positive_00131_spk06.wav,잠시 안내드립니다. 제 카드번호는 구구칠오 삼구이공 이오구사 오공구일이에요.,9975-3920-2594-5091,card,male,spk06,card_2,positive,1,6.64
+positive_00135_spk10.wav,output/positive_00135_spk10.wav,확인을 위해 알려드립니다. 제 카드번호는 일일사삼 사오이육 육칠구팔 오오육팔이에요.,1143-4526-6798-5568,card,male,spk10,card_2,positive,1,7.2
+positive_00139_spk14.wav,output/positive_00139_spk14.wav,제 카드번호는 오이일삼 칠칠사구 육이사육 육삼이오이에요. 참고 부탁드립니다.,5213-7749-6246-6325,card,female,spk14,card_2,positive,1,6.88
+positive_00143_spk04.wav,output/positive_00143_spk04.wav,제 카드번호는 오삼팔삼 팔칠사이 육이이육 오일팔팔이에요. 확인 부탁드립니다.,5383-8742-6226-5188,card,male,spk04,card_2,positive,1,6.8
+positive_00147_spk08.wav,output/positive_00147_spk08.wav,안내 말씀드립니다. 제 카드번호는 사공공공 팔칠공이 육칠오일 구이칠이이에요.,4000-8702-6751-9272,card,male,spk08,card_2,positive,1,7.52
+positive_00151_spk12.wav,output/positive_00151_spk12.wav,카드번호는 육구오일 사공구칠 칠사팔사 사구사구입니다.,6951-4097-7484-4949,card,male,spk12,card_0,positive,1,4.56
+positive_00155_spk02.wav,output/positive_00155_spk02.wav,제 카드번호는 삼오팔팔 삼일일오 사일공육 이이사공이에요. 확인 부탁드립니다.,3588-3115-4106-2240,card,male,spk02,card_2,positive,1,7.12
+positive_00159_spk06.wav,output/positive_00159_spk06.wav,카드번호는 사팔삼오 오오사구 일팔팔육 칠육칠삼입니다. 감사합니다.,4835-5549-1886-7673,card,male,spk06,card_0,positive,1,5.68
+positive_00163_spk10.wav,output/positive_00163_spk10.wav,잠시 안내드립니다. 제 카드번호는 구구구오 삼육이육 일공삼오 칠육공육이에요.,9995-3626-1035-7606,card,male,spk10,card_2,positive,1,6.48
+positive_00167_spk14.wav,output/positive_00167_spk14.wav,고객님께 안내드립니다. 카드번호는 일육이이 팔공일칠 육육팔육 사오팔삼입니다.,1622-8017-6686-4583,card,female,spk14,card_0,positive,1,6.88
+positive_00171_spk04.wav,output/positive_00171_spk04.wav,카드번호는 구이오공 삼삼육이 일일이사 구공팔공입니다. 참고 부탁드립니다.,9250-3362-1124-9080,card,male,spk04,card_0,positive,1,6.32
+positive_00175_spk08.wav,output/positive_00175_spk08.wav,팔육일구 일팔육이 일공사일 칠팔공이 로 결제 부탁드립니다. 확인 부탁드립니다.,8619-1862-1041-7802,card,male,spk08,card_1,positive,1,7.28
+positive_00179_spk12.wav,output/positive_00179_spk12.wav,카드번호는 오이칠칠 구구육육 이사삼공 일공칠육입니다. 양해 부탁드립니다.,5277-9966-2430-1076,card,male,spk12,card_0,positive,1,5.6
+positive_00183_spk02.wav,output/positive_00183_spk02.wav,안내 말씀드립니다. 카드번호는 육구구이 오일이공 사일칠육 육일삼이입니다.,6992-5120-4176-6132,card,male,spk02,card_0,positive,1,6.8
+positive_00187_spk06.wav,output/positive_00187_spk06.wav,고객님께 안내드립니다. 제 카드번호는 구팔삼칠 오일일구 오칠육일 일육구칠이에요.,9837-5119-5761-1697,card,male,spk06,card_2,positive,1,6.24
+positive_00191_spk10.wav,output/positive_00191_spk10.wav,안내 말씀드립니다. 제 카드번호는 오칠오일 공일공공 이구칠이 이삼사칠이에요.,5751-0100-2972-2347,card,male,spk10,card_2,positive,1,5.92
+positive_00195_spk14.wav,output/positive_00195_spk14.wav,칠구오칠 구구사육 칠이사이 육칠팔오 로 결제 부탁드립니다. 양해 부탁드립니다.,7957-9946-7242-6785,card,female,spk14,card_1,positive,1,6.4
+positive_00199_spk04.wav,output/positive_00199_spk04.wav,제 카드번호는 이팔칠팔 이일일육 육이이구 팔칠이오이에요. 양해 부탁드립니다.,2878-2116-6229-8725,card,male,spk04,card_2,positive,1,6.56
+positive_00203_spk08.wav,output/positive_00203_spk08.wav,확인을 위해 알려드립니다. 제 카드번호는 칠일오오 일칠삼사 삼구팔육 칠일삼팔이에요.,7155-1734-3986-7138,card,male,spk08,card_2,positive,1,7.28
+positive_00207_spk12.wav,output/positive_00207_spk12.wav,제 카드번호는 칠육공일 구이삼육 구사구사 칠삼오사이에요.,7601-9236-9494-7354,card,male,spk12,card_2,positive,1,4.72
+positive_00211_spk02.wav,output/positive_00211_spk02.wav,제 카드번호는 구칠삼삼 팔삼공칠 육이구구 칠오팔일이에요. 확인 부탁드립니다.,9733-8307-6299-7581,card,male,spk02,card_2,positive,1,6.16
+positive_00215_spk06.wav,output/positive_00215_spk06.wav,안내 말씀드립니다. 제 카드번호는 육육구칠 오오사삼 구칠구오 공팔오칠이에요.,6697-5543-9795-0857,card,male,spk06,card_2,positive,1,6.0
+positive_00219_spk10.wav,output/positive_00219_spk10.wav,잠시 안내드립니다. 제 카드번호는 이공구삼 팔육이사 일오삼일 육구삼칠이에요.,2093-8624-1531-6937,card,male,spk10,card_2,positive,1,6.16
+positive_00223_spk14.wav,output/positive_00223_spk14.wav,제 카드번호는 칠일칠공 공칠일오 육칠삼일 오구육팔이에요. 양해 부탁드립니다.,7170-0715-6731-5968,card,female,spk14,card_2,positive,1,6.72
+positive_00227_spk04.wav,output/positive_00227_spk04.wav,카드번호는 공팔오사 칠팔칠삼 육공팔일 구공팔오입니다. 확인 부탁드립니다.,0854-7873-6081-9085,card,male,spk04,card_0,positive,1,6.24
+positive_00231_spk08.wav,output/positive_00231_spk08.wav,제 카드번호는 삼육칠팔 공사육일 오이이일 일육이삼이에요. 참고 부탁드립니다.,3678-0461-5221-1623,card,male,spk08,card_2,positive,1,7.28
+positive_00235_spk12.wav,output/positive_00235_spk12.wav,제 카드번호는 칠사팔구 일공이구 일팔일육 팔일팔구이에요. 참고 부탁드립니다.,7489-1029-1816-8189,card,male,spk12,card_2,positive,1,6.16
+positive_00239_spk02.wav,output/positive_00239_spk02.wav,카드번호는 공이육육 오팔오공 일일공육 오육사구입니다. 양해 부탁드립니다.,0266-5850-1106-5649,card,male,spk02,card_0,positive,1,6.32
+positive_00243_spk06.wav,output/positive_00243_spk06.wav,오공팔공 팔사사사 육오이사 팔팔구칠 로 결제 부탁드립니다. 참고 부탁드립니다.,5080-8444-6524-8897,card,male,spk06,card_1,positive,1,6.64
+positive_00247_spk10.wav,output/positive_00247_spk10.wav,제 카드번호는 일삼오삼 육구오오 일이구삼 칠공오오이에요.,1353-6955-1293-7055,card,male,spk10,card_2,positive,1,4.48
+positive_00251_spk14.wav,output/positive_00251_spk14.wav,잠시 안내드립니다. 제 카드번호는 팔사공육 이육이일 공오일공 이삼삼구이에요.,8406-2621-0510-2339,card,female,spk14,card_2,positive,1,6.72
+positive_00255_spk04.wav,output/positive_00255_spk04.wav,공사이사 삼공사팔 팔일칠육 팔사팔이 로 결제 부탁드립니다.,0424-3048-8176-8482,card,male,spk04,card_1,positive,1,4.64
+positive_00259_spk08.wav,output/positive_00259_spk08.wav,제 카드번호는 사구일사 이오팔공 이팔오이 오구이이이에요. 참고 부탁드립니다.,4914-2580-2852-5922,card,male,spk08,card_2,positive,1,7.52
+positive_00263_spk12.wav,output/positive_00263_spk12.wav,일이일오 칠삼칠이 칠육삼이 팔사칠육 로 결제 부탁드립니다. 참고 부탁드립니다.,1215-7372-7632-8476,card,male,spk12,card_1,positive,1,6.4
+positive_00267_spk02.wav,output/positive_00267_spk02.wav,제 카드번호는 이공오공 사구육일 팔칠사공 일오삼공이에요. 참고 부탁드립니다.,2050-4961-8740-1530,card,male,spk02,card_2,positive,1,6.32
+positive_00271_spk06.wav,output/positive_00271_spk06.wav,고객님께 안내드립니다. 제 카드번호는 육육오삼 사팔칠삼 칠사삼공 일일구오이에요.,6653-4873-7430-1195,card,male,spk06,card_2,positive,1,7.28
+positive_00275_spk10.wav,output/positive_00275_spk10.wav,육이구삼 육팔오공 사공육칠 이육일육 로 결제 부탁드립니다.,6293-6850-4067-2616,card,male,spk10,card_1,positive,1,4.0
+positive_00279_spk14.wav,output/positive_00279_spk14.wav,확인을 위해 알려드립니다. 사육팔일 팔칠구삼 공일삼삼 일칠육일 로 결제 부탁드립니다.,4681-8793-0133-1761,card,female,spk14,card_1,positive,1,7.04
+positive_00283_spk04.wav,output/positive_00283_spk04.wav,잠시 안내드립니다. 이삼육삼 삼이육일 구팔칠공 팔삼사일 로 결제 부탁드립니다.,2363-3261-9870-8341,card,male,spk04,card_1,positive,1,6.88
+positive_00287_spk08.wav,output/positive_00287_spk08.wav,제 카드번호는 육팔이사 구오육삼 오공사공 공사삼육이에요. 참고 부탁드립니다.,6824-9563-5040-0436,card,male,spk08,card_2,positive,1,7.6
+positive_00291_spk12.wav,output/positive_00291_spk12.wav,제 카드번호는 일공이공 이이육이 팔사구팔 삼삼구칠이에요. 감사합니다.,1020-2262-8498-3397,card,male,spk12,card_2,positive,1,5.28
+positive_00295_spk02.wav,output/positive_00295_spk02.wav,고객님께 안내드립니다. 제 카드번호는 오일구사 칠팔육일 오칠일사 구일팔삼이에요.,5194-7861-5714-9183,card,male,spk02,card_2,positive,1,8.0
+positive_00299_spk06.wav,output/positive_00299_spk06.wav,확인을 위해 알려드립니다. 제 카드번호는 삼구칠이 공팔삼일 팔칠공공 삼육구칠이에요.,3972-0831-8700-3697,card,male,spk06,card_2,positive,1,6.72
+positive_00303_spk10.wav,output/positive_00303_spk10.wav,확인을 위해 알려드립니다. 이팔육팔 육팔사육 이팔팔공 공오구오 로 결제 부탁드립니다.,2868-6846-2880-0595,card,male,spk10,card_1,positive,1,6.56
+positive_00307_spk14.wav,output/positive_00307_spk14.wav,고객님께 안내드립니다. 제 카드번호는 삼공오공 공이삼공 오오이삼 사팔삼삼이에요.,3050-0230-5523-4833,card,female,spk14,card_2,positive,1,6.56
+positive_00311_spk04.wav,output/positive_00311_spk04.wav,카드번호는 일공일칠 일구삼육 칠육이오 오공이육입니다. 양해 부탁드립니다.,1017-1936-7625-5026,card,male,spk04,card_0,positive,1,6.4
+positive_00315_spk08.wav,output/positive_00315_spk08.wav,제 카드번호는 일이칠구 구이사삼 일팔삼팔 일공일일이에요.,1279-9243-1838-1011,card,male,spk08,card_2,positive,1,5.36
+positive_00319_spk12.wav,output/positive_00319_spk12.wav,안내 말씀드립니다. 제 카드번호는 육사팔칠 사일육구 공공사구 삼오칠공이에요.,6487-4169-0049-3570,card,male,spk12,card_2,positive,1,6.24
+positive_00323_spk02.wav,output/positive_00323_spk02.wav,잠시 안내드립니다. 카드번호는 육일팔사 육일오사 일삼일사 팔팔삼오입니다.,6184-6154-1314-8835,card,male,spk02,card_0,positive,1,6.64
+positive_00327_spk06.wav,output/positive_00327_spk06.wav,카드번호는 공오이칠 육팔육팔 공이오육 삼구사삼입니다. 감사합니다.,0527-6868-0256-3943,card,male,spk06,card_0,positive,1,6.64
+positive_00331_spk10.wav,output/positive_00331_spk10.wav,제 카드번호는 육칠칠오 사구이삼 사오공팔 공구구팔이에요.,6775-4923-4508-0998,card,male,spk10,card_2,positive,1,4.32
+positive_00335_spk14.wav,output/positive_00335_spk14.wav,이삼육오 칠오팔육 공구사사 구이일사 로 결제 부탁드립니다.,2365-7586-0944-9214,card,female,spk14,card_1,positive,1,4.96
+positive_00339_spk04.wav,output/positive_00339_spk04.wav,제 카드번호는 사구육칠 공이오일 삼사칠공 삼일일삼이에요. 감사합니다.,4967-0251-3470-3113,card,male,spk04,card_2,positive,1,6.32
+positive_00343_spk08.wav,output/positive_00343_spk08.wav,제 카드번호는 육공칠삼 오일이육 육칠팔일 공칠사구이에요.,6073-5126-6781-0749,card,male,spk08,card_2,positive,1,5.92
+positive_00347_spk12.wav,output/positive_00347_spk12.wav,카드번호는 팔공삼칠 칠오오공 이칠오육 오칠칠공입니다. 참고 부탁드립니다.,8037-7550-2756-5770,card,male,spk12,card_0,positive,1,5.44
+positive_00351_spk02.wav,output/positive_00351_spk02.wav,확인을 위해 알려드립니다. 제 카드번호는 칠구구삼 공이오칠 공일공팔 팔칠일구이에요.,7993-0257-0108-8719,card,male,spk02,card_2,positive,1,7.36
+positive_00355_spk06.wav,output/positive_00355_spk06.wav,고객님께 안내드립니다. 카드번호는 삼칠공공 사구일사 일삼이공 공오일구입니다.,3700-4914-1320-0519,card,male,spk06,card_0,positive,1,7.2
+positive_00359_spk10.wav,output/positive_00359_spk10.wav,잠시 안내드립니다. 팔팔구칠 구이삼이 공오삼구 이구삼팔 로 결제 부탁드립니다.,8897-9232-0539-2938,card,male,spk10,card_1,positive,1,6.32
+positive_00363_spk14.wav,output/positive_00363_spk14.wav,고객님께 안내드립니다. 오오팔공 구구일오 구칠오팔 육사구구 로 결제 부탁드립니다.,5580-9915-9758-6499,card,female,spk14,card_1,positive,1,6.96
+positive_00367_spk04.wav,output/positive_00367_spk04.wav,안내 말씀드립니다. 일사구구 공공팔오 오공오공 칠이팔육 로 결제 부탁드립니다.,1499-0085-5050-7286,card,male,spk04,card_1,positive,1,5.84
+positive_00371_spk08.wav,output/positive_00371_spk08.wav,고객님께 안내드립니다. 카드번호는 구삼칠공 팔오삼칠 이칠칠팔 육이삼칠입니다.,9370-8537-2778-6237,card,male,spk08,card_0,positive,1,7.84
+positive_00375_spk12.wav,output/positive_00375_spk12.wav,카드번호는 칠이일이 오사팔사 칠공오오 구칠삼팔입니다. 참고 부탁드립니다.,7212-5484-7055-9738,card,male,spk12,card_0,positive,1,6.0
+positive_00379_spk02.wav,output/positive_00379_spk02.wav,제 카드번호는 칠오육삼 삼사삼사 칠일팔삼 사칠칠삼이에요. 감사합니다.,7563-3434-7183-4773,card,male,spk02,card_2,positive,1,6.24
+positive_00383_spk06.wav,output/positive_00383_spk06.wav,제 카드번호는 일칠구일 사공육칠 오팔일육 이칠이오이에요. 감사합니다.,1791-4067-5816-2725,card,male,spk06,card_2,positive,1,5.52
+positive_00387_spk10.wav,output/positive_00387_spk10.wav,안내 말씀드립니다. 카드번호는 오칠공칠 오일일공 오육이공 칠사육공입니다.,5707-5110-5620-7460,card,male,spk10,card_0,positive,1,6.08
+positive_00391_spk14.wav,output/positive_00391_spk14.wav,안내 말씀드립니다. 카드번호는 칠오칠공 삼칠구팔 육육삼육 삼공이이입니다.,7570-3798-6636-3022,card,female,spk14,card_0,positive,1,5.92
+positive_00395_spk04.wav,output/positive_00395_spk04.wav,카드번호는 구칠팔공 육삼육칠 육사삼일 구육일칠입니다. 참고 부탁드립니다.,9780-6367-6431-9617,card,male,spk04,card_0,positive,1,5.84
+positive_00399_spk08.wav,output/positive_00399_spk08.wav,카드번호는 구공구일 이칠삼삼 팔공이이 사칠삼이입니다. 확인 부탁드립니다.,9091-2733-8022-4732,card,male,spk08,card_0,positive,1,6.48
+positive_00403_spk12.wav,output/positive_00403_spk12.wav,제 카드번호는 이칠오오 칠사구이 구이육칠 팔일일오이에요. 양해 부탁드립니다.,2755-7492-9267-8115,card,male,spk12,card_2,positive,1,6.32
+positive_00407_spk02.wav,output/positive_00407_spk02.wav,제 카드번호는 삼사삼팔 구육삼이 오칠사사 구구구팔이에요. 참고 부탁드립니다.,3438-9632-5744-9998,card,male,spk02,card_2,positive,1,8.4
+positive_00411_spk06.wav,output/positive_00411_spk06.wav,잠시 안내드립니다. 카드번호는 공구칠일 사오사삼 이공칠팔 이일칠사입니다.,0971-4543-2078-2174,card,male,spk06,card_0,positive,1,655.28
+positive_00415_spk10.wav,output/positive_00415_spk10.wav,제 카드번호는 일오이육 칠오일일 오팔육구 일공삼칠이에요. 참고 부탁드립니다.,1526-7511-5869-1037,card,male,spk10,card_2,positive,1,6.88
+positive_00419_spk14.wav,output/positive_00419_spk14.wav,안내 말씀드립니다. 삼삼일사 이일육일 사구사오 이육공사 로 결제 부탁드립니다.,3314-2161-4945-2604,card,female,spk14,card_1,positive,1,6.72
+positive_00423_spk04.wav,output/positive_00423_spk04.wav,카드번호는 육구일구 이일육오 칠팔이육 일일육공입니다. 확인 부탁드립니다.,6919-2165-7826-1160,card,male,spk04,card_0,positive,1,6.08
+positive_00427_spk08.wav,output/positive_00427_spk08.wav,카드번호는 칠이사팔 삼오오구 일사이공 일육사육입니다. 감사합니다.,7248-3559-1420-1646,card,male,spk08,card_0,positive,1,6.32
+positive_00431_spk12.wav,output/positive_00431_spk12.wav,카드번호는 삼구이일 팔일공팔 육삼이이 일팔사칠입니다. 확인 부탁드립니다.,3921-8108-6322-1847,card,male,spk12,card_0,positive,1,4.72
+positive_00435_spk02.wav,output/positive_00435_spk02.wav,잠시 안내드립니다. 육오이공 팔삼공공 사육구삼 팔이공구 로 결제 부탁드립니다.,6520-8300-4693-8209,card,male,spk02,card_1,positive,1,6.8
+positive_00439_spk06.wav,output/positive_00439_spk06.wav,고객님께 안내드립니다. 제 카드번호는 오공육칠 이팔칠칠 일구오육 공이공칠이에요.,5067-2877-1956-0207,card,male,spk06,card_2,positive,1,6.48
+positive_00443_spk10.wav,output/positive_00443_spk10.wav,카드번호는 팔일이팔 칠사오칠 팔삼육팔 오구공공입니다. 양해 부탁드립니다.,8128-7457-8368-5900,card,male,spk10,card_0,positive,1,5.92
+positive_00447_spk14.wav,output/positive_00447_spk14.wav,확인을 위해 알려드립니다. 카드번호는 이구삼이 공오칠구 구공오팔 육팔칠공입니다.,2932-0579-9058-6870,card,female,spk14,card_0,positive,1,6.24
+positive_00451_spk04.wav,output/positive_00451_spk04.wav,확인을 위해 알려드립니다. 육공사사 삼이팔칠 사칠칠칠 구이삼칠 로 결제 부탁드립니다.,6044-3287-4777-9237,card,male,spk04,card_1,positive,1,6.72
+positive_00455_spk08.wav,output/positive_00455_spk08.wav,삼삼육일 팔육팔공 삼구공이 육팔칠팔 로 결제 부탁드립니다.,3361-8680-3902-6878,card,male,spk08,card_1,positive,1,6.24
+positive_00459_spk12.wav,output/positive_00459_spk12.wav,고객님께 안내드립니다. 제 카드번호는 사칠칠팔 사이칠육 오일육일 육사삼팔이에요.,4778-4276-5161-6438,card,male,spk12,card_2,positive,1,6.4
+positive_00463_spk02.wav,output/positive_00463_spk02.wav,카드번호는 일사팔일 이오팔이 사구팔사 구팔팔사입니다. 참고 부탁드립니다.,1481-2582-4984-9884,card,male,spk02,card_0,positive,1,6.32
+positive_00467_spk06.wav,output/positive_00467_spk06.wav,제 카드번호는 이일사일 삼이사육 육오육삼 육공구팔이에요. 양해 부탁드립니다.,2141-3246-6563-6098,card,male,spk06,card_2,positive,1,6.72
+positive_00471_spk10.wav,output/positive_00471_spk10.wav,잠시 안내드립니다. 오칠구구 삼오일칠 삼공육육 사오공오 로 결제 부탁드립니다.,5799-3517-3066-4505,card,male,spk10,card_1,positive,1,5.68
+positive_00475_spk14.wav,output/positive_00475_spk14.wav,오팔팔삼 칠팔오구 팔구이일 칠구사공 로 결제 부탁드립니다.,5883-7859-8921-7940,card,female,spk14,card_1,positive,1,5.04
+positive_00479_spk04.wav,output/positive_00479_spk04.wav,카드번호는 삼오구사 구사삼이 육삼육삼 오팔일삼입니다. 양해 부탁드립니다.,3594-9432-6363-5813,card,male,spk04,card_0,positive,1,7.28
+positive_00483_spk08.wav,output/positive_00483_spk08.wav,잠시 안내드립니다. 삼삼공공 이일삼칠 오오팔이 이구공칠 로 결제 부탁드립니다.,3300-2137-5582-2907,card,male,spk08,card_1,positive,1,7.12
+positive_00487_spk12.wav,output/positive_00487_spk12.wav,잠시 안내드립니다. 삼육오칠 구육사구 이팔칠이 육일구구 로 결제 부탁드립니다.,3657-9649-2872-6199,card,male,spk12,card_1,positive,1,6.16
+positive_00491_spk02.wav,output/positive_00491_spk02.wav,이삼공사 오사이오 일이칠사 삼팔구구 로 결제 부탁드립니다.,2304-5425-1274-3899,card,male,spk02,card_1,positive,1,6.08
+positive_00495_spk06.wav,output/positive_00495_spk06.wav,카드번호는 일육육일 칠팔오오 구사칠공 삼육구오입니다. 확인 부탁드립니다.,1661-7855-9470-3695,card,male,spk06,card_0,positive,1,5.28
+positive_00499_spk10.wav,output/positive_00499_spk10.wav,일육오구 오사이사 삼삼육칠 삼일일이 로 결제 부탁드립니다. 양해 부탁드립니다.,1659-5424-3367-3112,card,male,spk10,card_1,positive,1,6.72
+positive_00503_spk14.wav,output/positive_00503_spk14.wav,칠칠오팔 일팔구이 오공오이 육오일이 로 결제 부탁드립니다. 확인 부탁드립니다.,7758-1892-5052-6512,card,female,spk14,card_1,positive,1,6.56
+positive_00507_spk04.wav,output/positive_00507_spk04.wav,고객님께 안내드립니다. 구육육이 삼칠이칠 구공칠공 공구구구 로 결제 부탁드립니다.,9662-3727-9070-0999,card,male,spk04,card_1,positive,1,7.44
+positive_00511_spk08.wav,output/positive_00511_spk08.wav,삼삼공팔 이사이이 구칠사구 사이이오 로 결제 부탁드립니다.,3308-2422-9749-4225,card,male,spk08,card_1,positive,1,5.68
+positive_00515_spk12.wav,output/positive_00515_spk12.wav,확인을 위해 알려드립니다. 제 카드번호는 육칠삼이 사삼이칠 육이칠오 칠구오오이에요.,6732-4327-6275-7955,card,male,spk12,card_2,positive,1,6.32
+positive_00519_spk02.wav,output/positive_00519_spk02.wav,안내 말씀드립니다. 삼칠삼사 이이공일 사구이삼 칠이오구 로 결제 부탁드립니다.,3734-2201-4923-7259,card,male,spk02,card_1,positive,1,6.24
+positive_00523_spk06.wav,output/positive_00523_spk06.wav,확인을 위해 알려드립니다. 카드번호는 이팔사육 삼일오팔 삼이팔팔 공구사사입니다.,2846-3158-3288-0944,card,male,spk06,card_0,positive,1,6.0
+positive_00527_spk10.wav,output/positive_00527_spk10.wav,잠시 안내드립니다. 제 카드번호는 공사사구 육삼삼삼 공팔일삼 이육육구이에요.,0449-6333-0813-2669,card,male,spk10,card_2,positive,1,6.64
+positive_00531_spk14.wav,output/positive_00531_spk14.wav,칠오이공 사일이팔 삼오칠오 칠육사육 로 결제 부탁드립니다. 감사합니다.,7520-4128-3575-7646,card,female,spk14,card_1,positive,1,5.92
+positive_00535_spk04.wav,output/positive_00535_spk04.wav,카드번호는 삼공팔육 이사오육 팔사칠오 삼구삼칠입니다. 감사합니다.,3086-2456-8475-3937,card,male,spk04,card_0,positive,1,6.08
+positive_00539_spk08.wav,output/positive_00539_spk08.wav,제 카드번호는 사팔일삼 일오구구 칠칠일삼 이공구육이에요. 참고 부탁드립니다.,4813-1599-7713-2096,card,male,spk08,card_2,positive,1,7.44
+positive_00543_spk12.wav,output/positive_00543_spk12.wav,카드번호는 육이오삼 팔육팔공 사팔팔팔 육칠육팔입니다.,6253-8680-4888-6768,card,male,spk12,card_0,positive,1,5.2
+positive_00547_spk02.wav,output/positive_00547_spk02.wav,카드번호는 구사사일 이오구오 팔공이일 일사사이입니다. 감사합니다.,9441-2595-8021-1442,card,male,spk02,card_0,positive,1,6.08
+positive_00551_spk06.wav,output/positive_00551_spk06.wav,제 카드번호는 공칠사구 사팔팔오 사칠육사 칠사육구이에요. 감사합니다.,0749-4885-4764-7469,card,male,spk06,card_2,positive,1,5.36
+positive_00555_spk10.wav,output/positive_00555_spk10.wav,고객님께 안내드립니다. 카드번호는 구칠삼공 공칠팔오 일칠칠일 공삼이삼입니다.,9730-0785-1771-0323,card,male,spk10,card_0,positive,1,7.2
+positive_00559_spk14.wav,output/positive_00559_spk14.wav,제 카드번호는 삼이오사 구구칠칠 삼이칠이 사삼공팔이에요.,3254-9977-3272-4308,card,female,spk14,card_2,positive,1,4.56
+positive_00563_spk04.wav,output/positive_00563_spk04.wav,삼칠팔칠 칠사팔삼 사팔오공 사삼이칠 로 결제 부탁드립니다. 확인 부탁드립니다.,3787-7483-4850-4327,card,male,spk04,card_1,positive,1,7.04
+positive_00567_spk08.wav,output/positive_00567_spk08.wav,고객님께 안내드립니다. 육오육육 육오오칠 칠사칠구 사사오삼 로 결제 부탁드립니다.,6566-6557-7479-4453,card,male,spk08,card_1,positive,1,7.36
+positive_00571_spk12.wav,output/positive_00571_spk12.wav,제 카드번호는 칠이이공 공칠오삼 일공삼칠 사이팔육이에요. 참고 부탁드립니다.,7220-0753-1037-4286,card,male,spk12,card_2,positive,1,6.0
+positive_00575_spk02.wav,output/positive_00575_spk02.wav,잠시 안내드립니다. 카드번호는 이칠공구 일이이육 팔공오오 오이오삼입니다.,2709-1226-8055-5253,card,male,spk02,card_0,positive,1,7.04
+positive_00579_spk06.wav,output/positive_00579_spk06.wav,확인을 위해 알려드립니다. 카드번호는 구팔구구 사구구공 팔삼이팔 구이일삼입니다.,9899-4990-8328-9213,card,male,spk06,card_0,positive,1,6.08
+positive_00583_spk10.wav,output/positive_00583_spk10.wav,확인을 위해 알려드립니다. 제 카드번호는 공칠오공 이육팔구 팔공육칠 이삼공일이에요.,0750-2689-8067-2301,card,male,spk10,card_2,positive,1,6.8
+positive_00587_spk14.wav,output/positive_00587_spk14.wav,제 카드번호는 팔일칠이 공공칠일 팔육팔구 공칠구오이에요.,8172-0071-8689-0795,card,female,spk14,card_2,positive,1,4.4
+positive_00591_spk04.wav,output/positive_00591_spk04.wav,구팔칠일 팔삼구삼 사팔구칠 팔구칠오 로 결제 부탁드립니다. 참고 부탁드립니다.,9871-8393-4897-8975,card,male,spk04,card_1,positive,1,7.04
+positive_00595_spk08.wav,output/positive_00595_spk08.wav,안내 말씀드립니다. 카드번호는 육구이공 공이공구 팔오육사 일칠사사입니다.,6920-0209-8564-1744,card,male,spk08,card_0,positive,1,7.04
+positive_00599_spk12.wav,output/positive_00599_spk12.wav,팔삼칠공 사칠일이 공칠육구 육이오일 로 결제 부탁드립니다. 양해 부탁드립니다.,8370-4712-0769-6251,card,male,spk12,card_1,positive,1,6.4
+positive_00603_spk02.wav,output/positive_00603_spk02.wav,확인을 위해 알려드립니다. 제 카드번호는 육일팔공 공육육오 칠공이공 사오칠이이에요.,6180-0665-7020-4572,card,male,spk02,card_2,positive,1,7.28
+positive_00607_spk06.wav,output/positive_00607_spk06.wav,고객님께 안내드립니다. 오칠이사 삼육이사 삼사구오 오사삼칠 로 결제 부탁드립니다.,5724-3624-3495-5437,card,male,spk06,card_1,positive,1,7.2
+positive_00611_spk10.wav,output/positive_00611_spk10.wav,안내 말씀드립니다. 제 카드번호는 공칠일팔 사팔오육 삼일오사 오이사팔이에요.,0718-4856-3154-5248,card,male,spk10,card_2,positive,1,6.64
+positive_00615_spk14.wav,output/positive_00615_spk14.wav,고객님께 안내드립니다. 구일사삼 일일오사 구사이공 삼칠이구 로 결제 부탁드립니다.,9143-1154-9420-3729,card,female,spk14,card_1,positive,1,6.8
+positive_00619_spk04.wav,output/positive_00619_spk04.wav,고객님께 안내드립니다. 카드번호는 육이사구 육사칠삼 공오공사 칠칠육오입니다.,6249-6473-0504-7765,card,male,spk04,card_0,positive,1,8.08
+positive_00623_spk08.wav,output/positive_00623_spk08.wav,카드번호는 이육삼칠 삼공일사 삼육일칠 사일사공입니다. 확인 부탁드립니다.,2637-3014-3617-4140,card,male,spk08,card_0,positive,1,7.52
+positive_00627_spk12.wav,output/positive_00627_spk12.wav,제 카드번호는 오이공육 칠구육공 칠삼팔삼 오삼칠구이에요. 참고 부탁드립니다.,5206-7960-7383-5379,card,male,spk12,card_2,positive,1,6.64
+positive_00631_spk02.wav,output/positive_00631_spk02.wav,카드번호는 이팔칠구 구구삼팔 일삼사삼 사오구칠입니다.,2879-9938-1343-4597,card,male,spk02,card_0,positive,1,4.72
+positive_00635_spk06.wav,output/positive_00635_spk06.wav,카드번호는 이일구삼 칠육일삼 팔이일공 팔삼육이입니다. 참고 부탁드립니다.,2193-7613-8210-8362,card,male,spk06,card_0,positive,1,5.68
+positive_00639_spk10.wav,output/positive_00639_spk10.wav,제 카드번호는 칠육구오 칠사사팔 공칠육공 공육오삼이에요. 양해 부탁드립니다.,7695-7448-0760-0653,card,male,spk10,card_2,positive,1,6.96
+positive_00643_spk14.wav,output/positive_00643_spk14.wav,카드번호는 팔이이이 이이칠육 칠이공칠 이칠일삼입니다. 참고 부탁드립니다.,8222-2276-7207-2713,card,female,spk14,card_0,positive,1,6.48
+positive_00647_spk04.wav,output/positive_00647_spk04.wav,잠시 안내드립니다. 카드번호는 이이공칠 팔삼구구 공육사이 구삼칠육입니다.,2207-8399-0642-9376,card,male,spk04,card_0,positive,1,7.04
+positive_00651_spk08.wav,output/positive_00651_spk08.wav,고객님께 안내드립니다. 팔삼육구 사삼삼삼 이칠사칠 오육일사 로 결제 부탁드립니다.,8369-4333-2747-5614,card,male,spk08,card_1,positive,1,7.52
+positive_00655_spk12.wav,output/positive_00655_spk12.wav,고객님께 안내드립니다. 카드번호는 칠공육구 팔오오삼 육팔구이 육공육팔입니다.,7069-8553-6892-6068,card,male,spk12,card_0,positive,1,6.88
+positive_00659_spk02.wav,output/positive_00659_spk02.wav,확인을 위해 알려드립니다. 카드번호는 구사육구 팔오육일 일구삼공 팔오일오입니다.,9469-8561-1930-8515,card,male,spk02,card_0,positive,1,6.48
+positive_00663_spk06.wav,output/positive_00663_spk06.wav,육공육오 구일육공 구공구일 칠구이오 로 결제 부탁드립니다.,6065-9160-9091-7925,card,male,spk06,card_1,positive,1,5.2
+positive_00667_spk10.wav,output/positive_00667_spk10.wav,안내 말씀드립니다. 구팔삼사 칠일삼삼 일사사사 일공사구 로 결제 부탁드립니다.,9834-7133-1444-1049,card,male,spk10,card_1,positive,1,6.16
+positive_00671_spk14.wav,output/positive_00671_spk14.wav,고객님께 안내드립니다. 삼구일구 공공공사 이오칠구 일사이이 로 결제 부탁드립니다.,3919-0004-2579-1422,card,female,spk14,card_1,positive,1,7.04
+positive_00675_spk04.wav,output/positive_00675_spk04.wav,제 카드번호는 팔이사삼 사팔이일 오오칠공 일구일칠이에요.,8243-4821-5570-1917,card,male,spk04,card_2,positive,1,4.48
+positive_00679_spk08.wav,output/positive_00679_spk08.wav,제 카드번호는 삼칠육칠 오일칠이 육칠오칠 오칠팔오이에요. 양해 부탁드립니다.,3767-5172-6757-5785,card,male,spk08,card_2,positive,1,7.36
+positive_00683_spk12.wav,output/positive_00683_spk12.wav,안내 말씀드립니다. 카드번호는 사삼사팔 삼삼팔칠 삼칠오오 삼삼이이입니다.,4348-3387-3755-3322,card,male,spk12,card_0,positive,1,7.44
+positive_00687_spk02.wav,output/positive_00687_spk02.wav,팔팔오구 공오삼삼 팔이삼이 오육팔구 로 결제 부탁드립니다.,8859-0533-8232-5689,card,male,spk02,card_1,positive,1,5.2
+positive_00691_spk06.wav,output/positive_00691_spk06.wav,카드번호는 오구구오 삼공일삼 팔일칠일 육구사오입니다. 양해 부탁드립니다.,5995-3013-8171-6945,card,male,spk06,card_0,positive,1,5.52
+positive_00695_spk10.wav,output/positive_00695_spk10.wav,확인을 위해 알려드립니다. 제 카드번호는 팔일팔오 이이공삼 팔사칠공 팔칠사팔이에요.,8185-2203-8470-8748,card,male,spk10,card_2,positive,1,6.56
+positive_00699_spk14.wav,output/positive_00699_spk14.wav,구사오일 구사삼오 팔팔이일 이팔오구 로 결제 부탁드립니다. 감사합니다.,9451-9435-8821-2859,card,female,spk14,card_1,positive,1,5.6
+positive_00703_spk04.wav,output/positive_00703_spk04.wav,제 카드번호는 사사사사 칠이팔구 오구오공 구육일육이에요.,4444-7289-5950-9616,card,male,spk04,card_2,positive,1,4.56
+positive_00707_spk08.wav,output/positive_00707_spk08.wav,제 카드번호는 팔오팔사 일삼육삼 일칠공이 사삼공공이에요. 감사합니다.,8584-1363-1702-4300,card,male,spk08,card_2,positive,1,6.24
+positive_00711_spk12.wav,output/positive_00711_spk12.wav,구육팔공 구칠구공 칠사팔공 구이사공 로 결제 부탁드립니다. 양해 부탁드립니다.,9680-9790-7480-9240,card,male,spk12,card_1,positive,1,6.24
+positive_00715_spk02.wav,output/positive_00715_spk02.wav,확인을 위해 알려드립니다. 제 카드번호는 사구공팔 공일사구 칠공오이 사칠구구이에요.,4908-0149-7052-4799,card,male,spk02,card_2,positive,1,7.68
+positive_00719_spk06.wav,output/positive_00719_spk06.wav,제 카드번호는 이이삼팔 사칠사사 일팔공팔 칠사육공이에요. 감사합니다.,2238-4744-1808-7460,card,male,spk06,card_2,positive,1,6.32
+positive_00723_spk10.wav,output/positive_00723_spk10.wav,카드번호는 육공팔사 칠오구칠 공오일구 오사일공입니다. 확인 부탁드립니다.,6084-7597-0519-5410,card,male,spk10,card_0,positive,1,5.76
+positive_00727_spk14.wav,output/positive_00727_spk14.wav,제 카드번호는 육삼칠오 오일일삼 오이구삼 이오구팔이에요. 확인 부탁드립니다.,6375-5113-5293-2598,card,female,spk14,card_2,positive,1,7.04
+positive_00731_spk04.wav,output/positive_00731_spk04.wav,고객님께 안내드립니다. 구오이공 칠칠팔육 구칠육팔 이오삼구 로 결제 부탁드립니다.,9520-7786-9768-2539,card,male,spk04,card_1,positive,1,6.96
+positive_00735_spk08.wav,output/positive_00735_spk08.wav,잠시 안내드립니다. 제 카드번호는 칠구오일 칠일육팔 구일오구 사팔이팔이에요.,7951-7168-9159-4828,card,male,spk08,card_2,positive,1,8.48
+positive_00739_spk12.wav,output/positive_00739_spk12.wav,잠시 안내드립니다. 카드번호는 오이오사 일공삼칠 팔팔삼공 육삼사팔입니다.,5254-1037-8830-6348,card,male,spk12,card_0,positive,1,6.32
+positive_00743_spk02.wav,output/positive_00743_spk02.wav,고객님께 안내드립니다. 공이일사 삼사일구 팔공오일 일삼일공 로 결제 부탁드립니다.,0214-3419-8051-1310,card,male,spk02,card_1,positive,1,6.8
+positive_00747_spk06.wav,output/positive_00747_spk06.wav,고객님께 안내드립니다. 카드번호는 구사사육 오팔육사 칠오일오 육구구칠입니다.,9446-5864-7515-6997,card,male,spk06,card_0,positive,1,5.76
+positive_00751_spk10.wav,output/positive_00751_spk10.wav,카드번호는 오팔구팔 칠사일이 칠삼삼일 육오공오입니다. 확인 부탁드립니다.,5898-7412-7331-6505,card,male,spk10,card_0,positive,1,5.2
+positive_00755_spk14.wav,output/positive_00755_spk14.wav,고객님께 안내드립니다. 제 카드번호는 구삼사육 육오오공 구삼이삼 삼오육이이에요.,9346-6550-9323-3562,card,female,spk14,card_2,positive,1,7.36
+positive_00759_spk04.wav,output/positive_00759_spk04.wav,잠시 안내드립니다. 구팔육팔 공일팔칠 육이육육 공팔팔육 로 결제 부탁드립니다.,9868-0187-6266-0886,card,male,spk04,card_1,positive,1,7.52
+positive_00763_spk08.wav,output/positive_00763_spk08.wav,잠시 안내드립니다. 팔이이일 칠일일팔 이일삼육 이이공구 로 결제 부탁드립니다.,8221-7118-2136-2209,card,male,spk08,card_1,positive,1,6.96
+positive_00767_spk12.wav,output/positive_00767_spk12.wav,안내 말씀드립니다. 카드번호는 칠이사오 이삼팔구 칠이일육 공칠삼오입니다.,7245-2389-7216-0735,card,male,spk12,card_0,positive,1,6.24
+positive_00771_spk02.wav,output/positive_00771_spk02.wav,팔구구일 칠구일삼 이삼일오 공삼공일 로 결제 부탁드립니다. 확인 부탁드립니다.,8991-7913-2315-0301,card,male,spk02,card_1,positive,1,6.0
+positive_00775_spk06.wav,output/positive_00775_spk06.wav,안내 말씀드립니다. 제 카드번호는 육삼삼이 삼칠팔칠 육이삼칠 팔삼삼일이에요.,6332-3787-6237-8331,card,male,spk06,card_2,positive,1,6.64
+positive_00779_spk10.wav,output/positive_00779_spk10.wav,제 카드번호는 일공일오 사이이일 육삼사삼 공사팔이이에요.,1015-4221-6343-0482,card,male,spk10,card_2,positive,1,4.16
+positive_00783_spk14.wav,output/positive_00783_spk14.wav,구오일구 팔팔육구 삼삼일사 이이육이 로 결제 부탁드립니다. 참고 부탁드립니다.,9519-8869-3314-2262,card,female,spk14,card_1,positive,1,6.4
+positive_00787_spk04.wav,output/positive_00787_spk04.wav,확인을 위해 알려드립니다. 카드번호는 사구칠공 칠이오팔 사사팔오 이사팔구입니다.,4970-7258-4485-2489,card,male,spk04,card_0,positive,1,6.48
+positive_00791_spk08.wav,output/positive_00791_spk08.wav,카드번호는 사사이일 육칠육칠 삼육사육 삼삼이삼입니다. 감사합니다.,4421-6767-3646-3323,card,male,spk08,card_0,positive,1,6.96
+positive_00795_spk12.wav,output/positive_00795_spk12.wav,제 카드번호는 팔사구팔 팔팔일이 육사팔일 공육사삼이에요. 확인 부탁드립니다.,8498-8812-6481-0643,card,male,spk12,card_2,positive,1,6.16
+positive_00799_spk02.wav,output/positive_00799_spk02.wav,카드번호는 육사사공 육칠칠오 오이구구 칠삼팔칠입니다. 참고 부탁드립니다.,6440-6775-5299-7387,card,male,spk02,card_0,positive,1,6.56
+positive_00803_spk06.wav,output/positive_00803_spk06.wav,카드번호는 오사구일 구이육오 이사오구 이육오육입니다. 감사합니다.,5491-9265-2459-2656,card,male,spk06,card_0,positive,1,5.6
+positive_00807_spk10.wav,output/positive_00807_spk10.wav,제 카드번호는 육칠일구 칠이삼구 일삼공공 구팔오공이에요. 양해 부탁드립니다.,6719-7239-1300-9850,card,male,spk10,card_2,positive,1,6.88
+positive_00811_spk14.wav,output/positive_00811_spk14.wav,고객님께 안내드립니다. 카드번호는 칠사육공 구사팔오 오구공일 공오팔칠입니다.,7460-9485-5901-0587,card,female,spk14,card_0,positive,1,7.12
+positive_00815_spk04.wav,output/positive_00815_spk04.wav,제 카드번호는 육구구육 구구칠오 오일팔오 사이오사이에요. 참고 부탁드립니다.,6996-9975-5185-4254,card,male,spk04,card_2,positive,1,6.16
+positive_00819_spk08.wav,output/positive_00819_spk08.wav,카드번호는 공일팔오 삼이구육 사육일사 사일육팔입니다. 양해 부탁드립니다.,0185-3296-4614-4168,card,male,spk08,card_0,positive,1,7.44
+positive_00823_spk12.wav,output/positive_00823_spk12.wav,칠오칠칠 육칠팔이 공구일칠 팔오삼칠 로 결제 부탁드립니다. 확인 부탁드립니다.,7577-6782-0917-8537,card,male,spk12,card_1,positive,1,6.24
+positive_00827_spk02.wav,output/positive_00827_spk02.wav,카드번호는 사사사팔 육칠팔공 일사이이 팔일사삼입니다. 양해 부탁드립니다.,4448-6780-1422-8143,card,male,spk02,card_0,positive,1,6.08
+positive_00831_spk06.wav,output/positive_00831_spk06.wav,안내 말씀드립니다. 카드번호는 이삼사칠 일육공구 팔사오육 이일칠사입니다.,2347-1609-8456-2174,card,male,spk06,card_0,positive,1,5.6
+positive_00835_spk10.wav,output/positive_00835_spk10.wav,일구이칠 사사육칠 이사사육 이오팔공 로 결제 부탁드립니다. 확인 부탁드립니다.,1927-4467-2446-2580,card,male,spk10,card_1,positive,1,6.48
+positive_00839_spk14.wav,output/positive_00839_spk14.wav,제 카드번호는 육사이일 이구삼이 구칠육육 구칠일일이에요. 양해 부탁드립니다.,6421-2932-9766-9711,card,female,spk14,card_2,positive,1,5.84
+positive_00843_spk04.wav,output/positive_00843_spk04.wav,고객님께 안내드립니다. 오구오사 육사이삼 삼공공사 오사일이 로 결제 부탁드립니다.,5954-6423-3004-5412,card,male,spk04,card_1,positive,1,6.16
+positive_00847_spk08.wav,output/positive_00847_spk08.wav,카드번호는 칠구공삼 육이팔팔 일공팔이 오오팔이입니다. 감사합니다.,7903-6288-1082-5582,card,male,spk08,card_0,positive,1,6.32
+positive_00851_spk12.wav,output/positive_00851_spk12.wav,카드번호는 오삼육사 팔공구팔 일공공칠 일사팔삼입니다. 확인 부탁드립니다.,5364-8098-1007-1483,card,male,spk12,card_0,positive,1,6.56
+positive_00855_spk02.wav,output/positive_00855_spk02.wav,카드번호는 구오사칠 공일삼삼 팔삼육이 육육이이입니다.,9547-0133-8362-6622,card,male,spk02,card_0,positive,1,4.24
+positive_00859_spk06.wav,output/positive_00859_spk06.wav,고객님께 안내드립니다. 제 카드번호는 육이오일 칠일삼공 팔구삼일 삼사육공이에요.,6251-7130-8931-3460,card,male,spk06,card_2,positive,1,7.44
+positive_00863_spk10.wav,output/positive_00863_spk10.wav,제 카드번호는 구구공이 육구칠사 이구사오 칠사사사이에요. 감사합니다.,9902-6974-2945-7444,card,male,spk10,card_2,positive,1,5.52
+positive_00867_spk14.wav,output/positive_00867_spk14.wav,일삼일일 이삼이칠 팔육이사 사오칠팔 로 결제 부탁드립니다. 확인 부탁드립니다.,1311-2327-8624-4578,card,female,spk14,card_1,positive,1,6.64
+positive_00871_spk04.wav,output/positive_00871_spk04.wav,확인을 위해 알려드립니다. 제 카드번호는 구이삼오 사이육칠 일공공육 칠칠오이이에요.,9235-4267-1006-7752,card,male,spk04,card_2,positive,1,7.12
+positive_00875_spk08.wav,output/positive_00875_spk08.wav,칠구사사 이구육이 팔육사공 공오사이 로 결제 부탁드립니다.,7944-2962-8640-0542,card,male,spk08,card_1,positive,1,5.6
+positive_00879_spk12.wav,output/positive_00879_spk12.wav,확인을 위해 알려드립니다. 사구삼칠 칠팔공삼 팔칠이사 삼팔이팔 로 결제 부탁드립니다.,4937-7803-8724-3828,card,male,spk12,card_1,positive,1,6.88
+positive_00883_spk02.wav,output/positive_00883_spk02.wav,제 카드번호는 사일팔삼 구오칠일 육사공팔 칠오오사이에요. 참고 부탁드립니다.,4183-9571-6408-7554,card,male,spk02,card_2,positive,1,7.36
+positive_00887_spk06.wav,output/positive_00887_spk06.wav,제 카드번호는 구팔이공 일구구오 일구육오 일사일오이에요. 참고 부탁드립니다.,9820-1995-1965-1415,card,male,spk06,card_2,positive,1,6.72
+positive_00891_spk10.wav,output/positive_00891_spk10.wav,고객님께 안내드립니다. 카드번호는 이구일오 칠이일팔 일일삼칠 팔공오육입니다.,2915-7218-1137-8056,card,male,spk10,card_0,positive,1,6.48
+positive_00895_spk14.wav,output/positive_00895_spk14.wav,육삼구칠 사삼육오 이사팔삼 오사공삼 로 결제 부탁드립니다. 감사합니다.,6397-4365-2483-5403,card,female,spk14,card_1,positive,1,6.48
+positive_00899_spk04.wav,output/positive_00899_spk04.wav,잠시 안내드립니다. 오구팔오 팔칠오구 오오칠일 일삼일팔 로 결제 부탁드립니다.,5985-8759-5571-1318,card,male,spk04,card_1,positive,1,6.72
